@@ -1,6 +1,6 @@
 ====== The Kingdom Would Divide [18-04] ======
 
-{{:en:obs:obs-18-04.jpg?nolink&640x360}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-04.jpg?nolink}}
 
 **[[:en:key-terms:god|God]]** was angry with **[[:en:key-terms:solomon|Solomon]]** and, **as a [[:en:key-terms:punish|punishment]] for Solomon’s unfaithfulness, he [[:en:key-terms:promise|promised]] to divide** the nation of **[[:en:key-terms:israel|Israel]]** into two **[[:en:key-terms:kingdom|kingdoms]]** after Solomon’s death.
 

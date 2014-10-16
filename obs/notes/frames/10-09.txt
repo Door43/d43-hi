@@ -1,6 +1,6 @@
 ====== Pharaoh's Hard Heart [10-09] ======
 
-{{:en:obs:obs-10-09.jpg?nolink&640x360}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-09.jpg?nolink}}
 
 But **[[:en:key-terms:pharaoh|Pharaoh]]** **[[:en:key-terms:sin|sinned]]** again and **hardened his heart**. He would not let the **[[:en:key-terms:israel|Israelites]]** go free.
 

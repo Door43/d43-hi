@@ -1,6 +1,6 @@
 ====== Go Away! [11-08] ======
 
-{{:en:obs:obs-11-08.jpg?nolink&640x360}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-08.jpg?nolink}}
 
 That same night, **[[:en:key-terms:pharaoh|Pharaoh]] called for [[:en:key-terms:moses|Moses]]** and **[[:en:key-terms:aaron|Aaron]] and said**, “Take the **[[:en:key-terms:israel|Israelites]]** and leave **[[:en:key-terms:egypt|Egypt]]** immediately!” The **[[:en:key-terms:egypt|Egyptian]]** people also urged the Israelites to leave immediately.
 

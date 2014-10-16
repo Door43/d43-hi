@@ -1,6 +1,6 @@
 ====== Jacob Returned Home [07-08] ======
 
-{{:en:obs:obs-07-08.jpg?nolink&640x360}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-08.jpg?nolink}}
 
 
 **After twenty years** away from his home in **[[:en:key-terms:canaan|Canaan]]**, **[[:en:key-terms:jacob|Jacob]]** returned there with his family, his **[[:en:key-terms:servant|servants]]**, and all his herds of animals.

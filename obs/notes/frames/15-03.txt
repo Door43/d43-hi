@@ -1,6 +1,6 @@
 ====== Marching around Jericho [15-03] ======
 
-{{:en:obs:obs-15-03.jpg?nolink&640x360}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-03.jpg?nolink}}
 
 **After the people crossed the [[:en:key-terms:jordan-river|Jordan River]]**, **[[:en:key-terms:god|God]]** told **[[:en:key-terms:joshua|Joshua]] how to attack** the powerful city of **[[:en:key-terms:jericho|Jericho]]**. The people **[[:en:key-terms:obey|obeyed]]** God. Just as God told them to do, the soldiers and **[[:en:key-terms:priest|priests]]** marched around the city of Jericho **once a day for six days**.
 

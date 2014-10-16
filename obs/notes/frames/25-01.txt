@@ -1,6 +1,6 @@
 ====== Satan Tempted Jesus [25-01] ======
 
-{{:en:obs:obs-25-01.jpg?nolink&640x360}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-01.jpg?nolink}}
 
 Immediately after **[[:en:key-terms:jesus|Jesus]]** was **[[:en:key-terms:baptize|baptized]]**, **the [[:en:key-terms:holy-spirit|Holy Spirit]] led him** out into **the wilderness**, where he **[[:en:key-terms:fast|fasted]]** for **forty days and forty nights**. Then **[[:en:key-terms:satan|Satan]]** came to Jesus and **[[:en:key-terms:tempt|tempted]] him to [[:en:key-terms:sin|sin]]**.
 

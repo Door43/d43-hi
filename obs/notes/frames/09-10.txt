@@ -1,6 +1,6 @@
 ====== Moses Fled from Egypt [09-10] ======
 
-{{:en:obs:obs-09-10.jpg?nolink&640x360}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-10.jpg?nolink}}
 
 When **[[:en:key-terms:pharaoh|Pharaoh]]** heard what **[[:en:key-terms:moses|Moses]]** had done, he tried to kill him. Moses ran away from **[[:en:key-terms:egypt|Egypt]]** to the **wilderness** where he would be safe from Pharaoh's soldiers.
 

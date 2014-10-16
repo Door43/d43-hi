@@ -1,6 +1,6 @@
 ====== The Water Became Blood [10-03] ======
 
-{{:en:obs:obs-10-03.jpg?nolink&640x360}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-03.jpg?nolink}}
 
 **[[:en:key-terms:god|God]] turned the [[:en:key-terms:nile-river|Nile River]] into blood**, but **[[:en:key-terms:pharaoh|Pharaoh]]** still would not let the **[[:en:key-terms:israel|Israelites]]** go.
 

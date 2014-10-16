@@ -1,6 +1,6 @@
 ====== You Crucified Jesus [43-06] ======
 
-{{:en:obs:obs-43-06.jpg?nolink&640x360}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-06.jpg?nolink}}
 
 “**Men of [[:en:key-terms:israel|Israel]]**, **[[:en:key-terms:jesus|Jesus]]** was a man who did many mighty **[[:en:key-terms:miracle|signs and wonders]]** by the **[[:en:key-terms:power|power]]** of **[[:en:key-terms:god|God]]**, as you have seen and already know. But **you [[:en:key-terms:crucify|crucified]] him!**”
 

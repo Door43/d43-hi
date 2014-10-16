@@ -1,6 +1,6 @@
 ====== The Two Disciples [42-01] ======
 
-{{:en:obs:obs-42-01.jpg?nolink&640x360}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-01.jpg?nolink}}
 
 On the day that **[[:en:key-terms:jesus|Jesus]]** was **[[:en:key-terms:raise|raised]]** from the dead, two of his **[[:en:key-terms:disciple|disciples]]** were going to a nearby town. As they walked, they talked about what had happened to Jesus. They had hoped that he was the **[[:en:key-terms:messiah|Messiah]]**, but then he was killed. Now the women said he was **[[:en:key-terms:life|alive]]** again. They did not know what to **[[:en:key-terms:believe|believe]]**.
 

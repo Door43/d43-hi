@@ -1,7 +1,7 @@
 ====== Melchizedek [04-07] ======
 
 
-{{:en:obs:obs-04-07.jpg?nolink&640x360}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-07.jpg?nolink}}
 
 
 One day, **[[:en:key-terms:abraham|Abram]]** met **Melchizedek**, the **[[:en:key-terms:priest|priest]]** of **[[:en:key-terms:god|God Most High]]**. Melchizedek **[[:en:key-terms:bless|blessed]]** Abram and said, “May God Most High who **owns [[:en:key-terms:heaven|heaven]] and earth** bless Abram.” Then Abram gave Melchizedek a tenth of all he owned.

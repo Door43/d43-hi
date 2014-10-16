@@ -1,6 +1,6 @@
 ====== The Twelve Spies [14-04] ======
 
-{{:en:obs:obs-14-04.jpg?nolink&640x360}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-04.jpg?nolink}}
 
 When the **[[:en:key-terms:israel|Israelites]]** reached the border of **[[:en:key-terms:canaan|Canaan]]**, **[[:en:key-terms:moses|Moses]]** chose twelve men, one from each tribe of **[[:en:key-terms:israel|Israel]]**. He gave the men instructions to go and **spy on the land** to see what it was like. They were also to **spy on the [[:en:key-terms:canaan|Canaanites]] to see if they were strong or weak**.
 

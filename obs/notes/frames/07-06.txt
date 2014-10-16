@@ -1,6 +1,6 @@
 ====== Isaac Sent Jacob Away [07-06] ======
 
-{{:en:obs:obs-07-06.jpg?nolink&640x360}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-06.jpg?nolink}}
 
 But **[[:en:key-terms:rebekah|Rebekah]]** heard of **[[:en:key-terms:esau|Esau’s]] plan**. So **she and [[:en:key-terms:isaac|Isaac]] sent [[:en:key-terms:jacob|Jacob]] far away to live with her relatives**.
 

@@ -1,6 +1,6 @@
 ====== The Second Temptation [25-04] ======
 
-{{:en:obs:obs-25-04.jpg?nolink&640x360}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-04.jpg?nolink}}
 
 Then **[[:en:key-terms:satan|Satan]]** took **[[:en:key-terms:jesus|Jesus]]** to the highest point on the **[[:en:key-terms:temple|Temple]]** and said, “If you are the **[[:en:key-terms:god-son|Son of God]]**, **throw yourself down**, because **it is written**, ‘**[[:en:key-terms:god|God]]** will command his **[[:en:key-terms:angel|angels]]** to carry you **so your foot does not hit a stone**.’”
 

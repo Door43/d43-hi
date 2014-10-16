@@ -1,6 +1,6 @@
 ====== Crossing the Jordan River [15-02] ======
 
-{{:en:obs:obs-15-02.jpg?nolink&640x360}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-02.jpg?nolink}}
 
 The **[[:en:key-terms:israel|Israelites]]** had to cross the **[[:en:key-terms:jordan-river|Jordan River]]** to enter into the **[[:en:key-terms:promised-land|Promised Land]]**. **[[:en:key-terms:god|God]]** told **[[:en:key-terms:joshua|Joshua]]**, “**Have the [[:en:key-terms:priest|priests]] go first**.” When the priests started to step into the Jordan River, **the water upstream stopped flowing** so the Israelites could cross over to the other side of the river on dry ground.
 

@@ -1,6 +1,6 @@
 ====== The Temple Was Rebuilt [20-13] ======
 
-{{:en:obs:obs-20-13.jpg?nolink&640x360}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-13.jpg?nolink}}
 
 When **the people** arrived in **[[:en:key-terms:jerusalem|Jerusalem]]**, they rebuilt the **[[:en:key-terms:temple|Temple]]** and **the wall** around the city. Although they were still **ruled by other people**, **once again** they lived in the **[[:en:key-terms:promised-land|Promised Land]]** and **[[:en:key-terms:worship|worshiped]] at the Temple**.
 

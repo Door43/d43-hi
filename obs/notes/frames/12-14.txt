@@ -1,6 +1,6 @@
 ====== An Annual Feast [12-14] ======
 
-{{:en:obs:obs-12-14.jpg?nolink&640x360}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-14.jpg?nolink}}
 
 **[[:en:key-terms:god|God]]** commanded the **[[:en:key-terms:israel|Israelites]]** to celebrate **the [[:en:key-terms:passover|Passover]]** every year in order to **remember how God gave them victory over** the **[[:en:key-terms:egypt|Egyptians]]** and rescued them from being **[[:en:key-terms:servant|slaves]]**. They celebrated by killing a **perfect [[:en:key-terms:lamb|lamb]]**, eating it with **unleavened bread**.
 

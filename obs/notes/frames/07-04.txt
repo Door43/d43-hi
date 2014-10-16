@@ -1,6 +1,6 @@
 ====== Isaac Blessed Jacob [07-04] ======
 
-{{:en:obs:obs-07-04.jpg?nolink&640x360}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-04.jpg?nolink}}
 
 **[[:en:key-terms:jacob|Jacob]] came to [[:en:key-terms:isaac|Isaac]]** and said, “I am **[[:en:key-terms:esau|Esau]]**. I have come so that you can **[[:en:key-terms:bless|bless]]** me.” When Isaac felt the goat hair and smelled the clothes, **he thought it was Esau** and blessed him.
 

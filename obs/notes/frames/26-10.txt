@@ -1,6 +1,6 @@
 ====== The Twelve Disciples [26-10] ======
 
-{{:en:obs:obs-26-10.jpg?nolink&640x360}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-10.jpg?nolink}}
 
 Then **[[:en:key-terms:jesus|Jesus]]** chose twelve men **who were called his [[:en:key-terms:apostle|apostles]]**. The apostles traveled with Jesus and **learned from him**.
 

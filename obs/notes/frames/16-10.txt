@@ -1,6 +1,6 @@
 ====== Too Many Soldiers [16-10] ======
 
-{{:en:obs:obs-16-10.jpg?nolink&640x360}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-10.jpg?nolink}}
 
 **32,000 [[:en:key-terms:israel|Israelite]] soldiers came to [[:en:key-terms:gideon|Gideon]]**, but **[[:en:key-terms:god|God]]** told him this was **too many**. So Gideon sent home 22,000 who were afraid to fight. God told Gideon that he still had too many men. So Gideon sent all of them home **except for 300 soldiers**.
 

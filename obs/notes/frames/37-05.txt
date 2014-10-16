@@ -1,6 +1,6 @@
 ====== I Am the Resurrection [37-05] ======
 
-{{:en:obs:obs-37-05.jpg?nolink&640x360}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-05.jpg?nolink}}
 
 **[[:en:key-terms:jesus|Jesus]]** replied, “**I am the [[:en:key-terms:resurrection|Resurrection]] and the [[:en:key-terms:life|Life]]**. Whoever **[[:en:key-terms:believe|believes]]** in me **will live, even though he [[:en:key-terms:death|dies]]**. Everyone who believes in me **will never die**. Do you believe this?” **Martha** answered, “Yes, **[[:en:key-terms:lord|Master]]**! I believe you are the **[[:en:key-terms:messiah|Messiah]]**, the **[[:en:key-terms:god-son|Son of God]]**.”
 

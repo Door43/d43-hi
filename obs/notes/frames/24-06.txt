@@ -1,6 +1,6 @@
 ====== Jesus Is the Lamb of God [24-06] ======
 
-{{:en:obs:obs-24-06.jpg?nolink&640x360}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-06.jpg?nolink}}
 
 The next day, **[[:en:key-terms:jesus|Jesus]]** came to be **[[:en:key-terms:baptize|baptized]]** by **[[:en:key-terms:john-baptist|John]]**. When John saw him, he said, “Look! **There is** the **[[:en:key-terms:lamb|Lamb]] of [[:en:key-terms:god|God]]** who **will take away** the **[[:en:key-terms:sin|sin]] of the world**.”
 

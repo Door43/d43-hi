@@ -1,6 +1,6 @@
 ====== The Field Is the World [50-08] ======
 
-{{:en:obs:obs-50-08.jpg?nolink&640x360}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-08.jpg?nolink}}
 
 The **[[:en:key-terms:disciple|disciples]]** did not understand the meaning of the story, so they asked **[[:en:key-terms:jesus|Jesus]]** to explain it to them. Jesus said, “The man who planted the **[[:en:key-terms:good|good]]** seed represents the **[[:en:key-terms:messiah|Messiah]]**. The field represents the world. The good seed represents **the people of [[:en:key-terms:kingdom-of-god|God’s kingdom]]**.”
 

@@ -1,6 +1,6 @@
 ====== Jesus Taught Sinners [35-01] ======
 
-{{:en:obs:obs-35-01.jpg?nolink&640x360}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-01.jpg?nolink}}
 
 **One day**, **[[:en:key-terms:jesus|Jesus]]** was teaching many **[[:en:key-terms:tax-collector|tax collectors]]** and other **[[:en:key-terms:sin|sinners]]** who had gathered to hear him.
 

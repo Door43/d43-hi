@@ -1,6 +1,6 @@
 ====== The Boys Grew Up [07-01] ======
 
-{{:en:obs:obs-07-01.jpg?nolink&640x360}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-01.jpg?nolink}}
 
 As the boys grew up, **[[:en:key-terms:jacob|Jacob]] loved to stay at home**, but **[[:en:key-terms:esau|Esau]] loved to hunt**. **[[:en:key-terms:rebekah|Rebekah]] loved Jacob**, **but [[:en:key-terms:isaac|Isaac]] loved Esau**.
 

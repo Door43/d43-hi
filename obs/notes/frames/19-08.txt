@@ -1,6 +1,6 @@
 ====== Baal Did Not Answer [19-08] ======
 
-{{:en:obs:obs-19-08.jpg?nolink&640x360}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-08.jpg?nolink}}
 
 Then the **[[:en:key-terms:prophet|prophets]]** of **[[:en:key-terms:baal|Baal]]** **[[:en:key-terms:pray|prayed]] to Baal**, “Hear us, Baal!” All day long they prayed and **shouted** and even **cut themselves with knives**, but **there was no answer**.
 

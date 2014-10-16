@@ -1,6 +1,6 @@
 ====== The Mountain at Sinai [13-01] ======
 
-{{:en:obs:obs-13-01.jpg?nolink&640x360}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-01.jpg?nolink}}
 
 After **[[:en:key-terms:god|God]]** led the **[[:en:key-terms:israel|Israelites]]** through the **[[:en:key-terms:red-sea|Red Sea]]**, he led them through the wilderness to a mountain called **[[:en:key-terms:sinai|Sinai]]**. This was the same mountain where **[[:en:key-terms:moses|Moses]]** had seen the **burning bush**. The people **set up their tents** at the **base of the mountain**.
 

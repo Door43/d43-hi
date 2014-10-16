@@ -1,6 +1,6 @@
 ====== Mary Met Jesus [37-06] ======
 
-{{:en:obs:obs-37-06.jpg?nolink&640x360}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-06.jpg?nolink}}
 
 Then **[[:en:key-terms:mary-sister|Mary]]** arrived. She **fell at the feet of [[:en:key-terms:jesus|Jesus]]** and said, “**[[:en:key-terms:lord|Master]]**, if only you had been here, **my brother would not have [[:en:key-terms:death|died]]**.” Jesus asked them, “Where have you put **[[:en:key-terms:lazarus|Lazarus]]**?” They told him, “In the **[[:en:key-terms:tomb|tomb]]**. Come and see.” Then Jesus wept.
 

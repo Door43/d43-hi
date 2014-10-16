@@ -1,6 +1,6 @@
 ====== Jesus Is Alive [42-05] ======
 
-{{:en:obs:obs-42-05.jpg?nolink&640x360}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-05.jpg?nolink}}
 
 The two men said to each other, “That was **[[:en:key-terms:jesus|Jesus]]**! That is why **our hearts were burning** when he explained **[[:en:key-terms:word-of-god|God’s word]]** to us!” Immediately, they went back to **[[:en:key-terms:jerusalem|Jerusalem]]**. When they arrived, they told the **[[:en:key-terms:disciple|disciples]]**, “Jesus is **[[:en:key-terms:life|alive]]**! We have seen him!”
 

@@ -1,6 +1,6 @@
 ====== God Blessed Abram [04-06] ======
 
-{{:en:obs:obs-04-06.jpg?nolink&640x360}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-06.jpg?nolink}}
 
 
 When **[[:en:key-terms:abraham|Abram]]** arrived in **[[:en:key-terms:canaan|Canaan]]**, **[[:en:key-terms:god|God]]** said, "Look all around you. I will give to you and your **[[:en:key-terms:descendant|descendants]] all the land that you can see as an [[:en:key-terms:inherit|inheritance]]**". **Then Abram settled in the land**.

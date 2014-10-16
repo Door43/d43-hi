@@ -1,6 +1,6 @@
 ====== The Famine [08-10] ======
 
-{{:en:obs:obs-08-10.jpg?nolink&640x360}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-10.jpg?nolink}}
 
 **The famine was severe** not only in **[[:en:key-terms:egypt|Egypt]]**, but also in **[[:en:key-terms:canaan|Canaan]]** where **[[:en:key-terms:jacob|Jacob]]** and his family lived.
 

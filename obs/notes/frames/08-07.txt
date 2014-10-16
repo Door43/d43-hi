@@ -1,6 +1,6 @@
 ====== Joseph Interpreted the Dream [08-07] ======
 
-{{:en:obs:obs-08-07.jpg?nolink&640x360}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-07.jpg?nolink}}
 
 **[[:en:key-terms:god|God]]** had given **[[:en:key-terms:joseph|Joseph]]** the ability to **interpret [[:en:key-terms:dream|dreams]]**, so **[[:en:key-terms:pharaoh|Pharaoh]] had Joseph brought to him** from the prison. Joseph interpreted the dreams for him and said, “**God is going to send** seven years of plentiful harvests, followed by seven years of **famine**.”
 

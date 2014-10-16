@@ -1,6 +1,6 @@
 ====== To Canaan [04-05] ======
 
-{{:en:obs:obs-04-05.jpg?nolink&640x360}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-05.jpg?nolink}}
 
 So **[[:en:key-terms:abraham|Abram]]** **[[:en:key-terms:obey|obeyed]]** **[[:en:key-terms:god|God]]**. **He took** his wife, **[[:en:key-terms:sarah|Sarai]]**, together with all of his **[[:en:key-terms: servant| servants]]** and everything he owned and went to the land **God showed him**, the **land of [[:en:key-terms:canaan|Canaan]]**.
 

@@ -1,6 +1,6 @@
 ====== The Hail [10-08] ======
 
-{{:en:obs:obs-10-08.jpg?nolink&640x360}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-08.jpg?nolink}}
 
 **After that**, **[[:en:key-terms:god|God]] sent hail** that destroyed most of the crops in **[[:en:key-terms:egypt|Egypt]]** and killed anybody who went outside. **[[:en:key-terms:pharaoh|Pharaoh]]** called **[[:en:key-terms:moses|Moses]]** and **[[:en:key-terms:aaron|Aaron]]** and told them, “I have **[[:en:key-terms:sin|sinned]]**. **You may go**.” So Moses **[[:en:key-terms:pray|prayed]]**, and the hail stopped falling from the sky.
 

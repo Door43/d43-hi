@@ -1,6 +1,6 @@
 ====== A Descendant of David [21-04] ======
 
-{{:en:obs:obs-21-04.jpg?nolink&640x360}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-04.jpg?nolink}}
 
 **[[:en:key-terms:god|God]]** **[[:en:key-terms:promise|promised]]** **[[:en:key-terms:david|King David]]** that the **[[:en:key-terms:messiah|Messiah]]** would be one of **David’s own [[:en:key-terms:descendant|descendants]]**.
 

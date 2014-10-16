@@ -1,6 +1,6 @@
 ====== At Gethsemane [38-11] ======
 
-{{:en:obs:obs-38-11.jpg?nolink&640x360}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-11.jpg?nolink}}
 
 Then **[[:en:key-terms:jesus|Jesus]]** went with his **[[:en:key-terms:disciple|disciples]]** to **a place called Gethsemane**. Jesus told his disciples to **[[:en:key-terms:pray|pray]]** that they would not **enter into [[:en:key-terms:tempt|temptation]]**. Then Jesus went to pray **by himself**.
 

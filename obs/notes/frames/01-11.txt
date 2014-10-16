@@ -1,7 +1,7 @@
 ====== Two Trees [01-11] ======
 
 
-{{:en:obs:obs-01-11.jpg?nolink&640x360}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-11.jpg?nolink}}
 
 
 **In the middle** of the **garden**, **[[:en:key-terms:god|God]]** planted two special trees—the **tree of [[:en:key-terms:life|life]]** and the **tree of the knowledge** of **[[:en:key-terms:good|good]]** and **[[:en:key-terms:evil|evil]]**. God  told **[[:en:key-terms:Adam|Adam]]**  that he could eat from any tree in the garden except from the tree of the knowledge of good and evil. If he ate from this tree, he would **[[:en:key-terms:death|die]]**.

@@ -1,6 +1,6 @@
 ====== Jesus Read the Scriptures [26-03] ======
 
-{{:en:obs:obs-26-03.jpg?nolink&640x360}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-03.jpg?nolink}}
 
 Jesus read, “**[[:en:key-terms:god|God]]** has given me his **[[:en:key-terms:holy-spirit|Spirit]]** so that I can **proclaim [[:en:key-terms:good-news|good news]] to the poor**, **freedom to captives**, **recovery of sight for the blind**, and **release to the oppressed**. This is **the year of the [[:en:key-terms:lord|Lord's]] favor**.”
 

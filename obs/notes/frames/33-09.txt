@@ -1,6 +1,6 @@
 ====== Spiritual Fruit [33-09] ======
 
-{{:en:obs:obs-33-09.jpg?nolink&640x360}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg?nolink}}
 
 “But the **[[:en:key-terms:good|good]] soil** **is a person** who hears the **[[:en:key-terms:word-of-god|word of God]]**, **[[:en:key-terms:believe|believes]]** it, and **produces fruit**.”
 
