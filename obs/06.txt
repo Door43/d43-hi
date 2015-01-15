@@ -6,9 +6,9 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-02.jpg?direct&}}
 
-After a very long journey, God led the servant to Rebekah, who was the granddaughter of Abraham’s brother.
+एक लंबी यात्रा के बाद, जब वह दास उस नगर में गया जहाँ अब्राहम के कुटुम्बी रहते थे, तब परमेश्वर ने उस दास के सामने रिबका को भेजा |
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-03.jpg?direct&}}
+[[:lib:exe:fetch.php?tok=904317&media=https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-03.jpg|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-03.jpg?nolink&}}]]
 
 She agreed to leave her family and go back with the servant. Isaac married her as soon as she arrived.
 
