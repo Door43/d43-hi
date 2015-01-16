@@ -1,40 +1,39 @@
-﻿====== 33. The Story of the Farmer ======
+====== 33. किसान की कहानी ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-01.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-01.jpg?direct&}}
 
-One day, Jesus was down by the sea, teaching great crowds of people. The crowd got so big that Jesus got into a boat and began speaking from there.
+वह फिर झील के किनारे उपदेश देने लगा और ऐसी बड़ी भीड़ उसके पास इकट्ठी हो गयी, कि वह झील में एक नाव पर चढ़कर बैठ गया|
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg?direct&}}
 
-Jesus told this story. “A farmer went out to plant some grain. As he was spreading the seeds by hand, some seeds fell on the path, and the birds came and ate it all.”
+वह उन्हें दृष्टान्तों में बहुत सी बाते सिखाने लगा, और अपने उपदेश में उनसे कहा, “एक बोने वाला बीज बोने निकला | बोते समय कुछ मार्ग के किनारे गिरा और पक्षियों ने आकर उसे चुग लिया|”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg?direct&}}
 
-“Other seeds fell on a rocky place, where there was not much soil. The seeds in the rocky soil sprouted quickly. But when the sun came up and it got hot, the plants withered and died since their roots did not go deep.”
+“कुछ पथरीली भूमि पर गिरा, जहां उसको बहुत मिट्टी न मिली| पथरीली भूमि पर गिरे बीज जल्द उग आया और जब सूर्य निकला तो जल गया, और जड़ न पकड़ने के कारण सुख गया|”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg?direct&}}
 
-“Still other seeds fell among thorny bushes. Those seeds were choked by the thorns and did not produce any grain.”
+“कुछ झाड़ियों में गिरा, और झाड़ियों ने बढकर उसे दबा दिया और वह फल न लाया.”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg?direct&}}
 
-“Other seeds fell into good soil. These seeds grew up and produced 30, 60, or even 100 times as much grain as had been planted. He who has ears, let him hear!”
+“परन्तु कुछ अच्छी भूमि पर गिरा और वह उगा और वह बढकर फलवंत हुआ; और कोई तीस गुणा, कोई साठ और कोई सौ गुणा फल लाया| तब उसने कह जिसके पास सुनने के लिए कान हो, वह सुन ले!”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-06.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-06.jpg?direct&}}
 
-This story confused the disciples. Jesus explained, “The seed represents the Word of God. The seeds on the path are like people who hear God’s Word, do not understand it, and the devil takes the word from them.”
+इस कहानी ने चेलों को उलझन में डाल दिया | फिर यीशु ने उनसे कहा, “बोने वाला वचन बोता है| जो मार्ग के किनारे के है, जब उन्होंने सुना, तो शैतान तुरंत आकर वचन को जो उनमें बोया गया था उठा ले जाता है |”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg?direct&}}
 
-“The seeds on the rocky soil are like people who hear God’s Word and accept it with joy. But in times of hardship or persecution, they fall away because they have no maturity.”
+“वैसे ही जो पथरीली भूमि पर बोए जाते है, ये वह है जो वचन को सुनकर तुरंत आनंद से ग्रहण कर लेते है| इसके बाद जब वचन के कारण उन पर उपद्रव होता है, तो वे तुरंत ठोकर खाते है |”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg?direct&}}
 
-“The seeds in the thorns are like people who hear God’s Word and believe it. But as time passes, their love for God is choked out by the cares, riches, and pleasures of life. The teaching they heard does not produce fruit.”
+“जो झाड़ियों में बोए गए यह वे है जिन्होंने वचन सुना, और संसार की चिंता और धन का धोखा, और अन्य वस्तुओं का लोभ उनमें समाकर वचन को दबा देता है और वह निष्फल रह जाता है |”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg?direct&}}
 
-“But the seeds that fall on good soil represent people who hear the Word of God, believe it, and produce spiritual fruit.”
+“परन्तु जो अच्छी भूमि में बोए गए, ये वे है जो वचन सुनकर ग्रहण करते और फल लाते हैं: कोई तीस गुणा, कोई साठ और कोई सौ गुणा |”
 
-
-//A Bible story from: Matthew 13:1-8, 18-23; Mark 4:1-8, 13-20; Luke 8:4-15//
+बाइबिल की यह कहानी ली गयी हैं: मरकुस ४;१-८, १३-२०; लूका ८;४-१५; मती १३ ;१-८, १८-२३; मरकुस ४;१-८, १३-२०; लूका ८;४-१५
