@@ -1,4 +1,4 @@
-<font 18px/inherit;;inherit;;inherit>** कहानी संख्या 3: बाढ़ **</font>
+<font 18px/inherit;;inherit;;inherit>** कहानी संख्या 3: बाढ़  **</font>
 
 <font 16px/inherit;;inherit;;inherit>** कहानी से प्रश्न व उत्तर  **</font>
 
@@ -8,29 +8,29 @@
       * वह एक भीषण बाढ़ भेजनेवाला था। [03-01]
   - **परमेश्वर ने नूह पर कृपा क्यों की?**
       * क्योंकि वह एक धर्मी व्यक्ति था। [03-02]
-  - **परमेश्वर ने नूह से क्या करने को कहा?  **
-      * //Build a huge boat. [03-03]//
-  - **What was the purpose of the boat?**
-      * //To keep Noah, his family, and the animals safe during the flood. [03-03]//
-  - **How did the other people react when Noah told them that the flood would come?**
-      * //They did not believe him. [03-04]//
-  - **Which animals came into the boat before the flood?**
-      * //A male and a female of every kind of animal, and seven males and seven females of every type of animal that could be used for sacrifice. [03-06]//
-  - **Who closed the door of the boat after Noah's family and the animals came inside?**
-      * //God closed the door. [03-06]//
-  - **How long did it rain?**
-      * //Forty days and forty nights. [03-07]//
-  - **How high did the water of the flood reach?**
-      * //It covered everything in the whole world, even the highest mountains. [03-08]//
-  - **What happened to everything that lived on land?**
-      * //Everything died. [03-08]//
-  - **How did Noah know the water had dried up?**
-      * //He sent out a dove and it did not return. [03-12]//
-  - **What did God tell Noah and his family to do when they left the boat?**
-      * //He told them to have many children and grandchildren and to fill the earth. [03-13]//
-  - **How did Noah worship God after he got off the boat?**
-      * //He built an altar and sacrificed some of the animals. [03-14]//
-  - **What did God promise he would never do again?**
-      * //Curse the ground or destroy the world with a flood. [03-15]//
-  - **What did God make as a sign of his promise?**
-      * //He made a rainbow in the sky. [03-16]//
+  - **परमेश्वर ने नूह से क्या करने को कहा? **
+      * एक विशाल नाव बनाने को कहा। [03-03]
+  - **नाव का क्या उद्देश्य था?**
+      * बाढ़ के दौरान नूह, उसके परिवार तथा उसके द्वारा लाये गये जानवरों के जोड़ों को उस पर सुरक्षित रखना। [03-03]
+  - **नूह ने जब लोगों को आनेवाली भीषण बाढ़ के बारे में बताया तो उन्होंने उस पर कैसी प्रतिक्रिया दी?**
+      * उन्होंने उस पर विश्वास नहीं किया। [03-04]
+  - **बाढ़ से पहले कौने से जानवरों को नाव पर लाया गया?**
+      * हर प्रकार के जानवरों के नर-मादा के जोड़े, तथा बलि किये जानेवाले जानवरों के सात नर व सात मादायें। [03-06]
+  - **नूह के परिवारजनों तथा जानवरों के नाव पर चढ़ जाने के बाद, ****किसने नाव का प्रवेश द्वार बंद किया?  **
+      * परमेश्वर ने। [03-06]
+  - **कितने दिनों तक बारिश का सिलसिला चलता रहा?**
+      * चालीस दिन व चालीस रातों तक।  [03-07]
+  - **बाढ़ का पानी कहाँ तक चढ़ गया था?**
+      * इतना ऊँचा कि संसार में मौजूद हर चीज़, यहाँ तक कि सबसे ऊँचे पहाड़ भी पानी में डूब गये थे। [03-08]
+  - **धरती पर रहनेवाले प्राणियों का क्या हुआ?**
+      * सब मिट गये। [03-08]
+  - **नूह को पानी के उतरने का पता कैसे चला?**
+      * उसने एक कबूतर उड़ाया, जो लौट कर नहीं आया। [03-12]
+  - **नाव छोड़ने के बाद, परमेश्वर ने नूह और उसके परिवार से क्या करने को कहा?**
+      * उसने उन्हें बहुतायत से संतान उत्पन्न करके धरती को भर देने को कहा। [03-13]
+  - **नाव से उतरने के बाद नूह ने परमेश्वर की आराधना कैसे की?**
+      * उसने परमेश्वर के लिए एक वेदी बनाई और कुछ जानवरों की आहुति दी। [03-14]
+  - **परमेश्वर ने कौन सी बात को कभी न दोहराने की प्रतिज्ञा की?**
+      * फिर कभी धरती को शापित न करने तथा बाढ़ के द्वारा संसार का नाश न करने की प्रतिज्ञा। [03-15]
+  - **अपनी प्रतिज्ञा के स्मारक के रुप में कौन सा चिन्ह दिया?**
+      * प्रतिज्ञा के चिन्ह स्वरुप उसने आकाश में इन्द्रधनुष बनाया। [03-16]
