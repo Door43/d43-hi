@@ -1,13 +1,12 @@
-<font 18px/inherit;;inherit;;inherit>** कहानी संख्या 26: यीशु का अपनी सेवकाई को आरंभ करना **</font>
+<font 18px/inherit;;inherit;;inherit>** कहानी संख्या 26: यीशु का अपनी सेवकाई को आरंभ करना  **</font>
 
-**<font 16px/inherit;;inherit;;inherit>कहानी से प्रश्न व उत्तर</font> **
-
+**<font 16px/inherit;;inherit;;inherit>कहानी से प्रश्न व उत्तर</font>    **
   - **शैतान की परीक्षाओं में जय पाने के बाद यीशु कहाँ गया?**
       * वह गलील में अपने निवास की जगह पर चला गया।// [26-01]//
-  - **What was the name of the city where Jesus lived as a child?**
-      * //Nazareth. [26-02]//
-  - **Where did Jesus go on the Sabbath?**
-      * //He went to the place of worship. [26-02]//
+  - **यीशु ने जहाँ अपना बचपन बिताया था, उस नगर का नाम क्या था?**
+      * नासरत।// [26-02]//
+  - **सब्त के लिए यीशु कहाँ गया?**
+      * वह आराधनालय गया।// [26-02]//
   - **Why did the people in the place of worship hand Jesus the scroll of Isaiah?**
       * //They wanted Jesus to read from it. [26-02]//
   - **The passage of Scripture that Jesus read referred to what person?**
