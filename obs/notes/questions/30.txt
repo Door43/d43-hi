@@ -1,8 +1,8 @@
 
 
-**<font 18px/inherit;;inherit;;inherit>कहानी संख्या 30: यीशु का पाँच हज़ार लोगों को भोजन कराना</font> **
+**<font 18px/inherit;;inherit;;inherit>कहानी संख्या 30: यीशु का पाँच हज़ार लोगों को भोजन कराना</font>    **
 
-<font 16px/inherit;;inherit;;inherit>** कहानी से प्रश्न व उत्तर **</font>
+<font 16px/inherit;;inherit;;inherit>** कहानी से प्रश्न व उत्तर  **</font>
 
   - **यीशु ने चेलों को गाँव किस लिए भेजा था?**
       * उन्हें प्रचार करने व सिखाने भेजा था।// [30-01]//
@@ -14,14 +14,14 @@
       * वह उनके प्रति दया मय था।// [30-03]//
   - **यीशु ने लोगों के प्रति अपनी दया कैस व्यक्त की?**
       * उसने भीड़ को उपदेश दिया और रोगियों को चंगा किया।// [30-03]//
-  - **Why did the disciples want to send the people away?**
-      * //It was late in the day and they needed to get something to eat. [30-04]//
-  - **Why were the disciples unable to feed all the people?**
-      * //They only had five loaves of bread and two small fish. [30-05]//
-  - **What did Jesus do with the five loaves of bread and the two fish?**
-      * //He thanked God for the food and broke it into pieces for his disciples to give to the people. [30-07], [30-08]//
-  - **How many people ate and were satisfied from the food?**
-      * //Five thousand men, not counting the women and children. [30-03]//
-  - **How much food was left over after everyone had eaten?**
-      * //Twelve baskets full. [30-09]//
+  - **यीशु के चेले लोगों को आने से क्यों रोक रहे थे?**
+      * क्योंकि बहुत देर हो चुकी थी और वे विश्राम करना चाहते थे।// [30-04]//
+  - **भीड़ को भोजन कराने में चेले क्यों असमर्थ थे?**
+      * क्योंकि उनके पास केवल 5 रोटियाँ और 2 मछलियाँ थीं।// [30-05]//
+  - **पाँच रोटियों और 2 मछलियों के साथ यीशु ने क्या किया?**
+      * उसने परमेश्वर को धन्यवाद दिया और उन्हें तोड़ कर अपने चेलों को दिया कि वे लोगों में उन्हें बाँट दें।// [30-07], [30-08]//
+  - **उन्होंने कितने लोगों को भोजन कराया?**
+      * उस दिन उन्होंने पाँच हज़ार लोगों को भोजन कराया (इसमें औरतों व बच्चों की संख्या को नहीं गिना गया है।)// [30-03]//
+  - **सब लोगों के खा चुकने के बाद भी कितना भोजन शेष बचा था?**
+      * 12 भरी हुई टोकरियाँ।// [30-09]//
 
