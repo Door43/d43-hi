@@ -1,7 +1,6 @@
-<font 18px/inherit;;inherit;;inherit>** कहानी संख्या 27: एक भले सामरी की कहानी **</font>
+<font 18px/inherit;;inherit;;inherit>** कहानी संख्या 27: एक भले सामरी की कहानी  **</font>
 
-**<font 16px/inherit;;inherit;;inherit>कहानी से प्रश्न व उत्तर</font> **
-
+**<font 16px/inherit;;inherit;;inherit>कहानी से प्रश्न व उत्तर</font>    **
   - **यहूदी व्यवस्था के ज्ञानी ने यीशु से क्या प्रश्न किया?**
       * ‘‘हे गुरु, अनन्त जीवन पाने के लिए मुझे क्या करना होगा?’’//[27-01]//
   - **यहूदी व्यवसस्था के उस ज्ञानी से तब यीशु ने क्या प्रश्न किया?**
@@ -12,12 +11,12 @@
       * //He wanted to prove that he was righteous. [27-03]//
   - **In Jesusâ€ story, what happened to the Jewish man while he was traveling?**
       * //He was attacked by robbers, who took everything he had, and beat him until he was almost dead. [27-05]//
-  - **Who was the first person to see the wounded man?**
-      * //A Jewish priest. [27-06]//
-  - **What did the priest do when he saw the wounded man?**
-      * //He ignored him and passed by on the other side of the road. [27-06]//
-  - **Who was the second person to see the wounded man and pass by?**
-      * //A Levite. [27-07]//
+  - **घायल व्यक्ति पर सबसे पहले किसकी दृष्टि पड़ी?**
+      * एक यहूदी याजक की।// [27-06]//
+  - **घायल व्यक्ति को देख कर यहूदी याजक ने कैसी प्रतिक्रिया की?**
+      * वह घायल व्यक्ति की अनदेखा कर रास्ते की दूसरी ओर चला जाता है।// [27-06]//
+  - **घायल व्यक्ति को अनदेखा करके अपनी राह पकड़नेवाला दूसरा व्यक्ति कौन था?**
+      * एक लेवी।// [27-07]//
   - **What did the Levite do when he saw the wounded man?**
       * //He ignored him and passed by on the other side of the road. [27-07]//
   - **Who was the third person to see the wounded man?**
