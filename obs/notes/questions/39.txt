@@ -1,27 +1,27 @@
-<font 18px/inherit;;inherit;;inherit>** कहानी संख्या 39: महा सभा के सामने यीशु **</font>
+<font 18px/inherit;;inherit;;inherit>** कहानी संख्या 39: महा सभा के सामने यीशु  **</font>
 
-<font 16px/inherit;;inherit;;inherit>** कहानी से प्रश्न व उत्तर **</font>
+<font 16px/inherit;;inherit;;inherit>** कहानी से प्रश्न व उत्तर  **</font>
 
-  - **What time of the day was it when the Jewish leaders began to question Jesus?**
-      * //It was the middle of the night. [39-01]//
-  - **Why could the Jewish leaders not prove Jesus was guilty of anything?**
-      * //The statements of the false witnesses did not agree with each other. [39-02]//
-  - **What question did the high priest finally ask Jesus?**
-      * //“Tell us, are you the Messiah, the Son of the living God?” [39-03]//
-  - **What answer did Jesus give to the high priest?**
-      * //“I am, and you will see me seated with God and coming from heaven.” [39-04]//
-  - **What was the crime that the high priest said that Jesus had committed?**
-      * //Jesus said he was the Son of God. [39-04]//
-  - **Where was Peter during Jesus' trial?**
-      * //Peter was waiting outside the house of the high priest. [39-06]//
-  - **Why did the people think that Peter had been with Jesus?**
-      * //Peter and Jesus were both from Galilee. [39-06]//
-  - **What did Peter say when the people asked if he knew Jesus ?**
-      * //Peter denied three times that he knew Jesus. [39-07]//
-  - **What happened immediately after Peter denied Jesus the third time?**
-      * //A rooster crowed, and Jesus turned and looked at Peter. [39-07]//
-  - **What did Judas do when he saw that the Jewish leaders had condemned Jesus?**
-      * //Judas became full of sorrow and went away and killed himself. [39-08]//
+  - **दिन के कौन से पहर में यहूदियों ने यीशु से पूछताछ आरम्भ की?**
+      * मध्य-रात्रि में।// [39-01]//
+  - **यहूदी अगुवे यीशु को किसी भी अपराध का दोषी क्यों नहीं प्रमाणित कर सके?**
+      * झूठे गवाहों की गवाहियाँ आपस में मेल नहीं खाईं थी।// [39-02]//
+  - **महायाजक ने अंततः यीशु से क्या प्रश्न किया?**
+      * ‘‘हमें बता, क्या तू ही मसीह, परमेश्वर का पुत्र है?’’//[39-03]//
+  - **यीशु ने महायाजक को क्या उत्तर दिया?**
+      * यीशु ने कहा, ‘‘हाँ मैं हूँ; और तुम मुझे सर्वशक्तिमान की दाहिनी ओर बैठे, और आकाश के बादलों के साथ आते देखोगे।’’//[39-04]//
+  - **यहूदी अगुवों के अनुसार यीशु ने कौन सा अपराध किया था?**
+      * यीशु ने कहा था कि वह परमेश्वर का पुत्र था।// [39-04]//
+  - **जिस समय यीशु पर अभियोग चलाया जा रहा था, उस समय पतरस कहाँ था?**
+      * वह महायाजक के घर के बाहर प्रतिक्षा कर रहा था।// [39-06]//
+  - **लोगों को ऐसा क्यों लगा कि पतरस यीशु के साथ था?**
+      * पतरस व यीशु, दोनो ही गलील से थे।// [39-06]//
+  - **लोगों ने जब पतरस से पूछा कि क्या वह यीशु को जानता था, तब उसने क्या उत्तर दिया?**
+      * पतरस ने तीन बार यीशु का इन्कार कर दिया।// [39-07]//
+  - **उस समय क्या हआ जब पतरस ने तीसरी बार यीशु का इन्कार किया था?**
+      * मुर्गं ने बाँग दी और यीशु ने पलट कर पतरस की ओर देखा।// [39-07]//
+  - **यहूदा ने जब देखा कि यहूदी अगुवेे यीशु पर दोष लगा कर उसे दण्डित कर रहे हैं, तब उसने क्या किया?**
+      * यहूदा को गहरा विषाद हुआ, और उसने जाकर आत्महत्या कर ली।// [39-08]//
   - **Why did the Jewish leaders take Jesus to the Roman governor Pilate?**
       * //They hoped Pilate would condemn Jesus and sentence him to be killed. [39-09]//
   - **What was the first question that Pilate asked Jesus?**
