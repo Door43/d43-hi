@@ -1,27 +1,27 @@
-<font 18px/inherit;;inherit;;inherit>** कहानी संख्या 40: यीशु का क्रूस पर चढ़ना **</font>
+<font 18px/inherit;;inherit;;inherit>** कहानी संख्या 40: यीशु का क्रूस पर चढ़ना  **</font>
 
-<font 16px/inherit;;inherit;;inherit>** कहानी से प्रश्न व उत्तर **</font>
+<font 16px/inherit;;inherit;;inherit>** कहानी से प्रश्न व उत्तर  **</font>
 
-  - **When the soldiers led Jesus away to crucify him, what did they make him carry?**
-      * //They made him carry the cross on which he would die. [40-01]//
-  - **What was the name of the place where Jesus was crucified?**
-      * //The Skull. [40-02]//
-  - **How did the soldiers attach Jesus to the cross?**
-      * //They nailed his hands and feet to the cross. [40-02]//
-  - **What did Jesus pray concerning the people who were crucifying him?**
-      * //“Father, forgive them, because they do not know what they are doing.” [40-02]//
-  - **What was written on the sign above Jesusâ€ head?**
-      * //King of the Jews. [40-02]//
-  - **How did the soldiers divide up Jesus' clothes?**
-      * //They gambled for his clothing as had been prophesied. [40-03]//
-  - **What did the robber who did not mock Jesus ask him to do?**
-      * //He asked Jesus to remember him in his kingdom. [40-04]//
-  - **What was Jesusâ€ answer to the request of the robber?**
-      * //“Today, you will be with me in Paradise.” [40-04]//
-  - **What did the crowd want Jesus to do to prove that he was the Son of God?**
-      * //They told him to come down from the cross and save himself. [40-05]//
-  - **What unusual thing happened in the sky in the middle of the day?**
-      * //It became completely dark from noon until 3:00 in the afternoon. [40-06]//
+  - **यीशु को क्रूस पर चढ़ाने ले जाते समय सिपाहियों ने उससे क्या उठवाया?**
+      * उन्होंने उससे वही क्रूस उठवाया जिस पर उसे मृत्यु दण्ड दिया जाना था।// [40-01]//
+  - **उस जगह का क्या नाम था जहाँ यीशु को क्रूस पर चढ़ाया गया था?**
+      * खोपड़ी।// [40-02]//
+  - **सिपाहियों ने यीशु को क्रूस पर कैसे टाँगा?**
+      * उन्होंने यीशु के हाथों और पैरों पर कीलें ठोक कर उसे क्रूस पर टाँगा।// [40-02]//
+  - **यीशु ने अपने क्रूस पर चढ़ानेवालों के लिए कौन सी प्रार्थना की?**
+      * ‘‘हे पिता! इन्हें क्षमा कर, क्योंकि ये नहीं जानते कि ये क्या कर रहे हैं।’’//[40-02]//
+  - **यीशु के सिर के ऊपर टाँगी गई तख्ती पर क्या लिखा था?**
+      * यहूदियों को राजा।// [40-02]//
+  - **यीशु के वस्त्रों का बटवारा किस प्रकार किया?**
+      * जैसी कि भविष्यद्वाणी थी, उन्होंने उसका बटवारा चिट्ठी डाल कर किया।// [40-03]//
+  - **यीशु का ठट्ठा न उड़ानेवाले चोर ने यीशु से क्या करने को कहा?**
+      * उसने यीशु से अपने राज्य में उसे याद रखने के लिए कहा।// [40-04]//
+  - **चोर की उस विनती पर यीशु ने क्या कहा?**
+      * ‘‘आज तू मेरे साथ स्वर्ग में होगा।’’//[40-04]//
+  - **स्वयं को परमेश्वर का पुत्र सिद्ध करने के लिए लोगों ने यीशु से क्या करने को कहा?**
+      * उन्होंने उसे क्रूस से उतर कर अपनी रक्षा करने के लिए कहा।// [40-05]//
+  - **उस दिन भरी दोपहरी के समय कौन सी अद्भुत घटना घटी थी?**
+      * दोपहर तीन बजे तक आकाश गहन अंधकार में डूब गया था।// [40-06]//
   - **What were the last words Jesus cried out from the cross?**
       * //“It is finished! Father, I give my spirit into your hands.” [40-07]//
   - **What miraculous things happened immediately after Jesus died?**
