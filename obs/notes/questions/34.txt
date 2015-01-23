@@ -2,14 +2,18 @@
 
 <font 16px/inherit;;inherit;;inherit>** कहानी से प्रश्न व उत्तर  **</font>    ** </font> **
 
-   - * **<font 16px/Calibri;;inherit;;inherit>अन्य बीजों की अपेक्षा राई का बीज कैसा होता है</font>    </font> <font 16px/Mangal;;inherit;;inherit>?</font>    </font> ** <font 11pt mso-fareast-font-family: Calibri; mso-fareast-language: EN-US; mso-bidi-language: HI; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-theme-font: minor-latin; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin; mso-ansi-language: EN-IN;/ ;;inherit;;inherit>सब बीजों में यह सबसे छोटा बीज होता है।</font>
+   - * **<font 16px/Calibri;;inherit;;inherit>अन्य बीजों की अपेक्षा राई का बीज कैसा होता है</font>    </font> <font 16px/Mangal;;inherit;;inherit>?</font>    </font> **
+  - <font 16px/Calibri;;inherit;;inherit>सब बीजों में यह सबसे छोटा बीज होता है।</font>
 
 </font> // [34-01]//
 
   *
 
-**What happens to a mustard seed when it grows? </font> * * //It becomes the largest of all the garden plants. [34-02]//  </font> * **  What happens to yeast when it is mixed into bread dough?
+**<font 11pt mso-fareast-font-family: Calibri; mso-fareast-language: EN-US; mso-bidi-language: HI; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-theme-font: minor-latin; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin; mso-ansi-language: EN-IN;/ ;;inherit;;inherit>उगने पर राई के बीज का क्या होता है</font>
 
+</font> <font 11pt mso-fareast-font-family: Calibri; mso-fareast-language: EN-US; mso-bidi-language: AR-SA; mso-ascii-theme-font: minor-latin; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: Mangal; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-IN;/ ;;inherit;;inherit>?</font>
+
+</font> **** </font> * * //It becomes the largest of all the garden plants. [34-02]//  </font> * **  What happens to yeast when it is mixed into bread dough?
 </font>
 
   * *
