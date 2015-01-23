@@ -1,6 +1,6 @@
-<font 18px/inherit;;inherit;;inherit>** कहानी संख्या 37: यीशु द्वारा लाज़र का जिलाया जाना **</font>
+<font 18px/inherit;;inherit;;inherit>** कहानी संख्या 37: यीशु द्वारा लाज़र का जिलाया जाना  **</font>
 
-<font 16px/inherit;;inherit;;inherit>** कहानी से प्रश्न व उत्तर **</font>
+<font 16px/inherit;;inherit;;inherit>** कहानी से प्रश्न व उत्तर  **</font>
 
   - **लाज़र के बीमार होने के विषय में यीशु ने क्या कहा था?**
       * उसने कहा कि यह परमेश्वर की महिमा के लिए होगा।// [37-01]//
@@ -14,17 +14,16 @@
       * उसने कहा कि लाज़र मर गया है।// [37-03]//
   - **लाज़र की मृत्यु के समय उपस्थित न होने पर यीशु को प्रसन्नता क्यों हुई?**
       * क्योंकि ऐसा कुछ होनेवाला था जिससे चेलों को यीशु पर विश्वास हो जायेगा।// [37-03]//
-  - **Did Martha believe that Jesus could have healed Lazarus?**
-      * //Yes. [37-04]//
-  - **What will happen to believers because Jesus is the Resurrection and the Life?**
-      * //Whoever believes in him will live, even though he dies, and everyone who believes in him will never die. [37-05]//
-  - **Who did Martha believe that Jesus was?**
-      * //The Messiah, the Son of God. [37-05]//
-  - **How long had Lazarus been dead?**
-      * //He had been dead for four days. [37-04], [37-07]//
-  - **Why did Jesus thank the Father out loud?**
-      * //He did that so the people would believe that the Father had sent him. [37-09]//
-  - **What did Jesus command Lazarus to do?**
-      * //He commanded Lazarus to come out of the tomb! [37-09]//
-  - **How did the religious leaders of the Jews react when they saw the miracle?**
-//They became jealous and planned to kill Jesus and Lazarus. [37-11]//
+  - **क्या मरथा को विश्वास था कि यीशु उसके भाई लाज़र को चंगा कर सकता था?**
+      * हाँ।// [37-04]//
+  - **यीशु जीवन व पुनरुत्थान है, और इस कारण विश्वासियों के साथ क्या होगा?**       * जो भी उस पर विश्वास करेेगा, वह यदि मर भी जाए, तो भी जीएगा।// [37-05]//
+  - **मार्था को यीशु के क्या होने का विश्वास था?**
+      * मसीह, परमेश्वर का पुत्र है।// [37-05]//
+  - **लाज़र को मरे कितना समय हो चुका था?**
+      * उसे मरे चार दिन हो चुके थे।// [37-04], [37-07]//
+  - **यीशु ने पिता को ऊँची आवाज़ में धन्यवाद क्यों दिया?**
+      * उसने ऐसा इसलिए किया ताकि लोगों को यह विश्वास हो जाए कि उसे पिता ने भेजा था।// [37-09]//
+  - **यीशु ने लाज़र को क्या करने को कहा?**
+      * यीशु ने लाज़र को कब्र से बाहर निकलने को कहा।//! [37-09]//
+  - **आश्चर्यकर्म को देख कर यहूदियों के धार्मिक अगुवों ने कैसी प्रतिक्रिया दी?**
+वे उससे द्वेष करने लगे और यीशु व लाज़र की हत्या करने की योजना बनाने लगे।// [37-11]//
