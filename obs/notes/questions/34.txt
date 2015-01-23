@@ -1,15 +1,14 @@
-<font 18px/inherit;;inherit;;inherit>** कहानी संख्या **</font>    ** <font 18px/inherit;;inherit;;inherit>34:</font>    <font 18px/inherit;;inherit;;inherit>यीशु द्वारा सुनाई गईं अन्य कहानियाँ</font>    </font> **
+<font 18px/inherit;;inherit;;inherit>** कहानी संख्या  **</font>    ** <font 18px/inherit;;inherit;;inherit>34:</font>    <font 18px/inherit;;inherit;;inherit>यीशु द्वारा सुनाई गईं अन्य कहानियाँ</font>    </font> **
 
-<font 16px/inherit;;inherit;;inherit>** कहानी से प्रश्न व उत्तर **</font>    ** </font> **
+<font 16px/inherit;;inherit;;inherit>** कहानी से प्रश्न व उत्तर  **</font>    ** </font> **
 
-   - * **<font 16px/Calibri;;inherit;;inherit>अन्य बीजों की अपेक्षा राई का बीज कैसा होता है</font>    </font> <font 16px/Mangal;;inherit;;inherit>?</font>    </font> **
-  * *
+   - * **<font 16px/Calibri;;inherit;;inherit>अन्य बीजों की अपेक्षा राई का बीज कैसा होता है</font>    </font> <font 16px/Mangal;;inherit;;inherit>?</font>    </font> ** <font 11pt mso-fareast-font-family: Calibri; mso-fareast-language: EN-US; mso-bidi-language: HI; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-theme-font: minor-latin; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin; mso-ansi-language: EN-IN;/ ;;inherit;;inherit>सब बीजों में यह सबसे छोटा बीज होता है।</font>
 
-//It is the smallest seed of all. [34-01]//  </font>
+</font> // [34-01]//
 
   *
 
-**What happens to a mustard seed when it grows? </font> * * //It becomes the largest of all the garden plants. [34-02]//  </font> * ** What happens to yeast when it is mixed into bread dough?
+**What happens to a mustard seed when it grows? </font> * * //It becomes the largest of all the garden plants. [34-02]//  </font> * **  What happens to yeast when it is mixed into bread dough?
 
 </font>
 
@@ -19,7 +18,7 @@
 
   *
 
-**What did the man do after he found the treasure that was hidden in the field? </font> * * //He sold all that he had and used the money to buy it. [34-04]//  </font> * ** What did the pearl merchant do when he found a perfect pearl?
+**What did the man do after he found the treasure that was hidden in the field? </font> * * //He sold all that he had and used the money to buy it. [34-04]//  </font> * **  What did the pearl merchant do when he found a perfect pearl?
 
 </font>
 
@@ -29,7 +28,7 @@
 
   *
 
-**To whom did Jesus tell the story of the two men praying at the Temple? </font> * * //People who trusted in their own good deeds and despised other people. [34-06]//  </font> * ** Why did the religious leader thank God?
+**To whom did Jesus tell the story of the two men praying at the Temple? </font> * * //People who trusted in their own good deeds and despised other people. [34-06]//  </font> * **  Why did the religious leader thank God?
 
 </font>
 
@@ -39,7 +38,7 @@
 
   *
 
-**Why did the religious leader think he was righteous? </font> * * //He fasted two times every week and gave ten percent of his money and goods. [34-08]//  </font> * ** What did the tax collector request from God?
+**Why did the religious leader think he was righteous? </font> * * //He fasted two times every week and gave ten percent of his money and goods. [34-08]//  </font> * **  What did the tax collector request from God?
 
 </font>
 
@@ -49,7 +48,7 @@
 
   *
 
-**Which man did God declare to be righteous? </font> * * //The tax collector. [34-10]//  </font> * ** What will God do to everyone who is proud?
+**Which man did God declare to be righteous? </font> * * //The tax collector. [34-10]//  </font> * **  What will God do to everyone who is proud?
 
 </font>
 
