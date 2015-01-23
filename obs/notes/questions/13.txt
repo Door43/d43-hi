@@ -1,32 +1,31 @@
-<font 18px/inherit;;inherit;;inherit>** कहानी संख्या 13 : इस्राएल के साथ परमेश्वर की वाचा **</font>
+<font 18px/inherit;;inherit;;inherit>** कहानी संख्या 13 : इस्राएल के साथ परमेश्वर की वाचा  **</font>
 
-**<font 16px/inherit;;inherit;;inherit>कहानी से प्रश्न व उत्तर</font> **
-
+**<font 16px/inherit;;inherit;;inherit>कहानी से प्रश्न व उत्तर</font>    **
   - **लाल सागर को पार करने के बाद परमेश्वर इस्राएलियों को किस ओर ले गया?**
       * वह उन्हें सीनै पर्वत की ओर ले गया।// [13-01]//
   - **अपनी आज्ञाओं के पालन के प्रतिफल स्वरुप परमेश्वर ने इस्राएलियों को क्या बनाने का वचन दिया?**
       * परमेश्वर की निज धन-संपत्ति, याजकों का एक साम्राज्य, और पवित्र देश।// [13-02]//
-  - **What signs accompanied God when he came down on Mount Sinai?**
-      * //Thunder, lightning, smoke, and a loud trumpet blast. [13-03]//
-  - **What would God do to the Israelites if they disobeyed his commandments?**
-      * //He would punish them. [13-07]//
-  - **What did God tell the Israelites to build for him?**
-      * //He told them to make the Tent of Meeting. [13-08]//
-  - **Who could enter into the room behind the curtain where God lived?**
-      * //Only the high priest. [13-08]//
-  - **How could the people cover their sin?**
-      * //They could bring an animal for the priests to sacrifice. The blood of the sacrifice would cover their sin. [13-09]//
-  - **Who did God choose to be his priests?**
-      * //Aaron and his descendants. [13-09]//
-  - **What did the people do when they got tired of waiting for Moses to return from Mount Sinai?**
-      * //They asked Aaron to make a gold idol, and then they worshiped it and made sacrifices to it. [13-11], [13-12]//
-  - **Why did God not destroy the Israelites when they disobeyed?**
-      * //Because Moses prayed for them. [13-12]//
-  - **What happened to the stones on which God had written the Ten Commandments?**
-      * //Moses was angry and smashed the stones. [13-13]//
-  - **What did Moses do to the idol?**
-      * //He beat the idol into powder, threw it into water, and made the people drink the water. [13-14]//
-  - **How were the stones with the Ten Commandments replaced?**
-      * //Moses wrote the Ten Commandments on new stone tablets. [13-15]//
-  - **Where did the Israelites go after Mount Sinai?**
-      * //God led the Israelites toward the Promised Land. [13-15]//
+  - **परमेश्वर जब नीचे सीनै पर्वत में आता था तब कौन से चिन्ह प्रकट होते थे?**
+      * मेघों की गर्जना, बिजली का कड़कना, और तुरही का ऊँचा शब्द।// [13-03]//
+  - **अपनी आज्ञाओं का पालन न करने पर परमेश्वर इस्राएलियों के साथ क्या करेगा?**
+      * वह उन्हें दण्डित करेगा।// [13-07]//
+  - **परमेश्वर ने इस्राएलियों को किस चीज़ का निर्माण करने को कहा?**
+      * परमेश्वर ने उन्हें मिलापवाले तंबू का निर्माण करने को कहा।// [13-08]//
+  - **पर्दे के पीछेवाले कमरे में, जो कि परमेश्वर के निवास की जगह थी, वहाँ जाने की अनुमति किसे थी?**
+      * केवल महायाजक।// [13-08]//
+  - **अपने पापों को ढाँपने के लिए लोगों को क्या करना होता था?**
+      * उन्हें याजकों के पास बलि का एक पशु लाना होता था। उस बलि का लहू लोगों के पापों को ढाँपता था।// [13-09]//
+  - **याजक के पद के लिए परमेश्वर ने किसे चुना?**
+      * हारुन व उसके वंशजों को।// [13-09]//
+  - **सीनै पर्वत से मूसा के लौटने की प्रतिक्षा करते हुए जब लोग थक गये, तो उन्होंने क्या किया?**
+      * उन्होंने हारुन को एक सोने की मूर्ति बनाने को कहा, और फिर उस मूर्ति की आराधनी की व उसके सामने बलि दी।// [13-11], [13-12]//
+  - **इस्राएलियों द्वारा अवज्ञा करने पर भी परमेश्वर ने उनका नाश क्यों नहीं किया?**
+      * क्योंकि मूसा ने उनके लिए प्रार्थना की थी।// [13-12]//
+  - **परमेश्वर की दस आज्ञाओं वाली पत्थर की तख्तियों का क्या हुआ?**
+      * क्रोध में आकर मूसा ने उन्हें तोड़ डाला।// [13-13]//
+  - **मूसा ने मूर्ति के साथ क्या किया?**
+      * उसने मूर्ति को पीस कर बुकनी (पाउडर) कर डाला और उसे पानी में मिला कर लोगों को पिला दिया।// [13-14]//
+  - **दस आज्ञाओं वाली पत्थर की तख्तियों के टूटने पर मूसा ने आज्ञाओं को कहाँ लिखा?**
+      * उसने पत्थर की नई तख्तियाँ बनाईं और परमेश्वर की दस आज्ञाएँ उन पर लिख दीं।// [13-15]//
+  - **सीनै पवर्त के बाद इस्राएली कहाँ पर गये?**
+      * परमेश्वर उन्हें वाचा की भूमि ले गया।// [13-15]//
