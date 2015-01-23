@@ -1,4 +1,4 @@
-<font 18px/inherit;;inherit;;inherit>** कहानी संख्या 42: यीशु का स्वर्गारोहण **</font>
+<font 18px/inherit;;inherit;;inherit>** कहानी संख्या 42: यीशु का स्वर्गारोहण  **</font>
 
 <font 16px/inherit;;inherit;;inherit>** कहानी से प्रश्न व उत्तर  **</font>
 
@@ -6,12 +6,12 @@
       * वे यीशु की मृत्यु के बारे में बातें कर रहे थे।// [42-01]//
   - **यीशु जब उन चेलों के पास पहुँचा तो उन्होंने उसे क्या समझा?**
       * उन्होंने सोचा कि वह कोई परदेशी है जिसे यरुशलेम में हुई घटना की कोई जानकारी नहीं थी।// [42-02]//
-  - **What had the prophets said would happen to the Messiah?**
-      * //The Messiah would suffer and be killed, but would rise again on the third day. [42-03]//
-  - **What was Jesus doing when the two disciples recognized him?**
-      * //He was breaking a loaf of bread and thanking God for it. [42-04]//
-  - **What did the two disciples do after Jesus left them?**
-      * //They returned to Jerusalem and told the other disciples that Jesus was alive and that they had seen him. [42-05]//
+  - **नबियों के अनुसार मसीह के साथ क्या होना था?**
+      * मसीह कष्ट भोगेगा और मारा जाएगा, लेकिन तीसरे दिन वह मुर्दों में से जी उठेगा।// [42-03]//
+  - **यीशु उस समय क्या कर रहा था जब दो चेलों ने उसे पहचाना था?**
+      * वह रोटी तोड़ते हुए परमेश्वर का धन्यवाद कर रहा था।// [42-04]//
+  - **यीशु के जाने के बाद उन दो चेलों ने क्या किया?**
+      * वे यरुशलेम को लौट गये और दूसरे चेलों को बताया कि यीशु जीवित था और उन्होंने उसे देखा था।// [42-05]//
   - **How did Jesus prove to the disciples that he was not a ghost?**
       * //He took a piece of cooked fish and ate it. [42-06]//
   - **What enabled the disciples to understand God’s word?**
