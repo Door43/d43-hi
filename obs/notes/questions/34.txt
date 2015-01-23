@@ -1,21 +1,21 @@
-<font 18px/inherit;;inherit;;inherit>** कहानी संख्या 34: यीशु द्वारा सुनाई गईं अन्य कहानियाँ **</font>
+<font 18px/inherit;;inherit;;inherit>** कहानी संख्या 34: यीशु द्वारा सुनाई गईं अन्य कहानियाँ  **</font>
 
-<font 16px/inherit;;inherit;;inherit>** कहानी से प्रश्न व उत्तर **</font>
+<font 16px/inherit;;inherit;;inherit>** कहानी से प्रश्न व उत्तर  **</font>
 
   - **अन्य बीजों की अपेक्षा राई का बीज कैसे होता है?**
       * सब बीजों में यह सबसे छोटा बीज होता है।// [34-01]//
-  - **What happens to a mustard seed when it grows?**
-      * //It becomes the largest of all the garden plants. [34-02]//
-  - **What happens to yeast when it is mixed into bread dough?**
-      * //It spreads throughout the dough. [34-03]//
-  - **What did the man do after he found the treasure that was hidden in the field?**
-      * //He sold all that he had and used the money to buy it. [34-04]//
-  - **What did the pearl merchant do when he found a perfect pearl?**
-      * //He sold all that he had and used the money to buy it. [34-05]//
-  - **To whom did Jesus tell the story of the two men praying at the Temple?**
-      * //People who trusted in their own good deeds and despised other people. [34-06]//
-  - **Why did the religious leader thank God?**
-      * //He thanked God that he was not a sinner like other men. [34-07]//
+  - **उगने पर राई के बीज का क्या होता है?**
+      * यह बगीचे के सभी पौधों में सबसे बड़ा हो जाता है।// [34-02]//
+  - **रोटी के आटे में खमीर को मिलाने पर क्या होता है?**
+      * खमीर पूरे आटे में फेल जाता है।// [34-03]//
+  - **भूमि में दबे खज़ाने का पता चलने पर व्यक्ति ने क्या किया?**
+      * उसने अपना सब-कुछ बेच कर उस भूमि को खरीद लिया।// [34-04]//
+  - **खरे मोती को पाकर मोती के व्यापारी ने क्या किया?**
+      * उसने अपना सब-कुछ बेच कर उस मोती को खरीद लिया।// [34-05]//
+  - **परमेश्वर के भवन में प्रार्थना कर रहे दो व्यक्तियों की कहानी यीशु ने किन्हें सुनाई थी?**
+      * उन्हें, जिनका भरोसा अपने भलाई के कामों पर था और दूसरों से घृणा करते थे।// [34-06]//
+  - **धार्मिक अगुवे ने परमेश्वर को धन्यवाद क्यों दिया?**
+      * उसने परमेश्वर को इसलिए धन्यवाद दिया कि वह दूसरो की तरह पापी नहीं था।// [34-07]//
   - **Why did the religious leader think he was righteous?**
       * //He fasted two times every week and gave ten percent of his money and goods. [34-08]//
   - **What did the tax collector request from God?**
