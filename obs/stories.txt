@@ -39,7 +39,7 @@
   - [[:hi:obs:37|Jesus Raises Lazarus from the Dead]]
   - [[:hi:obs:38|Jesus Is Betrayed]]
   - [[:hi:obs:39|Jesus Is Put on Trial]]
-  - [[:hi:obs:40|Jesus Is Crucified]]
+  - [[:hi:obs:40|यीशु का क्रूस पर चढ़ाया जाना]]
   - [[:hi:obs:41|यीशु का पुनरुत्थान]]
   - [[:hi:obs:42|यीशु का स्वर्ग रोहण]]
   - [[:hi:obs:43|कलीसिया का आरंभ]]
