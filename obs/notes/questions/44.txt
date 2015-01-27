@@ -1,13 +1,13 @@
-<font 18px/inherit;;inherit;;inherit>** कहानी संख्या 44: पतरस व यूहन्ना का एक भिखारी को चंगाई देना **</font>
+<font 18px/inherit;;inherit;;inherit>** कहानी संख्या 44: पतरस व यूहन्ना का एक भिखारी को चंगाई देना  **</font>
 
-<font 16px/inherit;;inherit;;inherit>** कहानी से प्रश्न व उत्तर **</font>
+<font 16px/inherit;;inherit;;inherit>** कहानी से प्रश्न व उत्तर  **</font>
 
   - **लंगड़ा व्यक्ति पतरस व यूहन्ना से क्या पाने की आशा कर रहा था?**
       * पैसे।// [44-01]//
   - **पैसे की बजाय पतरस ने उस लंगड़े को क्या दिया?**
       * पतरस ने लंगड़े को यीशु के नाम से चंगा किया।// [44-02]//
-  - **What did Peter say caused the crippled man to be healed?**
-      * //The power of Jesus and the faith that Jesus gives. [44-04]//
+  - **पतरस ने लंगड़े की चंगाई का क्या कारण बताया?**
+      * यीशु की सामर्थ्य और यीशु द्वारा दिया विश्वास।// [44-04]//
   - **Who did Peter say killed Jesus?**
       * //He said the people in the crowd asked the Roman governor to kill Jesus. [44-05]//
   - **What prophecies did the people fulfill when they killed Jesus?**
