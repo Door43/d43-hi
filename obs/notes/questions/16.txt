@@ -1,6 +1,6 @@
-<font 18px/inherit;;inherit;;inherit>** कहानी संख्या 16 : उद्धारकर्ता **</font>
+<font 18px/inherit;;inherit;;inherit>** कहानी संख्या 16 : उद्धारकर्ता  **</font>
 
-<font 16px/inherit;;inherit;;inherit>** कहानी से प्रश्न व उत्तर **</font>
+<font 16px/inherit;;inherit;;inherit>** कहानी से प्रश्न व उत्तर  **</font>
 
   - **यहोशू की मृत्यु के बाद इस्राएलियों ने किस प्रकार परमेश्वर की अवज्ञा की?**
       * उन्होंने कनानवासियों को नहीं भगाया, और सच्चे परमेश्वर यहोवा की जगह कनानवासियों के देवताओं की आराधना की।// [16-01]//
@@ -8,22 +8,22 @@
       * परमेश्वर ने उन्हें शत्रुओं के हाथो परास्त होने दिया।// [16-02]//
   - **इस्राएलियों द्वारा मदद की पुकार लगाने पर परमेश्वर ने क्या किया?**
       * उसने उनके उद्धार के लिए एक मुक्तिदाता भेजा जिसने उन्हें छुड़ाया और भूमि पर शान्ति लौटाई।// [16-03]//
-  - **What was Gideon doing when the angel of Yahweh came to him?**
-      * //Gideon was threshing grain secretly so the Midianites would not steal it. [16-05]//
-  - **What two signs did God do to prove that he would save Israel through Gideon?**
-      * //God made the morning dew fall only on the cloth and not the ground, and then the dew fell only on the ground and not the cloth. [16-08], [16-09]//
-  - **Why did Gideon send home all except 300 of the soldiers?**
-      * //Because God told him he had too many men. [16-10]//
-  - **What additional sign did God give Gideon so he would not be afraid?**
-      * //Gideon heard a Midianite soldier tell of his dream that Gideon's army would defeat the Midianite army. [16-11]//
-  - **What did Gideon do when he heard the Midianite soldier's dream?**
-      * //He worshiped God. [16-11]//
-  - **How did Gideon and his men attack the Midianites?**
-      * //They surrounded the Midianite camp, broke their pots to reveal their torches, and blew their horns and shouted, “A sword for Yahweh and for Gideon.” [16-13]//
-  - **What did God do to help Gideon defeat the Midianites?**
-      * //God confused the Midianites so they attacked and killed each other. [16-14]//
-  - **What did Gideon do that later led the people to return to idol worship?**
-      * //He made a special garment of gold that the people later began to worship as an idol. [16-16]//
+  - **जिस समय यहोवा का दूत गिदौन के पास आया, उस समय गिदौन क्या कर रहा था?**
+      * उस समय गिदौन गेहूँ को दाखरस के कुंड में झाड़ रहा था ताकि मिद्यानियों को उसका पता न चले।// [16-05]//
+  - **यह प्रमाणित करने के लिए कि वह इस्राएल को गिदौन के द्वारा बचाना चाहता था, परमेश्वर ने उसे कौन से दो प्रमाण दिये?**
+      * परमेश्वर ने सुबह की ओस को केवल कपड़े पर गिराया लेकिन भूमि पर नहीं, और फिर उसे केवल भूमि पर गिराया कपड़े पर नहीं।// [16-08], [16-09]//
+  - **300 सिपाहियों को छोड़ शेष सभी को गिदौन ने वापिस क्यों भेज दिया?**
+      * क्योंकि परमेश्वर ने उससे कहा था कि वहाँ ज़रुरत से ज़्यादा लोग थे।// [16-10]//
+  - **गिदौन के भय को दूर करने के लिए परमेश्वर ने उसे कौन सा अतिरिक्त चिन्ह दिया?**
+      * गिदौन ने एक मिद्यानी सिपाही को अपना सपना सुनाते सुना कि गिदौन की सेना मिद्यानियों की सेना को हरानेवाली है।// [16-11]//
+  - **मिद्यानी सिपाही का सपना सुनने के बाद गिदौन ने क्या किया?**
+      * उसने परमेश्वर की आराधना की।// [16-11]//
+  - **गिदौन और उसके आदमियों ने मिद्यानियों पर कैसे हमला बोला?**
+      * उन्होंने मिद्यानियों की छावनी को घेरा, मिट्टी के पात्रों को तोड़ कर उनकी रोशनी चमकाई,  और अपने नरसिंगों को फूँक कर ऊँचे शब्द में कोलाहल करते हुए कहा, ‘‘यहोवा की तलवार और गिदोन की तलवार।’’//[16-13]//
+  - **मिद्यानियों को हराने में परमेश्वर ने गिदोन की सहायता कैसे की?**
+      * परमेश्वर ने मिद्यानियों के बीच गड़बड़ी व भ्रम पैदा किया, और वे आपस में ही लड़ कर मर गये।// [16-14]//
+  - **गिदौन के किस कार्य के कारण लोग बाद में फिर से मूर्तिपूजा करने लगे?**
+      * उसने सोने का एक वस्त्र बनवाया जिसके आगे चलकर लोग आराधना करने लगे।// [16-16]//
   - **What was the pattern that Israel repeated many times?**
       * //The Israelites would sin, God would punish them, they would repent, and God would send a deliverer to save them. [16-17]//
   - **Why did the people ask God for a king?**
