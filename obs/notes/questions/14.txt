@@ -1,4 +1,4 @@
-<font 18px/inherit;;inherit;;inherit>** कहानी संख्या 14 : जंगल में भटकना **</font>
+<font 18px/inherit;;inherit;;inherit>** कहानी संख्या 14 : जंगल में भटकना  **</font>
 
 <font 16px/inherit;;inherit;;inherit>** कहानी से प्रश्न व उत्तर  **</font>
 
@@ -6,14 +6,14 @@
       * वह उन्हें वाचा की भूमि कनान देश की ओर ले गया।// [14-01]//
   - **परमेश्वर ने उन्हें कनानियों के साथ कैसा सलूक करने को कहा?**
       * उसने सभी कनानियों से छुटकारा पाने, उनके साथ शांति की संधि न करने, उनके साथ विवाह न करने, और उनकी सभी मूरतों को नष्ट करने को कहा।// [14-03]//
-  - **What did the twelve spies say about the land of Canaan?**
-      * //The land is very fertile and the crops are plentiful. [14-05]//
-  - **Why did ten of the spies say the Israelites should not attack the people of Canaan?**
-      * //They said, “The cities are strong and the people are giants. If we attack them, they will defeat us and kill us!” [14-05]//
-  - **What did Caleb and Joshua say about the people of Canaan?**
-      * //The people are strong, but we can defeat them. God will fight for us! [14-06]//
-  - **What did the people want to do after they heard the report of the spies?**
-      * //They wanted to choose another leader and go back to Egypt. [14-07]//
+  - **कनान की भूमि के विषय में गुप्तचरों ने क्या कहा?**
+      * भूमि बहुत उपजाऊ और फसल बहुतायत से भरी है।// [14-05]//
+  - **दस गुप्तचरों ने इस्राएलियों को कनान पर हमला न करने की सलाह क्यों दी?**
+      * क्योंकि उन्हें लगता था कि कनानवासी बहुत बलशाली और विशाल हैं। यदि वे उन पर हमला करते तो वे उन्हें हरा देते और उन सबको मार देते।//[14-05]//
+  - **कनानवासियों के विषय में कालिब और यहोशू ने क्या कहा?**
+      * यही कि ‘‘वे लोग बहुत बलशाली तो हैं लेकिन हम उन्हें हरा सकते हैं। परमेश्वर हमारे लिए लड़ेगा!’’// [14-06]//
+  - **गुप्तचरों द्वारा कनान का हाल सुनने के बाद इस्राएली क्या करना चाहते थे?**
+      * वे किसी दूसरे अगुवे को चुन कर मिस्र लौटना चाहते थे।// [14-07]//
   - **How did God say he would punish the people for their disobedience?**
       * //They would wander in the wilderness until everyone twenty years or older, except Caleb and Joshua, died. [14-08]//
   - **Why were the Israelites defeated when they attacked the Canaanites?**
