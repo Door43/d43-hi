@@ -1,15 +1,15 @@
-<font 18px/inherit;;inherit;;inherit>** कहानी संख्या 43: कलीसिया का आरंभ **</font>
+<font 18px/inherit;;inherit;;inherit>** कहानी संख्या 43: कलीसिया का आरंभ  **</font>
 
-<font 16px/inherit;;inherit;;inherit>** कहानी से प्रश्न व उत्तर **</font>
+<font 16px/inherit;;inherit;;inherit>** कहानी से प्रश्न व उत्तर  **</font>
 
   - **यरुशलेम में प्रतिक्षा करते हुए चेले क्या कर रहे थे?**
       * वे एकत्रित होकर निरंतर प्रार्थना में लगे थे।// [43-01]//
   - **पिन्तेकुस्त का उत्सव यहूदी कब मनाते थे?**
       * हर साल, फसह के पचास दिन बाद वे पिन्तेकुस्त मनाते थे।// [43-02]//
-  - **What happened to the believers during the Pentecost after Jesus rose from the dead?**
-      * //There was a sound like a strong wind, something like flames of fire appeared over their heads, and they were filled with the Holy Spirit and began to speak in other languages. [43-02]//
-  - **Why were the people in the crowd astonished?**
-      * //They heard the disciples speaking in the native languages of the people in the crowd. [43-04]//
+  - **यीशु के जी उठने के बादवाले पिन्तेकुस्त के दिन विश्वासियों के साथ क्या हुआ था?**
+      * उस दिन बहुत तेज़ हवा चली और उनके सिर पर आग की लपटों सी दिखाई दीं, और वे पवित्र आत्मा से भर कर अन्य भाषाओं में बोलने लगे।// [43-02]//
+  - **किस बात ने भीड़ को इतना अचंभित किया था?**
+      * चेले जो बोल रहे थे वह सभी को अपनी-अपनी मूल भाषा में सुनाई दे रहा था।// [43-04]//
   - **What did some of the people think was the reason the disciples were talking this way?**
       * //They accused the disciples of being drunk. [43-05]//
   - **What did Peter say was causing them to speak these languages?**
