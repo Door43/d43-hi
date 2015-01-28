@@ -1,6 +1,6 @@
-<font 18px/inherit;;inherit;;inherit>** कहानी संख्या 18 :  विभाजित साम्राज्य **</font>
+<font 18px/inherit;;inherit;;inherit>** कहानी संख्या 18 : विभाजित साम्राज्य  **</font>
 
-<font 16px/inherit;;inherit;;inherit>** कहानी से प्रश्न व उत्तर **</font>
+<font 16px/inherit;;inherit;;inherit>** कहानी से प्रश्न व उत्तर  **</font>
 
   - **सुलैमान ने परमेश्वर से क्या माँगा?**
       * बुद्धि।// [18-01]//
@@ -8,12 +8,12 @@
       * यह लोगों के लिए परमेश्वर की आराधना करने तथा बलि देने की जगह था।// [18-02]//
   - **सुलैमान ने कौन से गंभीर पाप किये थे?**
       * उसने कई विदेशी महिलाओं से विवाह किया और बुढ़ापे में उनके देवताओं की आराधना की।// [18-03]//
-  - **How did God punish Solomon’s sins?**
-      * //God promised to divide the nation of Israel into two kingdoms after Solomon’s death. [18-04]//
-  - **What foolish answer did Rehoboam give to the people?**
-      * //I will make you work harder and punish you more than my father Solomon did. [18-06]//
-  - **What was the name of the kingdom founded by the two southern tribes who remained with Rehoboam?**
-      * //The kingdom of Judah. [18-07]//
+  - **सुलैमान के पापों के लिए परमेश्वर ने उसे क्या दण्ड दिया?**
+      * परमेश्वर ने प्रतिज्ञा की कि सुलैमान की मृत्यु के बाद इस्राएल को वह दो भागों में बाँट देगा।// [18-04]//
+  - **रहूबियाम ने लोगों को कौन सा मूर्खतापूर्ण उत्तर दिया?**
+      * मैं तुमसे पहले से अधिक श्रम करवाऊँगा और तुम्हें मैं अपने पिताजी से भी अधिक कठोर दण्ड दूँगा।// [18-06]//
+  - **रहूबियाम के साथ बने रहनेवाले दो दक्षिणी गोत्रों ने कौन से नगर की नींव रखी?**
+      * यहूदा का साम्राज्य।// [18-07]//
   - **How many of the tribes rebelled against Rehoboam and formed the northern kingdom?**
       * //Ten tribes joined the kingdom of Israel. [18-08]//
   - **What did Jeroboam do to keep his people from going to Judah to worship at the Temple?**
