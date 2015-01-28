@@ -1,6 +1,6 @@
-<font 18px/inherit;;inherit;;inherit>** कहानी संख्या 21:  परमेश्वर द्वारा मसीह की प्रतिज्ञा **</font>
+<font 18px/inherit;;inherit;;inherit>** कहानी संख्या 21: परमेश्वर द्वारा मसीह की प्रतिज्ञा  **</font>
 
-<font 16px/inherit;;inherit;;inherit>** कहानी से प्रश्न व उत्तर **</font>
+<font 16px/inherit;;inherit;;inherit>** कहानी से प्रश्न व उत्तर  **</font>
 
   - **मसीह को भेजने का निर्णय परमेश्वर ने कब किया?**
       * आदि में।// [21-01]//
@@ -10,19 +10,19 @@
       * मसीह।// [21-02]//
   - **मसीह की मूसा से क्या समानता होगी?**
       * मूसा के समान वह भी एक नबी होगा।// [21-03]//
-  - **How would the Messiah be related to King David?**
-      * //The Messiah would be one of David’s descendants. [21-04]//
-  - **How would the Messiah be the perfect high priest?**
-      * //He would offer himself as a perfect sacrifice to God on behalf of the people. [21-07]//
-  - **How would the Messiah be the perfect king?**
-      * //He would reign over the whole world forever, and would always judge honestly. [21-08]//
-  - **What did Isaiah say would be special about the birth of the Messiah?**
-      * //The Messiah would be born from a virgin. [21-09]//
-  - **According to the prophets, how would the Messiah die?**
-      * //The Messiah would be mistreated and pierced, and would die in great suffering. [21-12]//
-  - **Why was it God’s will to crush the Messiah?**
-      * //Because the Messiah, being perfect, would receive the punishment for the people’s sin and bring peace between God and the people. [21-13]//
-  - **What would God accomplish through the death and resurrection of the Messiah?**
-      * //God would save sinners and start the New Covenant. [21-14]//
-  - **How much time passed between the last prophecy about the Messiah and his coming into the world?**
-//More than 400 years. [21-15]//
+  - **राजा दाऊद और मसीह किस प्रकार संबंधित होंगे?**
+      * मसीह दाऊद के वंशजों में से एक होगा।// [21-04]//
+  - **किस रीति से मसीह एक सिद्ध महा याजक होगा?**
+      * वह अपने लोगों के लिए परमेश्वर के समक्ष स्वयं को एक सिद्ध बलि के रुप में प्रस्तुत करेगा।// [21-07]//
+  - **किस रीति से मसीह एक सिद्ध राजा होगा?**
+      * वह जगत पर सदा के लिए राज्य करेगा और वह हमेशा सच्चाई के साथ न्याय करेगा।// [21-08]//
+  - **यशायाह के अनुसार मसीह के जन्म से कौन सी विशिष्ट बात जुड़ी होगी?**
+      * मसीह का जन्म एक कुँवारी के गर्भ से होगा।// [21-09]//
+  - **नबियों के अनुसार मसीह की मुत्यु किस प्रकार होगी?**
+      * मसीह के साथ बुरा बर्ताव किया जायेगा, उसे भेदा जायेगा और बहुत कष्टदायक पीड़ा में उसकी मृत्यु होगी।// [21-12]//
+  - **मसीह की ऐसी मृत्यु परमेश्वर की इच्छा में क्यों थी?**
+      * क्योंकि सिद्ध होने के नाते, मसीह, जगत के सभी लोगों के पापों के दण्ड को अपने ऊपर ले लेगा और परमेश्वर व मानवजाति के बीच शान्ति स्थापित करेगा।// [21-13]//
+  - **मसीह की मुत्यु व पुनरुत्थान के द्वारा परमेश्वर कौन सा कार्य पूरा करना चाहता था?**
+      * परमेश्वर पापियों को बचायेगा और नये नियम को आरंभ करेगा।// [21-14]//
+  - **मसीह के विषय में हुई अंतिम भविष्यद्वाणी तथा जगत में उसके आने के बीच कितना समय बीता था?**
+400 से अधिक साल।// [21-15]//
