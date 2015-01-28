@@ -1,6 +1,6 @@
-<font 18px/inherit;;inherit;;inherit>** कहानी संख्या 19:  नबी **</font>
+<font 18px/inherit;;inherit;;inherit>** कहानी संख्या 19: नबी  **</font>
 
-<font 16px/inherit;;inherit;;inherit>** कहानी से प्रश्न व उत्तर **</font>
+<font 16px/inherit;;inherit;;inherit>** कहानी से प्रश्न व उत्तर  **</font>
 
   - **नबी जो संदेश लोगों को सुनाते थे, वे उन्हें कहाँ से प्राप्त होते थे?**
       * वे संदेश उन्हें परमेश्वर से मिले थे।// [19-01]//
@@ -10,14 +10,14 @@
       * परमेश्वर ने सुबह-शाम कौवों के द्वारा भोजन उपलब्ध कराया।// [19-03]//
   - **विधवा तथा उसके बेटे के साथ रहते समय परमेश्वर ने उसे किस प्रकार भोजन उपलब्ध कराया?**
       * उसके आटे के मर्तबान व तेल की कुप्पी को खाली नहीं होने दिया।// [19-04]//
-  - **What great evil did Elijah say that Ahab had committed?**
-      * //Ahab had abandoned Yahweh, the true God, and had worshiped Baal. [19-05]//
-  - **What choice did Elijah tell the people they must make?**
-      * //If Yahweh is God, serve him, but if Baal is God, serve him. [19-06]//
-  - **How did God demonstrate he was the real God?**
-      * //God sent fire from the sky and burned up the meat, the wood, the rocks, the dirt, and the water around the altar. [19-11]//
-  - **How did the people respond when they saw this demonstration of power?**
-      * //They fell on the ground and said, “Yahweh is God! Yahweh is God!” [19-11]//
+  - **एलिय्याह ने अहाब की कौन सी दुष्टता के बारे में बताया?**
+      * अहाब ने सच्चे ईश्वर, यहोवा को त्याग दिया था और बाल की आराधना की थी।// [19-05]//
+  - **लोगों के सामने एलिय्याह ने कौन सा विकल्प रखा?**
+      * यदि यहोवा परमेश्वर है तो उसकी आराधना करो, लेकिन यदि बाल परमेश्वर है तो उसकी आराधना करो।// [19-06]//
+  - **यहोवा ने इस बात को कैसे दर्शाया कि वही सच्चा परमेश्वर है?**
+      * परमेश्वर ने आकाश से आग भेजी और माँस, लकड़ी, पत्थरों, धूल, और वेदी के चारो ओर के पानी को भस्म कर दिया।// [19-11]//
+  - **सामर्थ्य के इस प्रदर्शन को देख कर लोगों ने क्या कहा?**
+      * वे भूमि पर गिर पड़े और कहा कि ‘‘यहोवा ही परमेश्वर है! यहोवा ही परमेश्वर है!’’//[19-11]//
   - **What happened to the prophets of Baal?**
       * //They were taken away and killed. [19-12]//
   - **What did Elisha tell Naaman to do to in order to heal his skin disease?**
