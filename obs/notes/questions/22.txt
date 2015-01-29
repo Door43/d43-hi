@@ -1,23 +1,23 @@
-<font 18px/inherit;;inherit;;inherit>** कहानी संख्या 22:  यूहन्ना का जन्म **</font>
+<font 18px/inherit;;inherit;;inherit>** कहानी संख्या 22: यूहन्ना का जन्म  **</font>
 
-<font 16px/inherit;;inherit;;inherit>** कहानी से प्रश्न व उत्तर **</font>
+<font 16px/inherit;;inherit;;inherit>** कहानी से प्रश्न व उत्तर  **</font>
 
   - **अपने लोगों से बातचीत किये परमेश्वर को कितना समय हो चुका था?**
       * 400 साल।// [22-01]//
-  - **What problem did Elizabeth, Zechariah’s wife, have?**
-      * //She had not been able to have children. [22-01]//
-  - **What did the angel tell Zechariah to name his son?**
-      * //He was to name him John. [22-02]//
-  - **What did the angel say John would do in his life?**
-      * //John would prepare the people for the Messiah. [22-02]//
-  - **Why did Zechariah not believe Elizabeth would have a son?**
-      * //They were too old. [22-02]//
-  - **How did the angel punish Zechariah because he did not believe?**
-      * //Zechariah was not able to speak until John was born. [22-03]//
-  - **How long had Elizabeth been pregnant when the angel appeared to Mary?**
-      * //Six months. [22-04]//
-  - **What did the angel say was going to happen to Mary?**
-      * //She would become pregnant and give birth to a son. [22-04]//
+  - **जकर्याह और उसकी पत्नी इलीशिबा के साथ क्या समस्या थी?**
+      * उनके संतान नहीं हो पा रही थी।// [22-01]//
+  - **स्वर्गदूत ने जकर्याह को अपने बेटे को क्या नाम देने को कहा?**
+      * उसका नाम ‘‘यूहन्ना’’ रखना था।// [22-02]//
+  - **दूत के अनुसार यूहन्ना अपने जीवन में क्या करनेवाला था?**
+      * यूहन्ना लोगों को मसीह के लिए तैयार करेगा।// [22-02]//
+  - **जकर्याह को इलीशिबा के संतान होने की बात पर विश्वास क्यों नहीं था?**
+      * क्योंकि वे संतान उत्पन्न करने की दृष्टि से बहुत बूढ़े थे।// [22-02]//
+  - **उसके अविश्वास के लिए दूत ने जकर्याह को कैसे दंडित किया?**
+      * यूहन्ना की पैदाइश तक जकर्याह गूँगा हो गया था।// [22-03]//
+  - **मरियम को जब दूत ने दर्शन दिये, तब इलीशिबा को कितने महीने का गर्भ था?**
+      * छः महीने का।// [22-04]//
+  - **दूत ने मरियम के विषय में क्या कहा था?**
+      * वह गर्भवती होगी और एक बेटे को जन्म देगी।// [22-04]//
   - **Who did the angel say Jesus was going to be?**
       * //The Son of the Most High God. [22-04]//
   - **Why was Jesusâ€ birth a miracle?**
