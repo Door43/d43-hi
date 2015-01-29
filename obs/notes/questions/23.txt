@@ -1,6 +1,6 @@
-<font 18px/inherit;;inherit;;inherit>** कहानी संख्या 23: यीशु मसीह का जन्म **</font>
+<font 18px/inherit;;inherit;;inherit>** कहानी संख्या 23: यीशु मसीह का जन्म  **</font>
 
-<font 16px/inherit;;inherit;;inherit>** कहानी से प्रश्न व उत्तर **</font>
+<font 16px/inherit;;inherit;;inherit>** कहानी से प्रश्न व उत्तर  **</font>
 
   - **यूसुफ कैसा व्यक्ति था?**
       * वह एक धर्मी व्यक्ति था।// [23-01]//
@@ -12,10 +12,10 @@
       * इसका अर्थ होता है ‘‘यहोवा बचाता है।’’// [23-02]//
   - **यूसुफ और मरियम ने बैतलहम तक की लंबी यात्रा क्यों की?**
       * क्योंकि रोमी सरकार ने सभी को जनगणना के लिए अपने पुरखों की भूमि पर जाने को कहा था।// [23-04]//
-  - **In what kind of place was Jesus born?**
-      * //He was born in a place where animals stayed. [23-05]//
-  - **What was the angel’s message to the shepherds?**
-      * //“Do not be afraid, because I have some good news for you. The Messiah, the Master, has been born in Bethlehem!” [23-06]//
+  - **यीशु का जन्म कैसी जगह पर हुआ था?**
+      * उसका जन्म जानवरों के आश्रयस्थल में हुआ था।// [23-05]//
+  - **गड़ेरियों को दूत ने क्या संदेश दिया?**
+      * ‘‘भयभीत न हो, क्योंकि मेरे पास तुम्हारे लिए एक खुशखबरी है। बैतलहम में मसीह, स्वामी का जन्म हुआ है!’’//[23-06]//
   - **How would they know it was the right baby when they found him?**
       * //He would be wrapped in pieces of cloth and lying in a feeding trough. [23-08]//
   - **What did the shepherds do after they had seen the baby?**
