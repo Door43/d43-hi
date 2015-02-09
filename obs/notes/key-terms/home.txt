@@ -47,31 +47,31 @@ D
 
   * [[:door43.org:en:obs:notes:key-terms:david|David]]
   * [[:door43.org:en:obs:notes:key-terms:death|death]]
-  * [[https://door43.org/en/obs/notes/key-terms/deliverer|deliverer]]
-  * [[https://door43.org/en/obs/notes/key-terms/demon|demon]]
-  * [[https://door43.org/en/obs/notes/key-terms/demon-possessed|demon-possessed]]
-  * [[https://door43.org/en/obs/notes/key-terms/descendant|descendant]]
-  * [[https://door43.org/en/obs/notes/key-terms/disciple|disciple]]
-  * [[https://door43.org/en/obs/notes/key-terms/1-discussion-topic|Discussion Topic 1: Capitalization]]
-  * [[https://door43.org/en/obs/notes/key-terms/disobey|disobey]]
-  * [[https://door43.org/en/obs/notes/key-terms/dream|dream]]
+  * [[:door43.org:en:obs:notes:key-terms:deliverer|deliverer]]
+  * [[:door43.org:en:obs:notes:key-terms:demon|demon]]
+  * [[:door43.org:en:obs:notes:key-terms:demon-possessed|demon-possessed]]
+  * [[:door43.org:en:obs:notes:key-terms:descendant|descendant]]
+  * [[:door43.org:en:obs:notes:key-terms:disciple|disciple]]
+  * [[:door43.org:en:obs:notes:key-terms:1-discussion-topic|Discussion Topic 1: Capitalization]]
+  * [[:door43.org:en:obs:notes:key-terms:disobey|disobey]]
+  * [[:door43.org:en:obs:notes:key-terms:dream|dream]]
 
 E
 
-  * [[https://door43.org/en/obs/notes/key-terms/egypt|Egypt]]
-  * [[https://door43.org/en/obs/notes/key-terms/elijah|Elijah]]
-  * [[https://door43.org/en/obs/notes/key-terms/esau|Esau]]
-  * [[https://door43.org/en/obs/notes/key-terms/eternal-life|eternal life]]
-  * [[https://door43.org/en/obs/notes/key-terms/eve|Eve]]
-  * [[https://door43.org/en/obs/notes/key-terms/evil|evil]]
+  * [[:door43.org:en:obs:notes:key-terms:egypt|Egypt]]
+  * [[:door43.org:en:obs:notes:key-terms:elijah|Elijah]]
+  * [[:door43.org:en:obs:notes:key-terms:esau|Esau]]
+  * [[:door43.org:en:obs:notes:key-terms:eternal-life|eternal life]]
+  * [[:door43.org:en:obs:notes:key-terms:eve|Eve]]
+  * [[:door43.org:en:obs:notes:key-terms:evil|evil]]
 
 F
 
-  * [[https://door43.org/en/obs/notes/key-terms/faith|faith]]
-  * [[https://door43.org/en/obs/notes/key-terms/faithful|faithful]]
-  * [[https://door43.org/en/obs/notes/key-terms/fast|fast]]
-  * [[https://door43.org/en/obs/notes/key-terms/forgive|forgive]]
-  * [[https://door43.org/en/obs/notes/key-terms/fulfill|fulfill]]
+  * [[:door43.org:en:obs:notes:key-terms:faith|faith]]
+  * [[:door43.org:en:obs:notes:key-terms:faithful|faithful]]
+  * [[:door43.org:en:obs:notes:key-terms:fast|fast]]
+  * [[:door43.org:en:obs:notes:key-terms:forgive|forgive]]
+  * [[:door43.org:en:obs:notes:key-terms:fulfill|fulfill]]
 
 G
 
