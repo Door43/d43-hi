@@ -7,7 +7,7 @@ A
   * [[:hi:obs:notes:key-terms:aaron|Aaron]]
   * [[:hi:obs:notes:key-terms:abraham|Abraham]]
   * [[:hi:obs:notes:key-terms:adam|Adam]]
-  * [[:door43.org:en:obs:notes:key-terms:adultery|adultery]]
+  * [[:hi:obs:notes:key-terms:adultery|adultery]]
   * [[:door43.org:en:obs:notes:key-terms:ahab|Ahab]]
   * [[:door43.org:en:obs:notes:key-terms:altar|altar]]
   * [[:door43.org:en:obs:notes:key-terms:amorite|Amorite]]
