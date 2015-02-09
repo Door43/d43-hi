@@ -45,387 +45,126 @@ C
 
 D
 
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/david|David]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/death|death]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/deliverer|deliverer]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/demon|demon]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/demon-possessed|demon-possessed]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/descendant|descendant]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/disciple|disciple]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/1-discussion-topic|Discussion Topic 1: Capitalization]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/disobey|disobey]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/dream|dream]]
+  * [[https://door43.org/en/obs/notes/key-terms/david|David]]
+  * [[https://door43.org/en/obs/notes/key-terms/death|death]]
+  * [[https://door43.org/en/obs/notes/key-terms/deliverer|deliverer]]
+  * [[https://door43.org/en/obs/notes/key-terms/demon|demon]]
+  * [[https://door43.org/en/obs/notes/key-terms/demon-possessed|demon-possessed]]
+  * [[https://door43.org/en/obs/notes/key-terms/descendant|descendant]]
+  * [[https://door43.org/en/obs/notes/key-terms/disciple|disciple]]
+  * [[https://door43.org/en/obs/notes/key-terms/1-discussion-topic|Discussion Topic 1: Capitalization]]
+  * [[https://door43.org/en/obs/notes/key-terms/disobey|disobey]]
+  * [[https://door43.org/en/obs/notes/key-terms/dream|dream]]
 
 E
 
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/egypt|Egypt]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/elijah|Elijah]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/esau|Esau]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/eternal-life|eternal life]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/eve|Eve]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/evil|evil]]
+  * [[https://door43.org/en/obs/notes/key-terms/egypt|Egypt]]
+  * [[https://door43.org/en/obs/notes/key-terms/elijah|Elijah]]
+  * [[https://door43.org/en/obs/notes/key-terms/esau|Esau]]
+  * [[https://door43.org/en/obs/notes/key-terms/eternal-life|eternal life]]
+  * [[https://door43.org/en/obs/notes/key-terms/eve|Eve]]
+  * [[https://door43.org/en/obs/notes/key-terms/evil|evil]]
 
 F
 
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/faith|faith]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/faithful|faithful]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/fast|fast]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/forgive|forgive]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/fulfill|fulfill]]
+  * [[https://door43.org/en/obs/notes/key-terms/faith|faith]]
+  * [[https://door43.org/en/obs/notes/key-terms/faithful|faithful]]
+  * [[https://door43.org/en/obs/notes/key-terms/fast|fast]]
+  * [[https://door43.org/en/obs/notes/key-terms/forgive|forgive]]
+  * [[https://door43.org/en/obs/notes/key-terms/fulfill|fulfill]]
 
 G
 
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/galilee|Galilee]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/gibeon|Gibeon]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/gideon|Gideon]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/glory|glory]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/god-false|god]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/god|God]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/god-father|God the Father]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/gods-law|God's law]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/good|good]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/good-news|good news]]
-
-G cont.
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/guilt|guilt]]
+  * [[https://door43.org/en/obs/notes/key-terms/galilee|Galilee]]
+  * [[https://door43.org/en/obs/notes/key-terms/gibeon|Gibeon]]
+  * [[https://door43.org/en/obs/notes/key-terms/gideon|Gideon]]
+  * [[https://door43.org/en/obs/notes/key-terms/glory|glory]]
+  * [[https://door43.org/en/obs/notes/key-terms/god-false|god]]
+  * [[https://door43.org/en/obs/notes/key-terms/god|God]]
+  * [[https://door43.org/en/obs/notes/key-terms/god-father|God the Father]]
+  * [[https://door43.org/en/obs/notes/key-terms/gods-law|God's law]]
+  * [[https://door43.org/en/obs/notes/key-terms/good|good]]
+  * [[https://door43.org/en/obs/notes/key-terms/good-news|good news]]
+  * [[https://door43.org/en/obs/notes/key-terms/guilt|guilt]]
 
 H
 
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/hagar|Hagar]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/heal|heal]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/heaven|heaven]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/hell|hell]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/priest-high|high priest]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/holy|holy]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/holy-spirit|Holy Spirit]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/humble|humble]]
+  * [[https://door43.org/en/obs/notes/key-terms/hagar|Hagar]]
+  * [[https://door43.org/en/obs/notes/key-terms/heal|heal]]
+  * [[https://door43.org/en/obs/notes/key-terms/heaven|heaven]]
+  * [[https://door43.org/en/obs/notes/key-terms/hell|hell]]
+  * [[https://door43.org/en/obs/notes/key-terms/priest-high|high priest]]
+  * [[https://door43.org/en/obs/notes/key-terms/holy|holy]]
+  * [[https://door43.org/en/obs/notes/key-terms/holy-spirit|Holy Spirit]]
+  * [[https://door43.org/en/obs/notes/key-terms/humble|humble]]
 
 I
 
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/idol|idol]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/inherit|inherit]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/innocent|innocent]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/isaac|Isaac]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/isaiah|Isaiah]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/ishmael|Ishmael]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/israel|Israel]]
+  * [[https://door43.org/en/obs/notes/key-terms/idol|idol]]
+  * [[https://door43.org/en/obs/notes/key-terms/inherit|inherit]]
+  * [[https://door43.org/en/obs/notes/key-terms/innocent|innocent]]
+  * [[https://door43.org/en/obs/notes/key-terms/isaac|Isaac]]
+  * [[https://door43.org/en/obs/notes/key-terms/isaiah|Isaiah]]
+  * [[https://door43.org/en/obs/notes/key-terms/ishmael|Ishmael]]
+  * [[https://door43.org/en/obs/notes/key-terms/israel|Israel]]
 
 J
 
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/jacob|Jacob]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/jeremiah|Jeremiah]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/jericho|Jericho]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/jeroboam|Jeroboam]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/jerusalem|Jerusalem]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/jesus|Jesus]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/jew|Jew]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/jewish-leaders|Jewish leaders]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/john|John (the apostle)]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/john-baptist|John (the Baptist)]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/jordan-river|Jordan River]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/joseph-nt|Joseph (NT)]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/joseph|Joseph (OT)]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/joshua|Joshua]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/joy|joy]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/judas|Judas]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/judge|judge]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/justice|justice]]
+  * [[https://door43.org/en/obs/notes/key-terms/jacob|Jacob]]
+  * [[https://door43.org/en/obs/notes/key-terms/jeremiah|Jeremiah]]
+  * [[https://door43.org/en/obs/notes/key-terms/jericho|Jericho]]
+  * [[https://door43.org/en/obs/notes/key-terms/jeroboam|Jeroboam]]
+  * [[https://door43.org/en/obs/notes/key-terms/jerusalem|Jerusalem]]
+  * [[https://door43.org/en/obs/notes/key-terms/jesus|Jesus]]
+  * [[https://door43.org/en/obs/notes/key-terms/jew|Jew]]
+  * [[https://door43.org/en/obs/notes/key-terms/jewish-leaders|Jewish leaders]]
+  * [[https://door43.org/en/obs/notes/key-terms/john|John (the apostle)]]
+  * [[https://door43.org/en/obs/notes/key-terms/john-baptist|John (the Baptist)]]
+  * [[https://door43.org/en/obs/notes/key-terms/jordan-river|Jordan River]]
+  * [[https://door43.org/en/obs/notes/key-terms/joseph-nt|Joseph (NT)]]
+  * [[https://door43.org/en/obs/notes/key-terms/joseph|Joseph (OT)]]
+  * [[https://door43.org/en/obs/notes/key-terms/joshua|Joshua]]
+  * [[https://door43.org/en/obs/notes/key-terms/joy|joy]]
+  * [[https://door43.org/en/obs/notes/key-terms/judas|Judas]]
+  * [[https://door43.org/en/obs/notes/key-terms/judge|judge]]
+  * [[https://door43.org/en/obs/notes/key-terms/justice|justice]]
 
 K
 
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/king|king]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/king-of-jews|King of the Jews]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/kingdom|kingdom]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/kingdom-of-god|kingdom of God]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/kingdom-of-israel|kingdom of Israel]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/kingdom-of-judah|kingdom of Judah]]
+  * [[https://door43.org/en/obs/notes/key-terms/king|king]]
+  * [[https://door43.org/en/obs/notes/key-terms/king-of-jews|King of the Jews]]
+  * [[https://door43.org/en/obs/notes/key-terms/kingdom|kingdom]]
+  * [[https://door43.org/en/obs/notes/key-terms/kingdom-of-god|kingdom of God]]
+  * [[https://door43.org/en/obs/notes/key-terms/kingdom-of-israel|kingdom of Israel]]
+  * [[https://door43.org/en/obs/notes/key-terms/kingdom-of-judah|kingdom of Judah]]
 
 L
 
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/lamb|lamb]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/lazarus|Lazarus]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/life|life]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/lord|lord]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/love|love]]
+  * [[https://door43.org/en/obs/notes/key-terms/lamb|lamb]]
+  * [[https://door43.org/en/obs/notes/key-terms/lazarus|Lazarus]]
+  * [[https://door43.org/en/obs/notes/key-terms/life|life]]
+  * [[https://door43.org/en/obs/notes/key-terms/lord|lord]]
+  * [[https://door43.org/en/obs/notes/key-terms/love|love]]
 
 M
 
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/mary|Mary]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/mercy|mercy]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/messiah|Messiah]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/midian|Midian]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/miracle|miracle]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/mock|mock]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/moses|Moses]]
+  * [[https://door43.org/en/obs/notes/key-terms/mary|Mary]]
+  * [[https://door43.org/en/obs/notes/key-terms/mercy|mercy]]
+  * [[https://door43.org/en/obs/notes/key-terms/messiah|Messiah]]
+  * [[https://door43.org/en/obs/notes/key-terms/midian|Midian]]
+  * [[https://door43.org/en/obs/notes/key-terms/miracle|miracle]]
+  * [[https://door43.org/en/obs/notes/key-terms/mock|mock]]
+  * [[https://door43.org/en/obs/notes/key-terms/moses|Moses]]
 
 N
 
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/naaman|Naaman]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/nathan|Nathan]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/nazareth|Nazareth]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/nebuchadnezzar|Nebuchadnezzar]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/covenant-new|New Covenant]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/nile-river|Nile River]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/noah|Noah]]
+  * [[https://door43.org/en/obs/notes/key-terms/naaman|Naaman]]
+  * [[https://door43.org/en/obs/notes/key-terms/nathan|Nathan]]
+  * [[https://door43.org/en/obs/notes/key-terms/nazareth|Nazareth]]
+  * [[https://door43.org/en/obs/notes/key-terms/nebuchadnezzar|Nebuchadnezzar]]
+  * [[https://door43.org/en/obs/notes/key-terms/covenant-new|New Covenant]]
+  * [[https://door43.org/en/obs/notes/key-terms/nile-river|Nile River]]
+  * [[https://door43.org/en/obs/notes/key-terms/noah|Noah]]
 
 O
 
