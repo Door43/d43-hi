@@ -4,137 +4,44 @@ List of important words:
 
 A
 
-  *
-
-[[:hi:obs:notes:key-terms:aaron|Aaron]]
-
-  *
-
-[[:hi:obs:notes:key-terms:abraham|Abraham]]
-
-  *
-
-[[:hi:obs:notes:key-terms:adam|Adam]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/adultery|adultery]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/ahab|Ahab]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/altar|altar]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/amorite|Amorite]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/angel|angel]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/apostle|apostle]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/assyria|Assyria]]
+  * [[:hi:obs:notes:key-terms:aaron|Aaron]]
+  * [[:hi:obs:notes:key-terms:abraham|Abraham]]
+  * [[:hi:obs:notes:key-terms:adam|Adam]]
+  * [[https://door43.org/en/obs/notes/key-terms/adultery|adultery]]
+  * [[https://door43.org/en/obs/notes/key-terms/ahab|Ahab]]
+  * [[https://door43.org/en/obs/notes/key-terms/altar|altar]]
+  * [[https://door43.org/en/obs/notes/key-terms/amorite|Amorite]]
+  * [[https://door43.org/en/obs/notes/key-terms/angel|angel]]
+  * [[https://door43.org/en/obs/notes/key-terms/apostle|apostle]]
+  * [[https://door43.org/en/obs/notes/key-terms/assyria|Assyria]]
 
 B
 
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/baal|Baal]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/babylon|Babylon]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/baptize|baptize]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/barnabas|Barnabas]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/bathsheba|Bathsheba]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/beg|beg]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/believe|believe]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/believer|believer]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/bethlehem|Bethlehem]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/betray|betray]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/bless|bless]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/blood|blood]]
+  * [[https://door43.org/en/obs/notes/key-terms/baal|Baal]]
+  * [[https://door43.org/en/obs/notes/key-terms/babylon|abylon]]
+  * [[https://door43.org/en/obs/notes/key-terms/baptize|baptize]]
+  * [[https://door43.org/en/obs/notes/key-terms/barnabas|Barnabas]]
+  * [[https://door43.org/en/obs/notes/key-terms/bathsheba|Bathsheba]]
+  * [[https://door43.org/en/obs/notes/key-terms/beg|beg]]
+  * [[https://door43.org/en/obs/notes/key-terms/believe|believe]]
+  * [[https://door43.org/en/obs/notes/key-terms/believer|believer]]
+  * [[https://door43.org/en/obs/notes/key-terms/bethlehem|Bethlehem]]
+  * [[https://door43.org/en/obs/notes/key-terms/betray|betray]]
+  * [[https://door43.org/en/obs/notes/key-terms/bless|bless]]
+  * [[https://door43.org/en/obs/notes/key-terms/blood|blood]]
 
 C
 
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/caleb|Caleb]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/canaan|Canaan]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/chariot|chariot]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/christian|Christian]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/church|church]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/circumcise|circumcise]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/covenant|covenant]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/cross|cross]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/crucify|crucify]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/curse|curse]]
+  * [[https://door43.org/en/obs/notes/key-terms/caleb|Caleb]]
+  * [[https://door43.org/en/obs/notes/key-terms/canaan|Canaan]]
+  * [[https://door43.org/en/obs/notes/key-terms/chariot|chariot]]
+  * [[https://door43.org/en/obs/notes/key-terms/christian|Christian]]
+  * [[https://door43.org/en/obs/notes/key-terms/church|church]]
+  * [[https://door43.org/en/obs/notes/key-terms/circumcise|circumcise]]
+  * [[https://door43.org/en/obs/notes/key-terms/covenant|covenant]]
+  * [[https://door43.org/en/obs/notes/key-terms/cross|cross]]
+  * [[https://door43.org/en/obs/notes/key-terms/crucify|crucify]]
+  * [[https://door43.org/en/obs/notes/key-terms/curse|curse]]
 
 D
 
