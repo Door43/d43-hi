@@ -210,146 +210,54 @@ S
 
   * [[https://door43.org/en/obs/notes/key-terms/sabbath|Sabbath]]
   * [[https://door43.org/en/obs/notes/key-terms/sacrifice|sacrifice]]
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/samaria|Samaria]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/sarah|Sarah]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/satan|Satan]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/saul|Saul]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/save|save]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/servant|servant]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/sheep|sheep]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/shepherd|shepherd]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/silas|Silas]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/sin|sin]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/sinai|Sinai]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/solomon|Solomon]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/son|son]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/god-son|Son of God]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/spirit|spirit]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/suffer|suffer]]
+  * [[https://door43.org/en/obs/notes/key-terms/samaria|Samaria]]
+  * [[https://door43.org/en/obs/notes/key-terms/sarah|Sarah]]
+  * [[https://door43.org/en/obs/notes/key-terms/satan|Satan]]
+  * [[https://door43.org/en/obs/notes/key-terms/saul|Saul]]
+  * [[https://door43.org/en/obs/notes/key-terms/save|save]]
+  * [[https://door43.org/en/obs/notes/key-terms/servant|servant]]
+  * [[https://door43.org/en/obs/notes/key-terms/sheep|sheep]]
+  * [[https://door43.org/en/obs/notes/key-terms/shepherd|shepherd]]
+  * [[https://door43.org/en/obs/notes/key-terms/silas|Silas]]
+  * [[https://door43.org/en/obs/notes/key-terms/sin|sin]]
+  * [[https://door43.org/en/obs/notes/key-terms/sinai|Sinai]]
+  * [[https://door43.org/en/obs/notes/key-terms/solomon|Solomon]]
+  * [[https://door43.org/en/obs/notes/key-terms/son|son]]
+  * [[https://door43.org/en/obs/notes/key-terms/god-son|Son of God]]
+  * [[https://door43.org/en/obs/notes/key-terms/spirit|spirit]]
+  * [[https://door43.org/en/obs/notes/key-terms/suffer|suffer]]
 
 T
 
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/tax-collector|tax collector]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/teacher|teacher]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/temple|Temple]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/tempt|tempt]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/ten-commandments|Ten Commandments]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/tent-of-meeting|Tent of Meeting]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/tomb|tomb]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/trust|trust]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/true|truth]]
+  * [[https://door43.org/en/obs/notes/key-terms/tax-collector|tax collector]]
+  * [[https://door43.org/en/obs/notes/key-terms/teacher|teacher]]
+  * [[https://door43.org/en/obs/notes/key-terms/temple|Temple]]
+  * [[https://door43.org/en/obs/notes/key-terms/tempt|tempt]]
+  * [[https://door43.org/en/obs/notes/key-terms/ten-commandments|Ten Commandments]]
+  * [[https://door43.org/en/obs/notes/key-terms/tent-of-meeting|Tent of Meeting]]
+  * [[https://door43.org/en/obs/notes/key-terms/tomb|tomb]]
+  * [[https://door43.org/en/obs/notes/key-terms/trust|trust]]
+  * [[https://door43.org/en/obs/notes/key-terms/true|truth]]
 
 U
 
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/uriah|Uriah]]
+  * [[https://door43.org/en/obs/notes/key-terms/uriah|Uriah]]
 
 V
 
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/virgin|virgin]]
+  * [[https://door43.org/en/obs/notes/key-terms/virgin|virgin]]
 
 W
 
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/wise|wise]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/witness|witness]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/word-of-god|word of God]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/worship|worship]]
+  * [[https://door43.org/en/obs/notes/key-terms/wise|wise]]
+  * [[https://door43.org/en/obs/notes/key-terms/witness|witness]]
+  * [[https://door43.org/en/obs/notes/key-terms/word-of-god|word of God]]
+  * [[https://door43.org/en/obs/notes/key-terms/worship|worship]]
 
 Y
 
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/yahweh|Yahweh]]
+  * [[https://door43.org/en/obs/notes/key-terms/yahweh|Yahweh]]
 
 Z
 
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/zechariah-nt|Zechariah]]
+  * [[https://door43.org/en/obs/notes/key-terms/zechariah-nt|Zechariah]]
