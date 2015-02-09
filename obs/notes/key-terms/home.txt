@@ -168,146 +168,48 @@ N
 
 O
 
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/obey|obey]]
+  * [[https://door43.org/en/obs/notes/key-terms/obey|obey]]
 
 P
 
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/passover|Passover]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/paul|Paul]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/peace|peace]]
-
-P cont.
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/people-group|people group]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/persecute|persecute]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/peter|Peter]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/pharaoh|Pharaoh]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/philippi|Philippi]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/pilate|Pilate]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/power|power]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/praise|praise]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/pray|pray]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/preach|preach]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/priest|priest]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/promise|promise]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/promised-land|Promised Land]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/prophet|prophet]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/proud|proud]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/punish|punish]]
+  * [[https://door43.org/en/obs/notes/key-terms/passover|Passover]]
+  * [[https://door43.org/en/obs/notes/key-terms/paul|Paul]]
+  * [[https://door43.org/en/obs/notes/key-terms/peace|peace]]
+  * [[https://door43.org/en/obs/notes/key-terms/people-group|people group]]
+  * [[https://door43.org/en/obs/notes/key-terms/persecute|persecute]]
+  * [[https://door43.org/en/obs/notes/key-terms/peter|Peter]]
+  * [[https://door43.org/en/obs/notes/key-terms/pharaoh|Pharaoh]]
+  * [[https://door43.org/en/obs/notes/key-terms/philippi|Philippi]]
+  * [[https://door43.org/en/obs/notes/key-terms/pilate|Pilate]]
+  * [[https://door43.org/en/obs/notes/key-terms/power|power]]
+  * [[https://door43.org/en/obs/notes/key-terms/praise|praise]]
+  * [[https://door43.org/en/obs/notes/key-terms/pray|pray]]
+  * [[https://door43.org/en/obs/notes/key-terms/preach|preach]]
+  * [[https://door43.org/en/obs/notes/key-terms/priest|priest]]
+  * [[https://door43.org/en/obs/notes/key-terms/promise|promise]]
+  * [[https://door43.org/en/obs/notes/key-terms/promised-land|Promised Land]]
+  * [[https://door43.org/en/obs/notes/key-terms/prophet|prophet]]
+  * [[https://door43.org/en/obs/notes/key-terms/proud|proud]]
+  * [[https://door43.org/en/obs/notes/key-terms/punish|punish]]
 
 R
 
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/rahab|Rahab]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/raise|raise]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/rebekah|Rebekah]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/rebel|rebel]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/receive|receive]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/red-sea|Red Sea]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/rehoboam|Rehoboam]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/repent|repent]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/resurrection|resurrection]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/righteous|righteous]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/rome|Rome]]
+  * [[https://door43.org/en/obs/notes/key-terms/rahab|Rahab]]
+  * [[https://door43.org/en/obs/notes/key-terms/raise|raise]]
+  * [[https://door43.org/en/obs/notes/key-terms/rebekah|Rebekah]]
+  * [[https://door43.org/en/obs/notes/key-terms/rebel|rebel]]
+  * [[https://door43.org/en/obs/notes/key-terms/receive|receive]]
+  * [[https://door43.org/en/obs/notes/key-terms/red-sea|Red Sea]]
+  * [[https://door43.org/en/obs/notes/key-terms/rehoboam|Rehoboam]]
+  * [[https://door43.org/en/obs/notes/key-terms/repent|repent]]
+  * [[https://door43.org/en/obs/notes/key-terms/resurrection|resurrection]]
+  * [[https://door43.org/en/obs/notes/key-terms/righteous|righteous]]
+  * [[https://door43.org/en/obs/notes/key-terms/rome|Rome]]
 
 S
 
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/sabbath|Sabbath]]
-
-  *
-
-[[https://door43.org/en/obs/notes/key-terms/sacrifice|sacrifice]]
-
+  * [[https://door43.org/en/obs/notes/key-terms/sabbath|Sabbath]]
+  * [[https://door43.org/en/obs/notes/key-terms/sacrifice|sacrifice]]
   *
 
 [[https://door43.org/en/obs/notes/key-terms/samaria|Samaria]]
