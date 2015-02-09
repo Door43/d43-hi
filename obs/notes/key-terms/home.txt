@@ -7,13 +7,13 @@ A
   * [[:hi:obs:notes:key-terms:aaron|Aaron]]
   * [[:hi:obs:notes:key-terms:abraham|Abraham]]
   * [[:hi:obs:notes:key-terms:adam|Adam]]
-  * [[https://door43.org/en/obs/notes/key-terms/adultery|adultery]]
-  * [[https://door43.org/en/obs/notes/key-terms/ahab|Ahab]]
-  * [[https://door43.org/en/obs/notes/key-terms/altar|altar]]
-  * [[https://door43.org/en/obs/notes/key-terms/amorite|Amorite]]
-  * [[https://door43.org/en/obs/notes/key-terms/angel|angel]]
-  * [[https://door43.org/en/obs/notes/key-terms/apostle|apostle]]
-  * [[https://door43.org/en/obs/notes/key-terms/assyria|Assyria]]
+  * [[:door43.org:en:obs:notes:key-terms:adultery|adultery]]
+  * [[:door43.org:en:obs:notes:key-terms:ahab|Ahab]]
+  * [[:door43.org:en:obs:notes:key-terms:altar|altar]]
+  * [[:door43.org:en:obs:notes:key-terms:amorite|Amorite]]
+  * [[:door43.org:en:obs:notes:key-terms:angel|angel]]
+  * [[:door43.org:en:obs:notes:key-terms:apostle|apostle]]
+  * [[:door43.org:en:obs:notes:key-terms:assyria|Assyria]]
 
 B
 
