@@ -6,15 +6,15 @@ A
 
   *
 
-[[:door43.org:hi:obs:notes:key-terms:aaron|Aaron]]
+[[:hi:obs:notes:key-terms:aaron|Aaron]]
 
   *
 
-[[:door43.org:en:obs:notes:key-terms:abraham|Abraham]]
+[[:hi:obs:notes:key-terms:abraham|Abraham]]
 
   *
 
-[[:door43.org:en:obs:notes:key-terms:adam|Adam]]
+[[:hi:obs:notes:key-terms:adam|Adam]]
 
   *
 
