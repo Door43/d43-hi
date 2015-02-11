@@ -19,7 +19,7 @@ B
 
   * [[:hi:obs:notes:key-terms:baal|Baal]]
   * [[:hi:obs:notes:key-terms:babylon|babylon]]
-  * [[:door43.org:en:obs:notes:key-terms:baptize|baptize]]
+  * [[:hi:obs:notes:key-terms:baptize|baptize]]
   * [[:door43.org:en:obs:notes:key-terms:barnabas|Barnabas]]
   * [[:door43.org:en:obs:notes:key-terms:bathsheba|Bathsheba]]
   * [[:door43.org:en:obs:notes:key-terms:beg|beg]]
