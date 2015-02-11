@@ -21,14 +21,14 @@ B
   * [[:hi:obs:notes:key-terms:babylon|babylon]]
   * [[:hi:obs:notes:key-terms:baptize|baptize]]
   * [[:hi:obs:notes:key-terms:barnabas|Barnabas]]
-  * [[:door43.org:en:obs:notes:key-terms:bathsheba|Bathsheba]]
-  * [[:door43.org:en:obs:notes:key-terms:beg|beg]]
-  * [[:door43.org:en:obs:notes:key-terms:believe|believe]]
-  * [[:door43.org:en:obs:notes:key-terms:believer|believer]]
-  * [[:door43.org:en:obs:notes:key-terms:bethlehem|Bethlehem]]
-  * [[:door43.org:en:obs:notes:key-terms:betray|betray]]
-  * [[:door43.org:en:obs:notes:key-terms:bless|bless]]
-  * [[:door43.org:en:obs:notes:key-terms:blood|blood]]
+  * [[:hi:obs:notes:key-terms:bathsheba|Bathsheba]]
+  * [[:hi:obs:notes:key-terms:beg|beg]]
+  * [[:hi:obs:notes:key-terms:believe|believe]]
+  * [[:hi:obs:notes:key-terms:believer|believer]]
+  * [[:hi:obs:notes:key-terms:bethlehem|Bethlehem]]
+  * [[:hi:obs:notes:key-terms:betray|betray]]
+  * [[:hi:obs:notes:key-terms:bless|bless]]
+  * [[:hi:obs:notes:key-terms:blood|blood]]
 
 C
 
