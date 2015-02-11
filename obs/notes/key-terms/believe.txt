@@ -6,46 +6,43 @@
 
 “विश्वास’’ को दो संबंधित लेकिन अलग भावों में लिया जा सकता है।
 
-=== 1. विश्वास करना ===
+=== 1. विश्वास ===
+
+  * किसी चीज़ का विश्वास करना उसे सच मानना अथवा उसके सच होने का पूरा भरोसा करना है।
+  * किसी का विश्वास करना यह स्वीकार करना है कि उस व्यक्ति की कही बात पूरी तरह सच है।
+
+=== 2. विश्वास रखना ===
 
   *
 
-To believe something is to accept or trust that it is true.
+किसी पर विश्वास (आस्था) रखना इस बात का भरोसा करना है कि वह व्यक्ति भरोसेमंद है। दूसरे शब्दों में, यह इस बात का भरोसा करना है कि वह व्यक्ति वही है जो उसने कहा है कि वह है, वह हमेशा सच बोलता है, और जो वह कहता है, उसे वह पूरा अवश्य करता है।
 
   *
 
-To believe someone is to acknowledge that what that person has said is true.
+किसी विचार या सिद्धांत पर विश्वास रखना यह सुनिश्चित करना है कि वह विचार या सिद्धांत ही कार्य करने या जीवन यापन की सही पद्धति है। उदाहरण के लिये, यदि व्यक्ति ईमानदारी में विश्वास रखता है, तो वह सच ही बोलेगा।
 
-=== 2. Believe in ===
+  * जब एक व्यक्ति को किसी बात में पूरा विश्वास रखता है, तब उसके किये कार्यों में उसकी यह आस्था अवश्य झलकेगी।
 
-  *
-
-To believe in someone is to trust that that person is reliable. In other words, it is to trust that the person is who he says he is, that he always speaks the truth, and that he will do what he has promised to do.
-
-  *
-
-To believe in an idea or principle is to be sure that that idea or principle is the right way to act or live. For example, a person might believe in honesty, and therefore always tell the truth.
-
-  *
-
-When a person truly believes in something, the person will act in such a way that shows that belief.
-
-[See also: **[[https://door43.org/en/obs/notes/key-terms/faith|faith]]**, **[[https://door43.org/en/obs/notes/key-terms/believer|believer]]**]
+[साथ में देखें: **[[https://door43.org/en/obs/notes/key-terms/faith|faith]]**, **[[https://door43.org/en/obs/notes/key-terms/believer|believer]]**]
 
 ===== Examples from the Bible stories: =====
 
   *
 
 **[[https://door43.org/en/obs/notes/frames/03-04|[03-04]]]** Noah warned the people about the coming flood and told them to turn to God, but they did not **believe**  him.
+
   *
 
 **[[https://door43.org/en/obs/notes/frames/04-08|[04-08]]]** Abram **believed**  God's promise. God declared that Abram was righteous because he **believed**  God's promise.
+
   *
 
 **[[https://door43.org/en/obs/notes/frames/11-02|[11-02]]]** God provided a way to save the firstborn of anyone who **believed in**  him.
+
   *
 
 **[[https://door43.org/en/obs/notes/frames/11-06|[11-06]]]** But the Egyptians did not **believe**  God or obey his commands.
+
   *
 
 **[[https://door43.org/en/obs/notes/frames/37-05|[37-05]]]** Jesus replied, “I am the Resurrection and the Life. Whoever **believes in**  me will live, even though he dies. Everyone who **believes in**  me will never die. Do you **believe**  this?”
