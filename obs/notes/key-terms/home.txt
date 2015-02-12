@@ -32,16 +32,16 @@ B
 
 C
 
-  * [[:door43.org:en:obs:notes:key-terms:caleb|Caleb]]
-  * [[:door43.org:en:obs:notes:key-terms:canaan|Canaan]]
-  * [[:door43.org:en:obs:notes:key-terms:chariot|chariot]]
-  * [[:door43.org:en:obs:notes:key-terms:christian|Christian]]
-  * [[:door43.org:en:obs:notes:key-terms:church|church]]
-  * [[:door43.org:en:obs:notes:key-terms:circumcise|circumcise]]
-  * [[:door43.org:en:obs:notes:key-terms:covenant|covenant]]
-  * [[:door43.org:en:obs:notes:key-terms:cross|cross]]
-  * [[:door43.org:en:obs:notes:key-terms:crucify|crucify]]
-  * [[:door43.org:en:obs:notes:key-terms:curse|curse]]
+  * [[:hi:obs:notes:key-terms:caleb|Caleb]]
+  * [[:hi:obs:notes:key-terms:canaan|Canaan]]
+  * [[:hi:obs:notes:key-terms:chariot|chariot]]
+  * [[:hi:obs:notes:key-terms:christian|Christian]]
+  * [[:hi:obs:notes:key-terms:church|church]]
+  * [[:hi:obs:notes:key-terms:circumcise|circumcise]]
+  * [[:hi:obs:notes:key-terms:covenant|covenant]]
+  * [[:hi:obs:notes:key-terms:cross|cross]]
+  * [[:hi:obs:notes:key-terms:crucify|crucify]]
+  * [[:hi:obs:notes:key-terms:curse|curse]]
 
 D
 
