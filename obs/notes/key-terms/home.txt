@@ -45,16 +45,16 @@ C
 
 D
 
-  * [[:door43.org:en:obs:notes:key-terms:david|David]]
-  * [[:door43.org:en:obs:notes:key-terms:death|death]]
-  * [[:door43.org:en:obs:notes:key-terms:deliverer|deliverer]]
-  * [[:door43.org:en:obs:notes:key-terms:demon|demon]]
-  * [[:door43.org:en:obs:notes:key-terms:demon-possessed|demon-possessed]]
-  * [[:door43.org:en:obs:notes:key-terms:descendant|descendant]]
-  * [[:door43.org:en:obs:notes:key-terms:disciple|disciple]]
-  * [[:door43.org:en:obs:notes:key-terms:1-discussion-topic|Discussion Topic 1: Capitalization]]
-  * [[:door43.org:en:obs:notes:key-terms:disobey|disobey]]
-  * [[:door43.org:en:obs:notes:key-terms:dream|dream]]
+  * [[:hi:obs:notes:key-terms:david|David]]
+  * [[:hi:obs:notes:key-terms:death|death]]
+  * [[:hi:obs:notes:key-terms:deliverer|deliverer]]
+  * [[:hi:obs:notes:key-terms:demon|demon]]
+  * [[:hi:obs:notes:key-terms:demon-possessed|demon-possessed]]
+  * [[:hi:obs:notes:key-terms:descendant|descendant]]
+  * [[:hi:obs:notes:key-terms:disciple|disciple]]
+  * [[:hi:obs:notes:key-terms:1-discussion-topic|Discussion Topic 1: Capitalization]]
+  * [[:hi:obs:notes:key-terms:disobey|disobey]]
+  * [[:hi:obs:notes:key-terms:dream|dream]]
 
 E
 
