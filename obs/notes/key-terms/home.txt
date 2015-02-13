@@ -75,8 +75,8 @@ F
 
 G
 
-  * [[:door43.org:en:obs:notes:key-terms:galilee|Galilee]]
-  * [[:door43.org:en:obs:notes:key-terms:gibeon|Gibeon]]
+  * [[:hi:obs:notes:key-terms:galilee|Galilee]]
+  * [[:hi:obs:notes:key-terms:gibeon|Gibeon]]
   * [[https://door43.org/en/obs/notes/key-terms/gideon|Gideon]]
   * [[https://door43.org/en/obs/notes/key-terms/glory|glory]]
   * [[https://door43.org/en/obs/notes/key-terms/god-false|god]]
