@@ -58,20 +58,20 @@ D
 
 E
 
-  * [[:door43.org:en:obs:notes:key-terms:egypt|Egypt]]
-  * [[:door43.org:en:obs:notes:key-terms:elijah|Elijah]]
-  * [[:door43.org:en:obs:notes:key-terms:esau|Esau]]
-  * [[:door43.org:en:obs:notes:key-terms:eternal-life|eternal life]]
-  * [[:door43.org:en:obs:notes:key-terms:eve|Eve]]
-  * [[:door43.org:en:obs:notes:key-terms:evil|evil]]
+  * [[:hi:obs:notes:key-terms:egypt|Egypt]]
+  * [[:hi:obs:notes:key-terms:elijah|Elijah]]
+  * [[:hi:obs:notes:key-terms:esau|Esau]]
+  * [[:hi:obs:notes:key-terms:eternal-life|eternal life]]
+  * [[:hi:obs:notes:key-terms:eve|Eve]]
+  * [[:hi:obs:notes:key-terms:evil|evil]]
 
 F
 
-  * [[:door43.org:en:obs:notes:key-terms:faith|faith]]
-  * [[:door43.org:en:obs:notes:key-terms:faithful|faithful]]
-  * [[:door43.org:en:obs:notes:key-terms:fast|fast]]
-  * [[:door43.org:en:obs:notes:key-terms:forgive|forgive]]
-  * [[:door43.org:en:obs:notes:key-terms:fulfill|fulfill]]
+  * [[:hi:obs:notes:key-terms:faith|faith]]
+  * [[:hi:obs:notes:key-terms:faithful|faithful]]
+  * [[:hi:obs:notes:key-terms:fast|fast]]
+  * [[:hi:obs:notes:key-terms:forgive|forgive]]
+  * [[:hi:obs:notes:key-terms:fulfill|fulfill]]
 
 G
 
