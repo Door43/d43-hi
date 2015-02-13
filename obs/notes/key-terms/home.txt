@@ -77,26 +77,26 @@ G
 
   * [[:hi:obs:notes:key-terms:galilee|Galilee]]
   * [[:hi:obs:notes:key-terms:gibeon|Gibeon]]
-  * [[https://door43.org/en/obs/notes/key-terms/gideon|Gideon]]
-  * [[https://door43.org/en/obs/notes/key-terms/glory|glory]]
-  * [[https://door43.org/en/obs/notes/key-terms/god-false|god]]
-  * [[https://door43.org/en/obs/notes/key-terms/god|God]]
-  * [[https://door43.org/en/obs/notes/key-terms/god-father|God the Father]]
-  * [[https://door43.org/en/obs/notes/key-terms/gods-law|God's law]]
-  * [[https://door43.org/en/obs/notes/key-terms/good|good]]
-  * [[https://door43.org/en/obs/notes/key-terms/good-news|good news]]
-  * [[https://door43.org/en/obs/notes/key-terms/guilt|guilt]]
+  * [[:hi:obs:notes:key-terms:gideon|Gideon]]
+  * [[:hi:obs:notes:key-terms:glory|glory]]
+  * [[:hi:obs:notes:key-terms:god-false|god]]
+  * [[:hi:obs:notes:key-terms:god|God]]
+  * [[:hi:obs:notes:key-terms:god-father|God the Father]]
+  * [[:hi:obs:notes:key-terms:gods-law|God's law]]
+  * [[:hi:obs:notes:key-terms:good|good]]
+  * [[:hi:obs:notes:key-terms:good-news|good news]]
+  * [[:hi:obs:notes:key-terms:guilt|guilt]]
 
 H
 
-  * [[https://door43.org/en/obs/notes/key-terms/hagar|Hagar]]
-  * [[https://door43.org/en/obs/notes/key-terms/heal|heal]]
-  * [[https://door43.org/en/obs/notes/key-terms/heaven|heaven]]
-  * [[https://door43.org/en/obs/notes/key-terms/hell|hell]]
-  * [[https://door43.org/en/obs/notes/key-terms/priest-high|high priest]]
-  * [[https://door43.org/en/obs/notes/key-terms/holy|holy]]
-  * [[https://door43.org/en/obs/notes/key-terms/holy-spirit|Holy Spirit]]
-  * [[https://door43.org/en/obs/notes/key-terms/humble|humble]]
+  * [[:hi:obs:notes:key-terms:hagar|Hagar]]
+  * [[:hi:obs:notes:key-terms:heal|heal]]
+  * [[:hi:obs:notes:key-terms:heaven|heaven]]
+  * [[:hi:obs:notes:key-terms:hell|hell]]
+  * [[:hi:obs:notes:key-terms:priest-high|high priest]]
+  * [[:hi:obs:notes:key-terms:holy|holy]]
+  * [[:hi:obs:notes:key-terms:holy-spirit|Holy Spirit]]
+  * [[:hi:obs:notes:key-terms:humble|humble]]
 
 I
 
