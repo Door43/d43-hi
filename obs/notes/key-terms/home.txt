@@ -100,8 +100,8 @@ H
 
 I
 
-  * [[https://door43.org/en/obs/notes/key-terms/idol|idol]]
-  * [[https://door43.org/en/obs/notes/key-terms/inherit|inherit]]
+  * [[:hi:obs:notes:key-terms:idol|idol]]
+  * [[:hi:obs:notes:key-terms:inherit|inherit]]
   * [[https://door43.org/en/obs/notes/key-terms/innocent|innocent]]
   * [[https://door43.org/en/obs/notes/key-terms/isaac|Isaac]]
   * [[https://door43.org/en/obs/notes/key-terms/isaiah|Isaiah]]
