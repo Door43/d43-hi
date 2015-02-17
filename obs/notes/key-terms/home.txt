@@ -102,16 +102,16 @@ I
 
   * [[:hi:obs:notes:key-terms:idol|idol]]
   * [[:hi:obs:notes:key-terms:inherit|inherit]]
-  * [[https://door43.org/en/obs/notes/key-terms/innocent|innocent]]
-  * [[https://door43.org/en/obs/notes/key-terms/isaac|Isaac]]
-  * [[https://door43.org/en/obs/notes/key-terms/isaiah|Isaiah]]
-  * [[https://door43.org/en/obs/notes/key-terms/ishmael|Ishmael]]
-  * [[https://door43.org/en/obs/notes/key-terms/israel|Israel]]
+  * [[:hi:obs:notes:key-terms:innocent|innocent]]
+  * [[:hi:obs:notes:key-terms:isaac|Isaac]]
+  * [[:hi:obs:notes:key-terms:isaiah|Isaiah]]
+  * [[:hi:obs:notes:key-terms:ishmael|Ishmael]]
+  * [[:hi:obs:notes:key-terms:israel|Israel]]
 
 J
 
-  * [[https://door43.org/en/obs/notes/key-terms/jacob|Jacob]]
-  * [[https://door43.org/en/obs/notes/key-terms/jeremiah|Jeremiah]]
+  * [[:hi:obs:notes:key-terms:jacob|Jacob]]
+  * [[:hi:obs:notes:key-terms:jeremiah|Jeremiah]]
   * [[https://door43.org/en/obs/notes/key-terms/jericho|Jericho]]
   * [[https://door43.org/en/obs/notes/key-terms/jeroboam|Jeroboam]]
   * [[https://door43.org/en/obs/notes/key-terms/jerusalem|Jerusalem]]
