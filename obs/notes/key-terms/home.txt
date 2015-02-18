@@ -118,7 +118,7 @@ J
   * [[:hi:obs:notes:key-terms:jesus|Jesus]]
   * [[:hi:obs:notes:key-terms:jew|Jew]]
   * [[:hi:obs:notes:key-terms:jewish-leaders|Jewish leaders]]
-  * [[:hi:obs:notes:key-terms:john (the apostle)|John (the apostle)]]
+  * [[:hi:obs:notes:key-terms:john-the-apostle|John (the apostle)]]
   * [[:hi:obs:notes:key-terms:john-baptist|John (the Baptist)]]
   * [[:hi:obs:notes:key-terms:jordan-river|Jordan River]]
   * [[:hi:obs:notes:key-terms:joseph-nt|Joseph (NT)]]
