@@ -140,21 +140,21 @@ K
 
 L
 
-  * [[https://door43.org/en/obs/notes/key-terms/lamb|lamb]]
-  * [[https://door43.org/en/obs/notes/key-terms/lazarus|Lazarus]]
-  * [[https://door43.org/en/obs/notes/key-terms/life|life]]
-  * [[https://door43.org/en/obs/notes/key-terms/lord|lord]]
-  * [[https://door43.org/en/obs/notes/key-terms/love|love]]
+  * [[:hi:obs:notes:key-terms:lamb|lamb]]
+  * [[:hi:obs:notes:key-terms:lazarus|Lazarus]]
+  * [[:hi:obs:notes:key-terms:life|life]]
+  * [[:hi:obs:notes:key-terms:lord|lord]]
+  * [[:hi:obs:notes:key-terms:love|love]]
 
 M
 
-  * [[https://door43.org/en/obs/notes/key-terms/mary|Mary]]
-  * [[https://door43.org/en/obs/notes/key-terms/mercy|mercy]]
-  * [[https://door43.org/en/obs/notes/key-terms/messiah|Messiah]]
-  * [[https://door43.org/en/obs/notes/key-terms/midian|Midian]]
-  * [[https://door43.org/en/obs/notes/key-terms/miracle|miracle]]
-  * [[https://door43.org/en/obs/notes/key-terms/mock|mock]]
-  * [[https://door43.org/en/obs/notes/key-terms/moses|Moses]]
+  * [[:hi:obs:notes:key-terms:mary|Mary]]
+  * [[:hi:obs:notes:key-terms:mercy|mercy]]
+  * [[:hi:obs:notes:key-terms:messiah|Messiah]]
+  * [[:hi:obs:notes:key-terms:midian|Midian]]
+  * [[:hi:obs:notes:key-terms:miracle|miracle]]
+  * [[:hi:obs:notes:key-terms:mock|mock]]
+  * [[:hi:obs:notes:key-terms:moses|Moses]]
 
 N
 
