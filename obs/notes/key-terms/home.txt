@@ -162,24 +162,24 @@ N
   * [[:hi:obs:notes:key-terms:nathan|Nathan]]
   * [[:hi:obs:notes:key-terms:nazareth|Nazareth]]
   * [[:hi:obs:notes:key-terms:nebuchadnezzar|Nebuchadnezzar]]
-  * [[:hi:obs:notes:key-terms:new covenant|New Covenant]]
+  * [[:hi:obs:notes:key-terms:new-covenant|New Covenant]]
   * [[:hi:obs:notes:key-terms:nile-river|Nile River]]
   * [[:hi:obs:notes:key-terms:noah|Noah]]
 
 O
 
-  * [[https://door43.org/en/obs/notes/key-terms/obey|obey]]
+  * [[:hi:obs:notes:key-terms:obey|obey]]
 
 P
 
-  * [[https://door43.org/en/obs/notes/key-terms/passover|Passover]]
-  * [[https://door43.org/en/obs/notes/key-terms/paul|Paul]]
-  * [[https://door43.org/en/obs/notes/key-terms/peace|peace]]
-  * [[https://door43.org/en/obs/notes/key-terms/people-group|people group]]
-  * [[https://door43.org/en/obs/notes/key-terms/persecute|persecute]]
-  * [[https://door43.org/en/obs/notes/key-terms/peter|Peter]]
-  * [[https://door43.org/en/obs/notes/key-terms/pharaoh|Pharaoh]]
-  * [[https://door43.org/en/obs/notes/key-terms/philippi|Philippi]]
+  * [[:hi:obs:notes:key-terms:passover|Passover]]
+  * [[:hi:obs:notes:key-terms:paul|Paul]]
+  * [[:hi:obs:notes:key-terms:peace|peace]]
+  * [[:hi:obs:notes:key-terms:people-group|people group]]
+  * [[:hi:obs:notes:key-terms:persecute|persecute]]
+  * [[:hi:obs:notes:key-terms:peter|Peter]]
+  * [[:hi:obs:notes:key-terms:pharaoh|Pharaoh]]
+  * [[:hi:obs:notes:key-terms:philippi|Philippi]]
   * [[https://door43.org/en/obs/notes/key-terms/pilate|Pilate]]
   * [[https://door43.org/en/obs/notes/key-terms/power|power]]
   * [[https://door43.org/en/obs/notes/key-terms/praise|praise]]
