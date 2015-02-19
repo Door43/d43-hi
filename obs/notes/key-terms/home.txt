@@ -133,10 +133,10 @@ K
 
   * [[:hi:obs:notes:key-terms:king|king]]
   * [[:hi:obs:notes:key-terms:king-of-jews|King of the Jews]]
-  * [[https://door43.org/en/obs/notes/key-terms/kingdom|kingdom]]
-  * [[https://door43.org/en/obs/notes/key-terms/kingdom-of-god|kingdom of God]]
-  * [[https://door43.org/en/obs/notes/key-terms/kingdom-of-israel|kingdom of Israel]]
-  * [[https://door43.org/en/obs/notes/key-terms/kingdom-of-judah|kingdom of Judah]]
+  * [[:hi:obs:notes:key-terms:kingdom|kingdom]]
+  * [[:hi:obs:notes:key-terms:kingdom-of-god|kingdom of God]]
+  * [[:hi:obs:notes:key-terms:kingdom-of-israel|kingdom of Israel]]
+  * [[:hi:obs:notes:key-terms:kingdom-of-judah|kingdom of Judah]]
 
 L
 
