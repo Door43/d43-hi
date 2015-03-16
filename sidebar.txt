@@ -1,26 +1,28 @@
 
+
 ----
 
 **Door43**
 
-  * [[hi:home|Door43 (hi)]]
+   * [[:hi:home|Door43 (hi)]]
 
 **Resources**
 
-  * [[hi:obs|Open Bible Stories (hi)]]
-
+  * [[:hi:obs|Open Bible Stories (hi)]]
 
 **Downloads**
 
-All content for this namespace is available in the [[https://github.com/Door43/d43-hi|d43-hi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hi/archive/master.zip|d43-hi.zip]]
+All content for this namespace is available in the [[https://github.com/Door43/d43-hi|d43-hi repository]]. To download it as a zip file, click [[https://github.com/Door43/d43-hi/archive/master.zip|d43-hi.zip]]
 
 **Recent Changes**
+
 {{changes>ns = hi}}
 
 **Latest Status**
-{{page>en:uwadmin:hi:obs:status}}
 
+{{page>en:uwadmin:hi:obs:status}}
 
 **Language Information**
 
 [[http://www.ethnologue.com/language/hi|Ethnologue data]]
+
