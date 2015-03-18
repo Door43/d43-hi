@@ -11,10 +11,7 @@
   - [[:hi:obs:notes:08|परमेश्वर]] [[:hi:obs:notes:08|ने]] [[:hi:obs:notes:08|यूसुफ]] [[:hi:obs:notes:08|और]] [[:hi:obs:notes:08|उसके]] [[:hi:obs:notes:08|परिवार]] [[:hi:obs:notes:08|को]] [[:hi:obs:notes:08|बचाया]]
   - [[:hi:obs:notes:09|परमेश्वर]] [[:hi:obs:notes:09|ने]] [[:hi:obs:notes:09|मूसा]] [[:hi:obs:notes:09|को]] [[:hi:obs:notes:09|बुलाया]]
   - [[:hi:obs:notes:10|दस]] [[:hi:obs:notes:10|विपत्तियां]]
-  -
-
-[[https://door43.org/hi/obs/11|फसह का पर्व]]
-
+  - [[https://door43.org/hi/obs/11|फसह का पर्व]]
   - [[:hi:obs:notes:12|निर्गमन]]
   - [[:hi:obs:notes:13|God's Covenant with Israel]]
   - [[:hi:obs:notes:14|Wandering in the Wilderness]]
