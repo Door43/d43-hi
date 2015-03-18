@@ -2,11 +2,11 @@
 
 //In order to help translators of [[:hi:obs|Open Bible Stories]] to do the best translation work possible, exegetical notes and resources for each frame (text + image) of each story are available here. These are the stories that have complete notes://
   - [[:hi:obs:notes:01|उत्पत्ति]]
-  - [[:hi:obs:notes:02|Sin Enters the World]]
-  - [[:hi:obs:notes:03|The Flood]]
-  - [[:hi:obs:notes:04|God's Covenant with Abraham]]
-  - [[:hi:obs:notes:05|The Son of Promise]]
-  - [[:hi:obs:notes:06|God Provides for Isaac]]
+  - [[:hi:obs:notes:02|पाप दुनिया में प्रवेश करता है]]
+  - [[:hi:obs:notes:03|बाढ़]]
+  - [[:hi:obs:notes:04|अब्राम के साथ परमेश्वर कि वाचा]]
+  - [[:hi:obs:notes:05|प्रतिज्ञा का पुत्र]]
+  - [[:hi:obs:notes:06|परमेश्वर ने इसहाक के लिए प्रबंध किया]]
   - [[:hi:obs:notes:07|God Blesses Jacob]]
   - [[:hi:obs:notes:08|God Saves Joseph and His Family]]
   - [[:hi:obs:notes:09|God Calls Moses]]
