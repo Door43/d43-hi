@@ -13,7 +13,10 @@
   - [[:hi:obs:notes:10|दस]] [[:hi:obs:notes:10|विपत्तियां]]
   - [[:hi:obs:notes:11|फसह का पर्व]]
   - [[:hi:obs:notes:12|निर्गमन]]
-  - [[:hi:obs:notes:13|इस्राएल]][[:hi:obs:notes:13| ]][[:hi:obs:notes:13|के]][[:hi:obs:notes:13| साथ ]][[:hi:obs:notes:13|परमेश्वर]][[:hi:obs:notes:13| ]][[:hi:obs:notes:13|की]][[:hi:obs:notes:13| ]][[:hi:obs:notes:13|वाचा]]
+  -
+
+[[:door43.org:hi:obs:13|इस्राएल के साथ परमेश्वर की वाचा]]
+
   - [[:hi:obs:notes:14|जंगल में भटकना]]
   - [[:hi:obs:notes:15|वाचा की भूमि]]
   - [[:hi:obs:notes:16|उद्धारकर्ता]]
