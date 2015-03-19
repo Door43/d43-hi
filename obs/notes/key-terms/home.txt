@@ -245,19 +245,19 @@ U
 
 V
 
-  * [[https://door43.org/en/obs/notes/key-terms/virgin|virgin]]
+  * [[:hi:obs:notes:key-terms:virgin|virgin]]
 
 W
 
-  * [[https://door43.org/en/obs/notes/key-terms/wise|wise]]
-  * [[https://door43.org/en/obs/notes/key-terms/witness|witness]]
-  * [[https://door43.org/en/obs/notes/key-terms/word-of-god|word of God]]
-  * [[https://door43.org/en/obs/notes/key-terms/worship|worship]]
+  * [[:hi:obs:notes:key-terms:wise|wise]]
+  * [[:hi:obs:notes:key-terms:witness|witness]]
+  * [[:hi:obs:notes:key-terms:word-of-god|word of God]]
+  * [[:hi:obs:notes:key-terms:worship|worship]]
 
 Y
 
-  * [[https://door43.org/en/obs/notes/key-terms/yahweh|Yahweh]]
+  * [[:hi:obs:notes:key-terms:yahweh|Yahweh]]
 
 Z
 
-  * [[https://door43.org/en/obs/notes/key-terms/zechariah-nt|Zechariah]]
+  * [[:hi:obs:notes:key-terms:zechariah-nt|Zechariah]]
