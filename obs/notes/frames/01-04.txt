@@ -1,21 +1,13 @@
-====== God Created the Land [01-04] ======
+====== परमेश्वर ने भूमि की रचना की [01-04] ======
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-04.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-04.jpg?nolink}}
+**तीसरे दिन**, [[:hi:key-terms:god|परमेश्वर]] ने **कहा** और पानी को सूखी भूमि से अलग किया। उसने सूखी भूमि को ‘‘**धरती**‘‘ और पानी को ‘‘सागर’’ कहा। परमेश्वर ने देखा कि उसने जो **सृजा** था वह [[:hi:key-terms:good|अच्छा]] था।
 
+===== अनुवाद के लिए नोट्स: =====
 
-On the **third day**, **[[:en:key-terms:god|God]] spoke** and separated the water from the dry land. He called the dry land "**earth**," and he called the water "seas." God saw that what he had **created** was **[[:en:key-terms:good|good]]**.
-
-
-===== Translation Notes: =====
-
-
-    * **third day** - The next in the series of orderly days in which God prepared the earth for life. 
-    * **God spoke** - God created the dry land by speaking a command.
-    * **earth** - This word is used here to refer to dirt or soil, which is what dry land is made of. The word “earth” in **[[hi/obs:notes/frames/01-01|[01-01]]]** refers to the whole world that people live on.
-    * **created** - This word is used here in the sense of making something out of nothing.
-
-
-
-**[[hi/obs:notes/frames/01-03|<<]] | [[:hi:obs:notes:01|Up]] | [[hi/obs:notes/frames/01-05|>>]]**
-
+  * **तीसरे दिन**  - छः दिनों की अवधि का तीसरा दिन, जिसमें जीवन के लिए परमेश्वर ने धरती को तैयार किया।
+  * **परमेश्वर ने कहा**  - धरती की रचना परमेश्वर ने बस अपने मुँह से आज्ञा देने के द्वारा की थी।
+  * **धरती**  - यहाँ पर इस शब्द का आशय सखी भूमि को बनाने वाली धूल या मिट्टी से है। **[[:hi:obs:notes:frames:01-01|[01-01]]]** में प्रयुक्त ‘‘पृथ्वी’’ शब्द का आशय पृथ्वी ग्रह से है।
+  * **created**  - This word is used here in the sense of making something out of nothing.
+**[[:hi:obs:notes:frames:01-03|<<]] | [[:hi:obs:notes:01|Up]] | [[:hi:obs:notes:frames:01-05|>>]]**
