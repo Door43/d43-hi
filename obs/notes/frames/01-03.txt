@@ -3,9 +3,9 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-03.jpg?nolink&}}
 
 सृष्टि की रचना के **दूसरे दिन** [[:hi:key-terms:god|परमेश्वर]] ने **कहा**, और पृथ्वी के ऊपर **आकाश** को **बनाया** । उसने ऊपर के पानी और नीचे के पानी को अलग करने के द्वारा आकाश की रचना की।
-===== Translation Notes: =====
 
-  * **the second day**  - God's work of creation was orderly, purposeful, and sequential. The things he created each day built upon and depended on the acts of the previous days.
+<font 18px/inherit;;inherit;;inherit>** अनुवाद के लिए नोट्स</font> **
+  * **दूसरे दिन**  - परमेश्वर द्वारा सृष्टि का कार्य बहुत सुव्यवस्थित, उद्देश्यपूर्ण, और क्रमबद्ध तरीके से किया गया। हर दिन वह जो सृष्टि करता था, वह पिछले दिन की सृष्टि पर आधारित व निर्मित होता था।
   * **God spoke**  - God created the sky by speaking a command.
   * **created**  - God made the sky out of nothing.
   * **sky**  - This term refers to all of the space above the earth, including the air we breathe and the heavens.
