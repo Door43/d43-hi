@@ -1,23 +1,15 @@
-====== God Created the Birds and Fish [01-07] ======
+====== परमेश्वर ने पंछियों व मछलियों की रचना की [01-07] ======
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-07.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-07.jpg?nolink}}
+**पाँचवें दिन**, [[:hi:key-terms:god|परमेश्वर]] ने **कहा** और पानी में **तैरनेवाले हर जीव**, तथा आकाश में उड़नेवाले **सभी पंछियों** को बनाया। परमेश्वर ने देखा कि **यह [[:hi:key-terms:good|अच्छा]] था**, और **उन्हें [[:hi:key-terms:bless|आशीष]] दी** ।
 
+===== अनुवाद के लिए नोट्स: =====
 
-On **the fifth day**, **[[:en:key-terms:god|God]] spoke** and made **everything that swims** in the water and **all the birds**. God saw that **it was [[:en:key-terms:good|good]]**, and he **[[:en:key-terms:bless|blessed]] them**.
-
-
-===== Translation Notes: =====
-
-
-    * **the fifth day**  - God continues his orderly progression of creation that he started during the previous four days.
-    * **God spoke** - God created the birds and water creatures by speaking a command.
-    * **everything that swims**  - God not only made fish, but every kind of living thing that lives in the waters. Every one exists because God chose to create it.
-    * **all the birds**  - God did not make just one kind of bird, but all of the amazing variety of shapes, sizes, colors, and kinds of birds. 
-    * **it was good** - This phrase is repeated throughout creation to show that every step went exactly according to God's wise plan and purpose.
-    * **blessed them** - God speaks his desire that they would prosper and that things would go well for them in the world in which he had placed them.
-
-
-**[[hi/obs:notes/frames/01-06|<<]] | [[:hi:obs:notes:01|Up]] |  [[hi/obs:notes/frames/01-08|>>]]** 
-
-
+  * **पाँचवां दिन**  - पिछले चार दिनों से होनेवाली सृष्टि की रचना के क्रमबद्ध कार्य को परमेश्वर आगे बढ़ाता है।
+  * **परमेश्वर ने कहा**  - अपने मुँह से आदेश के द्वारा परमेश्वर ने पंछियों व पानी के सब जंतुओं को बनाया।
+  * **तैरनेवाले हर जीव**  - परमेश्वर न मछलियाँ ही नहीं बल्कि पानी में रहनेवाले हर जीव को बनाया। सब कुछ इसलिए आस्तित्व में है क्योंकि परमेश्वर ने उन्हें रचा है।
+  * **सभी पंछियों**  - परमेश्वर ने केवल एक तरह के पंछी नहीं बनाये, बल्कि कई तरह के डील-डौल, आकार, रंगों और प्रजातियोंवाले पंछी बनाये।
+  * **अच्छा था**  - उत्पत्ति में सृष्टि की रचना के दौरान इन शब्दों का बारंबार इस्तेमाल हुआ है, जो इस बात पर बल देता है कि परमेश्वर को सृष्टि के हर चरण से प्रसन्नता हुई, और वे उसकी योजना व उद्देश्य को पूरा करते थे।
+  * **आशीष दी**  - परमेश्वर अपनी यह इच्छा व्यक्त की, कि वे फले-फूलें और जिस जगत के लिए उन्हें रचा गया है, वहाँ उनके साथ सब अच्छा-अच्छा हो।
+**[[:hi:obs:notes:frames:01-06|<<]] | [[:hi:obs:notes:01|Up]] | [[:hi:obs:notes:frames:01-08|>>]]**
