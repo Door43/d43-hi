@@ -3,11 +3,11 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-02.jpg?nolink&}}
 
 तब [[:hi:key-terms:god|परमेश्वर]] ने कहा, ‘‘प्रकाश हो!’’ और **प्रकाश** हो गया। परमेश्वर ने देखा कि प्रकाश **अच्छा था**, और उसने उसे ‘‘दिन’’ कहा। उसने अंधकार को उससे अलग किया, और उसे ‘‘रात’’ कहा। **सृष्टि** के पहले दिन परमेश्वर ने प्रकाश को बनाया।
-===== Translation Notes: =====
+===== अनुवाद के लिए नोट्स: =====
 
-  * **God said**  - God created light by means of a simple verbal command.
-  * **let there be**  - This is a command that happened immediately because it was spoken by God. It may be more natural to translate this as a statement of certainty that this would definitely happen. For example, you could translate this as, “God said, 'There will be light.'”
-  * **light**  - This was a special light that God created–the sun was not created until later.
-  * **was good**  - This phrase is often repeated through the Creation story, and emphasizes that each stage of creation was pleasing to God and accomplished his plan and purpose.
-  * **creation**  - This word is used here to refer to the six-day period during which God made everything that exists.
+  * **परमेश्वर ने कहा**  - प्रकाश की रचना परमेश्वर ने बस अपने मुँह से आज्ञा देने के द्वारा की थी।
+  * **होने दो**  - यह एक मौखिक आज्ञा थी और कहते ही पूरी हो गई थी, क्योंकि यह परमेश्वर की दी आज्ञा थी। इसे एक अवश्यंभावी कथन की तरह अनूदित करना अधिक सहज रहेगा। जैसे कि, आप इसका अनुवाद ऐसे कर सकते हैं कि ‘‘परमेश्वर ने कहा, ‘प्रकाश होगा!’”
+  * **प्रकाश**  - यह एक अलग तरह का प्रकाश था, क्योंकि इस समय तक परमेश्वर ने सूर्य की सृष्टि नहीं की थी।
+  * **अच्छा था**  - उत्पत्ति में सृष्टि की रचना के दौरान इन शब्दों का बारंबार इस्तेमाल हुआ है, जो इस बात पर बल देता है कि परमेश्वर को सृष्टि के हर चरण से प्रसन्नता हुई, और वे उसकी योजना व उद्देश्य को पूरा करते थे।
+  * **सृष्टि**  - यहाँ पर सृष्टि का आशय छः दिनों की उस अवधि से है जिसके दौरान परमेश्वर ने हर उस चीज़ को बनाया जो आस्तित्व में है।
 **[[:hi:obs:notes:frames:01-01|<<]] | [[:hi:obs:notes:01|Up]] | [[:hi:obs:notes:frames:01-03|>>]]**
