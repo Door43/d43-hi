@@ -1,21 +1,14 @@
-====== God Created the Sun, Moon and Stars [01-06] ======
+====== परमेश्वर ने सूर्य, चन्द्रमा, और सितारों की रचना की [01-06] ======
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-06.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-06.jpg?nolink}}
+सृष्टि के **चैथे दिन** **परमेश्वर ने कहा** और सूर्य, चन्द्रमा, और सितारों को बनाया। [[:hi:key-terms:god|परमेश्वर]] ने उन्हें धरती को **प्रकाश** देने व **दिन को रात** से अलग करने, और **ऋतुओं व वर्षों** की चिन्हित करने के लिए बनाया। परमेश्वर ने देखा कि उसने जो **रचा** था, वह [[:hi:key-terms:good|अच्छा]] था।
 
+===== अनुवाद के लिए नोट्स: =====
 
-On **the fourth day** of creation, **God spoke** and made the sun, the moon, and the stars. **[[:en:key-terms:god|God]]** made them to give **light** to the earth and to mark **day and night, seasons and years**.  God saw that what he had **created** was **[[:en:key-terms:good|good]]**.
-
-
-===== Translation Notes: =====
-
-
-    * **the fourth day** - The next in the orderly series of days in which God created.
-    * **God spoke** - God created the sun, moon, and stars by speaking a command.
-    * **light** - Shining objects in the sky now provided light for the earth.
-    * **day and night, seasons and years** - God created a different light to mark each portion of time from small to large, and set them to repeat continually until the end of time. 
-    * **created** - This word is used here in the sense of making something out of nothing.
-
-
-**[[hi/obs:notes/frames/01-05|<<]] | [[:hi:obs:notes:01|Up]] | [[hi/obs:notes/frames/01-07|>>]]**
-
+  * **चैथा दिन**  - परमेश्वर द्वारा सृष्टि किये जाने की अवधि के छः दिनों का चैथा दिन।
+  * **परमेश्वर ने कहा**  - सूर्य, चन्द्रमा, और सितारों की रचना परमेश्वर ने बस अपने मुँह से आज्ञा देने के द्वारा की थी।
+  * **प्रकाश**  - आकाश में जगमगाती चीज़ो स अब धरती को प्रकाश मिलने लगा।
+  * **रात व दिन, ऋतुओं व वर्षों**  - समय के छोटे से लेकर बड़े, हर हिस्से को चिन्हित करने के लिए परमेश्वर ने अलग-अलग ज्योति पिण्ड बनाये, और उन्हें अनन्त काल के लिए उन्हें एक नियम से बाँध दिया।
+  * **रचना की**  - इसका आशय है कि परमेश्वर ने कुछ नहीं से सब कुछ बनाया।
+**[[:hi:obs:notes:frames:01-05|<<]] | [[:hi:obs:notes:01|Up]] | [[:hi:obs:notes:frames:01-07|>>]]**
