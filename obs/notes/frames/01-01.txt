@@ -1,22 +1,16 @@
-====== The Beginning [01-01] ======
+====== आरंभ [01-01] ======
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-01.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-01.jpg?nolink}}
-
-
-This is how **the beginning ** of everything happened. **[[:en:key-terms:god|God]] created** the **universe** and everything in it in six days. After God created the earth it was **dark ** and **empty**, and **nothing had been formed ** in it. But **[[:en:key-terms:holy-spirit|God's Spirit]]** was there over the water.
-
+सब चीज़ों का आरंभ कुछ इस प्रकार हुआ। [[:hi:key-terms:god|<font inherit/inherit;;#FF0000;;inherit>परमेश्वर</font> ]] ने छः दिन के भीतर **ब्रह्माण्ड** और उसके भीतर की सभी चीज़ों की **रचना** की। After God created the earth it was **dark ** and **empty**, and **nothing had been formed ** in it. But **[[:en:key-terms:holy-spirit|God's Spirit]]** was there over the water.
 
 ===== Translation Notes: =====
 
-
-    * **the beginning** - That is, "the beginning of all things," before anything existed except God.
-    * **created** - This is used here in the sense of making something out of nothing.
-    * **universe** - This includes everything that God created on the earth and in the heavens, both visible and invisible things. 
-    * **dark** - It was completely dark. There was no light at all, since God had not yet created light.
-    * **empty** - God had not yet created anything except for the bare earth covered by water.
-    * **nothing had been formed** - There were no distinguishing features–just water covering everything.
-    * **God's Spirit** - The Spirit of God, sometimes called the Holy Spirit, was present in the beginning, moving freely over the earth in order to create all that he had planned to do.
-**[[:hi:obs:notes:01|Up]] | [[hi/obs:notes/frames/01-02|>>]]** 
-
-
+  * **the beginning**  - That is, "the beginning of all things," before anything existed except God.
+  * **created**  - This is used here in the sense of making something out of nothing.
+  * **universe**  - This includes everything that God created on the earth and in the heavens, both visible and invisible things.
+  * **dark**  - It was completely dark. There was no light at all, since God had not yet created light.
+  * **empty**  - God had not yet created anything except for the bare earth covered by water.
+  * **nothing had been formed**  - There were no distinguishing features–just water covering everything.
+  * **God's Spirit**  - The Spirit of God, sometimes called the Holy Spirit, was present in the beginning, moving freely over the earth in order to create all that he had planned to do.
+**[[:hi:obs:notes:01|Up]] | [[:hi:obs:notes:frames:01-02|>>]]**
