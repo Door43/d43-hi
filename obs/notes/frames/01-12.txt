@@ -1,19 +1,11 @@
-====== Adam Was Alone [01-12] ======
+====== आदम अकेला था [01-12] ======
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-12.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-12.jpg?nolink}}
+तब [[:hi:key-terms:god|परमेश्वर]] ने कहा, ‘‘मनुष्य का **अकेला** रहना [[:hi:key-terms:good|अच्छा]] **नहीं** ।’’ लेकिन कोई भी जानवर [[:hi:key-terms:adam|आदम]] का **सहायक** होने योग्य नहीं था।
+===== अनुवाद के लिए नोट्स: =====
 
-
-Then **[[:en:key-terms:god|God]]** said, "It is **not [[:en:key-terms:good|good]]** for man to be **alone**." But none of the animals could be **[[:en:key-terms:adam|Adam's]] helper**.
-
-
-===== Translation Notes: =====
-
-
-  * **not good** - This is the first time that anything in creation was not good. It means it was, "not yet good" because God was not finished with the creation of humans.
-  * **alone** - Adam was the only human, with no possibility of a relationship with another person, and unable to reproduce children and multiply.
-  * **Adam's helper** - There was no one who was similar enough to Adam to join with him to accomplish the task that God gave to him. None of the animals could do this.
-
-
-**[[hi/obs:notes/frames/01-11|<<]] | [[:hi:obs:notes:01:|Up]] | [[hi/obs:notes/frames/01-13|>>]]**
-
+  * **अच्छा नहीं था**  - पहली बार, सृष्टि में एक ऐसी बात हुई जो अच्छी नहीं थी। इसका आशय है कि इसका ‘‘अच्छा होना अभी शेष था’’, क्योंकि परमेश्वर द्वारा मनुष्य की रचना का काम अभी तक पूरा नहीं हुआ था।
+  * **अकेला**  - आदम अकेला मनुष्य था, और किसी अन्य मनुष्य के साथ संबंध रखने, व संतान उत्पन्न करके अपनी संख्या बढ़ाने में असमर्थ था।
+  * **आदम का सहायक**  - कोई भी ऐसा नहीं था कि आदम के साथ मिलकर उस कार्य को पूरा कर सके जो परमेश्वर ने उसे दिया था। किसी भी जानवर में यह योग्यता नहीं थी।
+**[[:hi:obs:notes:frames:01-11|<<]] | [[:hi:obs:notes:01|Up]] | [[:hi:obs:notes:frames:01-13|>>]]**
