@@ -1,23 +1,14 @@
-====== Adam Met Eve [01-14] ======
+====== आदम की नारी से भेंट [01-14] ======
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-14.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-14.jpg?nolink}}
+जब [[:hi:key-terms:adam|आदम]] ने उसे देखा, उसने कहा, ‘‘**आखिरकार**! यह **मेरी जैसी** है! उसे **नारी** कह कर बुलाया जाये, क्योंकि उसकी **उत्पत्ति नर में से हुई** है।’’ इसीलिए, **एक नर अपने पिता व माता को छोड़ कर**, अपनी पत्नी के साथ **एक होता** है।
+===== अनुवाद के लिए नोट्स: =====
 
-
-When **[[:en:key-terms:adam|Adam]]** saw her, he said, "**At last**! This one is **like me**! Let her be called '**Woman**,' for she was **made from Man**." This is why **a man leaves** his father and mother and **becomes one** with his wife.
-
-
-===== Translation Notes: =====
-
-
-    * **At last!** - Adam's exclamation indicates that he had been waiting for something like the woman. 
-    * **like me** - The woman was the same type of being as Adam, even though there were important differences between them.
-    * **Woman** - This word is the feminine form of the word for man.
-    * **made from man** - The woman was formed directly from Adam's own body.
-    * **a man leaves** - This is stated in the present tense to indicate what would become the normal situation in the future. Adam did not have a mother or father, but all other men would.
-    * **becomes one** - The husband and wife will share an intimate bond of unity and a commitment to one another that will surpass their relationships to anyone else.
-
-
-**[[hi/obs:notes/frames/01-13|<<]] | [[:hi:obs:notes:01|Up]] | [[hi/obs:notes/frames/01-15|>>]]** 
-
-
+  * **At last!**  - Adam's exclamation indicates that he had been waiting for something like the woman.
+  * **like me**  - The woman was the same type of being as Adam, even though there were important differences between them.
+  * **Woman**  - This word is the feminine form of the word for man.
+  * **made from man**  - The woman was formed directly from Adam's own body.
+  * **a man leaves**  - This is stated in the present tense to indicate what would become the normal situation in the future. Adam did not have a mother or father, but all other men would.
+  * **becomes one**  - The husband and wife will share an intimate bond of unity and a commitment to one another that will surpass their relationships to anyone else.
+**[[:hi:obs:notes:frames:01-13|<<]] | [[:hi:obs:notes:01|Up]] | [[:hi:obs:notes:frames:01-15|>>]]**
