@@ -3,14 +3,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-10.jpg?nolink&}}
 
 तो [[:hi:key-terms:god|परमेश्वर]] ने **कुछ धूल ली**, और उसे **एक मनुष्य** का **आकार दिया**, और उसके भीतर **[[:hi:key-terms:life|जीवन]] का श्वास ****फूँका** । इस मनुष्य का नाम **[[:hi:key-terms:adam|आदम]]** था। परमेश्वर ने आदम के रहने के लिए एक **बगीचा** बनाया, और उसकी **देखरेख** के लिए उसे वहाँ पर रखा।
-===== Translation Notes: =====
+===== अनुवाद के लिए नोट्स: =====
 
-  * **took some dirt**  - God made man from the dust, or dry dirt from the ground. This word should probably be different from the general word used for earth.
-  * **formed it**  - This word expresses that God personally fashioned the man, comparing this to how a person creates something with his hands. Make sure that a different word from "create" is used. Note that this is very different from how he created everything else through a simple spoken command.
-  * **a man**  - Only the man was created at this time; the woman was created later by a different method.
-  * **breathed life**  - This phrase expresses God's very personal, intimate action as he transferred life from himself into Adam's body, comparing this to how a human being breathes out air.
-  * **life**  - In this event, God breathed both physical and spiritual life into the man.
-  * **Adam**  - Adam's name is the same as the Old Testament word for "man," and similar to the word for "dirt" from which he was formed.
-  * **garden**  - An area of land planted with trees and plants for a purpose–usually to produce food or to provide beauty.
-  * **care for it**  - To maintain the garden by tending, weeding, watering, harvesting, planting, etc.
+  * **कुछ धूल ली**  - परमेश्वर ने मनुष्य की रचना धूल से, अर्थात् भूमि की सूखी मिट्टी से की। इसका अनुवाद धरती के लिए सामान्य तौर पर प्रयुक्त हानेवाले शब्द से नहीं की जानी चाहिए।
+  * **आकार दिया**  - इन शब्दों से पता चलता है कि परमेश्वर ने मनुष्य को स्वयं अपने हाथों से रचा; और इसकी तुलना मनुष्य द्वारा किसी चीज़ को अपने हाथों से रचने के साथ करता है। ध्यान रहे इसके लिए ‘‘रचने’’ के अतिरिक्त किसी अन्य शब्द का प्रयोग करें। ध्यान दें कि अन्य सभी चीज़ों को केवल शब्दों को कहने के द्वारा बनाने से बिल्कुल अलग रचना है।
+  * **एक मनुष्य**  - इस समय केवल नर को उत्पन्न किया था, नारी की उत्पत्ति बाद में किसी और तरीके से हुई थी।
+  * **जीवन का श्वास फूँका**  - ये शब्द परमेश्वर द्वारा स्वयं अपने जीवन को आदम में फूँकने के निजी, व्यक्तिगत कार्य को दर्शाते हैं, और मनुष्य के साँस लेने की प्रक्रिया से इसकी तुलना करते हैं।
+  * **जीवन**  - ऐसा करते समय परमेश्वर ने आदम के भीतर शारीरिक तथा आत्मिक, दोनो प्रकार का जीवन फूँका।
+  * **आदम**  - पुराने नियम में ‘‘मनुष्य’’ के लिए जो शब्द को प्रयोग हुआ है वही ‘‘आदम’ के लिए भी हुआ है, और यह ‘‘धूल’’ के लिए प्रयुक्त हुए शब्द के समान है, जिससे कि उसे उत्पन्न किया गया था।
+  * **बगीचा**  - भूमि का ऐसा टुकड़ा जिसमें भोजन पैदा करने या खूबसूरती बढाने के लिए पेड़-पौधे लगाते हैं।
+  * **देखरेख के लिए**  - रखवाली, निराई, सिंचाई, फसल काटने, व पेड़-पौधे उगाने के द्वारा बगीचे का रख-रखाव करना।
 **[[:hi:obs:notes:frames:01-09|<<]] | [[:hi:obs:notes:01|Up]] | [[:hi:obs:notes:frames:01-11|>>]]**
