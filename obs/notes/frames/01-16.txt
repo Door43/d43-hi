@@ -1,24 +1,16 @@
-====== God Rested [01-16] ======
+====== परमेश्वर ने विश्राम किया [01-16] ======
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-16.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-16.jpg?nolink}}
-
-
-When **the seventh day** came, **[[:en:key-terms:god|God]]** had **finished his work**. So **God rested** from all he had been doing. He **[[:en:key-terms:bless|blessed]] the seventh day** and **made it [[:en:key-terms:holy|holy]]**, because on this day he rested from his work. This is how God created **the universe** and everything in it.
-
+**सातवें दिन** तक [[:hi:key-terms:god|परमेश्वर]] **अपना कार्य पूरा कर चुका था** । इसलिए, परमेश्वर ने अपने क्रिया-कलापों से **विश्राम ****लिया** । उसने **सातवें दिन** को [[:hi:key-terms:bless|आशीष]] दी और इसे [[:hi:key-terms:holy|पवित्र]] **ठहराया**, क्योंकि इस दिन उसने अपने कार्यों से विश्राम किया था। इस प्रकार परमेश्वर ने **ब्रह्माण्ड** और उसके भीतर की सब चीज़ों को रचा।
 //A Bible story from: Genesis 1-2//
+===== अनुवाद के लिए नोट्स: =====
 
-
-===== Translation Notes: =====
-
-    * **the seventh day** - The next day after the six days of creation were completed.
-    * **finished his work** - Specifically, God finished the work of creation. He still performs other work.
-    * **God rested** - God "rested" in the sense that he stopped working because creation was complete. God was not tired, or unable to continue. 
-    * **blessed the seventh day** - God had a special, positive plan for the seventh day, and for every seventh day to follow.
-    * **made it holy** - That is, God "set apart" the day as a special day. It was not to be used in the same way as the other six days of the week. 
-    * **the universe** - This includes everything that God created on the earth and in the heavens, both visible and invisible things.
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-
-**[[hi/obs:notes/frames/01-15|<<]] | [[:hi:obs:notes:01|Up]] | [[hi/obs:notes/frames/02-01|>>]]** 
-
-
+  * **सातवें दिन**  - सृष्टि की रचना के छः दिनों के बाद सातवाँ दिन।
+  * **अपना कार्य पूरा कर चुका**  - विशेष रुप से परमेश्वर द्वारा सृष्टि का कार्य पूरा किया जाना। उसे दूसरे काम अब भी करने थे।
+  * **परमेश्वर ने ...विश्राम किया**  - ‘‘विश्राम किया’’ का आशय यहाँ सृष्टि की रचना के कार्य से विराम लेने से है, क्योंकि यह कार्य पूरा हो चुका था। परमेश्वर थका नहीं था, या कि और अधिक श्रम करने में अक्षम नहीं था।
+  * **blessed the seventh day**  - God had a special, positive plan for the seventh day, and for every seventh day to follow.
+  * **made it holy**  - That is, God "set apart" the day as a special day. It was not to be used in the same way as the other six days of the week.
+  * **the universe**  - This includes everything that God created on the earth and in the heavens, both visible and invisible things.
+  * //A Bible story from//  - These references may be slightly different in some Bible translations.
+**[[:hi:obs:notes:frames:01-15|<<]] | [[:hi:obs:notes:01|Up]] | [[:hi:obs:notes:frames:02-01|>>]]**
