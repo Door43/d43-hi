@@ -2,16 +2,19 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-09.jpg?nolink&}}
 
-**[[:hi:key-terms:god|परमेश्वर]]** ने साँप से कहा, ‘‘**तुझ पर [[:hi:key-terms:curse|श्राप]] है**! तू अपने पेट के बल चलेगा और धूल खाएगा। तू और स्त्री **एक दूसरे से नफरत करेंगे**, और तेरे बच्चे और उसके बच्चे भी एक दूसरे से नफरत करेंगे। **स्त्री का [[:hi:key-terms:descendant|वंशज]]****तेरा सिर कुचलेगा**, और तू **उसकी ऐड़ी को ****डसेगा** ।’’
-
+**[[:hi:key-terms:god|परमेश्वर]]** ने साँप से कहा, ‘‘**तुझ पर [[:hi:key-terms:curse|श्राप]] है**! तू अपने पेट के बल चलेगा और धूल खाएगा। तू और स्त्री **एक दूसरे से नफरत करेंगे**, और तेरे बच्चे और उसके बच्चे भी एक दूसरे से नफरत करेंगे। **स्त्री का ** **[[:hi:key-terms:descendant|वंशज]]****तेरा**** सिर कुचलेगा**, और तू **उसकी ऐड़ी को ****डसेगा** ।’’
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
   * **[[:en:obs:notes:key-terms:god|परमेश्वर ]]**
   * **[[:en:obs:notes:key-terms:curse|श्राप है ]]**
   * **[[:en:obs:notes:key-terms:descendant|वंशज ]]**
-===== Translation Notes: =====
+===== अनुवाद के लिए नोट्स: =====
 
-  * **you are cursed**  - This could also be translated as, “I curse you” or, “Great harm will come to you.” Do not use a word that implies magic.
+  *
+
+**तुझ पर श्राप है**  - इसका अनुवाद करते समय, ‘‘मैं तुझे श्राप देता हूँ,’’ या, ‘‘तुझ पर घोर नाश आएगा,’’ भी कह सकते हैं। ऐसा कोई शब्द का प्रयोग न करे जिससे जादू करने या जादू में डालने का भान होता है।
+एक दूसरे से नफरत करेंगे - साँप को स्त्री से, और स्त्री को साँप से नफरत होगी। स्त्री के वंशज साँप के वंशजों से नफरत करेंगे, और साँप के वंशज उसके वंशजों से।
+
   * **hate each other**  - The woman would hate the snake and the snake would hate the woman. The women's descendants would also hate the snake's descendants, and the snake's descendants would hate them.
   * **woman's descendant**  - Refers to one of her descendants in particular.
   * **crush your head**  - The descendant of the woman will destroy the descendant of the snake.
