@@ -1,17 +1,16 @@
-====== Disobedience [02-05] ======
+====== अवज्ञा [02-05] ======
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-05.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-05.jpg?nolink}}
+नारी ने देखा कि फल सुंदर था और खाने में स्वादिष्ट लगता था। वह **[[:hi:key-terms:wise|ज्ञानी]]** बनना चाहती थी, इसलिए उसने उनमें वह फल लिया और खा लिया। इसके बाद उसने कुछ हिस्सा अपने पति को भी खाने को दिया, **जो कि उसके साथ था**, और उसने भी इसे खा लिया।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-The woman saw that the fruit was beautiful and looked delicious. She also wanted to be **[[:en:key-terms:wise|wise]]**, so she picked some of the fruit and ate it. Then she gave some to her husband, **who was with her**, and he ate it, too.
+  *
 
-===== Translation Notes: =====
+**[[https://door43.org/en/obs/notes/key-terms/wise|ज्ञानी ]]**
+===== अनुवाद के लिए नोट्स: =====
 
-
-    * **wise** - The woman wanted to have insight and understanding like the snake seemed to have, and like God has.
-    * **who was with her** - This is important information because it shows that the man was present when the woman made the decision to eat the fruit. 
-
-
+  * **ज्ञानी**  - ज्ञान व समझ जैसी साँप के पास दिखती थी, या जैसी परमेश्वर के पास थी, नारी भी उसे पाना चाहती थी।
+  * **जो कि उसके साथ था**  - यह बहुत महत्वपूर्ण जानकारी है, क्योंकि इससे पता चलता है कि जब नारी ने फल खाने का निर्णय लिया, उस समय वह भी उसके साथ था।
 **[[:hi:obs:notes:frames:02-04|<<]] | [[:hi:obs:notes:02|Up]] | [[:hi:obs:notes:frames:02-06|>>]]**
-
