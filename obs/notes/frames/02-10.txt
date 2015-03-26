@@ -3,11 +3,11 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-10.jpg?nolink&}}
 
 **[[:hi:key-terms:god|परमेश्वर]]** ने तब स्त्री से कहा,‘‘मैं तरेे लिए **प्रसव को बहुत पीड़ादायक** करुँगा। तू अपने पति की इच्छा करेगी, और व तुझ पर शासन करेगा।’’
-
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
   * **[[:en:obs:notes:key-terms:god|परमेश्वर]]**
-===== Translation Notes: =====
+===== अनुवाद के लिए नोट्स: =====
 
-  * **childbirth very painful**  - Some languages may need to express this as a verb. You could say, “I will cause you to have much more pain when you give birth to children.”
+  * प्**रसव**** को बहुत पीड़ादायक**  - कुछ भाषाओं में इसे एक क्रिया के रुप में व्यक्त किये जाने की ज़रुरत हो सकती है। आप कह सकते हैं कि ‘‘मैं बच्चे को जनने की पीड़ा को तेरे लिए बहुत बढ़ा दूँगा।’’
+
 **[[:hi:obs:notes:frames:02-09|<<]] | [[:hi:obs:notes:02|Up]] | [[:hi:obs:notes:frames:02-11|>>]]**
