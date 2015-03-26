@@ -1,17 +1,11 @@
-====== Open Eyes [02-06] ======
+====== खुली आँखें [02-06] ======
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-06.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-06.jpg?nolink}}
+अचानक, **उनकी आँखें खुल गईं**, और उन्हें अहसास हुआ कि **वे नंगे थे** । **अपने शरीरों को ढकने** के लिए उन्होंने पत्तों के कपड़े सीए।
+===== अनुवाद के लिए नोट्स: =====
 
-
-Suddenly, **their eyes were opened**, and they realized **they were naked**. They tried to **cover their bodies** by sewing leaves together to make clothes.
-
-===== Translation Notes: =====
-
-
-    * **their eyes were opened** - This could be translated as, “they saw things differently.” This expression means they now understood something for the first time. In your language, there may be an expression with similar meaning that you could use to translate this.
-    * **realized they were naked** - After the man and the woman disobeyed God, they felt ashamed that they were naked. That is why they used leaves to try to cover their naked bodies. 
-    * **cover their bodies** - The man and the woman attempted to use leaves to hide themselves from God. 
-
-
+  * **उनकी आँखें खुल गईं**  - इसका अनुवाद इस तरह भी कर सकते हैं कि ‘‘उन्हें सब कुछ अलग रीति से दिखने लगा।’’ इन शब्दों से पता चलता है कि कोई एक बात थी जिसकी समझ उन्हें पहली बार हुई थीं। आपकी भाषा में इसके लिए कोई विशिष्ट शब्द हो सकता हैं जिसका आप प्रयोग कर सकते हैं?
+  * **अहसास हुआ कि वे नंगे थे**  - परमेश्वर की अवज्ञा करने के बाद आदम व नारी को पहली बार अपनी नग्नता पर शर्म का अहसास हुआ। यही कारण था कि अपनी नग्नता को छिपाने के लिए उन्होंने पत्तो को सी कर बने कपड़ों से अपने नग्न शरीरों को छिपाने का प्रयास किया।
+  * **अपने शरीरों को ढकने के लिए**  - परमेश्वर से छिपने के लिए आदम व नारी ने स्वयं को पत्तों के द्वारा छिपाने का प्रयास किया।
 **[[:hi:obs:notes:frames:02-05|<<]] | [[:hi:obs:notes:02|Up]] | [[:hi:obs:notes:frames:02-07|>>]]**
