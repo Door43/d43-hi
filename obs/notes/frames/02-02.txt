@@ -1,20 +1,13 @@
-====== The Snake [02-02] ======
+====== साँप [02-02] ======
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-02.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-02.jpg?nolink}}
+लेकिन बगीचे में एक धूर्त साँप था। उसने नारी से पूछा, ‘‘क्या सचमुच परमेश्वर ने तुम्हें बगीचे के किसी भी पेड़ का फल खाने से मना किया है?’’
 
+===== अनुवाद के लिए नोट्स: =====
 
-But there was a **crafty snake** in the garden. He asked the woman, “**Did [[:en:key-terms:god|God]] really tell you** not to eat the **fruit from any of the trees** in the garden?”
-
-
-===== Translation Notes: =====
-
-
-    * **crafty** - Clever and sly, with the intent to deceive. 
-    * **snake** - An elongated, legless land creature that now moves by wiggling on its belly. Although later on in the story it is revealed that the snake is Satan, this should not be said here in this frame. 
-    * **Did God really tell you** - The snake asked the woman whether God actually said not to eat from any of the trees in the garden. But he was only pretending that he didn't know what God had said because he wanted to create doubt in the woman's mind. He wanted her to question God's goodness. 
-    * **fruit of any of the trees** - All of the various types of fruit from each of the different trees in the garden.
-
+  * **धूर्त**  - धोखे देने की मंशावाला, चालाक व कपटी।
+  * **साँप**  - लंबा, बिना पैरोंवाला, थलजीव जो अब पेट के बल रेंगता है। हालांकि कहानी में बाद में पता चलता है कि वह साँप असल में शैतान था, लेकिन यह बात कहानी के इस हिस्से में नहीं बतानी है।
+  * **क्या सचमुच परमेश्वर ने तुम्हें.....मना किया है**  - साँप ने नारी से पूछा कि क्या सचुमच में परमेश्वर ने उसे किसी भी पेड़ का फल खाने से मना किया है। लेकिन वह तो बस इस बात का दिखावा कर रहा था कि उसे परमेश्वर की कही बात के बारे में पता नहीं था, क्योंकि वह नारी के दिमाग में एक संदेह पैदा करना चाहता था। वह चाहता था कि परमेश्वर की अच्छाई पर नारी सवाल करे।
+  * **किसी भी पेड़ का फल**  - बगीचे में मौजूद हर तरह के पेड़ के फल।
 **[[:hi:obs:notes:frames:02-01|<<]] | [[:hi:obs:notes:02|Up]] | [[:hi:obs:notes:frames:02-03|>>]]**
-
-
