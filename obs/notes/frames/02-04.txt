@@ -1,16 +1,28 @@
-====== The Lie [02-04] ======
+====== झूठ [02-04] ======
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-04.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-04.jpg?nolink}}
+साँप ने नारी को उत्तर दिया, ‘‘यह **[[:hi:key-terms:true|सच]]** नहीं है! तुम नहीं **[[:hi:key-terms:death|मरोगे]]**! **[[:hi:key-terms:god|परमेश्वर]]** यह जानता है कि जैसे ही तुम इसे खाओगे, तुम भी परमेश्वर के जैसे हो जाओगे और उस की तरह तुम्हें भी **[[:hi:key-terms:good|भले]]** व **[[:hi:key-terms:evil|बुरे]]** का ज्ञान हो जाएगा।’’
 
+===== महत्वपूर्ण शब्द तथा वाक्यांशः =====
 
-The snake responded to the woman, “That is not **[[:en:key-terms:true|true]]**! You will not **[[:en:key-terms:death|die]]**. **[[:en:key-terms:god|God]]** just knows that as soon as you eat it, you will be **like God** and will **understand [[:en:key-terms:good|good]] and [[:en:key-terms:evil|evil]]** like he does.”
+  *
 
+**[[https://door43.org/en/obs/notes/key-terms/true|सच ]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/death|मर ]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर ]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/good|भले ]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/evil|बुरे]]**
 ===== Translation Notes: =====
 
-
-    * **like God** - The man and the woman were already made in the likeness of God. The snake is suggesting that the woman would be more like God if she understood evil. However, God never intended for her to have this knowledge.
-    * **understand good and evil** -  To know from personal experience what things are good and what things are bad, or being able to know whether something is good or bad.
-
-
+  * **like God**  - The man and the woman were already made in the likeness of God. The snake is suggesting that the woman would be more like God if she understood evil. However, God never intended for her to have this knowledge.
+  * **understand good and evil**  - To know from personal experience what things are good and what things are bad, or being able to know whether something is good or bad.
 **[[:hi:obs:notes:frames:02-03|<<]] | [[:hi:obs:notes:02|Up]] | [[:hi:obs:notes:frames:02-05|>>]]**
