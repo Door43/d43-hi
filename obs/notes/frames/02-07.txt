@@ -1,17 +1,19 @@
-====== Where Are You? [02-07] ======
+====== तू कहाँ है? [02-07] ======
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-07.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-07.jpg?nolink}}
+आदम और नारी को बगीचे में **[[:hi:key-terms:god|परमेश्वर]]** के चलने की आहट सुनाई दी। वे दोनो परमेश्वर से छिप गये। परमेश्वर ने तब आदम को पुकारा, ‘‘तू कहाँ है?’’ **[[:hi:key-terms:adam|आदम]]** ने उत्तर दिया, ‘‘मैने बगीचे में तेरे चलने की आहट सुनाई दी, तो मैं डर गया, क्योंकि मैं नंगा था। इसलिए मैं छिप गया।’’
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-Then the man and his wife heard the sound of **[[:en:key-terms:god|God]] walking** through the garden. They both hid from God. Then God called to the man, “**Where are you?**” **[[:en:key-terms:adam|Adam]]** replied, “I heard you walking in the garden, and I was afraid, because I was naked. So I hid.”
+  *
 
-===== Translation Notes: =====
+**[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर ]]**
+  *
 
+**[[https://door43.org/en/obs/notes/key-terms/adam|आदम ]]**
+===== अनुवाद के लिए नोट्स: =====
 
-    * **God walking** - It seems that God regularly came to the garden to walk and talk with the man and the woman. We do not know what this looked like. If it is possible, it is best to use the same word that would be used to talk about a person walking. 
-    * **Where are you?** - God already knew the answer to this question. The purpose of the question was to force the man and the woman to explain why they were hiding.
-
-
+  * **God walking**  - It seems that God regularly came to the garden to walk and talk with the man and the woman. We do not know what this looked like. If it is possible, it is best to use the same word that would be used to talk about a person walking.
+  * **Where are you?**  - God already knew the answer to this question. The purpose of the question was to force the man and the woman to explain why they were hiding.
 **[[:hi:obs:notes:frames:02-06|<<]] | [[:hi:obs:notes:02|Up]] | [[:hi:obs:notes:frames:02-08|>>]]**
-
