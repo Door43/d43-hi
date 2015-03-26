@@ -1,17 +1,11 @@
-====== Do Not Touch [02-03] ======
+====== छुओ मत। [02-03] ======
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-03.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-03.jpg?nolink}}
-
-
-The woman answered, “**[[:en:key-terms:god|God]]** told us we could eat the **fruit** of any tree except from the **tree of the knowledge of [[:en:key-terms:good|good]] and [[:en:key-terms:evil|evil]]**. God told us, ‘If you eat that fruit or even touch it, **you will [[:en:key-terms:death|die]]**.’”
-
-
+नारी ने उत्तर दिया, ‘‘[[:hi:key-terms:god|परमेश्वर]] ने हमें कहा है कि **[[:hi:key-terms:good|भले]] और [[:hi:key-terms:evil|बुरे]] के ज्ञान के पेड़** को छोड़, हम और किसी भी पेड़ का **फल** खा सकते हैं। परमेश्वर ने हमसे कहा कि यदि तुम उस पेड़ का खाओगे, या छू भी लोगे तो **[[:hi:key-terms:death|मर ]]****जाओगे** ।’’
 ===== Translation Notes: =====
 
-    * **fruit** - We don't know what kind of fruit this was. We only know that it grew on this tree.  If possible it is best to use a general word for fruit here, and not a word for a specific kind of fruit. 
-    * **tree of the knowledge of good and evil** - The woman correctly understood that they were not allowed to eat from this one tree that would enable them to understand evil as well as good.
-    * **you will die** - Use your ordinary word for death, for a person's physical life to end. Don't avoid the term just because the thought of death sounds too harsh. 
- 
-
+  * **fruit**  - We don't know what kind of fruit this was. We only know that it grew on this tree. If possible it is best to use a general word for fruit here, and not a word for a specific kind of fruit.
+  * **tree of the knowledge of good and evil**  - The woman correctly understood that they were not allowed to eat from this one tree that would enable them to understand evil as well as good.
+  * **you will die**  - Use your ordinary word for death, for a person's physical life to end. Don't avoid the term just because the thought of death sounds too harsh.
 **[[:hi:obs:notes:frames:02-02|<<]] | [[:hi:obs:notes:02|Up]] | [[:hi:obs:notes:frames:02-04|>>]]**
