@@ -3,9 +3,9 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-03.jpg?nolink&}}
 
 नारी ने उत्तर दिया, ‘‘[[:hi:key-terms:god|परमेश्वर]] ने हमें कहा है कि **[[:hi:key-terms:good|भले]] और [[:hi:key-terms:evil|बुरे]] के ज्ञान के पेड़** को छोड़, हम और किसी भी पेड़ का **फल** खा सकते हैं। परमेश्वर ने हमसे कहा कि यदि तुम उस पेड़ का खाओगे, या छू भी लोगे तो **[[:hi:key-terms:death|मर ]]****जाओगे** ।’’
-===== Translation Notes: =====
+===== अनुवाद के लिए नोट्स: =====
 
-  * **fruit**  - We don't know what kind of fruit this was. We only know that it grew on this tree. If possible it is best to use a general word for fruit here, and not a word for a specific kind of fruit.
-  * **tree of the knowledge of good and evil**  - The woman correctly understood that they were not allowed to eat from this one tree that would enable them to understand evil as well as good.
-  * **you will die**  - Use your ordinary word for death, for a person's physical life to end. Don't avoid the term just because the thought of death sounds too harsh.
+  * **फल**  - इस बात की कोई जानकारी नहीं है कि वह किस प्रकार का फल था। हम बस इतना जानते हैं कि वह इस पेड़ पर उगता था। संभव हो तो यहाँ किसी फल विशेष का नाम का प्रयोग न करते हुए केवल ‘फल’ लिखा जाए।
+  * **भले व बुरे के ज्ञान का पेड़**  - नारी ने बिल्कुल सही समझा था कि परमेश्वर ने उन्हें इस एक पेड़ का फल खाने से मना किया था, क्योंकि इससे उन्हें भले और बुरे का ज्ञान हो जाता।
+  * **मर जाओगे**  - यहाँ मृत्यु के लिए व्यक्ति की शारीरिक जीवन का अंत व्यक्त करनेवाले सामान्य शब्द का प्रयोग करें। मृत्यु शब्द को लिखने से केवल इसलिए नहीं बचे क्योंकि यह बहुत कठोर शब्द लगता है।
 **[[:hi:obs:notes:frames:02-02|<<]] | [[:hi:obs:notes:02|Up]] | [[:hi:obs:notes:frames:02-04|>>]]**
