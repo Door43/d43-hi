@@ -1,16 +1,15 @@
-====== The Raven [03-10] ======
+====== कौआ [03-10] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-10.jpg?nolink&}}
 
+चालीस और दिनों के बाद, **[[:hi:key-terms:noah|नूह]]** ने **कौआ** नामक पंछी को यह देखने बाहर भेजा कि पानी सूखा है या नहीं। सूखी भूमि की तलाश में कौआ आगे-पीछे उड़ा, लेकिन उसे सूखी भूमि कहीं न मिली।
 
-After forty more days, **[[:en:key-terms:noah|Noah]]** sent out a bird called a **raven** to see if the water had dried up. The raven flew back and forth looking for dry land, but it could not find any.
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  *
 
+**[[https://door43.org/en/obs/notes/key-terms/noah|नूह]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **raven** - A black bird that flies and eats a variety of plant and animal foods, including the rotting flesh of dead animals. 
-  
-
+  * **कौआ**  - काले रंग का एक पंछी जो तरह-तरह के पेड़-पौधे और पशु आहार खाता है, जिसमें मरे हुए जानवर का सड़ा हुआ माँस भी शामिल है।
 **[[:hi:obs:notes:frames:03-09|<<]] | [[:hi:obs:notes:03|Up]] | [[:hi:obs:notes:frames:03-11|>>]]**
-
-
