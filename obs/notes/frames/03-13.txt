@@ -1,18 +1,20 @@
-====== Leaving the Boat [03-13] ======
+====== नाव छोड़ना [03-13] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-13.jpg?nolink&}}
 
+**दो महीनों बाद [[:hi:key-terms:god|परमेश्वर]]** ने **[[:hi:key-terms:noah|नूह]]** से कहा, ‘‘तू और तेरा परिवार, और सारे जानवर अब नाव से बाहर आ सकते हैं। **बहुत से बच्चे**, और उनके बच्चे पैदा करों, और **धरती को भर दो** ।’’ इस तरह, नूह व उसका परिवार नाव से बाहर आ गया।
 
-**Two months later [[:en:key-terms:god|God]]** said to **[[:en:key-terms:noah|Noah]]**, “You and your family and all the animals may leave the boat now. **Have many children** and grandchildren and **fill the earth**.” So Noah and his family came out of the boat.
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर ]]**
+  *
 
+**[[https://door43.org/en/obs/notes/key-terms/noah|नूह]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **Two months later** - This means two months after Noah released the dove from the ark. It may be necessary to say this explicitly if it is not clear.
-  * **Have many children** – To make sure it is clear that this was God's command and desire, you could say, “You must have many children.” or, “I want you to have many children.”
-  * **fill the earth** - If this is not clear, it may be necessary to say, “and fill the earth with people” or, "so that there will be many people living on the earth.”
-  
-
+  * **दो महीने बाद**  - नाव से कबूतर को उड़ाने के दो महीने बाद। अधिक स्पष्टता के लिए यदि ज़रुरी हो तो इस तथ्य को अलग से भी बताएँ।
+  * **बहुत से बच्चे**  - यह दिखाने के लिए यह परमेश्वर की दी आज्ञा थी, आप ऐसा भी कह सकते हैं कि ‘‘तुम बहुत से बच्चे पैदा करो, या कि ‘‘मैं चाहता हूँ कि तुम बहुत से बच्चे पैदा करों’’
+  * **धरती को भर दो**  - यदि बात स्पष्ट न हो तो ऐसा कहना ज़रुरी हो सकता है कि ‘‘और धरती को लोगों से भर दो, ’’ या ‘‘ताकि धरती पर बहुत से लोगों का वास हो।’
 **[[:hi:obs:notes:frames:03-12|<<]] | [[:hi:obs:notes:03|Up]] | [[:hi:obs:notes:frames:03-14|>>]]**
-
