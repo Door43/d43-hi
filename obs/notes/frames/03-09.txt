@@ -1,18 +1,12 @@
-====== The Rain Stopped [03-09] ======
+====== बारिश रुकी [03-09] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-09.jpg?nolink&}}
 
+**बारिश रुकने के** बाद, पाँच महीनों तक नाव पानी पर तैरती रही, और इस दौरान पानी नीचे उतरने लगा। फिर एक दिन, **नाव** **एक पर्वत** **पर** **ठहर गई**, लेकिन सारा संसार अब भी पानी में डुबा हुआ था। **तीन महीने** बाद, **पर्वतों की चोटियाँ नज़र आने लगी थीं।**
+===== अनुवाद के लिए नोट्स: =====
 
-After **the rains stopped**, the boat floated on the water for five months, and during this time the water started going down. Then one day the **boat rested** on the top of a mountain, but the world was still covered with water. After **three more months**, the tops of the **mountains were visible**.
-
-===== Translation Notes: =====
-
-
-  * **the rains stopped** – This could be translated as, “it stopped raining.”
-  * **boat rested** - There was so much water from the rain that it covered the mountains. The ship floated over the mountains, and when the water started to go down, the ship went down with the water and settled on a mountain.
-  * **three more months** - During the next three months, the water continued to go down.
-  * **mountains were visible** - Other ways to translate this would be, “were showing” or, “appeared” or, “could be seen.” It may be more clear to say, “After three months, the water had gone down enough so that Noah and his family could clearly see the tops of the mountains.
-
-
+  * **बारिश रुकने के बाद**  - अनुवाद करते समय इसे ‘‘बारिश रुकने लगी,’’ भी कह सकते हैं।
+  * **नाव ठहर गई**  - बारिश से इतना पानी बरसा था कि पर्वत-पहाड़ भी उसमें डूब गये थे। नाव पर्वतों के ऊपर बह रही थी, और जब पानी उतरने लगा, तब वह पानी के स्तर के साथ नीचे होते हुए पर्वत पर टिक गई।
+  * **तीन महीने**  - अगले तीन महीनों के दौरान, पानी का स्तर कम होता जा रहा था।
+  * **पर्वतों की चोटियाँ नज़र आने लगीं **- इसका अनुवाद ऐसे भी कर सकते हैं, कि ‘‘चाटियाँ दिखने लगी थीं, ’’ या ‘‘दिखाई दीं,’’ या ‘‘देखी जा सकती थीं।’’ अधिक स्पष्टता के लिए इसका अनुवाद ऐसे भी कर सकते हैं, कि ‘‘तीन महीनों बाद, पानी इतना घट गया कि नूह और उसके परिवार को पर्वत साफ दिखाई देने लगे थे।’’
 **[[:hi:obs:notes:frames:03-08|<<]] | [[:hi:obs:notes:03|Up]] | [[:hi:obs:notes:frames:03-10|>>]]**
-
