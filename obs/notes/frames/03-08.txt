@@ -1,17 +1,16 @@
-====== Safe from the Flood [03-08] ======
+====== बाढ़ से सुरक्षित [03-08] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-08.jpg?nolink&}}
 
+नाव के भीतर के लोगों व जानवरों को छोड़, भूमि पर रहनेवाली हर चीज़ **[[:hi:key-terms:death|मर]]** गई। नाव पानी में तैरने लगी, और उसके भीतर की हर चीज़ डूबने से बच गई।
 
-Everything that lived on the dry land **[[:en:key-terms:death|died]]**, except the people and animals that were in the boat. The boat floated on the water and kept everything inside the boat safe from drowning.
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[https://door43.org/en/obs/notes/key-terms/death|मर]]**
+===== अनुवाद के लिए नोट्स: =====
 
-
-  * //(There are no notes for this frame.)//
-
+  * (यहाँ पर कोई नोट्स नहीं है।)
 
 **[[:hi:obs:notes:frames:03-07|<<]] | [[:hi:obs:notes:03|Up]] | [[:hi:obs:notes:frames:03-09|>>]]**
-
-
