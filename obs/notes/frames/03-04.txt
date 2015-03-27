@@ -1,17 +1,22 @@
-====== Building the Boat [03-04] ======
+====== नाव को बनाना। [03-04] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-04.jpg?nolink&}}
 
+**[[:hi:key-terms:noah|नूह]] ने [[:hi:key-terms:god|परमेश्वर]] की [[:hi:key-terms:obey|आज्ञा का पालन]] ****किया** । उसने और उसके तीन बेटों ने मिल कर ठीक वैसी नाव का निर्माण किया, जैसा परमेश्वर ने उन्हें बताया था। नाव बहुत विशाल थी, इसलिए इसे बनाने में कई साल लगे। नूह ने लोगों को आनेवाली बाढ़ की चेतावनी दी, और उन्हें **परमेश्वर की आरे मुड़ने** को कहा, लेकिन उन्होंने उस पर विश्वास नहीं किया।
 
-**[[:en:key-terms:noah|Noah]]** **[[:en:key-terms:obey|obeyed]]** **[[:en:key-terms:god|God]]**. He and his three sons built the boat just the way God had told them. It took many years to build the boat, because it was so big. **Noah warned** the people about the flood that was coming and told them to **turn to God**, but they did not believe him.
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/noah|नूह ]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/obey|आज्ञा का पालन ]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर ]]**
 ===== Translation Notes: =====
 
-
-  * **Noah warned** - Noah told everyone that God planned to destroy the world because of sin.
-  * **turn to God** - This means that they should stop sinning and start obeying God.
-
-
+  * **Noah warned**  - Noah told everyone that God planned to destroy the world because of sin.
+  * **turn to God**  - This means that they should stop sinning and start obeying God.
 **[[:hi:obs:notes:frames:03-03|<<]] | [[:hi:obs:notes:03|Up]] | [[:hi:obs:notes:frames:03-05|>>]]**
-
-
