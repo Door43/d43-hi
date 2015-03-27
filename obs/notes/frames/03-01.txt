@@ -3,17 +3,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-01.jpg?nolink&}}
 
 **बहुत समय बाद**, संसार में बहुत से लोग रह रहे थे। वे **बहुत दुष्ट और हिंसक** हो चुके थे। **यह इतना बुरा हो गया**, कि **[[:hi:key-terms:god|परमेश्वर]]** ने एक **विशाल बाढ़** के द्वारा सारे संसार का **नाश करने का निर्णय** कर लिया।
-
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
+  * **[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर]]**
+===== अनुवाद के लिए नोट्स: =====
 
-**[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर]]**
-===== Translation Notes: =====
-
-  * **After a long time**  - This story happens many generations (hundreds of years) after creation.
-  * **very wicked and violent**  - It may be more natural to say, "had become wicked and did violent things”.
-  * **It became so bad**  – It may be clearer to say, “People were behaving in such harmful and evil ways that God.”
-  * **God decided to destroy**  - This does not mean that the earth would be destroyed completely. Rather God planned to destroy all the people who had rebelled against him and who had caused such evil and violence. This flood would also kill all the land animals and the birds.
+  * **बहुत समय बाद**  - यह कहानी सृष्टि के बाद हुई कई पीढि़यों (सैकड़ों सालों) के बाद में घटती है।
+  * **बहुत दुष्ट और हिंसक**  - ऐसा कहना अधिक सहज लगेगा कि वे ‘‘बहुत दुष्ट हो चुके थे और बहुत हिंसक चीज़ें करते थे।’’
+  * **इतना बुरा हो गया**  - यहाँ ऐसा कह सकते हैं कि ‘‘लोग इतने घातक और बुरे रास्तों पर चल रहे थे कि परमेश्वर को....।’’
+  * **परमेश्वर ने .....नाश करने का निण्रय कर लिया**  - इसका अर्थ यह नहीं है कि परमेश्वर पृथ्वी का ही नामो-निशान मिटाना चाहता था। बल्कि परमेश्वर उन लोगों का सफाया करना चाहता था जो उसकी अवज्ञा करते थे और बुरे व हिंसक कार्य करते थे। इस बाढ़ से सभी थल जीवों तथा पंछियों का भी नाश होनेवाला था।
   * **huge flood**  - Very deep water that would cover the earth, even in places where the ground was normally dry, and even covering the tops of the highest mountains.
 **[[:hi:obs:notes:frames:02-12|<<]] | [[:hi:obs:notes:03|Up]] | [[:hi:obs:notes:frames:03-02|>>]]**
