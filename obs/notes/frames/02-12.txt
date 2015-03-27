@@ -2,9 +2,33 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-12.jpg?nolink&}}
 
-तब **परमेश्वर** ने कहा, ‘‘अब जबकि **भले और बुरे का ज्ञान पाकर** मनुष्य **हमारे समान हो गये हैं**, उन्हें **जीवन का** **फल** खाने और अनन्त काल तक जीवित रहने नहीं दिया जाना चाहिए।’’ इसलिए परमेश्वर ने **आदम** और **हव्वा** को उस सुंदर बगीचे से दूर भेज दिया। परमेश्वर ने दो विशाल, शक्तिशाली **स्वर्गदूतों** को बगीचे के प्रवेश द्वार तैनात कर दिया, ताकि कोई भी जीवन के पड़े का फल न खा सके।
+तब **[[:hi:obs:key-terms:god|परमेश्वर]]** ने कहा, ‘‘अब जबकि **[[:hi:obs:key-terms:good|भले]] और [[:hi:obs:key-terms:evil|बुरे]] का ज्ञान पाकर** मनुष्य **हमारे समान हो गये हैं**, उन्हें **[[:hi:obs:key-terms:life|जीवन]] का****फल** खाने और अनन्त काल तक जीवित रहने नहीं दिया जाना चाहिए।’’ इसलिए परमेश्वर ने **[[:hi:obs:key-terms:adam|आदम]]** और **[[:hi:obs:key-terms:eve|हव्वा]]** को उस सुंदर बगीचे से दूर भेज दिया। परमेश्वर ने दो विशाल, शक्तिशाली **[[:hi:obs:key-terms:angel|स्वर्गदूतों]]** को बगीचे के प्रवेश द्वार तैनात कर दिया, ताकि कोई भी जीवन के पड़े का फल न खा सके।
 
-//A Bible story from: Genesis 3//
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
+
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर ]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/good|अच्छा ]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/evil|बुरा ]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/life|जीवन ]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/adam|आदम ]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/eve|हव्वा ]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/angel|स्वर्गदूतों ]]**
+//बाइबिल की कहानी में से : उत्पति  3//
+
 ===== Translation Notes: =====
 
   * **like us by knowing good and evil**  - Here, this phrase points to a new way that Adam and Eve would be like God. Because they had sinned, they were aware of evil and could experience it. You could say, "because now they knew both good and evil.”
