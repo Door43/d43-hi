@@ -1,18 +1,17 @@
-====== The Dove [03-11] ======
+====== कबूतर [03-11] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-11.jpg?nolink&}}
 
+**[[:hi:key-terms:noah|नूह]]** ने बाद में **कबूतर** नाम का एक पंछी भेजा। लेकिन उसे भी कहीं सूखी भूमि दिखाई न दी, और वह नूह के पास लौट आया। एक सप्ताह बाद उसने फिर से एक कबूतर उड़ाया, और वह अपनी चोंचे में **जैतून की एक शाखा** लेकर लौटा! **पानी घट रहा था**, और पेड़-पौधे फिर से उगने लगे थे।
 
-Later **[[:en:key-terms:noah|Noah]]** sent out a bird called a **dove**. But it also could not find any dry land, so it came back to Noah. A week later he sent the dove out again, and it came back with an **olive branch** in its beak! **The water was going down**, and the plants were growing again!
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[https://door43.org/en/obs/notes/key-terms/noah|नूह]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **dove** - A small, white or gray flying bird that eats seeds or fruit.
-  * **olive branch** - An olive tree's fruit contains oil which people use for cooking or putting on their skin. If your language does not have a word for “olive branch,” you could translate it as, “branch from a tree called 'olive'” or, “branch from an oil-tree.”
-  * **water was going down** - It may be more natural in your language to say that, “the water was going away” or, “the level of the water was getting lower.”
-  
-
+  * **कबूतर**  - सफेद या स्लेटी रंग का एक छोटा सा पंछी जो बीज या फल खाता है।
+  * **जैतून की शाखा**  - जैतून के पेड़ में उगनेवाले फल में तेल होता है जिसे लोग खाना पकाने या अपने शरीर में लगाने के लिए इस्तेमाल में लाते हैं। अपनी भाषा के अुनसार आप इसे ‘‘जैतून नाम के पेड़ की एक शाखा’’ , या ‘‘तेलवाले पेड़ की एक शाखा’’ कह सकते हैं।
+  * **पानी घट रहा था**  - संभव है कि अपनी भाषा में आप इसका अनुवाद करते समय कहना चाहें कि ‘‘पानी कम हो रहा था, ’’ या ‘‘पानी का स्तर कम होने लगा था।’’
 **[[:hi:obs:notes:frames:03-10|<<]] | [[:hi:obs:notes:03|Up]] | [[:hi:obs:notes:frames:03-12|>>]]**
-
-
