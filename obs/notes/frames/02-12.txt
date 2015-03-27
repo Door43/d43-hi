@@ -2,37 +2,22 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-12.jpg?nolink&}}
 
-तब **[[:hi:obs:key-terms:god|परमेश्वर]]** ने कहा, ‘‘अब जबकि **[[:hi:obs:key-terms:good|भले]] और [[:hi:obs:key-terms:evil|बुरे]] का ज्ञान पाकर** मनुष्य **हमारे समान हो गये हैं**, उन्हें **[[:hi:obs:key-terms:life|जीवन]] का****फल** खाने और अनन्त काल तक जीवित रहने नहीं दिया जाना चाहिए।’’ इसलिए परमेश्वर ने **[[:hi:obs:key-terms:adam|आदम]]** और **[[:hi:obs:key-terms:eve|हव्वा]]** को उस सुंदर बगीचे से दूर भेज दिया। परमेश्वर ने दो विशाल, शक्तिशाली **[[:hi:obs:key-terms:angel|स्वर्गदूतों]]** को बगीचे के प्रवेश द्वार तैनात कर दिया, ताकि कोई भी जीवन के पड़े का फल न खा सके।
+तब **[[:hi:obs:key-terms:god|परमेश्वर]]** ने कहा, ‘‘अब जबकि **[[:hi:obs:key-terms:good|भले]] और [[:hi:obs:key-terms:evil|बुरे]] का ज्ञान पाकर** मनुष्य **हमारे समान हो गये हैं**, उन्हें **[[:hi:obs:key-terms:life|जीवन]] का फल** खाने और अनन्त काल तक जीवित रहने नहीं दिया जाना चाहिए।’’ इसलिए परमेश्वर ने **[[:hi:obs:key-terms:adam|आदम]]** और **[[:hi:obs:key-terms:eve|हव्वा]]** को उस सुंदर बगीचे से दूर भेज दिया। परमेश्वर ने दो विशाल, शक्तिशाली **[[:hi:obs:key-terms:angel|स्वर्गदूतों]]** को बगीचे के प्रवेश द्वार पर तैनात कर दिया, ताकि कोई भी जीवन के पेड़ का फल न खा सके।
 
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
+  * **[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर ]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/good|अच्छा ]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/evil|बुरा ]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/life|जीवन ]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/adam|आदम ]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/eve|हव्वा ]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/angel|स्वर्गदूतों ]]**
+  * //बाइबिल की कहानी में से : उत्पति 3//
+===== अनुवाद के लिए नोट्स: =====
 
-**[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर ]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/good|अच्छा ]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/evil|बुरा ]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/life|जीवन ]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/adam|आदम ]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/eve|हव्वा ]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/angel|स्वर्गदूतों ]]**
-//बाइबिल की कहानी में से : उत्पति  3//
-
-===== Translation Notes: =====
-
-  * **like us by knowing good and evil**  - Here, this phrase points to a new way that Adam and Eve would be like God. Because they had sinned, they were aware of evil and could experience it. You could say, "because now they knew both good and evil.”
-  * **fruit**  - The specific kind of fruit is not revealed, so it is best to translate this using a general word for fruit.
-  * **tree of life**  - This was an actual tree with fruit. See **[[:hi:obs:notes:frames:01-11|[01-11]]]**. If a person ate this fruit he would live continually and never die.
+  * **भले और बुरे का ज्ञान पाकर मनुष्य हमारे समान**  - यहाँ, यह वाक्यांश आदम और हव्वा के एक नई रीति में परमेश्वर के समान होने का संकेत करता है। चूँकि उन दोनो ने पाप किया था, इसलिए उन्हें बुराई का पता था आर इसका अनुभव कर सकते थे। आप कह सकते हैं, कि ‘‘क्योंकि अब दोनो को भले व बुरे का ज्ञान था।’’
+  * **फल**  - इस बात की कोई जानकारी नहीं है कि वह किस प्रकार का फल था, इसलिए बेहतर होगा कि यहाँ किसी फल विशेष का नाम का प्रयोग न करते हुए केवल ‘फल’ लिखा जाये।
+  * **जीवन का पेड**  - यह एक सचमुच का फलदार पेड़ था। **[[:hi:obs:notes:frames:01-11|[01-11]]]**. को देखें। इस पेड़ का फल खाने से व्यक्ति हमेशा जीवित रहता और कभी न मरता।
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
 **[[:hi:obs:notes:frames:02-11|<<]] | [[:hi:obs:notes:02|Up]] | [[:hi:obs:notes:frames:03-01|>>]]**
