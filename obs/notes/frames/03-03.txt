@@ -1,18 +1,18 @@
-====== The Big Boat [03-03] ======
+====== विशाल नाव [03-03] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-03.jpg?nolink&}}
 
+**[[:hi:key-terms:god|परमेश्वर]]** ने **[[:hi:key-terms:noah|नूह]]** को लगभग 140 मीटर लंबी, 23 मीटर चैड़ी और 13.5 मीटर ऊँचीं **नाव** बनाने को कहा। नूह को इसे लकड़ी से बनाना था और उसमें तीन मंजि़लें, कई कमरे, एक छत, और एक खिड़की बनानी थी। यह नाव नूह और उसके परिवार, और हर तरह के थल जीव के जोड़ों को बाढ़ के दौरान सुरक्षित रखेगी।
 
-**[[:en:key-terms:god|God]]** told **[[:en:key-terms:noah|Noah]]** to make **the boat** about 140 meters long, 23 meters wide, and 13.5 meters high. Noah was to build it with wood and to make three levels, many rooms, a roof, and a window. The boat would keep Noah, his family, and every kind of land animal safe during the flood.
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर ]]**
+  *
 
+**[[https://door43.org/en/obs/notes/key-terms/noah|नूह ]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **the boat** - The boat was big enough to carry eight people, two of every kind of animal, and their provisions for almost a year.
-
-
-
+  * **the boat**  - The boat was big enough to carry eight people, two of every kind of animal, and their provisions for almost a year.
 **[[:hi:obs:notes:frames:03-02|<<]] | [[:hi:obs:notes:03|Up]] | [[:hi:obs:notes:frames:03-04|>>]]**
-
-
