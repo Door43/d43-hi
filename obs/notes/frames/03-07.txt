@@ -1,19 +1,11 @@
-====== The Rain Began [03-07] ======
+====== बारिश शुरु हुई [03-07] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-07.jpg?nolink&}}
 
+तब **बारिश शुरु हुई और होती चली गई** । चालीस दिन और चालीस रातों तक लगातार बारिश होती रही! धरती से भी पानी **फूट कर निकलने ****लगा** । **पूरे संसार की हर चीज़** पानी में डूब गई, यहाँ तक सबसे ऊँचें पर्वत भी।
+===== अनुवाद के लिए नोट्स: =====
 
-Then it began to **rain, and rain, and rain**. It rained for forty days and forty nights without stopping! Water also came **gushing** up out of the earth. Everything in the **whole world was covered** with water, even the highest mountains.
-
-
-===== Translation Notes: =====
-
-
-  * **rain, and rain, and rain** - This emphasizes that there was an unusual, extreme amount of rain. Other languages may have a different way of emphasizing this.
-  * **gushing** - This indicates that there was a large amount of water coming out.
-  * **whole world was covered** - This refers to all the earth being covered with water from the flood.
-
-
+  * **बारिश शुरु हई और होती चली गई**  - यह इस बात पर बल देता है कि यह एक असामान्य, और बहुत भयंकर बारिश थी। दूसरी भाषाओं में इसे अलग तरह से व्यक्त किया जा सकता है।
+  * **फूट कर निकलने लगा**  - इससे बहुत बड़ी मात्रा में पानी के बह कर निलकने का पता चलता है।
+  * **पूरे संसार की हर चीज़**  - इसका आशय है कि पूरा संसार पानी में डूब गया था।
 **[[:hi:obs:notes:frames:03-06|<<]] | [[:hi:obs:notes:03|Up]] | [[:hi:obs:notes:frames:03-08|>>]]**
-
-
