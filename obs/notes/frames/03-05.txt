@@ -1,16 +1,19 @@
-====== Loading the Boat [03-05] ======
+====== नाव पर सवार होना [03-05] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-05.jpg?nolink&}}
 
+**[[:hi:key-terms:god|परमेश्वर]]** ने **[[:hi:key-terms:noah|नूह ]]**और उसके परिवार को अपने व जानवरों के लिए पर्याप्त मात्रा में भोजन एकत्रित करने को कहा। सारी तैयारियाँ होने पर, नूह को परमेश्वर ने बताया कि अब उसके, उसकी पत्नी, उसके तीन बेटों, व उनकी पत्नियों के, अर्थात् कुल मिला कर आठ लोगों के नाव में सवार होने का समय आ गया है।
 
-**[[:en:key-terms:god|God]]** also commanded **[[:en:key-terms:noah|Noah]]** and his family to gather enough food for themselves and the animals. When everything was ready, God told Noah it was time for him, his wife, his three sons, and their wives to get into the boat—eight people in all.
+===== महत्वपूर्ण शब्द तथा वाक्यांशः: =====
 
+  *
 
+**[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर ]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/noah|नूह ]]**
 ===== Translation Notes: =====
 
-//(There are no notes for this frame.)//
-
+(यहाँ पर कोई नोट्स नहीं है।)
 
 **[[:hi:obs:notes:frames:03-04|<<]] | [[:hi:obs:notes:03|Up]] | [[:hi:obs:notes:frames:03-06|>>]]**
-
-
