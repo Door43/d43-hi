@@ -1,20 +1,14 @@
-====== Out of the Garden [02-12] ======
+====== बगीचे से निष्कासन [02-12] ======
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-12.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-12.jpg?nolink}}
-
-Then **[[:en:key-terms:god|God]]** said, “Now that the human beings have become **like us by knowing [[:en:key-terms:good|good]] and [[:en:key-terms:evil|evil]]**, they must not be allowed to eat the **fruit** of the **tree of [[:en:key-terms:life|life]]** and live forever.” So God sent **[[:en:key-terms:adam|Adam]]** and **[[:en:key-terms:eve|Eve]]** away from the beautiful garden. God placed large, powerful **[[:en:key-terms:angel|angels]]** at the entrance to the garden to keep anyone from eating the fruit of the tree of life.
+तब **परमेश्वर** ने कहा, ‘‘अब जबकि **भले और बुरे का ज्ञान पाकर** मनुष्य **हमारे समान हो गये हैं**, उन्हें **जीवन का** **फल** खाने और अनन्त काल तक जीवित रहने नहीं दिया जाना चाहिए।’’ इसलिए परमेश्वर ने **आदम** और **हव्वा** को उस सुंदर बगीचे से दूर भेज दिया। परमेश्वर ने दो विशाल, शक्तिशाली **स्वर्गदूतों** को बगीचे के प्रवेश द्वार तैनात कर दिया, ताकि कोई भी जीवन के पड़े का फल न खा सके।
 
 //A Bible story from: Genesis 3//
-
-
 ===== Translation Notes: =====
 
-    * **like us by knowing good and evil** - Here, this phrase points to a new way that Adam and Eve would be like God. Because they had sinned, they were aware of evil and could experience it. You could say, "because now they knew both good and evil.”
-    * **fruit** - The specific kind of fruit is not revealed, so it is best to translate this using a general word for fruit.
-    * **tree of life** - This was an actual tree with fruit. See **[[:hi:obs:notes:frames:01-11|[01-11]]]**. If a person ate this fruit he would live continually and never die.
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-
-
+  * **like us by knowing good and evil**  - Here, this phrase points to a new way that Adam and Eve would be like God. Because they had sinned, they were aware of evil and could experience it. You could say, "because now they knew both good and evil.”
+  * **fruit**  - The specific kind of fruit is not revealed, so it is best to translate this using a general word for fruit.
+  * **tree of life**  - This was an actual tree with fruit. See **[[:hi:obs:notes:frames:01-11|[01-11]]]**. If a person ate this fruit he would live continually and never die.
+  * //A Bible story from//  - These references may be slightly different in some Bible translations.
 **[[:hi:obs:notes:frames:02-11|<<]] | [[:hi:obs:notes:02|Up]] | [[:hi:obs:notes:frames:03-01|>>]]**
-
