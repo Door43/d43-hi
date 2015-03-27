@@ -1,17 +1,15 @@
-====== Dry Land [03-12] ======
+====== सूखी भूमि [03-12] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-12.jpg?nolink&}}
 
+**[[:hi:key-terms:noah|नूह]]** ने **एक और सप्ताह प्रतीक्षा की**, और तीसरी बार एक और कबूतर उड़ाया। इस बार, उसे बेठने की जगह मिल गई और वह वापिस न लौटा। पानी सूख रहा था।
 
-**[[:en:key-terms:noah|Noah]]** **waited another week** and sent out the dove a third time. This time, it found a place to rest and did not come back. The water was drying up!
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[https://door43.org/en/obs/notes/key-terms/noah|नूह]]**
+===== अनुवाद के लिए नोट्स: =====
 
-
-  * **waited another week** - You could say, “waited seven more days.” The word “waited” shows that Noah was allowing time for the floodwaters to go down before sending out the dove again.
- 
-
+  * **एक और सप्ताह प्रतीक्षा की**  - आप कह सकते हैं कि ‘‘और सात दिनों तक प्रतीक्षा की।’’ ‘‘प्रतीक्षा की’’ से स्पष्ट होता है कि कबूतर को दोबारा भेजने से पहले नूह ने पानी के उतरने की प्रतीक्षा की।
 **[[:hi:obs:notes:frames:03-11|<<]] | [[:hi:obs:notes:03|Up]] | [[:hi:obs:notes:frames:03-13|>>]]**
-
-
