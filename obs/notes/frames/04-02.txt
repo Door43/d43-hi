@@ -1,16 +1,28 @@
-====== The Tower [04-02] ======
+====== मीनार [04-02] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-02.jpg?nolink&}}
 
+वे बहुत **[[:hi:key-terms:proud|दंभी]]** थे, और **[[:hi:key-terms:god|परमेश्वर]]** की कही बातों की परवाह नहीं करते थे। यहाँ तक कि वे **[[:hi:key-terms:heaven|स्वर्ग]]** **तक पहुँचने के लिए एक ऊँची मीनार** का निर्माण करने लगे थे। परमेश्वर ने देखा कि यदि वे साथ मिलकर **[[:hi:key-terms:evil|बुरे]]** काम करते रहे, तो वे उससे भी अधिक **[[:hi:key-terms:sin|पापमय]]** काम कर सकते थे।
 
-They were very **[[:en:key-terms:proud|proud]]**, and they did not care about what **[[:en:key-terms:god|God]]** said. They even began building a **tall tower to reach [[:en:key-terms:heaven|heaven]]**. God saw that if they all kept working together to do **[[:en:key-terms:evil|evil]]**, they could do many more **[[:en:key-terms:sin|sinful]]** things.
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
+**[[https://door43.org/en/obs/notes/key-terms/proud|दंभी]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/god|God]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/heaven|heaven]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/evil|evil]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/sin|sinful]]**
 ===== Translation Notes: =====
 
-
-  * **tall tower to reach heaven** - This structure was so tall that its top would be in the sky. 
-  * **heaven** – This could be translated as, “sky.”  
-  
-
+  * **tall tower to reach heaven**  - This structure was so tall that its top would be in the sky.
+  * **heaven**  – This could be translated as, “sky.”
 **[[:hi:obs:notes:frames:04-01|<<]] | [[:hi:obs:notes:04|Up]] | [[:hi:obs:notes:frames:04-03|>>]]**
