@@ -1,23 +1,23 @@
-====== The Rainbow [03-16] ======
+====== इन्द्रधनुष [03-16] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-16.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-16.jpg?nolink&}}
 
+**[[:hi:key-terms:god|परमेश्वर]]** ने तब अपनी **[[:hi:key-terms:promise|प्रतिज्ञा]]** **के** **एक चिन्ह** **स्वरुप** पहले **इन्द्रधनुष** की रचना की। आकाश में **जब भी** इन्द्रधनुष दिखता, परमेश्वर **अपनी प्रतिज्ञा को** याद करेगा, और साथ में लोग भी।
 
-**[[:en:key-terms:god|God]]** then made the first **rainbow** as **a sign of his [[:en:key-terms:promise|promise]]**. **Every time** the rainbow appeared in the sky, God would remember **what he promised** and so would his people.
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-//A Bible story from: Genesis 6-8//
+  *
 
+**[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर ]]**
+  *
 
+**[[https://door43.org/en/obs/notes/key-terms/promise|प्रतिज्ञा ]]**
 ===== Translation Notes: =====
 
-
-  * **rainbow** - This is the multicolored arc of light that often appears in the sky after a rainstorm.
-  * **a sign** - A sign is something (such as an object or event) that gives a certain meaning or which points to something that is true or will happen.
-  * **as a sign of his promise** – In some languages it may be better to say, “to show that he had promised.”
-  * **Every time** – Make sure it is clear that this means every time a rainbow appeared from that time on. It may be necessary to add, “From then on, every time.”
-  * **what he promised** - This refers back to the previous frame in which God promised to never again destroy the earth with a flood.
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-  
-
+  * **rainbow**  - This is the multicolored arc of light that often appears in the sky after a rainstorm.
+  * **a sign**  - A sign is something (such as an object or event) that gives a certain meaning or which points to something that is true or will happen.
+  * **as a sign of his promise**  – In some languages it may be better to say, “to show that he had promised.”
+  * **Every time**  – Make sure it is clear that this means every time a rainbow appeared from that time on. It may be necessary to add, “From then on, every time.”
+  * **what he promised**  - This refers back to the previous frame in which God promised to never again destroy the earth with a flood.
+  * //A Bible story from//  - These references may be slightly different in some Bible translations.
 **[[:hi:obs:notes:frames:03-15|<<]] | [[:hi:obs:notes:03|Up]] | [[:hi:obs:notes:frames:04-01|>>]]**
-
