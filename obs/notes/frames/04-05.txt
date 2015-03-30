@@ -3,30 +3,17 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-05.jpg?nolink&}}
 
 इस तरह **[[:hi:key-terms:abraham|अब्राम]] ने [[:hi:key-terms:god|परमेश्वर]] की [[:hi:key-terms:obey|आज्ञा का पालन]] ** किया। उसने अपनी पत्नी **[[:hi:key-terms:sarah|सारै]]** को **साथ लिया**, और अपने सारे **[[:hi:key-terms:servant|सेवका्र]]** तथा जो कुछ भी उसका था, उन सबको लेकर उस भूमि, **[[:hi:key-terms:canaan|कनान]] की भूमि** की ओर चला गया जो भूमि **परमेश्वर ने उसे दिखाई ** थी।
-
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
+  * **[[https://door43.org/en/obs/notes/key-terms/abraham|अब्राम]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/obey|आज्ञा पालन ]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर ]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/sarah|सारै]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/servant|सेवक]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/canaan|कनान ]]**
+===== अनुवाद के लिए नोट्स: =====
 
-**[[https://door43.org/en/obs/notes/key-terms/abraham|अब्राम]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/obey|आज्ञा पालन ]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर ]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/sarah|सारै]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/servant|सेवक]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/canaan|कनान ]]**
-===== Translation Notes: =====
-
-  * **He took**  – Some languages would say, “He brought” here. Others would use two different verbs here, such as, “He caused his wife to come with him” and, “He brought along all of their servants and possessions.”
-  * **God showed him**  - Somehow God made it clear to Abram where he was to go. The text doesn't tell how God showed him.
-  * **land of Canaan**  - The name of this land was “Canaan”. This could be translated, “the land called Canaan.”
+  * **साथ लिया**  - कुछ भाषाओं में यहाँ ‘‘साथ ले गया’’ कह सकते हैं। दूसरी भाषाओं में दो क्रियाओं का प्रयोग हो सकता है, जैसे कि ‘‘उसने अपनी पत्नी को साथ ले आया,’’ और, ‘‘वे अपने सारे सेवक और संपत्ति साथ ले आए।।’’
+  * **परमेश्वर ने उसे दिखाई**  - किसी तरह परमेश्वर ने अब्राम को समझा दिया कि उसे कहाँ जाना था। वचन में इस बात का उल्लेख नहीं है कि ऐसा उसने कैसे किया था।
+  * **कनान की भूमि**  - उस जगह का नाम ‘‘कनान’’ था। इसे ‘‘कनान की भूमि’’ कहा जा सकता है।
 **[[:hi:obs:notes:frames:04-04|<<]] | [[:hi:obs:notes:04|Up]] | [[:hi:obs:notes:frames:04-06|>>]]**
