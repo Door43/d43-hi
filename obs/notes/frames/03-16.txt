@@ -2,22 +2,17 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-16.jpg?nolink&}}
 
-**[[:hi:key-terms:god|परमेश्वर]]** ने तब अपनी **[[:hi:key-terms:promise|प्रतिज्ञा]]** **के** **एक चिन्ह** **स्वरुप** पहले **इन्द्रधनुष** की रचना की। आकाश में **जब भी** इन्द्रधनुष दिखता, परमेश्वर **अपनी प्रतिज्ञा को** याद करेगा, और साथ में लोग भी।
-
+**[[:hi:key-terms:god|परमेश्वर]]** ने तब अपनी **[[:hi:key-terms:promise|प्रतिज्ञा]]****के** **एक चिन्ह** **स्वरुप** पहले **इन्द्रधनुष** की रचना की। आकाश में **जब भी** इन्द्रधनुष दिखता, परमेश्वर **अपनी प्रतिज्ञा को** याद करेगा, और साथ में लोग भी।
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
+  * **[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर ]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/promise|प्रतिज्ञा ]]**
+===== अनुवाद के लिए नोट्स: =====
 
-**[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर ]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/promise|प्रतिज्ञा ]]**
-===== Translation Notes: =====
-
-  * **rainbow**  - This is the multicolored arc of light that often appears in the sky after a rainstorm.
-  * **a sign**  - A sign is something (such as an object or event) that gives a certain meaning or which points to something that is true or will happen.
-  * **as a sign of his promise**  – In some languages it may be better to say, “to show that he had promised.”
-  * **Every time**  – Make sure it is clear that this means every time a rainbow appeared from that time on. It may be necessary to add, “From then on, every time.”
-  * **what he promised**  - This refers back to the previous frame in which God promised to never again destroy the earth with a flood.
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
+  * **इन्द्रधनुष**  - बारिश के बाद आकाश में दिखाई देनेवाला अर्ध गोलाकार में दीप्त रंग-बिरंगा प्रकाश।
+  * **एक चिन्ह**  - एक चिन्ह एक ऐसी चीज़ होती है जिसमें काई विशेष अर्थ निहित हो, या जो किसी ऐसी बात की ओर संकेत करता है जो सत्य है, या जो घटित होगी।
+  * **प्रतिज्ञा के एक चिन्ह स्वरुप**  - कुछ भाषाओं में ऐसा कहना सही रहेगा कि ‘‘यह दिखाने के लिए उसने प्रतिज्ञा की है।’
+  * **जब भी**  - सुनिश्चित करें कि अनुवाद में यह स्पष्ट हो कि तब से बननेवाले हर इन्द्रधनुष की बात हो रही है। यदि ज़रुरत हो तो कथन में ‘‘उसके बाद से.....’’ जोड़ दें।
+  * **अपनी प्रतिज्ञा को**  - यह पृथ्वी का फिर कभी बाढ़ से नाश न करने की प्रतिज्ञा के संदर्भ में है।
+  * **बाइबल की कहानी**- बाइबल के कुछ संस्करणों में इनका अनुवाद अलग तरह से किया हो सकता हैं
 **[[:hi:obs:notes:frames:03-15|<<]] | [[:hi:obs:notes:03|Up]] | [[:hi:obs:notes:frames:04-01|>>]]**
