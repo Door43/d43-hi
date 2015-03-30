@@ -1,19 +1,30 @@
-====== God's Promise [03-15] ======
+====== परमेश्वर की वाचा [03-15] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-15.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-15.jpg?nolink&}}
 
+**[[:hi:key-terms:god|परमेश्वर]]** ने कहा, ‘‘मैं **[[:hi:key-terms:promise|प्रतिज्ञा]]** करता हूँ कि लोगों की **[[:hi:key-terms:evil|दुष्टता]]** भरे कार्य करने पर **फिर कभी** मैं **धरती को [[:hi:key-terms:curse|श्रापित]]** न करुँगा, या बाढ़ के द्वारा संसार का नाश न करुँगा, हालाकि **लोग** **अपने बचपन से ही [[:hi:key-terms:sin|पापी]] ****हैं** ।’’
 
-**[[:en:key-terms:god|God]]** said, “I **[[:en:key-terms:promise|promise]]** I will **never again** **[[:en:key-terms:curse|curse]]** the ground because of the **[[:en:key-terms:evil|evil]]** things that people do, or destroy the world by causing a flood, even though **people are [[:en:key-terms:sin|sinful]] from the time they are children**.”
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर]]**
+  *
 
+**[[https://door43.org/en/obs/notes/key-terms/promise|प्रतिज्ञा ]]**
+  *
 
-  * **never again** - This means, “not ever again” or, “not again at any time” or, “truly not again”. Examples: "I will not ever again curse the ground” or, “I will not curse the ground again at any time” or, “I will truly not curse the ground again”.
-  * **curse the ground** - The earth and the other creatures suffered because of man's sin.
-  * **the world** – This refers to the earth and the living creatures that lived on it.
-  * **people are sinful from the time they are children** - Another way to say this would be, “people do sinful things their entire lives.”
-  
+**[[https://door43.org/en/obs/notes/key-terms/curse|श्रापित ]]**
+  *
 
+**[[https://door43.org/en/obs/notes/key-terms/evil|दुष्टता ]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/sin|पापी ]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **फिर कभी**  - इसका आशय है कि ‘‘फिर न कभी, ’’ या कि ‘‘कभी भी नहीं,’’ या ‘‘सचमुच फिर कभी नहीं।’’ उदाहरण: ‘‘मैं सचमुच फिर कभी धरती को श्रापित न करुँगा।’’ और "मैं किसी भी समय फिर भूमि को श्रापित नहीं करूँगा" और "मैं वास्तव में फिर भूमि को श्रापित नहीं करूँगा |"
+  * **curse the ground**  - The earth and the other creatures suffered because of man's sin.
+  * **the world**  – This refers to the earth and the living creatures that lived on it.
+  * **people are sinful from the time they are children**  - Another way to say this would be, “people do sinful things their entire lives.”
 **[[:hi:obs:notes:frames:03-14|<<]] | [[:hi:obs:notes:03|Up]] | [[:hi:obs:notes:frames:03-16|>>]]**
-
