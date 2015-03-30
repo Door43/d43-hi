@@ -1,16 +1,32 @@
-====== To Canaan [04-05] ======
+====== कनान की ओर [04-05] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-05.jpg?nolink&}}
 
-So **[[:en:key-terms:abraham|Abram]]** **[[:en:key-terms:obey|obeyed]]** **[[:en:key-terms:god|God]]**. **He took** his wife, **[[:en:key-terms:sarah|Sarai]]**, together with all of his **[[:en:key-terms: servant| servants]]** and everything he owned and went to the land **God showed him**, the **land of [[:en:key-terms:canaan|Canaan]]**.
+इस तरह **[[:hi:key-terms:abraham|अब्राम]] ने [[:hi:key-terms:god|परमेश्वर]] की [[:hi:key-terms:obey|आज्ञा का पालन]] ** किया। उसने अपनी पत्नी **[[:hi:key-terms:sarah|सारै]]** को **साथ लिया**, और अपने सारे **[[:hi:key-terms:servant|सेवका्र]]** तथा जो कुछ भी उसका था, उन सबको लेकर उस भूमि, **[[:hi:key-terms:canaan|कनान]] की भूमि** की ओर चला गया जो भूमि **परमेश्वर ने उसे दिखाई ** थी।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/abraham|अब्राम]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/obey|आज्ञा पालन ]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर ]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/sarah|सारै]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/servant|सेवक]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/canaan|कनान ]]**
 ===== Translation Notes: =====
 
-
-  * **He took** – Some languages would say, “He brought” here. Others would use two different verbs here, such as, “He caused his wife to come with him” and, “He brought along all of their servants and possessions.”
-  * **God showed him** - Somehow God made it clear to Abram where he was to go. The text doesn't tell how God showed him. 
-  * **land of Canaan** - The name of this land was “Canaan”. This could be translated, “the land called Canaan.”
-  
-
+  * **He took**  – Some languages would say, “He brought” here. Others would use two different verbs here, such as, “He caused his wife to come with him” and, “He brought along all of their servants and possessions.”
+  * **God showed him**  - Somehow God made it clear to Abram where he was to go. The text doesn't tell how God showed him.
+  * **land of Canaan**  - The name of this land was “Canaan”. This could be translated, “the land called Canaan.”
 **[[:hi:obs:notes:frames:04-04|<<]] | [[:hi:obs:notes:04|Up]] | [[:hi:obs:notes:frames:04-06|>>]]**
