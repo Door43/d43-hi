@@ -2,27 +2,16 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-14.jpg?nolink&}}
 
-नाव से उतरने के बाद, **[[:hi:key-terms:noah|नूह]]** ने एक **[[:hi:key-terms:altar|वेदी]]** को बनाया और **[[:hi:key-terms:sacrifice|बलिदान]]** करने योग्य हर प्रकार के **जानवर को बलि स्वरुप ****दिया** । **[[:hi:key-terms:god|परमेश्वर]]** **बलिदान से प्रसन्न हुआ** और नूह व उसके परिवार को **[[:hi:key-terms:bless|आशीष]]** दी।
-
+नाव से उतरने के बाद, **[[:hi:key-terms:noah|नूह]]** ने एक **[[:hi:key-terms:altar|वेदी]]** को बनाया और **[[:hi:key-terms:sacrifice|बलिदान]]** करने योग्य हर प्रकार के **जानवर को बलि स्वरुप ****दिया** । **[[:hi:key-terms:god|परमेश्वर]]****बलिदान से प्रसन्न हुआ** और नूह व उसके परिवार को **[[:hi:key-terms:bless|आशीष]]** दी।
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
+  * **[[https://door43.org/en/obs/notes/key-terms/noah|नूह]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/altar|वेदी]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/sacrifice|बलिदान]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/bless|आशीष दी]]**
+===== अनुवाद के लिए नोट्स: =====
 
-**[[https://door43.org/en/obs/notes/key-terms/noah|नूह]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/altar|वेदी]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/sacrifice|बलिदान]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/bless|आशीष दी]]**
-===== Translation Notes: =====
-
-  * **animal that could be used for a sacrifice**  - Another way to say this would be, “that people could use to sacrifice to him.”
-  * **God was happy**  - God was pleased with Noah for sacrificing these animals.
+  * **बलिदान करने योग्य जानवर**  - इस यह भी कहा जा सकता है कि ‘‘जिन जानवरों को लोग बलि स्वरुप प्रस्तुत कर सकते थे।’’
+  * **परमेश्वर प्रसन्न हुआ**  - जानवरों की इन बलि से परमेश्वर प्रसन्न हुआ।
 **[[:hi:obs:notes:frames:03-13|<<]] | [[:hi:obs:notes:03|Up]] | [[:hi:obs:notes:frames:03-15|>>]]**
