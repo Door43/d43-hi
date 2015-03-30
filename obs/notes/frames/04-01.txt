@@ -1,18 +1,18 @@
-====== One People [04-01] ======
+====== एक लोग [04-01] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-01.jpg?nolink&}}
 
+**बाढ़ के बहुत सालों बाद**, संसार में **फिर से बहुत से लोग** हो गये थे, और वे सभी **एक ही भाषा** में बोलते थें। **[[:hi:key-terms:god|परमेश्वर]]** की आज्ञा के अनुसार धरती में भरने की बजाय, उन्होंने एकत्रित होकर **एक नगर** का निर्माण किया।
 
-**Many years after the flood**, there were **again many people** in the world, and they all spoke the **same language**. Instead of filling the earth as **[[:en:key-terms:God|God]]** had commanded, they gathered together and built **a city**.
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर ]]**
+===== अनुवाद के लिए नोट्स: =====
 
-
-  * **many years after the flood** - Many generations had passed since the end of the flood.
-  * **again many people** - Noah's family multiplied into enough people to fill a city.
-  * **same language** - This means there was only one language, so they could all understand each other. 
-  * **a city** - It is best to use a general word for “city” since the text does not give a specific name.
-  
+  * **बाढ़ के बहुत सालों बाद**  - बाढ़ के समाप्त होने के बाद भी कई पीढि़याँ हो चुकी थीं।
+  * **फिर से बहुत से लोग**  - नूह का परिवार बढ़ता-बढ़ता पूरे नगर में भर गया।
+  * **एक ही भाषा**  - इसका आशय है कि तब केवल एक ही भाषा थी, ताकि वे एक दूसरे की बात समझ सके।
+  * **एक नगर**  - चूँकि वचन में नगर का कोई नाम नहीं बताया गया है, इसलिए यहाँ पर नगर के लिए इस्तेमाल होनेवाली सामान्य संज्ञा शब्द का प्रयोग करें।
 **[[:hi:obs:notes:frames:03-16|<<]] | [[:hi:obs:notes:04|Up]] | [[:hi:obs:notes:frames:04-02|>>]]**
-
