@@ -1,19 +1,19 @@
-====== Many Languages [04-03] ======
+====== कई भाषाएँ [04-03] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-03.jpg?nolink&}}
 
+इस तरह **[[:hi:key-terms:god|परमेश्वर]]** ने **उनकी भाषा को बदल दिया** **कई अलग-अलग** **भाषाओं में ** और **लोगों को संसार भर में बिखरा दिया** । वे जिन नगर का निर्माण कर रहे थे, वह **बाबेल** कहलाती थी, जिसका आशय था ‘‘**भ्रमित** ।’’
 
-So **[[:en:key-terms:god|God]] changed their language** into **many different languages** and **spread the people** out all over the world. The city they had begun to build was called **Babel**, which means, “**confused**.”
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर]]**
+===== अनुवाद के लिए नोट्स: =====
 
-
-  * **changed their language** – In an instant, God miraculously gave them different languages to speak so that suddenly they were no longer able to understand each other.
-  * **many different languages** – Instead of one large group of people speaking one language, there were now many smaller people groups each speaking its own separate language. 
-  * **spread the people** - When God changed their languages, he caused these groups of people to scatter out on the earth and each group moved to its own area.
-  *  **Babel** - We don't know the exact location of this city, other than it was somewhere in the ancient Middle East.
-  * **confused** - This refers to how the people were confused or, “mixed-up” when they could no longer understand each other after God changed their language.
-  
-
+  * **भाषाओं में बदल दिया**  - एक क्षण में ही, परमेश्वर ने आश्चर्यजनक रीति से उन्हें अलग-अलग भाषाएँ दे दी, ताकि वे तुरंत ही एक दूसरे की बातें न समझ सकें।
+  * **many different languages**  – Instead of one large group of people speaking one language, there were now many smaller people groups each speaking its own separate language.
+  * **spread the people**  - When God changed their languages, he caused these groups of people to scatter out on the earth and each group moved to its own area.
+  * **Babel**  - We don't know the exact location of this city, other than it was somewhere in the ancient Middle East.
+  * **confused**  - This refers to how the people were confused or, “mixed-up” when they could no longer understand each other after God changed their language.
 **[[:hi:obs:notes:frames:04-02|<<]] | [[:hi:obs:notes:04|Up]] | [[:hi:obs:notes:frames:04-04|>>]]**
