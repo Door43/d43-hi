@@ -2,27 +2,16 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-07.jpg?nolink&}}
 
-एक दिन, **[[:hi:key-terms:abraham|अब्राम]]** **[[:hi:key-terms:god|परम प्रधान परमेश्वर]]** के **[[:hi:key-terms:priest|याजक]]** **मलिकिसिदक** से मिला। मलिकिसिदक ने अब्राम को **[[:hi:key-terms:bless|आशीष]]** दी और कहा, ‘‘**धरती**** और [[:hi:key-terms:heaven|स्वर्ग]]****के मालिक**, परम प्रधान परमेश्वर अब्राम को आशीष दे।’’ इसके बाद अब्राहम ने अपनी संपति का दशमांश मलिकिसिदक को दे दिया।
-
+एक दिन, **[[:hi:key-terms:abraham|अब्राम]]** **[[:hi:key-terms:god|परम प्रधान परमेश्वर]]** के **[[:hi:key-terms:priest|याजक]]****मलिकिसिदक** से मिला। मलिकिसिदक ने अब्राम को **[[:hi:key-terms:bless|आशीष]]** दी और कहा, ‘‘**धरती**** और ** **[[:hi:key-terms:heaven|स्वर्ग]]****के**** मालिक**, परम प्रधान परमेश्वर अब्राम को आशीष दे।’’ इसके बाद अब्राहम ने अपनी संपति का दशमांश मलिकिसिदक को दे दिया।
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
+  * **[[https://door43.org/en/obs/notes/key-terms/abraham|अब्राम]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/priest|याजक ]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/god|परम प्रधान परमेश्वर ]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/bless|आशीष ]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/heaven|स्वर्ग]]**
+===== अनुवाद के लिए नोट्स: =====
 
-**[[https://door43.org/en/obs/notes/key-terms/abraham|अब्राम]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/priest|याजक ]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/god|परम प्रधान परमेश्वर ]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/bless|आशीष ]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/heaven|स्वर्ग]]**
-===== Translation Notes: =====
-
-  * **Melchizedek**  - Melchizedek was the recognized religious authority in Canaan who received and presented offerings to God.
-  * **God Most High**  - The people of Canaan worshiped many false gods. The title, "Most High God" explains that the God that Melchizedek worshiped was far superior to all of them, and was the same God that Abram worshiped.
+  * **मलिकिसिदक**  - मलिकिसिदक कनान का प्रतिष्ठित धार्मिक अगुवा था जो परमेश्वर के लिए भेंट को लेता था और उन्हें परमेश्वर के समक्ष प्रस्तुत करता था।
+  * **परम प्रधान परमेश्वर**  - कनानवासी बहुत से झूठे देवताओं की आराधना करते थे। ‘‘परम प्रधान परमेश्वर’’ की उपाधि इस बात को दर्शाती है कि जिस परमेश्वर की आराधना मलिकिसिदक किया करता था, वह दूसरे देवताओं से कही अधिक ऊँचा था, और यह वही परमेश्वर था जिसकी आराधना अब्राम करता था।
 **[[:hi:obs:notes:frames:04-06|<<]] | [[:hi:obs:notes:04|Up]] | [[:hi:obs:notes:frames:04-08|>>]]**
