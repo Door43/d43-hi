@@ -3,30 +3,17 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-01.jpg?nolink&}}
 
 **[[:hi:key-terms:abraham|अब्राम]]** और**[[:hi:key-terms:sarah|सारै]]** के **[[:hi:key-terms:canaan|कनान]]** में पहुँचने के दस साल **बाद भी****, उनके कोई बेटा नहीं था** । इसलिए अब्राम की पत्नी सौर ने कहा, ‘‘क्योंकि **[[:hi:key-terms:god|परमेश्वर]]** ने मुझे कोई संतान नहीं दी है और अब मैं बच्चे पैदा करने के लिए बहुत बूढ़ी भी हो चुकी हूँ, इसलिए यह रही मेरी **[[:hi:key-terms:servant|सेविका]]** **[[:hi:key-terms:hagar|हाजिरा]]** । **इससे भी शादी कर लो** ताकि यह **मेरे लिए एक संतान पैदा कर ****सके** ।’’
-
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/abraham|अब्राम]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/sarah|सारै]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/canaan|कनान]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर ]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/servant|सेवक]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/hagar|हाजिरा]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/abraham|अब्राम]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/sarah|सारै]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/canaan|कनान]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर ]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/servant|सेवक]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/hagar|हाजिरा]]**
 ===== अनुवाद के लिए नोट्स: =====
 
-  * **still did not have a child**  - Without a child, Abram had no descendants to become a great nation.
-  * **Marry her also**  - Abram would take Hagar as a second wife, but Hagar would not have the full status of a wife as Sarai did. She was still Sarai's servant.
-  * **have a child for me**  - Since Hagar was Sarai's servant, Sarai would be considered the mother of any children that Hagar bore.
+  * **बाद भी कोई बेटा नहीं था**  - संतान के बिना, अब्राम के वंशज कैसे एक महान जाति बनते।
+  * **इससे भी शादी कर लो**  - अब्राम का हाजिरा को पत्नी बनाना, लेकिन सारै की तरह हाजिरा को पत्नी का पूरा सम्मान नहीं मिलता। वह तब भी सारै की सेविका रहती।
+  * **मेरे लिए एक संतान पैदा कर सके**  - चूँकि हाजिरा सारै की सेविका थी, इसलिए हाजिरा के बच्चों की माँ सारै ही कहलाती।
 **[[:hi:obs:notes:frames:04-09|<<]] | [[:hi:obs:notes:05|Up]] | [[:hi:obs:notes:frames:05-02|>>]]**
