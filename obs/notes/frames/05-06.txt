@@ -2,7 +2,31 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-06.jpg?nolink&}}
 
-When **[[:en:key-terms:isaac|Isaac]]** was a young man, **[[:en:key-terms:god|God]] tested [[:en:key-terms:abraham|Abraham's]] [[:en:key-terms:faith|faith]]** by saying, “Take Isaac, your only **[[:en:key-terms:son|son]]**, and **kill him** as a **[[:en:key-terms:sacrifice|sacrifice]]** to me.” Again Abraham **[[:en:key-terms:obey|obeyed]]** God and **prepared to sacrifice** his son.
+**[[:hi:key-terms:isaac|इसहाक]]** जब एक लड़़कपन में ही था, **[[:hi:key-terms:god|परमेश्वर]]** **ने [[:hi:key-terms:abraham|अब्राहम के]] [[:hi:key-terms:faith|विश्वास]] की परख** लेते हुए उससे कहा, ‘‘अपने **[[:hi:key-terms:son|बेटे]]**, इसहाक को ले, और उसे एक **[[:hi:key-terms:sacrifice|बलि]]** के रुप में मेरे लिए **मार** ।’’ एक बार फिर, अब्राहम ने परमेश्वर की ****[[:hi:key-terms:obey|आज्ञाका पालन]]**** किया और अपने बेटे को **बलि के लिए तैयार** किया।
+
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
+
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/isaac|इसहाक]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर ]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/abraham|अब्राहम के  ]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/faith|विश्वास ]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/son|बेटा ]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/sacrifice|बलि ]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/obey|आज्ञा का पालन ]]**
 ===== Translation Notes: =====
 
   * **God tested Abraham's faith**  - God wanted Abraham to show that he was completely submitted to God, that he would obey whatever God told him to do.
