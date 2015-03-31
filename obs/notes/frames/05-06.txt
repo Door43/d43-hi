@@ -2,34 +2,19 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-06.jpg?nolink&}}
 
-**[[:hi:key-terms:isaac|इसहाक]]** जब एक लड़़कपन में ही था, **[[:hi:key-terms:god|परमेश्वर]]** **ने [[:hi:key-terms:abraham|अब्राहम के]] [[:hi:key-terms:faith|विश्वास]] की परख** लेते हुए उससे कहा, ‘‘अपने **[[:hi:key-terms:son|बेटे]]**, इसहाक को ले, और उसे एक **[[:hi:key-terms:sacrifice|बलि]]** के रुप में मेरे लिए **मार** ।’’ एक बार फिर, अब्राहम ने परमेश्वर की ****[[:hi:key-terms:obey|आज्ञाका पालन]]**** किया और अपने बेटे को **बलि के लिए तैयार** किया।
-
+**[[:hi:key-terms:isaac|इसहाक]]** जब एक लड़़कपन में ही था, **[[:hi:key-terms:god|परमेश्वर]]****ने [[:hi:key-terms:abraham|अब्राहम के]] [[:hi:key-terms:faith|विश्वास]] की परख** लेते हुए उससे कहा, ‘‘अपने **[[:hi:key-terms:son|बेटे]]**, इसहाक को ले, और उसे एक **[[:hi:key-terms:sacrifice|बलि]]** के रुप में मेरे लिए **मार** ।’’ एक बार फिर, अब्राहम ने परमेश्वर की [[:hi:key-terms:obey|आज्ञाका पालन]] किया और अपने बेटे को **बलि के लिए तैयार** किया।
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
+  * **[[https://door43.org/en/obs/notes/key-terms/isaac|इसहाक]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर ]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/abraham|अब्राहम के ]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/faith|विश्वास ]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/son|बेटा ]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/sacrifice|बलि ]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/obey|आज्ञा का पालन ]]**
+===== अनुवाद के लिए नोट्स: =====
 
-**[[https://door43.org/en/obs/notes/key-terms/isaac|इसहाक]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर ]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/abraham|अब्राहम के  ]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/faith|विश्वास ]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/son|बेटा ]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/sacrifice|बलि ]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/obey|आज्ञा का पालन ]]**
-===== Translation Notes: =====
-
-  * **God tested Abraham's faith**  - God wanted Abraham to show that he was completely submitted to God, that he would obey whatever God told him to do.
-  * **kill him**  - God did not want human sacrifice. God wanted to see that Abraham loved God more than he loved his son and would obey God even when God told him to give his son back to God.
-  * **prepared to sacrifice**  - Abraham got ready to sacrifice his son. God stopped him before he killed his son.
+  * **परमेश्वर ने अब्राहम के विश्वास की परख**  - परमेश्वर चाहता था कि अब्राहम यह दिखाए कि वह परमेश्वर के प्रति पूरी तरह समर्पित था, कि परमेश्वर चाहे जो भी आज्ञा दे, वह उसका पालन ज़रुर करेगा।
+  * **मार**  - परमेश्वर मनुष्य की बलि नहीं चाहता। परमेश्वर तो यह देखना चाहता था कि अब्राहम अपने बेटे से अधिक परमेश्वर को प्रेम करता था, और चाहे परमेश्वर उससे उसका बेटा वापिस भी क्यों न मांगे, अब्राहम आज्ञा को अवश्य मानेगा।
+  * **बलि के लिए तैयार**  - अब्राहम अपने बेटे की बलि देने को तैयार हो गया। इससे पहले कि व अपने बेटे को मारता, परमेश्वर ने उसे रोक लिया।
 **[[:hi:obs:notes:frames:05-05|<<]] | [[:hi:obs:notes:05|Up]] | [[:hi:obs:notes:frames:05-07|>>]]**
