@@ -1,20 +1,32 @@
-====== God's Covenant [04-09] ======
+====== परमेश्वर की वाचा [04-09] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-09.jpg?nolink&}}
 
+**[[:hi:key-terms:god|परमेश्वर]]** ने तब **[[:hi:key-terms:abraham|अब्राम]]** के साथ एक **[[:hi:key-terms:covenant|वाचा]]** बांधी। वाचा, **दो पक्षों** के बीच किया गया अनुबंध होता है। परमेश्वर ने कहा, ‘‘मैं तुझे **तेरा निज** **[[:hi:key-terms:son|बेटा]]** दूँगा। **[[:hi:key-terms:canaan|कनान]]** की भूमि मैं तेरे **[[:hi:key-terms:descendant|वंशजों]]** को दूता हूँ।’’ लेकिन अब्राम के अब तक **केाई बेटा न था।**
+===== Important Terms: =====
 
-Then **[[:en:key-terms:god|God]]** made a **[[:en:key-terms:covenant|covenant]]** with **[[:en:key-terms:abraham|Abram]]**. A covenant is an agreement between **two parties**. God said, "I will give you a **[[:en:key-terms:son|son]] from your own body**. I give the land of **[[:en:key-terms:canaan|Canaan]]** to your **[[:en:key-terms:descendant|descendants]]**.” But Abram still **did not have a son**.
+  *
 
-//A Bible story from: Genesis 11-15//
+**[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर ]]**
+  *
 
+**[[https://door43.org/en/obs/notes/key-terms/covenant|वाचा ]]**
+  *
 
+**[[https://door43.org/en/obs/notes/key-terms/abraham|अब्राम ]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/son|बेटा ]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/canaan|कनान]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/descendant|वंशज ]]**
 ===== Translation Notes: =====
 
-
-  * **two parties** -  The parties could be two people, two groups of people, or a person and a group of people. In this case the agreement was between God and Abram. 
-  * **from your own body** - With his own body Abram would cause his wife to become pregnant, so that together they would have their own, natural son. This was an amazing promise, since Abram and Sarai were very old.
-  * **did not have a son** - Abram still did not have any descendants who could possess the land.
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-
-
+  * **two parties**  - The parties could be two people, two groups of people, or a person and a group of people. In this case the agreement was between God and Abram.
+  * **from your own body**  - With his own body Abram would cause his wife to become pregnant, so that together they would have their own, natural son. This was an amazing promise, since Abram and Sarai were very old.
+  * **did not have a son**  - Abram still did not have any descendants who could possess the land.
+  * //A Bible story from//  - These references may be slightly different in some Bible translations.
 **[[:hi:obs:notes:frames:04-08|<<]] | [[:hi:obs:notes:04|Up]] | [[:hi:obs:notes:frames:05-01|>>]]**
