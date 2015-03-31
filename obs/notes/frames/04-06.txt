@@ -3,24 +3,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-06.jpg?nolink&}}
 
 जब **[[:hi:key-terms:abraham|अब्राम]]** **[[:hi:key-terms:canaan|कनान]]** में पहुँचा, **[[:hi:key-terms:god|परमेश्वर]]** ने उससे कहा, ‘‘अपनी चारो तरफ देख। **जितनी भी भूमि तुझे दिखाई देती है**, में वह सारी भूमि तुझे और तेरे **[[:hi:key-terms:descendant|वंशजों]]** को **[[:hi:key-terms:inherit|मीरास]] में** दूँगा।’’ **इसके बाद अब्राहम भूमि में ठहर ****गया** ।
-
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/abraham|अब्राम ]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/canaan|कनान ]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/descendant|वंशज ]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/inherit|मीरास ]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/abraham|अब्राम ]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/canaan|कनान ]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/descendant|वंशज ]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/inherit|मीरास ]]**
 ===== Translation Notes: =====
 
   * **all the land that you can see**  - If Abram was standing on a mountain, he could have seen a very large area. On several occasions God promised to give the entire land of Canaan to Abram and his descendants.
