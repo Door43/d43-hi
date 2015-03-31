@@ -2,36 +2,20 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-08.jpg?nolink&}}
 
-**बहुत साल** बीत गये, लेकिन **[[:hi:key-terms:abraham|अब्राम]]** व **[[:hi:key-terms:sarah|सारै]]** को कोई **[[:hi:key-terms:son|पुत्र]]** न हुआ। **[[:hi:key-terms:god|परमेश्वर]]** ने दोबारा अब्राम से बातचीत की और फिर से **[[:hi:key-terms:promise|प्रतिज्ञा ]]**दोहराई कि उसे एक बेटा होगा और **आकाश में जितने तारे हैं**, उतने उसके **[[:hi:key-terms:descendant|वंशज]]** होंगे। अब्राम ने परमेश्वर की प्रतिज्ञा पर **[[:hi:key-terms:believe|विश्वास]]** किया। परमेश्वर ने अब्राम को **[[:hi:key-terms:righteous|धर्मी]]** ठहराया क्योंकि उसने परमेश्वर की वाचा पर विश्वास किया था।
+**बहुत साल** बीत गये, लेकिन **[[:hi:key-terms:abraham|अब्राम]]** व **[[:hi:key-terms:sarah|सारै]]** को कोई **[[:hi:key-terms:son|पुत्र]]** न हुआ। **[[:hi:key-terms:god|परमेश्वर]]** ने दोबारा अब्राम से बातचीत की और फिर से **[[:hi:key-terms:promise|प्रतिज्ञा ]]** दोहराई कि उसे एक बेटा होगा और **आकाश में जितने तारे हैं**, उतने उसके **[[:hi:key-terms:descendant|वंशज]]** होंगे। अब्राम ने परमेश्वर की प्रतिज्ञा पर **[[:hi:key-terms:believe|विश्वास]]** किया। परमेश्वर ने अब्राम को **[[:hi:key-terms:righteous|धर्मी]]** ठहराया क्योंकि उसने परमेश्वर की वाचा पर विश्वास किया था।
 
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
+  * **[[https://door43.org/en/obs/notes/key-terms/abraham|अब्राम]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/sarah|सारै ]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/son|बेटा]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/promise|प्रतिज्ञा]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/descendant|वंशज ]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/believe|विश्वास किया ]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/righteous|धर्मी ]]**
+===== अनुवाद के लिए नोट्स: =====
 
-**[[https://door43.org/en/obs/notes/key-terms/abraham|अब्राम]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/sarah|सारै ]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/son|बेटा]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/promise|प्रतिज्ञा]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/descendant|वंशज ]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/believe|विश्वास किया ]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/righteous|धर्मी ]]**
-===== Translation Notes: =====
-
-  * **Many years**  - Several years had passed since God had first promised that Abram would have a son.
-  * **as the stars in the sky**  - This expression means that Abram's descendants will be so many that no one can count them all.
+  * **बहुत साल**  - परमेश्वर द्वारा अब्राम को बेटा देने की वाचा किये हुए कई साल हो चेुके हैं।
+  * **आकाश में जितने तारे**  - ऐसा कहने का आशय है कि अब्राम के वंशज इतने अधिक होंगे कि उन्हें गिनना असंभव होगा।
 **[[:hi:obs:notes:frames:04-07|<<]] | [[:hi:obs:notes:04|Up]] | [[:hi:obs:notes:frames:04-09|>>]]**
