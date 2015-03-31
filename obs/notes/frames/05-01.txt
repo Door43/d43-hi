@@ -1,18 +1,11 @@
-====== Hagar [05-01] ======
+====== हाजिरा [05-01] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-01.jpg?nolink&}}
 
-Ten years after **[[:en:key-terms:abraham|Abram]]** and **[[:en:key-terms:sarah|Sarai]]** arrived in **[[:en:key-terms:canaan|Canaan]]**, **they still did not have a child**. So Abram's  wife, Sarai, said to him, "Since **[[:en:key-terms:god|God]]** has not allowed me to have children and now I am too old to have children, here is my **[[:en:key-terms:servant |servant]], [[:en:key-terms:hagar|Hagar]]**. **Marry her also** so she can **have a child for me**."
-
-
-
+**[[:hi:key-terms:abraham|अब्राम]]** और **सारै** के **कनान** में पहुँचने के दस साल **बाद भी****, उनके कोई बेटा नहीं था** । इसलिए अब्राम की पत्नी सौर ने कहा, ‘‘क्योंकि **परमेश्वर** ने मुझे कोई संतान नहीं दी है और अब मैं बच्चे पैदा करने के लिए बहुत बूढ़ी भी हो चुकी हूँ, इसलिए यह रही मेरी **सेविका** **हाजिरा** । **इससे भी शादी कर लो** ताकि यह **मेरे लिए एक संतान पैदा कर ****सके** ।’’
 ===== Translation Notes: =====
 
-
-  * **still did not have a child** - Without a child, Abram had no descendants to become a great nation.
-  * **Marry her also** - Abram would take Hagar as a second wife, but Hagar would not have the full status of a wife as Sarai did. She was still Sarai's servant.
-  * **have a child for me** - Since Hagar was Sarai's servant, Sarai would be considered the mother of any children that Hagar bore.
-  
-
+  * **still did not have a child**  - Without a child, Abram had no descendants to become a great nation.
+  * **Marry her also**  - Abram would take Hagar as a second wife, but Hagar would not have the full status of a wife as Sarai did. She was still Sarai's servant.
+  * **have a child for me**  - Since Hagar was Sarai's servant, Sarai would be considered the mother of any children that Hagar bore.
 **[[:hi:obs:notes:frames:04-09|<<]] | [[:hi:obs:notes:05|Up]] | [[:hi:obs:notes:frames:05-02|>>]]**
-
