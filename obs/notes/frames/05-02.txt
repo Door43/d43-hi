@@ -3,26 +3,15 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-02.jpg?nolink&}}
 
 **[[:hi:key-terms:abraham|अब्राम]]** ने तब **[[:hi:key-terms:hagar|हाजिरा]]** से **शादी** **कर ली** । हाजिरा को एक बेटा हुआ, और अब्राम ने उसका नाम **[[:hi:key-terms:ishmael|इश्माएल]]** रखा। लेकिन **[[:hi:key-terms:sarah|सारै]]** को **हाजिरा से जलन होने ****लगी** । जब इश्माएल तेरह साल का था, तब **[[:hi:key-terms:god|परमेश्वर]]** ने फिर अब्राम से बातचीत की।
-
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
+  * **[[https://door43.org/en/obs/notes/key-terms/abraham|अब्राम]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/hagar|हाजिरा ]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/ishmael|इश्माएल]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/sarah|सारै]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर]]**
+===== अनुवाद के लिए नोट्स: =====
 
-**[[https://door43.org/en/obs/notes/key-terms/abraham|अब्राम]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/hagar|हाजिरा ]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/ishmael|इश्माएल]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/sarah|सारै]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर]]**
-===== Translation Notes: =====
-
-  * **married**  - Hagar became Abram's concubine–a "second wife" of lower status. Hagar was still Sarai's servant.
-  * **became jealous of Hagar**  - Sarai was jealous of Hagar because Hagar could have children and Sarai could not.
+  * **शादी कर ली**  - हाजिरा अब्राम की रखैल, ‘‘दूसरे दर्जे की पत्नी’’ बन गई। हाजिरा अब भी सारै की सेविका थी।
+  * **हाजिरा से जलन होने लगी**  - सारै को हाजिरा से जलन होने लगी थी क्योंकि हाजिरा के बच्चे हुए थे जबकि सारै के नहीं।
 **[[:hi:obs:notes:frames:05-01|<<]] | [[:hi:obs:notes:05|Up]] | [[:hi:obs:notes:frames:05-03|>>]]**
