@@ -3,22 +3,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-02.jpg?nolink&}}
 
 **[[:hi:key-terms:abraham|अब्राहम]]** **[[:hi:key-terms:abraham|के]]** रिश्तेदारों की भूमि की ओर कई दिनों तक यात्रा करने के बाद, **[[:hi:key-terms:god|परमेश्वर]]** ने **[[:hi:key-terms:servant|सेवक]]** को **[[:hi:key-terms:rebekah|रिबका]]** की ओर भेजा। वह **अब्राहम के भाई की पोती** थी।
-
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
+  * **[[https://door43.org/en/obs/notes/key-terms/abraham|अब्राहम के ]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/servant|सेवक]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/rebekah|रिबका]]**
+===== अनुवाद के लिए नोट्स: =====
 
-**[[https://door43.org/en/obs/notes/key-terms/abraham|अब्राहम के ]]**
-  *
+ **अब्राहम के भाई की पोती**  - वह अब्राहम के भाई के बेटे की बेटी थी। अब्राहम उसके दादा का भाई था।
 
-**[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/servant|सेवक]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/rebekah|रिबका]]**
-===== Translation Notes: =====
-
-  * **granddaughter of Abraham's brother**  - Specifically, she was the daughter of Abraham's brother's son. Her grandfather was Abraham's brother.
 **[[:hi:obs:notes:frames:06-01|<<]] | [[:hi:obs:notes:06|Up]] | [[:hi:obs:notes:frames:06-03|>>]]**
