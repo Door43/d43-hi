@@ -3,31 +3,18 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-08.jpg?nolink&}}
 
 जब वे **[[:hi:key-terms:sacrifice|बलि]]** की जगह पहुँचे, तो **[[:hi:key-terms:abraham|अब्राहम]]** ने अपने **[[:hi:key-terms:son|बेटे]] [[:hi:key-terms:isaac|इसहाक]]** को बांधा और **[[:hi:key-terms:altar|वेदी]]** पर लेटा दिया। वह **अपने बेटे को मारने** ही वाला था कि **[[:hi:key-terms:god|परमेश्वर]]** ने उसे रोक लिया और कहा, ‘‘**रुक जा! लड़के को चोट न पहुँचा**! मैं अब जानता हूँ कि **तू मेरा भय रखता है**, क्योंकि तूने **अपने एकलौते बेटे** को भी मुझसे न रख छोड़ा।
-
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
+  * **[[https://door43.org/en/obs/notes/key-terms/sacrifice|बलि]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/abraham|अब्राहम ]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/son|बेटा]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/isaac|इसहाक]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/altar|वेदी]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर]]**
+===== अनुवाद के लिए नोट्स: =====
 
-**[[https://door43.org/en/obs/notes/key-terms/sacrifice|बलि]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/abraham|अब्राहम ]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/son|बेटा]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/isaac|इसहाक]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/altar|वेदी]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर]]**
-===== Translation Notes: =====
-
-  * **kill his son**  - God did not want human sacrifice. God wanted to see that Abraham loved God more than he loved his son and would obey God even when God told him to give his son back to God.
-  * **Stop! Do no hurt the boy!**  - God protected Isaac and kept Abraham from killing him.
-  * **you fear me**  - Abraham feared God, which included respect and reverence for God. Because of those things, he obeyed God.
-  * **your only son**  - Ishmael was also Abraham's son, but Isaac was the only son of Abraham and Sarah. God's covenant was with Isaac and it was through Isaac that God would fulfill his promise.
+  * **अपने बेटे को मारने**  - परमेश्वर को मनुष्य की बलि नहीं चाहता। परमेश्वर तो यह देखना चाहता था कि अब्राहम अपने बेटे से अधिक परमेश्वर को प्रेम करता था, और चाहे परमेश्वर उससे उसका बेटा वापिस भी क्यों न मांगे, अब्राहम आज्ञा को अवश्य मानेगा।
+  * **रुक जा! लड़के को चोट न पहुँचा!**  - परमेश्वर ने इसहाक की रक्षा की और अब्राहम को उसे मारने से रोक दिया।
+  * **तू मेरा भय रखता है**  - अब्राहम परमेश्वर का भय रखता था, जिसमें परमेश्वर के प्रति आदर व सम्मान की भावना भी थी। उन बातों के कारण उसने परमेश्वर की आज्ञा का पालन किया।
+  * **अपने एकलौते बेटे**  - इश्माएल भी अब्राहम का बेटा था, लेकिन इसहाक, अब्राहम और सारा का एकलौता बेटा था। परमेश्वर की वाचा इसहाक के साथ थी और परमेश्वर अपनी प्रतिज्ञा इसहाक के द्वारा ही पूरी करनेवाला था।
 **[[:hi:obs:notes:frames:05-07|<<]] | [[:hi:obs:notes:05|Up]] | [[:hi:obs:notes:frames:05-09|>>]]**
