@@ -3,21 +3,12 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-01.jpg?nolink&}}
 
 **[[:hi:key-terms:abraham|अब्राहम]]** जब बहुत बूढ़ा हो गया, उसका **[[:hi:key-terms:son|बेटा]]** **[[:hi:key-terms:isaac|इसहाक]]**, एक युवक हो गया। इसलिए अब्राहम ने **अपने [[:hi:key-terms:servant|सेवकों]] में से एक को अपने रिश्तेदारों की भूमि में वापिस भेजा** कि वह **इसहाक के लिए एक पत्नी ले ****आये** ।
-
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/abraham|अब्राहम]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/son|बेटा]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/isaac|इसहाक]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/servant|सेवक]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/abraham|अब्राहम]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/son|बेटा]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/isaac|इसहाक]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/servant|सेवक]]**
 ===== Translation Notes: =====
 
   * **sent one of his servants back**  – This could be translated as, “told one of his servants to go back.” The word “back” means that the servant would be going to the same place where Abraham used to live long ago before he came to Canaan. Make sure the translation of this phrase makes that clear.
