@@ -2,33 +2,18 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-04.jpg?nolink&}}
 
-बहुत समय बाद, **[[:hi:key-terms:abraham|अब्राहम]]** की मृत्यु हो गई और जो भी **[[:hi:key-terms:promise|वाचाएँ]]** **[[:hi:key-terms:god|परमेश्वर]]** ने उसके साथ बाँधी थीं, वे सब **[[:hi:key-terms:isaac|इसहाक]]** के हिस्से आ गईं। परमेश्वर ने अब्राहम को असंख्य **[[:hi:key-terms:descendant|वंशजों]]** देने की **[[:hi:key-terms:covenant|प्रतिज्ञा]]** की थी, लेकिन इसहाक की पत्नी **[[:hi:key-terms:rebekh|रिबका]]** को कोई संतान न हो सकी थी।
-
+बहुत समय बाद, **[[:hi:key-terms:abraham|अब्राहम]]** की मृत्यु हो गई और जो भी **[[:hi:key-terms:promise|वाचाएँ]]** **[[:hi:key-terms:god|परमेश्वर]]** ने उसके साथ बाँधी थीं, **वे सब** **[[:hi:key-terms:isaac|इसहाक]]****के हिस्से आ ****गईं** । परमेश्वर ने अब्राहम को **असंख्य** **[[:hi:key-terms:descendant|वंशजों]]** देने की **[[:hi:key-terms:covenant|प्रतिज्ञा]]** की थी, लेकिन इसहाक की पत्नी **[[:hi:key-terms:rebekh|रिबका]]** को कोई संतान न हो सकी थी।
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
+  * **[[https://door43.org/en/obs/notes/key-terms/abraham|अब्राहम]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/promise|वाचाएँ]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर ]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/covenant|वाचा]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/isaac|इसहाक]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/descendant|वंशज]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/rebekah|रिबका]]**
+===== अनुवाद के लिए नोट्स: =====
 
-**[[https://door43.org/en/obs/notes/key-terms/abraham|अब्राहम]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/promise|वाचाएँ]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर ]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/covenant|वाचा]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/isaac|इसहाक]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/descendant|वंशज]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/rebekah|रिबका]]**
-===== Translation Notes: =====
-
-  * **the promises … were passed on**  - The promises of the covenant that God made with Abraham were not for him only, but also for his descendants.
-  * **countless**  - This could also be translated as, “very many.” The word “countless” means there would be so many descendants that people would not be able to count them.
+  * **वे सब (वाचाएँ) इसहाक के हिस्से आ गई**  - परमेश्वर ने जो वाचाएँ अब्राहम के साथ बाँँधी थीं, वे सिर्फ अब्राहम के लिए ही नहीं बल्कि उसके सारे वंशजों के लिए भी थी।
+  * **असंख्य**  - इस शब्द की जगह “बहुत से” का भी प्रयोग किया जा सकता है।
 **[[:hi:obs:notes:frames:06-03|<<]] | [[:hi:obs:notes:06|Up]] | [[:hi:obs:notes:frames:06-05|>>]]**
