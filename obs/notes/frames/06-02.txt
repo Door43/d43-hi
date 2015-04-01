@@ -2,7 +2,22 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-02.jpg?nolink&}}
 
-After a very long journey to the land where **[[:en:key-terms:abraham|Abraham's]]** relatives lived, **[[:en:key-terms:god|God]]** led the **[[:en:key-terms:servant|servant]]** to **[[:en:key-terms:rebekah|Rebekah]]**. She was the **granddaughter of Abraham's brother**.
+**[[:hi:key-terms:abraham|अब्राहम]]** **[[:hi:key-terms:abraham|के]]** रिश्तेदारों की भूमि की ओर कई दिनों तक यात्रा करने के बाद, **[[:hi:key-terms:god|परमेश्वर]]** ने **[[:hi:key-terms:servant|सेवक]]** को **[[:hi:key-terms:rebekah|रिबका]]** की ओर भेजा। वह **अब्राहम के भाई की पोती** थी।
+
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
+
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/abraham|अब्राहम के ]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/servant|सेवक]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/rebekah|रिबका]]**
 ===== Translation Notes: =====
 
   * **granddaughter of Abraham's brother**  - Specifically, she was the daughter of Abraham's brother's son. Her grandfather was Abraham's brother.
