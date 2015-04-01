@@ -1,20 +1,37 @@
-====== The Blessing [05-10] ======
+====== आशीष [05-10] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-10.jpg?nolink&}}
 
-Then **[[:en:key-terms:god|God]]** said to **[[:en:key-terms:abraham|Abraham]]**, “Because you were willing to give me everything, even **your only [[:en:key-terms:son|son]]**, I **[[:en:key-terms:promise|promise]]** to **[[:en:key-terms:bless|bless]]** you. Your **[[:en:key-terms:descendant|descendants]]** will be more than the stars in the sky. Because you have **[[:en:key-terms:obey|obeyed]]** me, **all the families of the world** will be **blessed through your family**.”
+**[[:hi:key-terms:god|परमेश्वर]]** ने तब **[[:hi:key-terms:abraham|अब्राहम ]]**से कहा, ‘‘क्योंकि तू मुझे अपना सब कुछ अर्पण करने को तैयार था, यहाँ तक कि अपना **एकलौता [[:hi:key-terms:son|बेटा]]** भी देने को तैयार था, मैं तुझे आशीषित करने की **[[:hi:key-terms:promise|प्रतिज्ञा]]** करता हूँ। आकाश के तारो से अधिक तेरे **[[:hi:key-terms:descendant|वंशज]]** होंगे। क्योंकि तूने मेरी **[[:hi:key-terms:obey|आज्ञा का पालन]]** किया है, **संसार के सभी परिवार** **तेरे परिवार के द्वारा आशीष ****पाएंगे** ।
 
-//A Bible story from: Genesis 16-22//
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
+**[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर ]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/abraham|अब्राहम ]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/son|बेटा ]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/promise|प्रतिज्ञा ]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/bless|आशीष ]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/descendant|वंशज ]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/obey|आज्ञा का पालन ]]**
 ===== Translation Notes: =====
 
-  * **your only son** - See explanation in **[[:hi:obs:notes:frames:05-08|[05-08]]]**.
-  * **the stars in the sky** - See explanation in **[[:hi:obs:notes:frames:04-05|[04-05]]]**.
-  * **all the families of the world** - Here, "families" refers to the larger distinct groups of people on earth, rather than to each set of parents and children. 
-  * **blessed through your family** - Here, "family" refers to the many descendants that Abraham would have. The future generations of the world would be blessed through Abraham's descendants. The greatest blessing would come many generations later through God's chosen servant, the Messiah.
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-  
-
+  * **your only son**  - See explanation in **[[:hi:obs:notes:frames:05-08|[05-08]]]**.
+  * **the stars in the sky**  - See explanation in **[[:hi:obs:notes:frames:04-05|[04-05]]]**.
+  * **all the families of the world**  - Here, "families" refers to the larger distinct groups of people on earth, rather than to each set of parents and children.
+  * **blessed through your family**  - Here, "family" refers to the many descendants that Abraham would have. The future generations of the world would be blessed through Abraham's descendants. The greatest blessing would come many generations later through God's chosen servant, the Messiah.
+  * //A Bible story from//  - These references may be slightly different in some Bible translations.
 **[[:hi:obs:notes:frames:05-09|<<]] | [[:hi:obs:notes:05|Up]] | [[:hi:obs:notes:frames:06-01|>>]]**
-
