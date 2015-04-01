@@ -1,17 +1,30 @@
-====== God Will Provide [05-07] ======
+====== परमेश्वर देगा [05-07] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-07.jpg?nolink&}}
 
-As **[[:en:key-terms:abraham|Abraham]]** and **[[:en:key-terms:isaac|Isaac]]** **walked to the place of [[:en:key-terms:sacrifice|sacrifice]]**, Isaac asked, “Father, we have **wood for the sacrifice**, but where is **the [[:en:key-terms:lamb|lamb]]**?” Abraham replied, “**[[:en:key-terms:god|God]]** will provide the lamb for the sacrifice, my son.”
+जैसे ही **अब्राहम** और **इसहाक** **बलि की जगह पर गये**, इसहाक ने पूछा, ‘‘हे पिता, हमारे पास **बलि के लिए लकड़ी** तो है, लेकिन **मेम्ना** कहाँ है?’’ अब्राहम ने उत्तर दिया, ‘‘हे मेरे बेटे, बलि के लिए **परमेश्वर** ही मेम्ना देगा।’’
 
-===== Translation Notes: =====
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-  * **walked to the place of sacrifice** - God had told Abraham to sacrifice Isaac on a special high hill that was about three days' walk from where they lived. 
-  * **wood for the sacrifice** - For a sacrifice, normally the lamb was killed and then placed on top of wood so that the wood and the lamb could be burned up with fire.
-  * **the lamb** - A young sheep or goat would be the normal animal for a sacrifice. 
-  * **provide** - Abraham may have believed that Isaac was the "lamb" that God provided, although God fulfilled Abraham's words by providing a ram to sacrifice in Isaac's place. 
-  
+**[[https://door43.org/en/obs/notes/key-terms/abraham|अब्राहम ]]**
+  *
 
+**[[https://door43.org/en/obs/notes/key-terms/isaac|इसहाक]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/sacrifice|बलि]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/lamb|मेम्ना]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **walked to the place of sacrifice**  - God had told Abraham to sacrifice Isaac on a special high hill that was about three days' walk from where they lived.
+  * **wood for the sacrifice**  - For a sacrifice, normally the lamb was killed and then placed on top of wood so that the wood and the lamb could be burned up with fire.
+  * **the lamb**  - A young sheep or goat would be the normal animal for a sacrifice.
+  * **provide**  - Abraham may have believed that Isaac was the "lamb" that God provided, although God fulfilled Abraham's words by providing a ram to sacrifice in Isaac's place.
 **[[:hi:obs:notes:frames:05-06|<<]] | [[:hi:obs:notes:05|Up]] | [[:hi:obs:notes:frames:05-08|>>]]**
-
