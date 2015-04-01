@@ -1,14 +1,25 @@
-====== The Ram [05-09] ======
+====== मेंढा [05-09] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-09.jpg?nolink&}}
 
-Nearby **[[:en:key-terms:abraham|Abraham]]** saw **a ram** that was stuck in a bush. **[[:en:key-terms:god|God]] had provided the ram** to be the **[[:en:key-terms:sacrifice|sacrifice]]** instead of **[[:en:key-terms:isaac|Isaac]]**. Abraham happily offered the ram as a sacrifice.
+**[[:hi:key-terms:abraham|अब्राहम]]** ने पास ही झाड़ी में **एक मेंढा** फँसा देखा। **[[:hi:key-terms:sacrifice|बलि]]** के लिए **[[:hi:key-terms:isaac|इसहाक]]** की जगह **[[:hi:key-terms:god|परमेश्वर]] ने एक मेंढा ****दिया** । अब्राहम ने खुशी-खुशी वह मेंढा बलि स्वरुप दे दिया।
 
-===== Translation Notes: =====
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-  * **a ram** - A ram is a male goat. Goats were one of the animals that people could sacrifice to God.
-  * **God had provided the ram** - Just at the right moment, God caused the ram to be stuck in the bush.   
+**[[https://door43.org/en/obs/notes/key-terms/abraham|अब्राहम]]**
+  *
 
+**[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर ]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/sacrifice|बलि]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/isaac|इसहाक]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **एक मेंढा**  - नर बकरी को मेंढा कहते हैं। बकरियाँ उन जानवरों मे ंसे थीं जिन्हें वे परमेश्वर के समक्ष बलि स्वरुप दे सकते थे।
+  * **परमेश्वर ने एक मेंढा दिया**  - बिल्कुल सही समय पर, परमेश्वर ने मेंढे को झाड़ी में फँसा दिया।
 **[[:hi:obs:notes:frames:05-08|<<]] | [[:hi:obs:notes:05|Up]] | [[:hi:obs:notes:frames:05-10|>>]]**
-
