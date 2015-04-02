@@ -1,16 +1,30 @@
-====== Rebekah and Jacob Tricked Isaac [07-03] ======
+====== **रिबका और याकूब का इसहाक को धोखा देना** [07-03] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-03.jpg?nolink&}}
 
-**[[:en:key-terms:isaac|Isaac]]** wanted to **give his [[:en:key-terms:bless|blessing]]** to **[[:en:key-terms:esau|Esau]]**. But before he did, **[[:en:key-terms:rebekah|Rebekah]]** and **[[:en:key-terms:jacob|Jacob]] tricked him** by having Jacob **pretend** to be Esau. Isaac was old and could no longer see. So Jacob put on Esau’s clothes and put **goatskins** on his neck and hands.
+**[[:hi:key-terms:isaac|इसहाक]]****अपनी** **[[:hi:key-terms:bless|आशीष]]** **[[:hi:key-terms:esau|एसाव]]** को देना चाहता था। लेकिन इससे पहले कि वह ऐसा करता, याकूब द्वारा एसाव होने का **स्वांग कर** **[[:hi:key-terms:rebekah|रिबका]]** व **[[:hi:key-terms:jacob|याकूब]]** ने इसहाक से **छल ****किया** । इसहाक बहुत बूढ़ा हो चुका था और अब देख नहीं पाता था। इसलिए याकूब ने एसाव के कपड़े पहने और **बकरी की खाल** पहन ली।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/isaac|इसहाक]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/bless|आशीष ]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/esau|एसाव ]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/rebekah|रिबका ]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/jacob|याकूब]]**
 ===== Translation Notes: =====
 
-  * **give his blessing** - It was customary for fathers to formally express their desire for good things to happen to their children. Normally the older son received the best promise. Isaac wanted this extra prosperity to happen to Esau.
-  * **tricked him** - The word “trick” means to do something to deliberately deceive someone. Rebekah came up with a plan to deceive Isaac into giving Jacob the special blessing instead of Esau.
-  * **pretend** - The word “pretend” shows how Jacob would deceive his father (who had very poor eyesight in his old age). 
-  * **goatskins** - The hairiness of the goatskins would make Jacob feel like Esau.
-  
-
+  * **give his blessing**  - It was customary for fathers to formally express their desire for good things to happen to their children. Normally the older son received the best promise. Isaac wanted this extra prosperity to happen to Esau.
+  * **tricked him**  - The word “trick” means to do something to deliberately deceive someone. Rebekah came up with a plan to deceive Isaac into giving Jacob the special blessing instead of Esau.
+  * **pretend**  - The word “pretend” shows how Jacob would deceive his father (who had very poor eyesight in his old age).
+  * **goatskins**  - The hairiness of the goatskins would make Jacob feel like Esau.
 **[[:hi:obs:notes:frames:07-02|<<]] | [[:hi:obs:notes:07|Up]] | [[:hi:obs:notes:frames:07-04|>>]]**
