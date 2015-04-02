@@ -1,19 +1,27 @@
-====== Isaac Sent Jacob Away [07-06] ======
+====== **इसहाक का याकूब को दूर भेजना** [07-06] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-06.jpg?nolink&}}
 
-But **[[:en:key-terms:rebekah|Rebekah]]** heard of **[[:en:key-terms:esau|Esau’s]] plan**. So **she and [[:en:key-terms:isaac|Isaac]] sent [[:en:key-terms:jacob|Jacob]] far away to live with her relatives**.
+लेकिन **[[:hi:key-terms:rebekah|रिबका]]** ने **[[:hi:key-terms:esau|एसाव की]]** योजना सुन ली। इसलिए **[[:hi:key-terms:isaac|इसहाक]]** और उसने **[[:hi:key-terms:jacob|याकूब]]** को अपने (रिबका के ) दूर दराज़ के रिश्तेदार के पास रहने भेज दिया।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  *
 
+**[[https://door43.org/en/obs/notes/key-terms/rebekah|रिबका ]]**
+  *
 
-  * **Esau's plan** - Esau's plan was to kill Jacob after his father died. 
-  * **she and Isaac sent Jacob** – Rebekah wanted to protect Jacob from Esau so she talked to Isaac about sending Jacob away.
-  * **far away to live with her relatives** - This was the same place where Rebekah was living when Abraham's servant got her to be Isaac's wife. To make this clear, you could add, "relatives in the same land where she used to live.” The land was to the east, several hundred miles away.  
-  * **her relatives** - This could also be translated as, “their relatives.” Since Abraham's brother was Rebekah's grandfather, her relatives were also Isaac's relatives. 
+**[[https://door43.org/en/obs/notes/key-terms/esau|एसाव की ]]**
+  *
 
-  
+**[[https://door43.org/en/obs/notes/key-terms/isaac|इसहाक]]**
+  *
 
+**[[https://door43.org/en/obs/notes/key-terms/jacob|याकूब]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **एसाव की योजना**  - एसाव की योजना थी कि वह अपने पिता की मुत्यु के बाद याकूब की हत्या कर देगा।
+  * **she and Isaac sent Jacob**  – Rebekah wanted to protect Jacob from Esau so she talked to Isaac about sending Jacob away.
+  * **far away to live with her relatives**  - This was the same place where Rebekah was living when Abraham's servant got her to be Isaac's wife. To make this clear, you could add, "relatives in the same land where she used to live.” The land was to the east, several hundred miles away.
+  * **her relatives**  - This could also be translated as, “their relatives.” Since Abraham's brother was Rebekah's grandfather, her relatives were also Isaac's relatives.
 **[[:hi:obs:notes:frames:07-05|<<]] | [[:hi:obs:notes:07|Up]] | [[:hi:obs:notes:frames:07-07|>>]]**
-
