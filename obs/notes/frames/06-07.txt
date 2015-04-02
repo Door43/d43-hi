@@ -2,9 +2,22 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-07.jpg?nolink&}}
 
-When **[[:en:key-terms:rebekah|Rebekah's]] babies were born**, **the older [[:en:key-terms:son|son]]** came out **red** and **hairy**, and they named him **[[:en:key-terms:esau|Esau]]**. Then **the younger son** came out holding on to Esau's heel, and they named him **[[:en:key-terms:jacob|Jacob]]**.
+**[[:hi:key-terms:rebekah|रिबका के]]****जब बच्चे पैदा हुए**, तब **बड़ा** **[[:hi:key-terms:son|बेटा]]****लाल** रंग का और **रोयेंदार** पैदा हुआ, और उन्होंने उसका नाम **[[:hi:key-terms:esau|एसाव]]** रखा। इसके बाद, बड़े बेटे की एड़ी पकड़े **छोटा बेटा** पैदा हुआ, और उन्होंने उसे **[[:hi:key-terms:jacob|याकूब]]** नाम दिया।
 
-//A Bible story from: Genesis 24:1-25:26//
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
+
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/rebekah|रिबका के]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/son|बेटा]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/esau|एसाव]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/jacob|याकूब]]**
 ===== Translation Notes: =====
 
   * **Rebekah's babies were born**  - Some languages have a more indirect way of saying this such as, “when Rebekah saw and took them" or, "when Rebekah brought them to light.”
