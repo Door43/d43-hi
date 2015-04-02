@@ -1,26 +1,18 @@
-====== **लड़कों का बड़ा होना** [07-01] ======
+====== लड़कों का बड़ा होना [07-01] ======
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-01.jpg?nolink&}}
 
-बड़ा होने पर, **याकूब को घर पर रहना अच्छा लगता था**, लेकिन **एसाव को शिकार पर जाना भाता था** । **रिबका का स्नेह याकूब पर था**, **लेकिन इसहाक को एसाव से प्रेम था।**
+बड़ा होने पर, **[[:hi:key-terms:jacob|याकूब ]]को घर पर रहना अच्छा लगता था**, लेकिन **[[:hi:key-terms:esau|एसाव]] को शिकार पर जाना भाता था** । **[[:hi:key-terms:rebekah|रिबका]] का स्नेह याकूब पर था**, **लेकिन [[:hi:key-terms:isaac|इसहाक]] को एसाव से प्रेम था।**
 
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
+  * **[[https://door43.org/en/obs/notes/key-terms/jacob|याकूब]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/esau|एसाव]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/rebekah|रिबका]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/isaac|इसहाक]]**
+===== अनुवाद के लिए नोट्स: =====
 
-**[[https://door43.org/en/obs/notes/key-terms/jacob|याकूब]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/esau|एसाव]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/rebekah|रिबका]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/isaac|इसहाक]]**
-===== Translation Notes: =====
-
-  * **loved to stay at home … loved to hunt**  - Some languages will use a word for “love” here that is different from the one used for, “Rebekah loved Jacob.” For example, this could be translated as, “liked to stay at home … liked to hunt” or, “preferred to stay at home … preferred to hunt.”
-  * **at home**  - This expression refers to the area around the family dwellings. Jacob preferred to stay close to the tents where they lived. Some languages have a special expression for, “at home.”
-  * **Rebekah loved Jacob, but Isaac loved Esau**  - This could be translated as, “Rebekah was more fond of Jacob, and Isaac was more fond of Esau.” This does not necessarily mean that Rebekah and Isaac did not love the other son, but that each parent had a favorite.
+  * **घर पर रहना अच्छा लगता था;शिकार पर जाना भाता था**  - हालाकि अंग्रेजी में रिबका की याकूब के प्रति भावना तथा यहाँ पर याकूब तथा एसाव की पसंदगी के लिए “लव” शब्द का प्रयोग हुआ है, लेकिन अन्य भाषाओं में इन भावनाओं के लिए अलग-अलग शब्द हो सकते हैं। जैसे कि हिन्दी में “अच्छा लगता था,” या कि “भाता था” जैसे शब्दों का प्रयोग हुआ है।
+  * **घर पर**  - अर्थात् घर और उसके आस-पास के दायरे के भीतर। याकूब को निवास के तंबू के आस-पास ही रहना अच्छा लगता था। कुछ भाषाओं में “घर पर” के लिए कोई विशेष अभिव्यक्ति हो सकती है।
+  * **रिबका का स्नेह याकूब पर था, लेकिन इसहाक को एसाव से प्रेम था**- इसे कुछ इस तरह से भी कहा जा सकता है कि “रिबका का लाडला याकूब था, जबकि एसाव इसहाक का लाडला था।“ इसका आशय यह नहीं कि रिबका और इसहाक को केवल वही बेटा पसंद था। ये शब्द बताते हैं कि उनका स्नेह किस पर अधिक था।
 **[[:hi:obs:notes:frames:06-07|<<]] | [[:hi:obs:notes:07|Up]] | [[:hi:obs:notes:frames:07-02|>>]]**
