@@ -1,19 +1,13 @@
-====== Two Nations [06-06] ======
+====== दो जातियाँ [06-06] ======
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-06.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-06.jpg?nolink}}
-
-
-**[[:en:key-terms:god|God]]** told **[[:en:key-terms:rebekah|Rebekah]]**, “Two nations will come **from the two sons** inside of you. **They will struggle with each other** and **the older [[:en:key-terms:son|son]]** will **serve the younger one**.” 
-
+**[[:hi:key-terms:god|परमेश्वर]]** ने **रिबका** से कहा, “तेरे भीतर पल रहे **दो बेटों से** दो जातियाँ निकलेंगी। **वे एक दूसरे से संघर्ष करेंगे** और **बड़ा बेटा, छोटेवाले की सेवा ****करेगा** ।“
 
 ===== Translation Notes: =====
 
-  * **from the two sons** - That is, "from the descendants of the two sons."
-  * **They will struggle with each other** - Both the two sons and the nations that will come from them will continually fight with each other. Compare to **[[:hi:obs:notes:frames:06-05|[06-05]]]**.
-  * **the older son** - Even though the babies were twins, the baby that came out first would be treated as the older son. 
-  * **serve the younger one** – This could be translated as, “the older son will have to do what the younger one tells him to do.” 
-  
-
-**[[:hi:obs:notes:frames:06-05|<<]] | [[:hi:obs:notes:06|Up]] | [[:hi:obs:notes:frames:06-07|>>]]**
-
+  * **from the two sons**  - That is, "from the descendants of the two sons."
+  * **They will struggle with each other**  - Both the two sons and the nations that will come from them will continually fight with each other. Compare to **[[[06-05]]]**.
+  * **the older son**  - Even though the babies were twins, the baby that came out first would be treated as the older son.
+  * **serve the younger one**  – This could be translated as, “the older son will have to do what the younger one tells him to do.”
+**[[<<]] | [[Up]] | [[>>]]**
