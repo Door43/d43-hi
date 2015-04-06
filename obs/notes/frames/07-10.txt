@@ -2,44 +2,23 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-10.jpg?nolink&}}
 
-लेकिन**[[:hi:key-terms:esau|एसाव]]**पहले ही **[[:hi:key-terms:jacob|याकूब]]** को **[[:hi:key-terms:forgive|माफ]]****कर चुका था**, और एक दूसरे से दोबारा मिल कर दोनो बहुत खुश थे।[[:hi:key-terms:esau|]] **[[:hi:key-terms:canaan|कनान]]** में तब याकूब **[[:hi:key-terms:peace|शांतिपूर्वक ]]****रहा** । इसके बाद **[[:hi:key-terms:isaac|इसहाक]]** की मुत्यु हो गई, और याकूब तथा एसाव ने उसे **मिट्टी दी** । जो **[[:hi:key-terms:covenant|वाचाएँ]]** **[[:hi:key-terms:god|परमेश्वर]]** ने **[[:hi:key-terms:abraham|अब्राहम]]** के साथ **[[:hi:key-terms:promise|वादा]]** किया था, वे अब **इसहाक से याकूब को** मिल गई थी।
-
+लेकिन**[[:hi:key-terms:esau|एसाव]]** पहले ही **[[:hi:key-terms:jacob|याकूब]]** को **[[:hi:key-terms:forgive|माफ]]****कर**** चुका था**, और एक दूसरे से दोबारा मिल कर दोनो बहुत खुश थे।[[:hi:key-terms:esau|Esau]] **[[:hi:key-terms:canaan|कनान]]** में तब याकूब **[[:hi:key-terms:peace|शांतिपूर्वक ]]****रहा** । इसके बाद **[[:hi:key-terms:isaac|इसहाक]]** की मुत्यु हो गई, और याकूब तथा एसाव ने उसे **मिट्टी दी** । जो **[[:hi:key-terms:covenant|वाचाएँ]]** **[[:hi:key-terms:god|परमेश्वर]]** ने **[[:hi:key-terms:abraham|अब्राहम]]** के साथ **[[:hi:key-terms:promise|वादा]]** किया था, वे अब **इसहाक से याकूब को** मिल गई थी।
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
+  * **[[https://door43.org/en/obs/notes/key-terms/esau|एसाव]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/forgive|माफ कर चुका था ]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/jacob|याकूब ]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/peace|शांतिपूर्वक]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/canaan|कनान ]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/isaac|इसहाक]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/covenant|वाचाएँ]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/promise|वादा]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर ]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/abraham|अब्राहम ]]**
+===== अनुवाद के लिए नोट्स: =====
 
-**[[https://door43.org/en/obs/notes/key-terms/esau|एसाव]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/forgive|माफ कर चुका था ]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/jacob|याकूब ]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/peace|शांतिपूर्वक]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/canaan|कनान ]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/isaac|इसहाक]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/covenant|वाचाएँ]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/promise|वादा]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर ]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/abraham|अब्राहम ]]**
-===== Translation Notes: =====
-
-  * **lived peacefully**  - This refers to the fact that Esau and Jacob were not angry at each other and did not fight with each other.
-  * **buried him**  - This could mean that they dug a hole in the ground, placed Isaac's body in it, and covered the hole with dirt or stones. Or it could mean that they placed Isaac's body in a cave and covered the opening.
+  * **शांतिपूर्वक रहा**  - यह इस बात का सूचक है कि एसाव और याकूब अब एक दूसरे क्रोधित नहीं थे, और एक दूसरे से नहीं लड़ते थे।
+  * **मिट्टी दी**  - इसका आशय यह हो सकता है कि उन्होंने एक गड्ढा खोद कर उसमें इसहाक के मृत शरीर को डाला, और फिर उसे मिट्टी व पत्थरों से भर दिया। \\ या फिर इसका आशय यह भी हो सकता है कि उन्होंने इसहाक के मृत शरीर को गुफा में रख कर, गुफा के प्रवेश द्वार को पत्थर से बंद कर दिया।
   * **covenant promises**  - These were the promises that God made in his covenant with Abraham.
   * **passed on from Isaac to Jacob**  - The promises went from Abraham to his son Isaac, and now to Isaac's son Jacob. Esau did not receive the promises. See also **[[:hi:obs:notes:frames:06-04|[06-04]]]**.
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
