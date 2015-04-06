@@ -1,15 +1,30 @@
-====== Joseph in Egypt [08-04] ======
+====== मिस्र में यूसुफ [08-04] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-04.jpg?nolink&}}
 
-The **[[:en:key-terms:servant|slave]]** traders took **[[:en:key-terms:joseph|Joseph]]** to **[[:en:key-terms:egypt|Egypt]]**. Egypt was a large, powerful country located along the **[[:en:key-terms:nile-river|Nile River]]**. The slave traders sold Joseph as a slave to a wealthy **government official**. Joseph served his master well, and **[[:en:key-terms:god|God]]** **[[:en:key-terms:bless|blessed]]** Joseph.
+**[[:hi:key-terms:servant|दासों]]** के व्यापारी **[[:hi:key-terms:joseph|यूसुफ]]** को **[[:hi:key-terms:egypt|मिस्र]]** ले गये। **[[:hi:key-terms:nile-river|नील नदी]]** के किनारे स्थित, मिस्र एक विशाल, शाक्तिशाली देश था। दासों के व्यापारियों ने यूसुफ को एक दास के रुप में, एक धनी **सरकारी अधिकारी** को बेच दिया। यूसुफ ने अपने स्वामी की बहुत अच्छी सेवा की, और **[[:hi:key-terms:god|परमेश्वर]]** ने यूसुफ को **[[:hi:key-terms:bless|आशीषित]]** किया।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  *
 
+**[[https://door43.org/en/obs/notes/key-terms/servant|दास]]**
+  *
 
-  * **government official** - This was a person who was part of the Egyptian government. Another way to say this would be, “a leader in Egypt's government.”
-  
+**[[https://door43.org/en/obs/notes/key-terms/joseph|यूसुफ]]**
+  *
 
+**[[https://door43.org/en/obs/notes/key-terms/egypt|मिस्र]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/nile-river|नील नदी]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर ]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/bless|आशीषित]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **सरकारी अधिकारी**  - यह मिस्र सरकार में एक अधिकारी था। इसे “मिस्र की सरकार के एक अगुवे” के रुप में भी अनूदित किया जा सकता है।
 **[[:hi:obs:notes:frames:08-03|<<]] | [[:hi:obs:notes:08|Up]] | [[:hi:obs:notes:frames:08-05|>>]]**
-
