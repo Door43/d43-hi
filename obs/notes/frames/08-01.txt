@@ -3,18 +3,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-02.jpg?nolink&}}
 
 बहुत सालों बाद, जब **[[:hi:key-terms:jacob|याकूब]]** बूढ़ा हो चुका था, उसने अपने **प्रिय बेटे** **[[:hi:key-terms:joseph|यूसुफ]]** को **जानवरों के झुंडों** की रखवाली करते अपने **भाइयों** का **देखने** **भेजा** ।
-
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
+  * **[[https://door43.org/en/obs/notes/key-terms/jacob|याकूब]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/joseph|यूसुफ]]**
+===== अनुवाद के लिए नोट्स: =====
 
-**[[https://door43.org/en/obs/notes/key-terms/jacob|याकूब]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/joseph|यूसुफ]]**
-===== Translation Notes: =====
-
-  * **sent**  – This word means that Jacob told Joseph to go and Joseph went.
+  * **भेजा**  - इसका आशय इस बात से है कि याकूब ने यूसुफ को भेजा था।
   * **favorite son**  - This could be translated as, “the son he loved more than any of his other children.”
   * **check on**  - This means that Joseph is to go and see if everything is all right with his brothers. Some languages might say something like, "to see his brothers' well-being."
   * **brothers**  - These were Joseph's older brothers.
