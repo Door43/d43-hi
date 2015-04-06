@@ -1,13 +1,18 @@
-====== The Brothers' Lie [08-03] ======
+====== भाइयों का झूठ [08-03] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-03.jpg?nolink&}}
 
-Before **[[:en:key-terms:joseph|Joseph’s]]** brothers returned home, they tore Joseph’s robe and dipped it in **goat's blood**. Then they showed the robe to their father so he would think that a wild animal had killed Joseph. **[[:en:key-terms:jacob|Jacob]]** was very sad.
+घर पहुँचने से पहले **[[:hi:key-terms:joseph|युसूफ के]]** भाइयों ने उसके अंगरखे को लेकर उसे फाड़ा और उसे **बकरी के लहू** में भिगो दिया। उन्होंने तब वह अंगरखा अपने पिता को दिखाया, ताकि उसे लगे कि युसुफ को किसी जंगली जानवर ने मार डाला है। **[[:hi:key-terms:jacob|याकूब]]** बहुत दुखी हुआ।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/joseph|यूसुफ के ]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/jacob|याकूब ]]**
 ===== Translation Notes: =====
 
-  * **goat's blood** - The brothers wanted Jacob to think that the blood on the clothes was Joseph's blood. 
-  
+  * **goat's blood**  - The brothers wanted Jacob to think that the blood on the clothes was Joseph's blood.
 **[[:hi:obs:notes:frames:08-02|<<]] | [[:hi:obs:notes:08|Up]] | [[:hi:obs:notes:frames:08-04|>>]]**
-
