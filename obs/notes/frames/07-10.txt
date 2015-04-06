@@ -1,21 +1,46 @@
-====== The Brothers Were Reunited [07-10] ======
+====== भाइयों को फिर से एक होना [07-10] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-10.jpg?nolink&}}
 
+लेकिन**[[:hi:key-terms:esau|एसाव]]**पहले ही **[[:hi:key-terms:jacob|याकूब]]** को **[[:hi:key-terms:forgive|माफ]]****कर चुका था**, और एक दूसरे से दोबारा मिल कर दोनो बहुत खुश थे।[[:hi:key-terms:esau|]] **[[:hi:key-terms:canaan|कनान]]** में तब याकूब **[[:hi:key-terms:peace|शांतिपूर्वक ]]****रहा** । इसके बाद **[[:hi:key-terms:isaac|इसहाक]]** की मुत्यु हो गई, और याकूब तथा एसाव ने उसे **मिट्टी दी** । जो **[[:hi:key-terms:covenant|वाचाएँ]]** **[[:hi:key-terms:god|परमेश्वर]]** ने **[[:hi:key-terms:abraham|अब्राहम]]** के साथ **[[:hi:key-terms:promise|वादा]]** किया था, वे अब **इसहाक से याकूब को** मिल गई थी।
 
-But **[[:en:key-terms:esau|Esau]]** had already **[[:en:key-terms:forgive|forgiven]]** **[[:en:key-terms:jacob|Jacob]]**, and they were happy to see each other again. Jacob then **lived [[:en:key-terms:peace|peacefully]]** in **[[:en:key-terms:canaan|Canaan]]**. Then **[[:en:key-terms:isaac|Isaac]]** died, and Jacob and Esau **buried him**. The **[[:en:key-terms:covenant|covenant]]** **[[:en:key-terms:promise|promises]]** **[[:en:key-terms:god|God]]** had promised to **[[:en:key-terms:abraham|Abraham]]** now **passed on from Isaac to Jacob**.
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-//A Bible story from: Genesis 25:27-33:20//
+  *
 
+**[[https://door43.org/en/obs/notes/key-terms/esau|एसाव]]**
+  *
 
+**[[https://door43.org/en/obs/notes/key-terms/forgive|माफ कर चुका था ]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/jacob|याकूब ]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/peace|शांतिपूर्वक]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/canaan|कनान ]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/isaac|इसहाक]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/covenant|वाचाएँ]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/promise|वादा]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर ]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/abraham|अब्राहम ]]**
 ===== Translation Notes: =====
 
-
-  * **lived peacefully** - This refers to the fact that Esau and Jacob were not angry at each other and did not fight with each other. 
-  * **buried him** - This could mean that they dug a hole in the ground, placed Isaac's body in it, and covered the hole with dirt or stones. Or it could mean that they placed Isaac's body in a cave and covered the opening.
-  * **covenant promises** - These were the promises that God made in his covenant with Abraham. 
-  * **passed on from Isaac to Jacob** - The promises went from Abraham to his son Isaac, and now to Isaac's son Jacob. Esau did not receive the promises. See also **[[:hi:obs:notes:frames:06-04|[06-04]]]**.
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-  
-
+  * **lived peacefully**  - This refers to the fact that Esau and Jacob were not angry at each other and did not fight with each other.
+  * **buried him**  - This could mean that they dug a hole in the ground, placed Isaac's body in it, and covered the hole with dirt or stones. Or it could mean that they placed Isaac's body in a cave and covered the opening.
+  * **covenant promises**  - These were the promises that God made in his covenant with Abraham.
+  * **passed on from Isaac to Jacob**  - The promises went from Abraham to his son Isaac, and now to Isaac's son Jacob. Esau did not receive the promises. See also **[[:hi:obs:notes:frames:06-04|[06-04]]]**.
+  * //A Bible story from//  - These references may be slightly different in some Bible translations.
 **[[:hi:obs:notes:frames:07-09|<<]] | [[:hi:obs:notes:07|Up]] | [[:hi:obs:notes:frames:08-01|>>]]**
