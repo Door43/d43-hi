@@ -1,16 +1,10 @@
-====== Jacob Returned Home [07-08] ======
+====== याकूब का घर लौटना [07-08] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-08.jpg?nolink&}}
 
-
-**After twenty years** away from his home in **[[:en:key-terms:canaan|Canaan]]**, **[[:en:key-terms:jacob|Jacob]]** returned there with his family, his **[[:en:key-terms:servant|servants]]**, and all his herds of animals.
-
+कनान में स्थित अपने घर से बीस सालों तक दूर रहने के बाद, याकूब अपनी पत्नी, अपने सेवकों, और पशुओं के झुंडों के साथ वहाँ पर लौटा।
 
 ===== Translation Notes: =====
 
-
-  * **after twenty years** - Jacob had lived for twenty years in the land where his mother was from. If that is not clear you could say, “After twenty years living in the land where his relatives were.”
-  
-
+  * **after twenty years**  - Jacob had lived for twenty years in the land where his mother was from. If that is not clear you could say, “After twenty years living in the land where his relatives were.”
 **[[:hi:obs:notes:frames:07-07|<<]] | [[:hi:obs:notes:07|Up]] | [[:hi:obs:notes:frames:07-09|>>]]**
-
