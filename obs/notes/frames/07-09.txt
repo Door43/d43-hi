@@ -1,14 +1,21 @@
-====== Jacob Met Esau [07-09] ======
+====== याकूब का एसाव से मिलना [07-09] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-09.jpg?nolink&}}
 
-**[[:en:key-terms:jacob|Jacob]]** was very afraid because he thought **[[:en:key-terms:esau|Esau]]** still wanted to kill him. So he sent many herds of animals to Esau as a gift. The **[[:en:key-terms:servant|servants]]** who brought the animals said to Esau, “**Your servant, Jacob**, is giving you these animals. He is coming soon.”
+**[[:hi:key-terms:jacob|याकूब]]** बहुत डरा हुआ था, क्योंकि उसे लगता था कि **[[:hi:key-terms:esau|एसाव]]** उसे अब भी मार डालना चाहता है। इसलिए, उसने एसाव के पास जानवरों के कई झुंड भेट स्वरुप भेजे। जानवर लेकर जानेवाले **[[:hi:key-terms:servant|सेवकों]]** ने एसाव से कहा, “**आपके**** सेवक, याकूब** ने आपके लिए यह जानवर भेजे हैं। वह जल्द ही आनेवाले हैं।“
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/jacob|याकूब ]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/esau|एसाव ]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/servant|सेवकों ]]**
 ===== Translation Notes: =====
 
-
-  * **your servant, Jacob** - Jacob was not actually Esau's servant. But Jacob told his servants to say this because he wanted to show Esau that he was coming to him humbly and respectfully, so that Esau would no longer be angry with him. 
-  
-
+  * **your servant, Jacob**  - Jacob was not actually Esau's servant. But Jacob told his servants to say this because he wanted to show Esau that he was coming to him humbly and respectfully, so that Esau would no longer be angry with him.
 **[[:hi:obs:notes:frames:07-08|<<]] | [[:hi:obs:notes:07|Up]] | [[:hi:obs:notes:frames:07-10|>>]]**
