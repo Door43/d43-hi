@@ -2,8 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-01.jpg?nolink&}}
 
-**[[:hi:obs:notes:key-terms:god|परमेश्वर]]** के विरुद्ध **[[:hi:obs:notes:key-terms:kingdom-of-israel|इस्राएल के राज्य]]** और **[[:hi:obs:notes:key-terms:kingdom-of-judah|यहूदा के राज्य]]**, दोनों राज्यों ने **[[:hi:obs:notes:key-terms:sin|पाप]]** किया। They **broke the [[:en:key-terms:covenant|covenant]]** that God had made with them at **[[:en:key-terms:sinai|Sinai]]**. God sent his **[[:en:key-terms:prophet|prophets]]** to **warn them to [[:en:key-terms:repent|repent]]** and **[[:en:key-terms:worship|worship]]** him again, but they refused to **[[:en:key-terms:obey|obey]]**.
-
+**[[:hi:obs:notes:key-terms:god|परमेश्वर]]** के विरुद्ध **[[:hi:obs:notes:key-terms:kingdom-of-israel|इस्राएल के राज्य]]** और **[[:hi:obs:notes:key-terms:kingdom-of-judah|यहूदा के राज्य]]**, दोनों राज्यों ने **[[:hi:obs:notes:key-terms:sin|पाप]]** किया। परमेश्वर ने जो **[[:hi:obs:notes:key-terms:covenant|वाचा]]** उनके साथ **[[:hi:obs:notes:key-terms:sinai|सीनै]]** पर बाँधी थी, लोगों ने वह वाचा **तोड़ ****डाली** । उन्हें **[[:hi:obs:notes:key-terms:repent|मन फिराने]]** और दोबारा से उसकी **[[:hi:obs:notes:key-terms:worship|आराधना]]** करने की **चेतावनी** के साथ, परमेश्वर ने अपने **[[:hi:obs:notes:key-terms:prophet|नबी]]** उनके पास भेजे, परन्तु उन्होंने परमेश्वर कि **[[:hi:obs:notes:key-terms:obey|आज्ञा मानने]]** से मना कर दिया।
 ===== Translation Notes: =====
 
   * **broke the covenant**  - That is, “disobeyed the commands God had given them in his covenant with them at Mount Sinai.”
