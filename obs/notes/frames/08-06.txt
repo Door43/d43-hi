@@ -1,16 +1,31 @@
-====== Pharaoh's Dream [08-06] ======
+====== फिरौन का सपना [08-06] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-06.jpg?nolink&}}
 
-After two years, **[[:en:key-terms:joseph|Joseph]]** was still in prison, even though he was **[[:en:key-terms:innocent|innocent]]**. One night, the **[[:en:key-terms:pharaoh|Pharaoh]]**, which is what the **[[:en:key-terms:egypt|Egyptians]]** called their **[[:en:key-terms:king|kings]]**, had two **[[:en:key-terms:dream|dreams]]** that **disturbed him greatly**. None of **his advisors** could tell him the **meaning of the dreams**.
+दो साल बाद भी, **[[:hi:obs:notes:key-terms:joseph|यूसुफ]]** **[[:hi:obs:notes:key-terms:innocent|निर्दोष]]** होने के बावजूद जेल में ही था। One night, the **[[:hi:obs:notes:key-terms:pharaoh|Pharaoh]]**, which is what the **[[:hi:obs:notes:key-terms:egypt|Egyptians]]** called their **[[:hi:obs:notes:key-terms:king|kings]]**, had two **[[:hi:obs:notes:key-terms:dream|dreams]]** that **disturbed him greatly**. None of **his advisors** could tell him the **meaning of the dreams**.
+===== Important Terms: =====
 
+  *
 
+**[[https://door43.org/en/obs/notes/key-terms/joseph|Joseph]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/innocent|innocent]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/pharaoh|Pharaoh]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/egypt|Egyptians]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/king|kings]]**
+  *
+
+**[[https://door43.org/en/obs/notes/key-terms/dream|dreams]]**
 ===== Translation Notes: =====
 
-
-  * **disturbed him greatly** – This means that the king felt very afraid and confused (because of what he had seen in the dreams). 
-  * **his advisors** - These were men with special powers and knowledge who could sometimes tell what dreams meant. Some translations refer to them as, “wise men.” 
-  * **meaning of the dreams** - People in Egypt believed that dreams were messages from the gods telling them about what would happen in the future. God used Pharaoh's dreams to tell him what would happen.
-  
-
+  * **disturbed him greatly**  – This means that the king felt very afraid and confused (because of what he had seen in the dreams).
+  * **his advisors**  - These were men with special powers and knowledge who could sometimes tell what dreams meant. Some translations refer to them as, “wise men.”
+  * **meaning of the dreams**  - People in Egypt believed that dreams were messages from the gods telling them about what would happen in the future. God used Pharaoh's dreams to tell him what would happen.
 **[[:hi:obs:notes:frames:08-05|<<]] | [[:hi:obs:notes:08|Up]] | [[:hi:obs:notes:frames:08-07|>>]]**
