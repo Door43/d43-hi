@@ -2,7 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-05.jpg?nolink&}}
 
-**[[:hi:obs:key-terms:joseph|यूसुफ]]** के स्वामी की पत्नी उसके साथ सोना चाहती थी, लेकिन यूसुफ ने परमेश्वर के विरोध में इस पाप को करने से मना कर दिया। उसे यूसुफ पर बहुत क्रोध आया और उसे जेल भिजवाने के लिए उसने यूसुफ पर झूठा दोष लगा दिया। जेल में भी यूसुफ परमेश्वर के प्रति विश्वासयोग्य रहा, और परमेश्वर ने उसे आशीषित किया।
+**[[:hi:obs:notes:key-terms:joseph|यूसुफ]]** के स्वामी की पत्नी **उसके साथ सोना चाहती थी**, लेकिन यूसुफ ने **[[:hi:key-terms:god|परमेश्वर]] के विरोध में इस [[:hi:key-terms:sin|पाप]]** को करने से मना कर दिया। उसे यूसुफ पर बहुत क्रोध आया और उसे जेल भिजवाने के लिए उसने यूसुफ पर झूठा दोष लगा दिया। जेल में भी यूसुफ **परमेश्वर के प्रति [[:hi:key-terms:faithful|विश्वासयोग्य]]****रहा**, और परमेश्वर ने उसे **[[:hi:key-terms:bless|आशीषित]]** किया।
 
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
@@ -11,9 +11,9 @@
   * **[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर ]]**
   * **[[https://door43.org/en/obs/notes/key-terms/faithful|विश्वासयोग्य ]]**
   * **[[https://door43.org/en/obs/notes/key-terms/bless|आशीषित]]**
-===== Translation Notes: =====
+===== अनुवाद के लिए नोट्स: =====
 
-  * **tried to sleep with Joseph**  – Another way to say this would be, “tried to seduce Joseph to have sex with her.” To “sleep with” is a way of expressing this in order not to be crude or offensive.
-  * **sin against God**  - It is against God's law for people to have sex if they are not married to each other. Joseph did not want to sin by disobeying God's law.
-  * **remained faithful to God**  - Another way to say this would be, “continued to obey God.”
+  * **यूसुफ के साथ सोना चाहती थी**  – इसे ऐसे भी कह सकते हैं की "उसने यूसुफ को बहकाने की कोशिश की।” "सोना चाहती थी"असल में बात को कहने का शालीन तरीका है।
+  * **परमेश्वर के विरुद्ध पाप**  - अपने पति/पत्नी के आलावा किसी और से यौन संबंध बनाना परमेश्वर के नियम के विरुद्ध होता है। यूसुफ परमेश्वर की आज्ञा तोड़ने के द्वारा पाप नहीं करना चाहता था |
+  * **परमेश्वर के प्रति विश्वासयोग्य बना रहा**  - इसे यूँ भी कह सकते हैं कि "वह परमेश्वर का आज्ञाकारी बना रहा।"
 **[[:hi:obs:notes:frames:08-04|<<]] | [[:hi:obs:notes:08|Up]] | [[:hi:obs:notes:frames:08-06|>>]]**
