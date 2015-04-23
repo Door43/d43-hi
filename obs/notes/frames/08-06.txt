@@ -3,7 +3,7 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-06.jpg?nolink&}}
 
 दो साल बाद भी, **[[:hi:obs:notes:key-terms:joseph-ot|यूसुफ]]** **[[:hi:obs:notes:key-terms:innocent|निर्दोष]]** होने के बावजूद जेल में ही था। एक रात **[[:hi:obs:notes:key-terms:pharaoh|फिरौन]]** को, जैसा की **[[:hi:obs:notes:key-terms:egypt|मिस्र]]** के लोग अपने **[[:hi:obs:notes:key-terms:king|राजाओं]]** को पुकारते थे, दो **[[:hi:obs:notes:key-terms:dream|सपने]]** आये जिसने उसे **बहुत बेचैन कर** दिया। **उसका कोई भी सलाहकार** उन **सपनो का अर्थ** न बता सका।
-===== Important Terms: =====
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
   * **[[https://door43.org/en/obs/notes/key-terms/joseph|यूसुफ]]**
   * **[[https://door43.org/en/obs/notes/key-terms/innocent|निर्दोष]]**
@@ -11,9 +11,9 @@
   * **[[https://door43.org/en/obs/notes/key-terms/egypt|मिस्र के लोग ]]**
   * **[[https://door43.org/en/obs/notes/key-terms/king|राजाओ]]**
   * **[[https://door43.org/en/obs/notes/key-terms/dream|सपनो]]**
-===== Translation Notes: =====
+===== अनुवाद के लिए नोट्स: =====
 
-  * **disturbed him greatly**  – This means that the king felt very afraid and confused (because of what he had seen in the dreams).
-  * **his advisors**  - These were men with special powers and knowledge who could sometimes tell what dreams meant. Some translations refer to them as, “wise men.”
+  * **बहुत बेचैन कर दिया**  - इसका आशय है कि उन सपनो ने राजा को बहुत भय और भ्रम में डाल दिया ।
+  * उसके सलाहकार - ये विशेष सामर्थ्य व ज्ञानी लोग थे जो कई बार सपनो का अर्थ भी बताते थे। कुछ अनुवादों में उन्हें मजूसी या ज्ञानीजन भी कहा गया है ।
   * **meaning of the dreams**  - People in Egypt believed that dreams were messages from the gods telling them about what would happen in the future. God used Pharaoh's dreams to tell him what would happen.
 **[[:hi:obs:notes:frames:08-05|<<]] | [[:hi:obs:notes:08|Up]] | [[:hi:obs:notes:frames:08-07|>>]]**
