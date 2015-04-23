@@ -2,15 +2,15 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-06.jpg?nolink&}}
 
-दो साल बाद भी, **[[:hi:obs:notes:key-terms:joseph-ot|यूसुफ]]** **[[:hi:obs:notes:key-terms:innocent|निर्दोष]]** होने के बावजूद जेल में ही था। One night, the **[[:hi:obs:notes:key-terms:pharaoh|Pharaoh]]**, which is what the **[[:hi:obs:notes:key-terms:egypt|Egyptians]]** called their **[[:hi:obs:notes:key-terms:king|kings]]**, had two **[[:hi:obs:notes:key-terms:dream|dreams]]** that **disturbed him greatly**. None of **his advisors** could tell him the **meaning of the dreams**.
+दो साल बाद भी, **[[:hi:obs:notes:key-terms:joseph-ot|यूसुफ]]** **[[:hi:obs:notes:key-terms:innocent|निर्दोष]]** होने के बावजूद जेल में ही था। एक रात **[[:hi:obs:notes:key-terms:pharaoh|फिरौन]]** को, जैसा की **मिस्र** के लोग अपने **राजाओं** को पुकारते थे, दो **सपने** आये जिसने उसे **बहुत बेचैन कर** दिया। **उसका कोई भी सलाहकार** उन **सपनो का अर्थ** न बता सका।
 ===== Important Terms: =====
 
-  * **[[https://door43.org/en/obs/notes/key-terms/joseph|Joseph]]**
-  * **[[https://door43.org/en/obs/notes/key-terms/innocent|innocent]]**
-  * **[[https://door43.org/en/obs/notes/key-terms/pharaoh|Pharaoh]]**
-  * **[[https://door43.org/en/obs/notes/key-terms/egypt|Egyptians]]**
-  * **[[https://door43.org/en/obs/notes/key-terms/king|kings]]**
-  * **[[https://door43.org/en/obs/notes/key-terms/dream|dreams]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/joseph|यूसुफ]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/innocent|निर्दोष]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/pharaoh|फिरौन]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/egypt|मिस्र के लोग ]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/king|राजाओ]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/dream|सपनो]]**
 ===== Translation Notes: =====
 
   * **disturbed him greatly**  – This means that the king felt very afraid and confused (because of what he had seen in the dreams).
