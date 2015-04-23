@@ -2,20 +2,14 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-08.jpg?nolink&}}
 
-**[[:hi:obs:notes:key-terms:joseph ot|यूसुफ]]** से **[[:hi:obs:notes:key-terms:pharaoh|फिरौन]]** इतना अधिक **प्रभावित हुआ** कि उसने उसे **[[:hi:obs:notes:key-terms:egypt|मिस्र]]** का **दूसरा**** सबसे शक्तिशाली व्यक्ति** बना दिया!
+**[[:hi:obs:notes:key-terms:joseph-ot|यूसुफ]]** से **[[:hi:obs:notes:key-terms:pharaoh|फिरौन]]** इतना अधिक **प्रभावित हुआ** कि उसने उसे **[[:hi:obs:notes:key-terms:egypt|मिस्र]]** का **दूसरा**** सबसे शक्तिशाली व्यक्ति** बना दिया!
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
+  * **[[https://door43.org/en/obs/notes/key-terms/pharaoh|फिरौन ]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/joseph|यूसुफ]]**
+  * **[[https://door43.org/en/obs/notes/key-terms/egypt|मिस्र]]**
+===== अनुवाद के लिए नोट्स: =====
 
-**[[https://door43.org/en/obs/notes/key-terms/pharaoh|फिरौन ]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/joseph|यूसुफ]]**
-  *
-
-**[[https://door43.org/en/obs/notes/key-terms/egypt|मिस्र]]**
-===== Translation Notes: =====
-
-  * **impressed with**  - Pharaoh was amazed by Joseph's wisdom and felt respect for him; he trusted Joseph to make wise decisions that would benefit the people. It may be clearer to say, “impressed with Joseph's wisdom.”
-  * **second most powerful man**  - Pharaoh made Joseph a very powerful and important ruler over all of Egypt. Only Pharaoh was more powerful and important than Joseph.
+  * **प्रभावित हुआ**  - यूसुफ की बुद्धि पर फिरौन चकित था और उसके मन में उसके लिए सम्मान की भावना थी;उसे पूरा भरोसा था कि यूसुफ लोगो के हित में सही निर्णय लेगा । ऐसा कहने से बात अधिक स्पष्ट होगी की "वह यूसुफ की बुद्धि से बहुत प्रभावित था ।"
+  * **दूसरा सबसे शक्तिशाली व्यक्ति**  - फिरौन ने यूसुफ को पूरे मिस्र में सबसे अधिक शक्तिशाली और महत्वपूर्ण व्यक्ति बना दिया । फिरौन के बाद यूसुफ ही सबसे शक्तिशाली व्यक्ति था।
 **[[:hi:obs:notes:frames:08-07|<<]] | [[:hi:obs:notes:08|Up]] | [[:hi:obs:notes:frames:08-09|>>]]**
