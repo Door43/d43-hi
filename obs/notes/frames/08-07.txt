@@ -1,16 +1,26 @@
-====== Joseph Interpreted the Dream [08-07] ======
+====== यूसुफ ने स्वप्न की व्याख्या की [08-07] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-07.jpg?nolink&}}
 
-**[[:en:key-terms:god|God]]** had given **[[:en:key-terms:joseph|Joseph]]** the ability to **interpret [[:en:key-terms:dream|dreams]]**, so **[[:en:key-terms:pharaoh|Pharaoh]] had Joseph brought to him** from the prison. Joseph interpreted the dreams for him and said, “**God is going to send** seven years of plentiful harvests, followed by seven years of **famine**.”
+**[[:hi:obs:notes:key-terms:god|परमेश्वर]]** ने **[[:hi:obs:notes:key-terms:joseph ot|युसुफ]]** को **[[:hi:obs:notes:key-terms:dream|सपनो]]** **का अर्थ** बताने की योग्यता दी थी,इसलिए **यूसुफ को जेल से निकाल कर [[:hi:obs:notes:key-terms:pharaoh|फिरौन]] के सामने पेश किया गया।** यूसुफ ने उसके लिए सपनो का अर्थ बताया और कहा कि,"**परमेश्वर सात सालों की धन्धान्यता भेजेगा**,जिसके बाद सात सालों का **अकाल** पड़ेगा।"
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[https://door43.org/en/obs/notes/key-terms/god|परमेश्वर ]]**
+  *
 
+**[[https://door43.org/en/obs/notes/key-terms/joseph|यूसुफ]]**
+  *
 
-  * **interpret dreams** - To “interpret” is to tell what something means. So Joseph was able to tell people what their dreams meant.
-  * **had Joseph brought to him** - Another way to say this would be, “ordered his servants to bring Joseph to him.” 
-  * **God is going to send** - God will cause the crops to grow well for seven years, and after that He will cause them to produce very little food so that the people and animals will not have enough to eat. 
-  * **famine** - The gardens and fields would produce so little food that people and animals would not have enough to eat.   
+**[[https://door43.org/en/obs/notes/key-terms/dream|सपनो ]]**
+  *
 
+**[[https://door43.org/en/obs/notes/key-terms/pharaoh|फिरौन ]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **सपनो का अर्थ**  - सपनो का अर्थ बताने का मतलब उसमे होनेवाली घटनाओं का आशय समझाना है।
+  * यूसुफ को जेल से निकल कर फिरौन के सामने पेश किया गया - इसे ऐसे भी कह सकते हैं कि,"यूसुफ को जेल से निकाल कर फिरौन के सामने पेश होने का आदेश दिया।"
+  * **God is going to send**  - God will cause the crops to grow well for seven years, and after that He will cause them to produce very little food so that the people and animals will not have enough to eat.
+  * **famine**  - The gardens and fields would produce so little food that people and animals would not have enough to eat.
 **[[:hi:obs:notes:frames:08-06|<<]] | [[:hi:obs:notes:08|Up]] | [[:hi:obs:notes:frames:08-08|>>]]**
