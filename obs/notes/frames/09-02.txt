@@ -2,27 +2,17 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-02.jpg?nolink&}}
 
-सैकड़ों साल बाद,**[[:hi:obs:notes:key-terms:israel|इस्रायली]]** संख्या में बहुत अधिक हो गए थे।** [[:hi:obs:notes:key-terms:egypt|मिस्र]] ** के लोग **[[:hi:obs:notes:key-terms:joseph ot|यूसुफ]]** को,और जो कुछ भी उसने उनकी मदद के लिए किया था,वे सब भुला चुके थे। इस्रायालियो की विशाल संख्या के कारण मिस्रवासी उनसे भय करने लगे थे। इसलिए उस समय जिस **[[:hi:obs:notes:key-terms:pharaoh|फिरौन]]** का शासन था,उसने **इस्रायालियों को**** मिस्रवासियों का [[:hi:obs:notes:key-terms:servant|दास]] बना दिया।**
+सैकड़ों साल बाद,**[[:hi:obs:notes:key-terms:israel|इस्रायली]]** संख्या में बहुत अधिक हो गए थे।** [[:hi:obs:notes:key-terms:egypt|मिस्र]] ** के लोग **[[:hi:obs:notes:key-terms:joseph-ot|यूसुफ]]** को,और जो कुछ भी उसने उनकी मदद के लिए किया था,वे सब भुला चुके थे। इस्रायालियो की विशाल संख्या के कारण मिस्रवासी उनसे भय करने लगे थे। इसलिए उस समय जिस **[[:hi:obs:notes:key-terms:pharaoh|फिरौन]]** का शासन था,उसने **इस्रायालियों को**** मिस्रवासियों का [[:hi:obs:notes:key-terms:servant|दास]] बना दिया।**
 
 ===== महत्वपूर्ण शब्द तथा वाक्यांश : =====
 
-  *
+  * **[[https://door43.org/en/obe/other/israel|इस्रालियों ]]**
+  * **[[https://door43.org/en/obe/other/egypt|मिस्रवासियों ]]**
+  * **[[https://door43.org/en/obe/other/josephot|यूसुफ ]]**
+  * **[[https://door43.org/en/obe/other/pharaoh|फिरौन ]]**
+  * **[[https://door43.org/en/obe/other/servant|दास ]]**
+===== अनुवाद के लिए नोट्स: =====
 
-**[[https://door43.org/en/obe/other/israel|इस्रालियों ]]**
-  *
-
-**[[https://door43.org/en/obe/other/egypt|मिस्रवासियों ]]**
-  *
-
-**[[https://door43.org/en/obe/other/josephot|यूसुफ ]]**
-  *
-
-**[[https://door43.org/en/obe/other/pharaoh|फिरौन ]]**
-  *
-
-**[[https://door43.org/en/obe/other/servant|दास ]]**
-===== Translation Notes: =====
-
-  * **Pharaoh**  – “Pharaoh” is an Egyptian word that refers to their king. This Pharaoh was probably the son of a former Pharaoh who had died, who may have been a descendant of the Pharaoh that Joseph knew.
-  * **made the Israelites slaves**  - That is, "forced the Israelites to do hard labor against their will and treated them very harshly."
+  * **फिरौन**  – मिस्र की भाषा में "राजा" के लिए प्रयुक्त होनेवाला शब्द। संभव है की यह फिरौन उसी फिरौन का वंशज हो जिसकी यूसुफ ने मदद की थी।
+  * **इस्रायलियों को मिस्रवासियों का दास बना दिया**  - इसका आशय है कि इस्रायालियों से उनकी इच्छा के विरुद्ध काम करवाया और उनके साथ बहुत सख्ती बरती।
 **[[:hi:obs:notes:frames:09-01|<<]] | [[:hi:obs:notes:09|Up]] | [[:hi:obs:notes:frames:09-03|>>]]**
