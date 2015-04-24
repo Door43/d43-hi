@@ -1,14 +1,21 @@
-====== The Brothers Bought Food [08-11] ======
+====== भाइयों ने भोजन खरीदा [08-11] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-11.jpg?nolink&}}
 
-So **[[:en:key-terms:jacob|Jacob]]** sent **his older sons** to **[[:en:key-terms:egypt|Egypt]]** to buy food. The brothers **did not recognize [[:en:key-terms:joseph|Joseph]]** when they stood before him to buy food. But Joseph recognized them.
+**[[:hi:obs:notes:key-terms:jacob|याकूब]]** ने **उम्र में** **बड़े बेटों को** भोजन खरीदने **[[:hi:obs:notes:key-terms:egypt|मिस्र]]** भेजा । भोजन खरीदने के लिए जब **[[:hi:obs:notes:key-terms:joseph ot|यूसुफ]]** के भाई उसके सामने खड़े हुए तो **वे उसे पहचान न सके । ** लेकिन यूसुफ उन्हें पहचान गया ।
+===== महत्वपूर्ण शब्द तथा वाक्यांश : =====
 
+  *
 
+**[[https://door43.org/en/obe/other/jacob|याकूब]]**
+  *
+
+**[[https://door43.org/en/obe/other/egypt|मिस्र]]**
+  *
+
+**[[https://door43.org/en/obe/other/josephot|यूसुफ]]**
 ===== Translation Notes: =====
 
-
-  * **his older sons** - These were Joseph's older brothers who had sold him into slavery.
-  * **did not recognize Joseph** - They did not know that the man was Joseph, because now Joseph was much older than when they last saw him, and he was dressed as an Egyptian ruler.  
-
+  * **his older sons**  - These were Joseph's older brothers who had sold him into slavery.
+  * **did not recognize Joseph**  - They did not know that the man was Joseph, because now Joseph was much older than when they last saw him, and he was dressed as an Egyptian ruler.
 **[[:hi:obs:notes:frames:08-10|<<]] | [[:hi:obs:notes:08|Up]] | [[:hi:obs:notes:frames:08-12|>>]]**
