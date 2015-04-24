@@ -2,24 +2,15 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-01.jpg?nolink&}}
 
-**[[:hi:obs:notes:key-terms:joseph ot|यूसुफ]]** की मृत्यु के बाद उसके सभी सम्बन्धी **[[:hi:obs:notes:key-terms:egypt|मिस्र]]** में ही रह गए। वे और उनके **[[:hi:obs:notes:key-terms:descendant|वंशज]]** बहुत सालों तक वही पर रहे और बहुत सी संताने पैदा की। वे **[[:hi:obs:notes:key-terms:israel|इस्रायली]]** कहलाएँ।
-
+**[[:hi:obs:notes:key-terms:joseph-ot|यूसुफ]]** की मृत्यु के बाद उसके सभी सम्बन्धी **[[:hi:obs:notes:key-terms:egypt|मिस्र]]** में ही रह गए। वे और उनके **[[:hi:obs:notes:key-terms:descendant|वंशज]]** बहुत सालों तक वही पर रहे और बहुत सी संताने पैदा की। वे **[[:hi:obs:notes:key-terms:israel|इस्रायली]]****कहलाएँ** ।
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
+  * **[[https://door43.org/en/obe/other/josephot|यूसुफ ]]**
+  * **[[https://door43.org/en/obe/other/egypt|मिस्र ]]**
+  * **[[https://door43.org/en/obe/other/descendant|वंशज ]]**
+  * **[[https://door43.org/en/obe/other/israel|इस्राएली]]**
+===== अनुवाद के लिए नोट्स: =====
 
-**[[https://door43.org/en/obe/other/josephot|यूसुफ ]]**
-  *
-
-**[[https://door43.org/en/obe/other/egypt|मिस्र ]]**
-  *
-
-**[[https://door43.org/en/obe/other/descendant|वंशज ]]**
-  *
-
-**[[https://door43.org/en/obe/other/israel|इस्राएली]]**
-===== Translation Notes: =====
-
-//(There are no notes for this frame.)//
+**इस्रायली**  **कहलाएँ **-  याकूब के वंशजों को "इस्राएल" कहा गया,जो कि याकूब को परमेश्वर का दिया नया नाम था। इस समूह के लोग ही "इस्राएली" कहलाएँ।
 
 **[[:hi:obs:notes:frames:08-15|<<]] | [[:hi:obs:notes:09|Up]] | [[:hi:obs:notes:frames:09-02|>>]]**
