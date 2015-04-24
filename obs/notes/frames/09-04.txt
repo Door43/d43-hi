@@ -1,16 +1,21 @@
-====== Kill the Baby Boys [09-04] ======
+====== बेटों को मार दो [09-04] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-04.jpg?nolink&}}
 
-**[[:en:key-terms:pharaoh|Pharaoh]] saw** that the **[[:en:key-terms:israel|Israelites]]** were having many babies, so he ordered his people to kill all Israelite baby boys by throwing them into the **[[:en:key-terms:nile-river|Nile River]]**.
+**[[:hi:obs:notes:key-terms:pharaoh|फिरौन]]** ने **देखा** की **[[:hi:obs:notes:key-terms:israel|इस्रायालियों]]** की बहुत अधिक संख्या में संतानें हो रही थीं,इसलिए उसने लोगों को इस्रायालियों के छोटी उम्र के बेटों को **[[:hi:obs:notes:key-terms:nile river|नील नदी]]** में फ़ेंक कर मार डालने की आज्ञा दी।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
+
+**[[https://door43.org/en/obe/other/pharaoh|फिरौन]]**
+  *
+
+**[[https://door43.org/en/obe/other/israel|इस्राएलियों]]**
+  *
+
+**[[https://door43.org/en/obe/other/nileriver|नील नदी ]]**
 ===== Translation Notes: =====
 
-
-  * **saw** – Another way to say this would be, “realized” or, “knew.” 
- 
-
+  * **saw**  – Another way to say this would be, “realized” or, “knew.”
 **[[:hi:obs:notes:frames:09-03|<<]] | [[:hi:obs:notes:09|Up]] | [[:hi:obs:notes:frames:09-05|>>]]**
-
-
