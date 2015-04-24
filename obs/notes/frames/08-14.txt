@@ -2,18 +2,13 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-14.jpg?nolink&}}
 
-**हालाकि [[:hi:obs:notes:key-terms:jacob|याकूब]] बहुत बूढा हो चूका था,लेकिन तब भी वह अपने परिवार समेत [[:hi:obs:notes:key-terms:egypt|मिस्र]] को चला गया**,और वे सब वहाँ पर रहने लगे। **अपनी मृत्यु से पहले, याकूब ने** अपने हर बेटे को ****[[:hi:obs:notes:key-terms:bless|आशीषदी]]****।
+**हालाकि [[:hi:obs:notes:key-terms:jacob|याकूब]] बहुत बूढा हो चूका था,लेकिन तब भी वह अपने परिवार समेत [[:hi:obs:notes:key-terms:egypt|मिस्र]] को चला गया**,और वे सब वहाँ पर रहने लगे। **अपनी मृत्यु से पहले, याकूब ने** अपने हर बेटे को **[[:hi:obs:notes:key-terms:bless|आशीष दी]]** ।
+
 ===== महत्वपूर्ण शब्द तथा वाक्यांश : =====
 
-  *
-
-**[[https://door43.org/en/obe/other/jacob|याकूब]]**
-  *
-
-**[[https://door43.org/en/obe/other/egypt|मिस्र ]]**
-  *
-
-**[[https://door43.org/en/obe/kt/bless|आशीष दिया]]**
+  * **[[https://door43.org/en/obe/other/jacob|याकूब]]**
+  * **[[https://door43.org/en/obe/other/egypt|मिस्र ]]**
+  * **[[https://door43.org/en/obe/kt/bless|आशीष दिया]]**
 ===== Translation Notes: =====
 
   * **Even though Jacob was an old man, he moved to Egypt**  - Egypt was a great distance away from Canaan, and it would have been difficult for an elderly man to walk or ride a cart that far.
