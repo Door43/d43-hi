@@ -1,18 +1,21 @@
-====== Jacob Went to Egypt [08-14] ======
+====== याकूब मिस्र गया [08-14] ======
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-14.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-14.jpg?nolink}}
+**हालाकि [[:hi:obs:notes:key-terms:jacob|याकूब]] बहुत बूढा हो चूका था,लेकिन तब भी वह अपने परिवार समेत [[:hi:obs:notes:key-terms:egypt|मिस्र]] को चला गया**,और वे सब वहाँ पर रहने लगे। **अपनी मृत्यु से पहले, याकूब ने** अपने हर बेटे को ****[[:hi:obs:notes:key-terms:bless|आशीषदी]]****।
+===== महत्वपूर्ण शब्द तथा वाक्यांश : =====
 
-**Even though [[:en:key-terms:jacob|Jacob]] was an old man, he moved to [[:en:key-terms:egypt|Egypt]]** with all of his family, and they all lived there. **Before Jacob died**, he **[[:en:key-terms:bless|blessed]]** each of his sons.
+  *
 
+**[[https://door43.org/en/obe/other/jacob|याकूब]]**
+  *
 
+**[[https://door43.org/en/obe/other/egypt|मिस्र ]]**
+  *
+
+**[[https://door43.org/en/obe/kt/bless|आशीष दिया]]**
 ===== Translation Notes: =====
 
-
-  * **Even though Jacob was an old man, he moved to Egypt** - Egypt was a great distance away from Canaan, and it would have been difficult for an elderly man to walk or ride a cart that far. 
-  * **Before Jacob died** - Jacob died in Egypt. He did not get to return to Canaan, the land God had promised to give to him and his descendants.
-
-  
-
+  * **Even though Jacob was an old man, he moved to Egypt**  - Egypt was a great distance away from Canaan, and it would have been difficult for an elderly man to walk or ride a cart that far.
+  * **Before Jacob died**  - Jacob died in Egypt. He did not get to return to Canaan, the land God had promised to give to him and his descendants.
 **[[:hi:obs:notes:frames:08-13|<<]] | [[:hi:obs:notes:08|Up]] | [[:hi:obs:notes:frames:08-15|>>]]**
-
