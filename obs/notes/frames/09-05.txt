@@ -1,16 +1,14 @@
-====== The Birth of Moses [09-05] ======
+====== मूसा का जन्म [09-05] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-05.jpg?nolink&}}
 
-A certain **[[:en:key-terms:israel|Israelite]]** woman gave birth to a baby boy. She and her husband hid the baby for **as long as they could**.
+एक **[[:hi:obs:notes:key-terms:israel|इस्राएली]]** स्त्री ने एक बेटे को जन्म दिया। वह और उसका पति,बच्चे को **जब तक** छिपा सकते थें,तब तक उसे छिपाया |
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[https://door43.org/en/obe/other/israel|इस्राएली]]**
+===== अनुवाद के लिए नोट्स: =====
 
-
-  * **as long as they could** - They hid the baby from the Egyptians until it became too difficult to keep him safely hidden in their home.  
-  
-
+  * **जब तक**  - उन्होंने अपने बच्चे को तब तक मिस्रवासियों से छिपाए रखा,जब तक कि वे उसे उनकी नज़रों से छिपा सकते थे।
 **[[:hi:obs:notes:frames:09-04|<<]] | [[:hi:obs:notes:09|Up]] | [[:hi:obs:notes:frames:09-06|>>]]**
-
-
