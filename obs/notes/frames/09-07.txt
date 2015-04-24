@@ -1,15 +1,24 @@
-====== Pharaoh's Daughter [09-07] ======
+====== फिरौन की बेटी [09-07] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-07.jpg?nolink&}}
 
-A daughter of **[[:en:key-terms:pharaoh|Pharaoh]]** saw the basket and looked inside. When she saw the baby, she **took him as her own [[:en:key-terms:son|son]]**. She hired an **[[:en:key-terms:israel|Israelite]]** woman **to nurse him** without realizing the woman was the baby’s own mother. When the child was old enough that he no longer needed his mother's milk, she returned him to Pharaoh’s daughter, who named him **[[:en:key-terms:moses|Moses]]**.
+**[[:hi:obs:notes:key-terms:pharaoh|फिरौन]]** की एक बेटी को वह टोकरी दिखी तो उसने उसके भीतर झाँक कर देखा। जब उसने बच्चे को देखा,तो उसने उसे **अपना [[:hi:obs:notes:key-terms:son|बेटा]] बना ****लिया** । उसे **दूध पिलाने के लिए** उसने एक **[[:hi:obs:notes:key-terms:israel|इस्राएली]]** स्त्री को रख लिया और उसे पता ही न चला कि वह स्त्री स्वयं उस बच्चे की माँ ही थी। जब बच्चा इतना बड़ा हो गया कि उसे दूध पीने की और ज़रुरत न रही, तब उसने वह बच्चा फिरौन की बेटी को लौटा दिया जिसने उसका नाम **[[:hi:obs:notes:key-terms:moses|मूसा]]** रखा।
+===== Important Terms: =====
 
+  *
 
-===== Translation Notes: =====
+**[[https://door43.org/en/obe/other/pharaoh|फिरौन ]]**
+  *
 
+**[[https://door43.org/en/obe/kt/son|बेटा]]**
+  *
 
-  * **took him as her own son** - She was a princess. When she made him her son, he became a prince of Egypt. 
-  * **to nurse him** - Another way to say this would be, “to breastfeed him.” 
+**[[https://door43.org/en/obe/other/israel|इस्राएली]]**
+  *
 
+**[[https://door43.org/en/obe/other/moses|मूसा]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **अपना बेटा बना लिया**  - वह एक राजकुमारी थी। उसका बेटा होने पर वह बच्चा भी मिस्र का राजकुमार हो गया था।
+  * **दूध पिलाने**  - इसे "बच्चे को पोसने के लिए" भी कह सकते हैं।
 **[[:hi:obs:notes:frames:09-06|<<]] | [[:hi:obs:notes:09|Up]] | [[:hi:obs:notes:frames:09-08|>>]]**
-
