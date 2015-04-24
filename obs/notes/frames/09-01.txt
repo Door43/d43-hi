@@ -2,8 +2,22 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-01.jpg?nolink&}}
 
-After **[[:en:key-terms:joseph|Joseph]]** died, all of his relatives stayed in **[[:en:key-terms:egypt|Egypt]]**. They and their **[[:en:key-terms:descendant|descendants]]** continued to live there for many years and had many children. They were called the **[[:en:key-terms:israel|Israelites]]**.
+**[[:hi:obs:notes:key-terms:joseph ot|यूसुफ]]** की मृत्यु के बाद उसके सभी सम्बन्धी **[[:hi:obs:notes:key-terms:egypt|मिस्र]]** में ही रह गए। वे और उनके **[[:hi:obs:notes:key-terms:descendant|वंशज]]** बहुत सालों तक वही पर रहे और बहुत सी संताने पैदा की। वे **[[:hi:obs:notes:key-terms:israel|इस्रायली]]** कहलाएँ।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
+
+  *
+
+**[[https://door43.org/en/obe/other/josephot|यूसुफ ]]**
+  *
+
+**[[https://door43.org/en/obe/other/egypt|मिस्र ]]**
+  *
+
+**[[https://door43.org/en/obe/other/descendant|वंशज ]]**
+  *
+
+**[[https://door43.org/en/obe/other/israel|इस्राएली]]**
 ===== Translation Notes: =====
 
 //(There are no notes for this frame.)//
