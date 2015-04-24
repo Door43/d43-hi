@@ -1,14 +1,19 @@
-====== Joseph Was Alive [08-13] ======
+====== यूसुफ जिंदा था [08-13] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-13.jpg?nolink&}}
 
-When **[[:en:key-terms:joseph|Joseph's]]** brothers returned home and told their father, **[[:en:key-terms:jacob|Jacob]]**, that Joseph was still alive, he was very happy.
+घर लौटने पर जब **[[:hi:obs:notes:key-terms:joseph ot|यूसुफ]] के** भाइयों ने **[[:hi:obs:notes:key-terms:jacob|याकूब]]** को बताया की यूसुफ जिंदा है, वह बहुत खुश हुआ ।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश : =====
 
-===== Translation Notes: =====
+  *
 
-//(There are no notes for this frame.)//
+**[[https://door43.org/en/obe/other/josephot|यूसुफ के]]**
+  *
 
+**[[https://door43.org/en/obe/other/jacob|याकूब]]**
+===== अनुवाद के लिए नोट्स: =====
+
+(इस अनुछेद में अनुवाद से जुड़े कोई नोट्स नहीं हैं )
 
 **[[:hi:obs:notes:frames:08-12|<<]] | [[:hi:obs:notes:08|Up]] | [[:hi:obs:notes:frames:08-14|>>]]**
-
