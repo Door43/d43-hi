@@ -2,7 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-15.jpg?nolink&}}
 
-**[[:hi:obs:notes:key-terms:god|परमेश्वर]]** ने जिन **[[:hi:obs:notes:key-terms:covenant|वाचाओं ]]** की** [[:hi:obs:notes:key-terms:promise|प्रतिज्ञाएँ]]** **[[:hi:obs:notes:key-terms:abraham|अब्राहम]]** के साथ बाँधी थीं वे **[[:hi:obs:notes:key-terms:isaac|इसहाक]]** **को****,उससे [[:hi:obs:notes:key-terms:jacob|याकूब]] को,और फिर याकूब के बारह बेटों व उनके परिवारों को ****मिली** । बारह बेटों के **[[:hi:obs:notes:key-terms:descendant|वंशज]]** **[[:hi:obs:notes:key-terms:israel|इस्राएल]]** के बारह घराने हुए।
+**[[:hi:obs:notes:key-terms:god|परमेश्वर]]** ने जिन **[[:hi:obs:notes:key-terms:covenant|वाचाओं ]]** की** [[:hi:obs:notes:key-terms:promise|प्रतिज्ञाएँ]]** **[[:hi:obs:notes:key-terms:abraham|अब्राहम]]** के साथ बाँधी थीं वे **[[:hi:obs:notes:key-terms:isaac|इसहाक]]****को****,उससे [[:hi:obs:notes:key-terms:jacob|याकूब]] को,और फिर याकूब के बारह बेटों व उनके परिवारों को ****मिली** । बारह बेटों के **[[:hi:obs:notes:key-terms:descendant|वंशज]]** **[[:hi:obs:notes:key-terms:israel|इस्राएल]]** के बारह घराने हुए।
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
   * **[[https://door43.org/en/obe/kt/covenant|वाचाओं]]**
@@ -13,9 +13,9 @@
   * **[[https://door43.org/en/obe/other/jacob|याकूब ]]**
   * **[[https://door43.org/en/obe/other/descendant|वंशज ]]**
   * **[[https://door43.org/en/obe/other/israel|इस्राएल]]**
-===== Translation Notes: =====
+===== अनुवाद के लिए नोट्स: =====
 
-  * **covenant promises**  - Long ago God made an agreement with Abraham and promised him that he would give him many descendants; they would possess the land of Canaan and become a great nation. God also promised that all peoples would be blessed through Abraham's line. See also **[[:hi:obs:notes:frames:07-10|[07-10]]]**.
+  * **वाचाओ की प्रतिज्ञाएँ**  - बहुत समय पहले परमेश्वर ने अब्राहम के साथ एक अनुबध किया था और उसे बहुत से वंशज देने की प्रतिज्ञा की थी; वे कनान की भूमि के स्वामी बनेंगे और एक महान जाति होंगे। परमेश्वर ने यह वाचा भी बाँधी थी कि अब्राहम के परिवार द्वारा सभी लोग आशीष पायेंगे। यह भी देखे **[[:hi:obs:notes:frames:07-10|[07-10]|]]**
   * **passed on to**  - Another way to say this would be, “passed down to” or, “given to” or, “applied to.” God's promise to Abraham was also for Abraham's children, grandchildren and all the rest of his descendants. See also **[[:hi:obs:notes:frames:06-04|[06-04]]]**.
   * **twelve tribes of Israel**  - God had promised Abraham, Isaac and Jacob that their descendants would become a great nation. God later changed Jacob's name to Israel. The descendants of Jacob's 12 sons became 12 great tribes. These 12 tribes made up the ancient nation called Israel, which was named by Jacob's new name.
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
