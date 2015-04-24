@@ -2,10 +2,21 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-10.jpg?nolink&}}
 
-**अकाल का प्रकोप** केवल **मिस्र में ही नहीं बल्कि कनान पर भी** पड़ा था,जहां **[[:hi:obs:notes:key-terms:jacob|याकूब]]** और उसका परिवार रहता था ।
+**अकाल का प्रकोप** केवल **[[:hi:obs:notes:key-terms:egypt|मिस्र]] में ही नहीं बल्कि [[:hi:obs:notes:key-terms:canaan|कनान]] पर भी** पड़ा था,जहां **[[:hi:obs:notes:key-terms:jacob|याकूब]]** और उसका परिवार रहता था ।
 
-===== Translation Notes: =====
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  * **Egypt, but also Canaan**  – For some languages it may be clearer or more natural to say, “the country of Egypt, but also the land of Canaan.”
-  * **The famine was severe**  - The famine was very bad. There was very little food and many people outside of Egypt were starving.
+  *
+
+**[[https://door43.org/en/obe/other/egypt|मिस्र]]**
+  *
+
+**[[https://door43.org/en/obe/other/canaan|कनान]]**
+  *
+
+**[[https://door43.org/en/obe/other/jacob|याकूब]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **मिस्र में ही नहीं बल्कि कनान पर भी**  – कुछ भाषाओँ में ऐसा कहने से अधिक स्पष्ट आएगी, "मिस्र देश में ही नहीं बल्कि कनान की भूमि पर भी ।"
+  * **अकाल का प्रकोप**  - बहुत बुरा अकाल पड़ा था । भोजन की बहुत ही कम मात्रा रह गयी थी, और मिस्र के बाहर लोग भूख से तड़प रहे थे ।
 **[[:hi:obs:notes:frames:08-09|<<]] | [[:hi:obs:notes:08|Up]] | [[:hi:obs:notes:frames:08-11|>>]]**
