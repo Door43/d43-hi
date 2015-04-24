@@ -2,20 +2,14 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-11.jpg?nolink&}}
 
-**[[:hi:obs:notes:key-terms:jacob|याकूब]]** ने **उम्र में** **बड़े बेटों को** भोजन खरीदने **[[:hi:obs:notes:key-terms:egypt|मिस्र]]** भेजा । भोजन खरीदने के लिए जब **[[:hi:obs:notes:key-terms:joseph ot|यूसुफ]]** के भाई उसके सामने खड़े हुए तो **वे उसे पहचान न सके । ** लेकिन यूसुफ उन्हें पहचान गया ।
+**[[:hi:obs:notes:key-terms:jacob|याकूब]]** ने **उम्र में** **बड़े बेटों को** भोजन खरीदने **[[:hi:obs:notes:key-terms:egypt|मिस्र]]** भेजा । भोजन खरीदने के लिए जब **[[:hi:obs:notes:key-terms:joseph-ot|यूसुफ]]** के भाई उसके सामने खड़े हुए तो **वे उसे पहचान न सके । ** लेकिन यूसुफ उन्हें पहचान गया ।
 ===== महत्वपूर्ण शब्द तथा वाक्यांश : =====
 
-  *
+  * **[[https://door43.org/en/obe/other/jacob|याकूब]]**
+  * **[[https://door43.org/en/obe/other/egypt|मिस्र]]**
+  * **[[https://door43.org/en/obe/other/josephot|यूसुफ]]**
+===== अनुवाद के लिए नोट्स: =====
 
-**[[https://door43.org/en/obe/other/jacob|याकूब]]**
-  *
-
-**[[https://door43.org/en/obe/other/egypt|मिस्र]]**
-  *
-
-**[[https://door43.org/en/obe/other/josephot|यूसुफ]]**
-===== Translation Notes: =====
-
-  * **his older sons**  - These were Joseph's older brothers who had sold him into slavery.
-  * **did not recognize Joseph**  - They did not know that the man was Joseph, because now Joseph was much older than when they last saw him, and he was dressed as an Egyptian ruler.
+  * **उम्र में बड़े बेटों को**  - ये यूसुफ के वही बड़े भाई लोग थे जिन्होंने उसे दास बनने के लिए बेच दिया था ।
+  * **वे उसे पहचान न सके**  - उन्हें नहीं पता था कि वह व्यक्ति यूसुफ था, क्योंकि यूसुफ को देखे उन्हें बहुत समय बीत चूका था और फिर वो मिस्र के अधिकारी की पोशाक में भी था ।
 **[[:hi:obs:notes:frames:08-10|<<]] | [[:hi:obs:notes:08|Up]] | [[:hi:obs:notes:frames:08-12|>>]]**
