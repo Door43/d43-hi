@@ -2,33 +2,17 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-15.jpg?nolink&}}
 
-परमेश्वर ने जिन **वाचाओ ** की** प्रतिज्ञाएँ** **अब्राहम** के साथ बाँधी थीं वे **इसहाक** **को****,उससे याकूब को,और फिर याकूब के बारह बेटों व उनके परिवारों को ****मिली** । बारह बेटों के **वंशज** **इस्राएल** के बारह घराने हुए।
+**[[:hi:obs:notes:key-terms:god|परमेश्वर]]** ने जिन **[[:hi:obs:notes:key-terms:covenant|वाचाओं ]]** की** [[:hi:obs:notes:key-terms:promise|प्रतिज्ञाएँ]]** **[[:hi:obs:notes:key-terms:abraham|अब्राहम]]** के साथ बाँधी थीं वे **[[:hi:obs:notes:key-terms:isaac|इसहाक]]** **को****,उससे [[:hi:obs:notes:key-terms:jacob|याकूब]] को,और फिर याकूब के बारह बेटों व उनके परिवारों को ****मिली** । बारह बेटों के **[[:hi:obs:notes:key-terms:descendant|वंशज]]** **[[:hi:obs:notes:key-terms:israel|इस्राएल]]** के बारह घराने हुए।
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
-
-**[[https://door43.org/en/obe/kt/covenant|वाचाओं]]**
-  *
-
-**[[https://door43.org/en/obe/kt/promise|प्रतिज्ञाएँ]]**
-  *
-
-**[[https://door43.org/en/obe/kt/god|परमेश्वर ]]**
-  *
-
-**[[https://door43.org/en/obe/other/abraham|अब्राहम ]]**
-  *
-
-**[[https://door43.org/en/obe/other/isaac|इसहाक ]]**
-  *
-
-**[[https://door43.org/en/obe/other/jacob|याकूब ]]**
-  *
-
-**[[https://door43.org/en/obe/other/descendant|वंशज ]]**
-  *
-
-**[[https://door43.org/en/obe/other/israel|इस्राएल]]**
+  * **[[https://door43.org/en/obe/kt/covenant|वाचाओं]]**
+  * **[[https://door43.org/en/obe/kt/promise|प्रतिज्ञाएँ]]**
+  * **[[https://door43.org/en/obe/kt/god|परमेश्वर ]]**
+  * **[[https://door43.org/en/obe/other/abraham|अब्राहम ]]**
+  * **[[https://door43.org/en/obe/other/isaac|इसहाक ]]**
+  * **[[https://door43.org/en/obe/other/jacob|याकूब ]]**
+  * **[[https://door43.org/en/obe/other/descendant|वंशज ]]**
+  * **[[https://door43.org/en/obe/other/israel|इस्राएल]]**
 ===== Translation Notes: =====
 
   * **covenant promises**  - Long ago God made an agreement with Abraham and promised him that he would give him many descendants; they would possess the land of Canaan and become a great nation. God also promised that all peoples would be blessed through Abraham's line. See also **[[:hi:obs:notes:frames:07-10|[07-10]]]**.
