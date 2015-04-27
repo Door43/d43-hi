@@ -2,7 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-12.jpg?nolink&}}
 
-एक दिन,जब **[[:hi:obs:notes:key-terms:moses|मूसा]]****अपनी [[:hi:obs:notes:key-terms:sheep|भेड़ों]] की रखवाली कर रहा था**,उसने जलती हुई एक झाडी देखी। लेकिन वह **झाडी भस्म नहीं हो रही** थी। जैसे ही वह उस जलती हुई झाडी के पास गया,तो **[[:hi:obs:notes:key-terms:god|परमेश्वर]] की आवाज़**** ने उससे कहा**, "मूसा, **अपनी जूतियाँ उतार** दे। तू एक **[[:hi:obs:notes:key-terms:holy|पवित्र]] भूमि** पर खड़ा है।"
+एक दिन,जब **[[:hi:obs:notes:key-terms:moses|मूसा]]****अपनी**** [[:hi:obs:notes:key-terms:sheep|भेड़ों]] की रखवाली कर रहा था**,उसने जलती हुई एक झाडी देखी। लेकिन वह **झाडी भस्म नहीं हो रही** थी। जैसे ही वह उस जलती हुई झाडी के पास गया,तो **[[:hi:obs:notes:key-terms:god|परमेश्वर]] की आवाज़**** ने उससे कहा**, "मूसा, **अपनी जूतियाँ उतार** दे। तू एक **[[:hi:obs:notes:key-terms:holy|पवित्र]] भूमि** पर खड़ा है।"
 
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
@@ -10,9 +10,9 @@
   * **[[https://door43.org/en/obe/other/sheep|भेड़ो]]**
   * **[[https://door43.org/en/obe/kt/god|परमेश्वर]]**
   * **[[https://door43.org/en/obe/kt/holy|पवित्र]]**
-===== Translation Notes: =====
+===== अनुवाद के लिए नोट्स: =====
 
-  * **taking care of his sheep**  - This means he was doing the work of a shepherd to guide the sheep to grass and water, and to protect them. It could be translated as, “tending the sheep.”
+  * **अपनी भेड़ों की रखवाली कर रहा था**  - इसका मतलब है कि वह एक गड़रिये की तरह उन्हें चराने,और उनकी रक्षा करने का काम कर रहा था। इसे "भेड़ों की देखरेख कर रहा था" भी लिखे सकते हैं।
   * **bush did not burn up**  - God made the bush full of fire, but the fire did not damage the bush.
   * **the voice of God said**  - This could be translated as, “God said out loud.” Moses heard God speak, but he did not see God.
   * **take off your shoes**  - God wanted him to take off his shoes to show that he greatly respected God. To make clear the reason for this, you could say, "take off your shoes, because you are on holy ground."
