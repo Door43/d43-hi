@@ -2,42 +2,20 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-05.jpg?nolink&}}
 
-**[[:hi:obs:notes:key-terms:kingdom of judah|यहूदा के राज्य]]** के लोग देख चुके थे कि **उसका अविश्वास और अवज्ञा** करने के कारण इस्राएल राज्य के लोगों को **[[:hi:obs:notes:key-terms:god|परमेश्वर]]** ने कैसे दंड दिया था। लेकिन तब भी, वे मूरतों की आराधना में लगे रहे, जिसमे कनानियों के देवता भी शामिल थे। **उन्हें चिताने** के लिए परमेश्वर ने नबियों को भी भेजा, लेकिन **उन्होंने एक न ****सुनी** ।
+**[[:hi:obs:notes:key-terms:kingdom-of-judah|यहूदा के राज्य]]** के लोग देख चुके थे कि **उसका [[:hi:obs:notes:key-terms:believe|अविश्वास]] और [[:hi:obs:notes:key-terms:obey|अाज्ञा]]** [[:hi:obs:notes:key-terms:obey|]]**[[:hi:obs:notes:key-terms:obey|न मानने]]** के कारण **[[:hi:obs:notes:key-terms:kingdom of israel|इस्राएल राज्य]]** के लोगों को **[[:hi:obs:notes:key-terms:god|परमेश्वर]]** ने कैसे **[[:hi:obs:notes:key-terms:punish|दंड दिया था]]**। लेकिन तब भी, वे **[[:hi:obs:notes:key-terms:idol|मूरतों]]** की **[[:hi:obs:notes:key-terms:worship|आराधना में लगे]]** रहे, जिसमे **[[:hi:obs:notes:key-terms:canaan|कनानियों]]** के **[[:hi:obs:notes:key-terms:false god|देवता]]** भी शामिल थे। **उन्हें चिताने** के लिए परमेश्वर ने **[[:hi:obs:notes:key-terms:prophet|नबियों]]** को भी भेजा, लेकिन **उन्होंने एक न ****सुनी** ।
 ====== महत्वपूर्ण शब्द तथा वाक्यांश: ======
 
-  *
-
-**[[https://door43.org/en/obe/other/kingdom-of-judah|यहूदा का राज्य ]]**
-  *
-
-**[[https://door43.org/en/obe/kt/god|परमेश्वर ]]**
-  *
-
-**[[https://door43.org/en/obe/other/punish|दण्ड दिया था ]]**
-  *
-
-**[[https://door43.org/en/obe/other/kingdom-of-israel|इस्राएल का राज्य ]]**
-  *
-
-**[[https://door43.org/en/obe/kt/believe|विश्वास ]]**
-  *
-
-**[[https://door43.org/en/obe/other/obey|आज्ञा ]]**
-  *
-
-**[[https://door43.org/en/obe/kt/worship|आराधना की ]]**
-  *
-
-**[[https://door43.org/en/obe/other/idol|मूरतों]]**
-  *
-
-**[[https://door43.org/en/obe/kt/falsegod|देवताओं ]]**
-  *
-
-**[[https://door43.org/en/obe/other/canaan|कनानी ]]**
-  *
-
-**[[https://door43.org/en/obe/kt/prophet|नबियों ]]**
+  * **[[https://door43.org/en/obe/other/kingdom-of-judah|यहूदा का राज्य ]]**
+  * **[[https://door43.org/en/obe/kt/god|परमेश्वर ]]**
+  * **[[https://door43.org/en/obe/other/punish|दण्ड दिया था ]]**
+  * **[[https://door43.org/en/obe/other/kingdom-of-israel|इस्राएल का राज्य ]]**
+  * **[[https://door43.org/en/obe/kt/believe|विश्वास ]]**
+  * **[[https://door43.org/en/obe/other/obey|आज्ञा ]]**
+  * **[[https://door43.org/en/obe/kt/worship|आराधना की ]]**
+  * **[[https://door43.org/en/obe/other/idol|मूरतों]]**
+  * **[[https://door43.org/en/obe/kt/falsegod|देवताओं ]]**
+  * **[[https://door43.org/en/obe/other/canaan|कनानी ]]**
+  * **[[https://door43.org/en/obe/kt/prophet|नबियों ]]**
 ===== Translation Notes: =====
 
   * **for not believing and obeying him**  – Another way to translate this would be, “because they did not believe or obey him.”
