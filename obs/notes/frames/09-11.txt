@@ -1,15 +1,21 @@
-====== Moses in the Wilderness [09-11] ======
+====== मूसा का बीहड़ में होना [09-11] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-11.jpg?nolink&}}
 
-**[[:en:key-terms:moses|Moses]]** became a **[[:en:key-terms:shepherd|shepherd]]** in the **wilderness** far away from **[[:en:key-terms:egypt|Egypt]]**. He married a woman from that place and had two sons.
+**[[:hi:obs:notes:key-terms:egypt|मिस्र]]** से बहुत दूर स्थित **बीहड़** में **[[:hi:obs:notes:key-terms:moses|मूसा]]** एक **[[:hi:obs:notes:key-terms:shepherd|गड़रिया]]** हो गया। उसने वहाँ की एक स्त्री से विवाह कर लिया,जिससे उसे दो बेटे हुए।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  *
 
+**[[https://door43.org/en/obe/other/moses|मूसा]]**
+  *
 
-  * **wilderness** - See how you translated this in **[[:hi:obs:notes:frames:09-10|[09-10]]]**. 
-  
+**[[https://door43.org/en/obe/other/shepherd|गड़रिया]]**
+  *
 
+**[[https://door43.org/en/obe/other/egypt|मिस्र]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **wilderness**  - See how you translated this in **[[:hi:obs:notes:frames:09-10|[09-10]]]**.
 **[[:hi:obs:notes:frames:09-10|<<]] | [[:hi:obs:notes:09|Up]] | [[:hi:obs:notes:frames:09-12|>>]]**
-
