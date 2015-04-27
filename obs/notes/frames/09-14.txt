@@ -1,18 +1,32 @@
-====== The Name of God [09-14] ======
+====== परमेश्वर का नाम [09-14] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-14.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-14.jpg?nolink&}}
 
-**[[:en:key-terms:moses|Moses]]** asked, “What if **the people** want to know who sent me, what should I say?” **[[:en:key-terms:god|God]]** said, “**I AM WHO I AM**. Tell them, ‘**I AM** has sent me to you.’ Also tell them, 'I am **[[:en:key-terms:yahweh|Yahweh]]**, the God of your ancestors **[[:en:key-terms:abraham|Abraham]]**, **[[:en:key-terms:isaac|Isaac]]**, and **[[:en:key-terms:jacob|Jacob]]**.' This is **my name** forever.”
+**[[:hi:obs:notes:key-terms:moses|मूसा]]** ने पूछा,"**लोग** अगर यह जानना चाहेंगे कि मुझे किसने भेजा है,तो मैं क्या कहूँ?" **[[:hi:obs:notes:key-terms:god|परमेश्वर]]** ने कहा,"**मैं जो हूँ,सो हूँ।** उनसे कहना कि तुझे "**मैं हूँ**" ने भेजा है। साथ मैं यह भी बताना कि मैं तुम्हारे पूर्वजों, **[[:hi:obs:notes:key-terms:abraham|अब्राहम]]**,**[[:hi:obs:notes:key-terms:isaac|इसहाक]]**,और **[[:hi:obs:notes:key-terms:jacob|याकूब]]** का परमेश्वर,**[[:hi:obs:notes:key-terms:yahweh|यहोवा]]** हूँ। यही सदा के लिए **मेरा नाम** है।"
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
+**[[https://door43.org/en/obe/other/moses|मूसा]]**
+  *
+
+**[[https://door43.org/en/obe/kt/god|परमेश्वर]]**
+  *
+
+**[[https://door43.org/en/obe/kt/yahweh|यहोवा]]**
+  *
+
+**[[https://door43.org/en/obe/other/abraham|अब्राहम]]**
+  *
+
+**[[https://door43.org/en/obe/other/isaac|इसहाक]]**
+  *
+
+**[[https://door43.org/en/obe/other/jacob|याकूब]]**
 ===== Translation Notes: =====
 
-
-  * **the people** - See "my people" in **[[:hi:obs:notes:frames:09-13|[09-13]]]**.
-  * **I AM WHO I AM** - This description shows that God can only be defined by himself, not by anything else that we know of, and he cannot be compared to anyone else. 
-  * **I AM** - This name emphasizes that God is the only one who has always lived and always will live. 
-  * **my name** - The name that God told Moses and all of Israel to use for him is “Yahweh,” which is related to “I AM” and appears to mean, “HE IS.”
-  
-
+  * **the people**  - See "my people" in **[[:hi:obs:notes:frames:09-13|[09-13]]]**.
+  * **I AM WHO I AM**  - This description shows that God can only be defined by himself, not by anything else that we know of, and he cannot be compared to anyone else.
+  * **I AM**  - This name emphasizes that God is the only one who has always lived and always will live.
+  * **my name**  - The name that God told Moses and all of Israel to use for him is “Yahweh,” which is related to “I AM” and appears to mean, “HE IS.”
 **[[:hi:obs:notes:frames:09-13|<<]] | [[:hi:obs:notes:09|Up]] | [[:hi:obs:notes:frames:09-15|>>]]**
-
