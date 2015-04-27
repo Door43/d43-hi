@@ -1,15 +1,18 @@
-====== Moses Killed an Egyptian [09-09] ======
+====== मूसा द्वारा एक मिस्रवासी की हत्या [09-09] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-09.jpg?nolink&}}
 
-When **[[:en:key-terms:moses|Moses]]** thought nobody would see, he killed the **[[:en:key-terms:egypt|Egyptian]]** and buried his body. But someone saw what Moses had done.
+जब **[[:hi:obs:notes:key-terms:moses|मूसा]]** को लगा कि कोई उसे नहीं देख रहा है,उसने उस **[[:hi:obs:notes:key-terms:egypt|मिस्रवासी]]** को मार कर उसके शरीर को दफना दिया। लेकिन किसी ने मूसा को ऐसा करते देख लिया।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
+
+**[[https://door43.org/en/obe/other/moses|मूसा]]**
+  *
+
+**[[https://door43.org/en/obe/other/egypt|मिस्रवासी]]**
 ===== Translation Notes: =====
 
-
-  * //(There are no notes for this frame.)// 
-  
-
+  * //(There are no notes for this frame.)//
 **[[:hi:obs:notes:frames:09-08|<<]] | [[:hi:obs:notes:09|Up]] | [[:hi:obs:notes:frames:09-10|>>]]**
-
