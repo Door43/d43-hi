@@ -2,8 +2,22 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-12.jpg?nolink&}}
 
-One day while **[[:en:key-terms:moses|Moses]]** was **taking care of his [[:en:key-terms:sheep|sheep]]**, he saw a bush that was on fire. But the **bush did not burn up**. Moses went towards the bush to be able to see it better. As he approached the burning bush, **the voice of [[:en:key-terms:god|God]] said**, “Moses, **take off your shoes**. You are standing on **[[:en:key-terms:holy|holy]] ground**.”
+एक दिन,जब **[[:hi:obs:notes:key-terms:moses|मूसा]]** **अपनी [[:hi:obs:notes:key-terms:sheep|भेड़ों]] की रखवाली कर रहा था**,उसने जलती हुई एक झाडी देखी। लेकिन वह **झाडी भस्म नहीं हो रही** थी। जैसे ही वह उस जलती हुई झाडी के पास गया,तो **[[:hi:obs:notes:key-terms:god|परमेश्वर]] की आवाज़**** ने उससे कहा**, "मूसा, **अपनी जूतियाँ उतार** दे। तू एक **[[:hi:obs:notes:key-terms:holy|पवित्र]] भूमि** पर खड़ा है।"
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
+
+  *
+
+**[[https://door43.org/en/obe/other/moses|मूसा]]**
+  *
+
+**[[https://door43.org/en/obe/other/sheep|भेड़ो]]**
+  *
+
+**[[https://door43.org/en/obe/kt/god|परमेश्वर]]**
+  *
+
+**[[https://door43.org/en/obe/kt/holy|पवित्र]]**
 ===== Translation Notes: =====
 
   * **taking care of his sheep**  - This means he was doing the work of a shepherd to guide the sheep to grass and water, and to protect them. It could be translated as, “tending the sheep.”
