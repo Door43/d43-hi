@@ -1,15 +1,21 @@
-====== Israel Was Removed from the Land [20-03] ======
+====== इस्राएल का भूमि से हटाया जाना [20-03] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-03.jpg?nolink&}}
 
-The **[[:en:key-terms:assyria|Assyrians]]** gathered all the leaders, the rich people, and the people with **skills** and took them to Assyria. Only the very poor **[[:en:key-terms:israel|Israelites]]** who had not been killed **remained** in the **[[:en:key-terms:kingdom-of-israel|kingdom of Israel]]**.
+**अश्शूरियों** ने सारे अगुओं, समृद्ध लोगों, और **कारीगरों** को इकठ्ठा किया और अपने साथ अश्शूर ले गए। इस्राएल राज्य में केवल वही **इस्राएली** **रह गए** थे, जो बहुत गरीब थे, और मार दिए जाने से बच गए थे।
+===== Important Terms: =====
 
+  *
 
+**[[https://door43.org/en/obe/other/assyria|अश्शूरियों]]**
+  *
+
+**[[https://door43.org/en/obe/other/israel|इस्राएलियों ]]**
+  *
+
+**[[https://door43.org/en/obe/other/kingdom-of-israel|इस्राएल का राज्य ]]**
 ===== Translation Notes: =====
 
-
-  * **skills** – This refers to practical skills such as woodworking, metalworking, and building.
-  * **remained** - That is, “stayed” or, “were left behind” or, “were allowed to stay behind.”  
-  
-
+  * **skills**  – This refers to practical skills such as woodworking, metalworking, and building.
+  * **remained**  - That is, “stayed” or, “were left behind” or, “were allowed to stay behind.”
 **[[:hi:obs:notes:frames:20-02|<<]] | [[:hi:obs:notes:20|Up]] | [[:hi:obs:notes:frames:20-04|>>]]**
