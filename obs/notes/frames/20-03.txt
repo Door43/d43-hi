@@ -2,8 +2,8 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-03.jpg?nolink&}}
 
-**[[:hi:obs:notes:key-terms:assyria|अश्शूरियों]]** ने सारे अगुओं, समृद्ध लोगों, और **कारीगरों** को इकठ्ठा किया और अपने साथ अश्शूर ले गए। **[[:hi:obs:notes:key-terms:kingdom of israel|इस्राएल राज्य]]** में केवल वही **[[:hi:obs:notes:key-terms:israel|इस्राएली]]** **रह गए** थे, जो बहुत गरीब थे, और मार दिए जाने से बच गए थे।
-===== Important Terms: =====
+**[[:hi:obs:notes:key-terms:assyria|अश्शूरियों]]** ने सारे अगुओं, समृद्ध लोगों, और **कारीगरों** को इकठ्ठा किया और अपने साथ अश्शूर ले गए। **[[:hi:obs:notes:key-terms:kingdom-of-israel|इस्राएल राज्य]]** में केवल वही **[[:hi:obs:notes:key-terms:israel|इस्राएली]]****रह गए** थे, जो बहुत गरीब थे, और मार दिए जाने से बच गए थे।
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
   * **[[https://door43.org/en/obe/other/assyria|अश्शूरियों]]**
   * **[[https://door43.org/en/obe/other/israel|इस्राएलियों ]]**
