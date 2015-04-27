@@ -5,28 +5,16 @@
 **[[:hi:obs:notes:key-terms:moses|मूसा]]** ने पूछा,"**लोग** अगर यह जानना चाहेंगे कि मुझे किसने भेजा है,तो मैं क्या कहूँ?" **[[:hi:obs:notes:key-terms:god|परमेश्वर]]** ने कहा,"**मैं जो हूँ,सो हूँ।** उनसे कहना कि तुझे "**मैं हूँ**" ने भेजा है। साथ मैं यह भी बताना कि मैं तुम्हारे पूर्वजों, **[[:hi:obs:notes:key-terms:abraham|अब्राहम]]**,**[[:hi:obs:notes:key-terms:isaac|इसहाक]]**,और **[[:hi:obs:notes:key-terms:jacob|याकूब]]** का परमेश्वर,**[[:hi:obs:notes:key-terms:yahweh|यहोवा]]** हूँ। यही सदा के लिए **मेरा नाम** है।"
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
+  * **[[https://door43.org/en/obe/other/moses|मूसा]]**
+  * **[[https://door43.org/en/obe/kt/god|परमेश्वर]]**
+  * **[[https://door43.org/en/obe/kt/yahweh|यहोवा]]**
+  * **[[https://door43.org/en/obe/other/abraham|अब्राहम]]**
+  * **[[https://door43.org/en/obe/other/isaac|इसहाक]]**
+  * **[[https://door43.org/en/obe/other/jacob|याकूब]]**
+===== अनुवाद के लिए नोट्स: =====
 
-**[[https://door43.org/en/obe/other/moses|मूसा]]**
-  *
-
-**[[https://door43.org/en/obe/kt/god|परमेश्वर]]**
-  *
-
-**[[https://door43.org/en/obe/kt/yahweh|यहोवा]]**
-  *
-
-**[[https://door43.org/en/obe/other/abraham|अब्राहम]]**
-  *
-
-**[[https://door43.org/en/obe/other/isaac|इसहाक]]**
-  *
-
-**[[https://door43.org/en/obe/other/jacob|याकूब]]**
-===== Translation Notes: =====
-
-  * **the people**  - See "my people" in **[[:hi:obs:notes:frames:09-13|[09-13]]]**.
-  * **I AM WHO I AM**  - This description shows that God can only be defined by himself, not by anything else that we know of, and he cannot be compared to anyone else.
-  * **I AM**  - This name emphasizes that God is the only one who has always lived and always will live.
-  * **my name**  - The name that God told Moses and all of Israel to use for him is “Yahweh,” which is related to “I AM” and appears to mean, “HE IS.”
+  * **लोग**  - "मेरे लोग" के अनुवाद का सन्दर्भ लें। in **[[:hi:obs:notes:frames:09-13|[09-13]]]**
+  * **मैं जो हूँ सो हूँ**  - इससे पता चलता है कि हमारी जानकारी में मौजूद कोई ऐसी चीज़ नहीं जो परमेश्वर को परिभाषित कर सके, केवल परमेश्वर ही स्वयं को परिभाषित कर सकता है; और उसकी तुलना किसी भी चीज़ से नहीं की जा सकती।
+  * **मै हूँ**  - इससे पता चलता है कि परमेश्वर ही एक मात्र ऐसा है जो था,और जो सदा जीवता रहेगा।
+  * **मेरा नाम**  - मूसा और सारे इस्राएल को परमेश्वर ने अपना जो नाम इस्तेमाल करने को कहा था,वह था "यहोवा",जो कि "मैं हूँ" से जुड़ा नाम है और "वह है"जैसा लगता है।
 **[[:hi:obs:notes:frames:09-13|<<]] | [[:hi:obs:notes:09|Up]] | [[:hi:obs:notes:frames:09-15|>>]]**
