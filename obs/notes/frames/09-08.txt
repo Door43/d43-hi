@@ -2,7 +2,8 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-08.jpg?nolink&}}
 
-एक दिन,**[[:hi:obs:notes:key-terms:moses|मूसा]]** जब **बड़ा हो चुका** था,उसने एक **मिस्रवासी** को एक **इस्रायली**** दास** की पिटाई करते देखा। मूसा ने अपने **संगी इस्रायली** को **बचाने** की कोशिश की।
+एक दिन,**[[:hi:obs:notes:key-terms:moses|मूसा]]** जब **बड़ा हो चुका** था,उसने एक **[[:hi:obs:notes:key-terms:egypt|मिस्रवासी]]** को एक **[[:hi:obs:notes:key-terms:israel|इस्राएली]]**** [[:hi:obs:notes:key-terms:servant|दास]]** की पिटाई करते देखा। मूसा ने अपने **संगी इस्राएली** को **[[:hi:obs:notes:key-terms:save|बचाने]]** की कोशिश की।
+
 ===== महत्वपूर्ण शब्द तथा वाक्यांश : =====
 
   * **[[https://door43.org/en/obe/other/moses|मूसा]]**
@@ -10,8 +11,8 @@
   * **[[https://door43.org/en/obe/other/israel|इस्राएलवासी]]**
   * **[[https://door43.org/en/obe/other/servant|दास]]**
   * **[[https://door43.org/en/obe/kt/save|बचाने]]**
-===== Translation Notes: =====
+===== अनुवाद के लिए नोट्स: =====
 
-  * **grown up**  - Another way to say this would be, “grown into a man.”
-  * **fellow Israelite**  - This phrase refers to the Israelite slave. The word “fellow” here indicates that Moses was also an Israelite. Although the daughter of the Egyptian Pharaoh raised Moses, Moses remembered that he was really an Israelite.
+  * **बड़ा हो चुका**  -इसे ऐसे भी कह सकते हैं कि "वह वयस्क हो चूका था।"
+  * **संगी इस्राएली**  - यह वाक्य एक इस्राएली दास के सन्दर्भ में है। "संगी" शब्द इस बात का संकेत करता है कि मूसा भी एक इस्राएली था। हालाकि मूसा को फिरौन की बेटी ने पाला-पोसा था,लेकिन मूसा को याद था कि वह भी एक इस्राएली था।
 **[[:hi:obs:notes:frames:09-07|<<]] | [[:hi:obs:notes:09|Up]] | [[:hi:obs:notes:frames:09-09|>>]]**
