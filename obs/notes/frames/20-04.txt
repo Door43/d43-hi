@@ -1,12 +1,26 @@
-====== Foreigners Were Brought to Israel [20-04] ======
+====== इस्राएल में विदेशी लाये गए [20-04] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-04.jpg?nolink&}}
 
-Then the **[[:en:key-terms:assyria|Assyrians]]** brought **foreigners** to live in the land where the **[[:en:key-terms:kingdom-of-israel|kingdom of Israel]]** had been. The foreigners rebuilt the destroyed cities and married the **[[:en:key-terms:israel|Israelites]]** who were left there. The **[[:en:key-terms:descendant|descendants]]** of the Israelites who married foreigners were called **[[:en:key-terms:samaria|Samaritans]]**.
+फिर, जहाँ **इस्राएल** **राज्य** हुआ करता था, उस भूमि पर रहने के लिए **अश्शूरी** लोग** विदेशियों** को ले आये। विदेशियों ने नगरों को तबाह कर दिया और बचे हुए इस्राएलियों के साथ विवाह किया। इन विदेशियों से विवाह करनेवाले इस्राएलियों के वंशजों को सामरी कहा गया।
+===== Important Terms: =====
 
+  *
 
+**[[https://door43.org/en/obe/other/assyria|Assyrians]]**
+  *
+
+**[[https://door43.org/en/obe/other/kingdom-of-israel|kingdom of Israel]]**
+  *
+
+**[[https://door43.org/en/obe/other/israel|Israelites]]**
+  *
+
+**[[https://door43.org/en/obe/other/descendant|descendants]]**
+  *
+
+**[[https://door43.org/en/obe/other/samaria|Samaritans]]**
 ===== Translation Notes: =====
 
-  * **foreigners** - This refers to people who were not Israelites.  
-
-**[[:hi:obs:notes:frames:20-03|<<]] | [[:hi:obs:notes:20|Up]] | [[:hi:obs:notes:frames:20-05|>>]]**
+  * **foreigners**  - This refers to people who were not Israelites.
+**[[<<]] | [[Up]] | [[>>]]**
