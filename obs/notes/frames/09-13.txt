@@ -2,42 +2,20 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-13.jpg?nolink&}}
 
-परमेश्वर ने कहा,"मैंने अपने **लोगो के कष्ट** देखे हैं। I मैं तुझे **फिरौन** के पास भेजूंगा,ताकि इस्रायालियों को तू **मिस्र की**** बन्धुआइ से छुड़ा कर** ला सके। I मैं कनान की भूमि उन्हें दूंगा,वह भूमि जो मैंने अब्राहम,इसहाक,और याकूब को देने की वाचा बाँधी थी।"
+**[[:hi:obs:notes:key-terms:god|परमेश्वर]]** ने कहा,"मैंने अपने **लोगो के [[:hi:obs:notes:key-terms:suffer|कष्ट]]** देखे हैं। I मैं तुझे **[[:hi:obs:notes:key-terms:pharaoh|फिरौन]]** के पास भेजूंगा,ताकि **[[:hi:obs:notes:key-terms:israel|इस्राएलियों]]** को तू **मिस्र की**** बन्धुआई से छुड़ा कर** ला सके। I मैं कनान की भूमि उन्हें दूंगा,वह भूमि जो मैंने अब्राहम,इसहाक,और याकूब को देने की वाचा बाँधी थी।"
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
-
-**[[https://door43.org/en/obe/kt/god|परमेश्वर ]]**
-  *
-
-**[[https://door43.org/en/obe/kt/suffer|कष्ट ]]**
-  *
-
-**[[https://door43.org/en/obe/other/pharaoh|फिरौन ]]**
-  *
-
-**[[https://door43.org/en/obe/other/israel|इस्राएलियों]]**
-  *
-
-**[[https://door43.org/en/obe/other/servant|slavery]]**
-  *
-
-**[[https://door43.org/en/obe/other/egypt|Egypt]]**
-  *
-
-**[[https://door43.org/en/obe/other/canaan|Canaan]]**
-  *
-
-**[[https://door43.org/en/obe/kt/promise|promised]]**
-  *
-
-**[[https://door43.org/en/obe/other/abraham|Abraham]]**
-  *
-
-**[[https://door43.org/en/obe/other/isaac|Isaac]]**
-  *
-
-**[[https://door43.org/en/obe/other/jacob|Jacob]]**
+  * **[[https://door43.org/en/obe/kt/god|परमेश्वर ]]**
+  * **[[https://door43.org/en/obe/kt/suffer|कष्ट ]]**
+  * **[[https://door43.org/en/obe/other/pharaoh|फिरौन ]]**
+  * **[[https://door43.org/en/obe/other/israel|इस्राएलियों]]**
+  * **[[https://door43.org/en/obe/other/servant|बंधुआई]]**
+  * **[[https://door43.org/en/obe/other/egypt|मिस्र]]**
+  * **[[https://door43.org/en/obe/other/canaan|कनान]]**
+  * **[[https://door43.org/en/obe/kt/promise|वाचा]]**
+  * **[[https://door43.org/en/obe/other/abraham|अब्राहम]]**
+  * **[[https://door43.org/en/obe/other/isaac|इसहाक]]**
+  * **[[https://door43.org/en/obe/other/jacob|याकूब]]**
 ===== Translation Notes: =====
 
   * **suffering of my people**  - This could be translated as, “the very harsh treatment that my people are experiencing. Some languages might translate this as, “how the Egyptians are giving my people terrible pain.”
