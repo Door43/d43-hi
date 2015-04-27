@@ -2,20 +2,14 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-03.jpg?nolink&}}
 
-**अश्शूरियों** ने सारे अगुओं, समृद्ध लोगों, और **कारीगरों** को इकठ्ठा किया और अपने साथ अश्शूर ले गए। इस्राएल राज्य में केवल वही **इस्राएली** **रह गए** थे, जो बहुत गरीब थे, और मार दिए जाने से बच गए थे।
+**[[:hi:obs:notes:key-terms:assyria|अश्शूरियों]]** ने सारे अगुओं, समृद्ध लोगों, और **कारीगरों** को इकठ्ठा किया और अपने साथ अश्शूर ले गए। **[[:hi:obs:notes:key-terms:kingdom of israel|इस्राएल राज्य]]** में केवल वही **[[:hi:obs:notes:key-terms:israel|इस्राएली]]** **रह गए** थे, जो बहुत गरीब थे, और मार दिए जाने से बच गए थे।
 ===== Important Terms: =====
 
-  *
+  * **[[https://door43.org/en/obe/other/assyria|अश्शूरियों]]**
+  * **[[https://door43.org/en/obe/other/israel|इस्राएलियों ]]**
+  * **[[https://door43.org/en/obe/other/kingdom-of-israel|इस्राएल का राज्य ]]**
+===== अनुवाद के लिए नोट्स: =====
 
-**[[https://door43.org/en/obe/other/assyria|अश्शूरियों]]**
-  *
-
-**[[https://door43.org/en/obe/other/israel|इस्राएलियों ]]**
-  *
-
-**[[https://door43.org/en/obe/other/kingdom-of-israel|इस्राएल का राज्य ]]**
-===== Translation Notes: =====
-
-  * **skills**  – This refers to practical skills such as woodworking, metalworking, and building.
-  * **remained**  - That is, “stayed” or, “were left behind” or, “were allowed to stay behind.”
+  * **कारीगरों**  – अर्थात, बढ़ईगिरी, लुहारी, और मेह्सन का काम करनेवाले कारीगर।
+  * **बचे हुए**  - अर्थ, "रह गए", या, "पीछे छोड़ दिए गए", या फिर "जिन्हें पीछे रहने दिया गया।"
 **[[:hi:obs:notes:frames:20-02|<<]] | [[:hi:obs:notes:20|Up]] | [[:hi:obs:notes:frames:20-04|>>]]**
