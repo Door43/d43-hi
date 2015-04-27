@@ -2,7 +2,42 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-05.jpg?nolink&}}
 
-The people in the **[[:en:key-terms:kingdom-of-judah|kingdom of Judah]]** saw how **[[:en:key-terms:god|God]]** had **[[:en:key-terms:punish|punished]]** the people of the **[[:en:key-terms:kingdom-of-israel|kingdom of Israel]]****for not [[:en:key-terms:believe|believing]] and [[:en:key-terms:obey|obeying]] him**. But they still **[[:en:key-terms:worship|worshiped]]** **[[:en:key-terms:idol|idols]]**, including the **[[:en:key-terms:god-false|gods]]** of the **[[:en:key-terms:canaan|Canaanites]]**. God sent **[[:en:key-terms:prophet|prophets]]** to **warn them**, but **they refused to listen**.
+**[[:hi:obs:notes:key-terms:kingdom of judah|यहूदा के राज्य]]** के लोग देख चुके थे कि **उसका अविश्वास और अवज्ञा** करने के कारण इस्राएल राज्य के लोगों को **[[:hi:obs:notes:key-terms:god|परमेश्वर]]** ने कैसे दंड दिया था। लेकिन तब भी, वे मूरतों की आराधना में लगे रहे, जिसमे कनानियों के देवता भी शामिल थे। **उन्हें चिताने** के लिए परमेश्वर ने नबियों को भी भेजा, लेकिन **उन्होंने एक न ****सुनी** ।
+====== महत्वपूर्ण शब्द तथा वाक्यांश: ======
+
+  *
+
+**[[https://door43.org/en/obe/other/kingdom-of-judah|यहूदा का राज्य ]]**
+  *
+
+**[[https://door43.org/en/obe/kt/god|परमेश्वर ]]**
+  *
+
+**[[https://door43.org/en/obe/other/punish|दण्ड दिया था ]]**
+  *
+
+**[[https://door43.org/en/obe/other/kingdom-of-israel|इस्राएल का राज्य ]]**
+  *
+
+**[[https://door43.org/en/obe/kt/believe|विश्वास ]]**
+  *
+
+**[[https://door43.org/en/obe/other/obey|आज्ञा ]]**
+  *
+
+**[[https://door43.org/en/obe/kt/worship|आराधना की ]]**
+  *
+
+**[[https://door43.org/en/obe/other/idol|मूरतों]]**
+  *
+
+**[[https://door43.org/en/obe/kt/falsegod|देवताओं ]]**
+  *
+
+**[[https://door43.org/en/obe/other/canaan|कनानी ]]**
+  *
+
+**[[https://door43.org/en/obe/kt/prophet|नबियों ]]**
 ===== Translation Notes: =====
 
   * **for not believing and obeying him**  – Another way to translate this would be, “because they did not believe or obey him.”
