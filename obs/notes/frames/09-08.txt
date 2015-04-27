@@ -1,17 +1,10 @@
-====== An Egyptian Beat a Slave [09-08] ======
+====== एक मिस्रवासी द्वारा एक दास की पिटाई करना [09-08] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-08.jpg?nolink&}}
 
 One day, when **[[:en:key-terms:moses|Moses]]** had **grown up**, he saw an **[[:en:key-terms:egypt|Egyptian]]** beating an **[[:en:key-terms:israel|Israelite]]** **[[:en:key-terms:servant|slave]]**. Moses tried to **[[:en:key-terms:save|save]]** his **fellow Israelite**.
-
-
 ===== Translation Notes: =====
 
-
-  * **grown up** - Another way to say this would be, “grown into a man.” 
-  * **fellow Israelite** - This phrase refers to the Israelite slave. The word “fellow” here indicates that Moses was also an Israelite. Although the daughter of the Egyptian Pharaoh raised Moses, Moses remembered that he was really an Israelite. 
-  
-
+  * **grown up**  - Another way to say this would be, “grown into a man.”
+  * **fellow Israelite**  - This phrase refers to the Israelite slave. The word “fellow” here indicates that Moses was also an Israelite. Although the daughter of the Egyptian Pharaoh raised Moses, Moses remembered that he was really an Israelite.
 **[[:hi:obs:notes:frames:09-07|<<]] | [[:hi:obs:notes:09|Up]] | [[:hi:obs:notes:frames:09-09|>>]]**
-
-
