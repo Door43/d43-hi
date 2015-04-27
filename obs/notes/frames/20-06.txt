@@ -2,7 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-06.jpg?nolink&}}
 
-**[[:hi:obs:notes:key-terms:assyria|अश्शूरियों]]** द्वारा ****[[:hi:obs:notes:key-terms:kingdom of israel|इस्राएल राज्य]]**** के ध्वंस किये जाने के लगभग 100 साल बाद, **[[:hi:obs:notes:key-terms:god|परमेश्वर]]** ने **[[:hi:obs:notes:key-terms:babylon|बेबीलोनवासियों]]** के **[[:hi:obs:notes:key-terms:king|राजा]]** **[[:hi:obs:notes:key-terms:nebuchadnezzar|नबुकदनेस्सर]]** को ****[[:hi:obs:notes:key-terms:kingdom of judah|यहूदा राज्य]]**** पर हमला करने भेजा। **[[:hi:obs:notes:key-terms:babylon|बेबीलोन]]** एक शक्तिशाली **साम्राज्य** था। यहूदा के राजा ने **नबुकदनेस्सर** **का** **[[:hi:obs:notes:key-terms:servant|सेवक]]** होना, और हर साल एक मोती रकम देना स्वीकार कर लिया।
+**[[:hi:obs:notes:key-terms:assyria|अश्शूरियों]]** द्वारा [[:hi:obs:notes:key-terms:kingdom-of-israel|इस्राएल राज्य]] के ध्वंस किये जाने के लगभग 100 साल बाद, **[[:hi:obs:notes:key-terms:god|परमेश्वर]]** ने **[[:hi:obs:notes:key-terms:babylon|बेबीलोनवासियों]]** के **[[:hi:obs:notes:key-terms:king|राजा]]** **[[:hi:obs:notes:key-terms:nebuchadnezzar|नबुकदनेस्सर]]** को **[[:hi:obs:notes:key-terms:kingdom-of-judah|यहूदा राज्य]]** पर हमला करने भेजा। **[[:hi:obs:notes:key-terms:babylon|बेबीलोन]]** एक शक्तिशाली **साम्राज्य** था। यहूदा के राजा ने **नबुकदनेस्सर** **का** **[[:hi:obs:notes:key-terms:servant|सेवक]]** होना, और हर साल एक मोती रकम देना **स्वीकार कर लिया** ।
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
   * **[[https://door43.org/en/obe/other/assyria|अश्शूरियों]]**
@@ -13,9 +13,9 @@
   * **[[https://door43.org/en/obe/other/babylon|बेबीलोनवासियों]]**
   * **[[https://door43.org/en/obe/other/kingdom-of-judah|यहूदा का राज्य]]**
   * **[[https://door43.org/en/obe/other/babylon|बेबीलोन]]**
-===== Translation Notes: =====
+===== अनुवाद के लिए नोट्स: =====
 
-  * **empire**  - See how you translated this in **[[:hi:obs:notes:frames:20-02|[20-02]]]**.
-  * **agreed to be**  – The king of Judah was forced to either serve the Babylonian king or be destroyed.
-  * **to be Nebuchadnezzar's servant**  - This could be translated as, “to govern Judah under Nebuchadnezzar's command.”
+  * **साम्राज्य**  - के अनुवाद का सन्दर्भ लें। **[[:hi:obs:notes:frames:20-02|[20-02]]]**.
+  * **स्वीकार कर लिया**  – यहूदा के राजा को या तो बेबीलोन का राजा की सेवा करनी होगी या फिर नष्ट होना होगा।
+  * **नबुकदनेस्सर का सेवक**  - इसे हम ऐसे भी लिख सकते हैं, :"नबुकदनेस्सर के अगुआई में यहूदा का कार्यभार संभालना होगा।"
 **[[:hi:obs:notes:frames:20-05|<<]] | [[:hi:obs:notes:20|Up]] | [[:hi:obs:notes:frames:20-07|>>]]**
