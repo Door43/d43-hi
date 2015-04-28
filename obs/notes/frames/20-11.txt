@@ -1,18 +1,27 @@
-====== Persia Defeated Babylon [20-11] ======
+====== फारस का बेबीलोन को हराना [20-11] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-11.jpg?nolink&}}
 
-About **seventy years later**, **Cyrus**, the **[[:en:key-terms:king|king]]** of the **Persians**, defeated **[[:en:key-terms:babylon|Babylon]]**, so the Persian Empire replaced the Babylonian Empire. **The [[:en:key-terms:israel|Israelites]] were now called [[:en:key-terms:jew|Jews]]** and most of them had lived their whole lives in Babylon. Only a few very old Jews even remembered **the land of Judah**.
+लगभग **सत्तर सालों के बाद**, **फारसवासियों** के** [[:hi:obs:notes:key-terms:king|राजा]]**, **कुस्रू** ने **[[:hi:obs:notes:key-terms:babylon|बेबीलोन]]** को हराया, और इस तरह बेबीलोनी साम्राज्य की जगह फारसी साम्राज्य ने ले ली। **[[:hi:obs:notes:key-terms:israel|इस्राएलियों ]]**को अब **[[:hi:obs:notes:key-terms:jew|यहूदी]]** कहा जाने लगा था और उनमे से अधिकाँश लोगो ने अपना पूरा जीवन बेबीलोन में बिताया था। केवल थोड़े से बूढ़े यहूदियों को ही **यहूदा** **की** **भूमि की** **याद** **थी।**
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
+**[[https://door43.org/en/obe/other/king|राजा]]**
+  *
+
+**[[https://door43.org/en/obe/other/babylon|बेबीलोन]]**
+  *
+
+**[[https://door43.org/en/obe/other/israel|इस्राएलियों]]**
+  *
+
+**[[https://door43.org/en/obe/other/jew|यहूदी]]**
 ===== Translation Notes: =====
 
-
-  * **seventy years later** - This refers to the seventy years that had passed since the Babylonian army took the people of Jerusalem into exile.
-  * **Cyrus** - Cyrus was also called, "Cyrus the Great." The name "Cyrus" meant "like the sun" in the Persian language. However, since Cyrus was an important historical person, it might be best to transliterate his name, rather than translating the meaning. 
-  * **Persians** - The Persian Empire grew to cover the area from central Asia to Egypt. Its home was located in the general area of modern-day Iran.
-  * **The Israelites were now called Jews** - This could also be translated as, "People now called the Israelites by the name 'Jews.'"
-  * **the land of Judah** - That is, the area where the kingdom of Judah was located before the Exile. Jerusalem was the capital city of Judah.
-  
-
+  * **seventy years later**  - This refers to the seventy years that had passed since the Babylonian army took the people of Jerusalem into exile.
+  * **Cyrus**  - Cyrus was also called, "Cyrus the Great." The name "Cyrus" meant "like the sun" in the Persian language. However, since Cyrus was an important historical person, it might be best to transliterate his name, rather than translating the meaning.
+  * **Persians**  - The Persian Empire grew to cover the area from central Asia to Egypt. Its home was located in the general area of modern-day Iran.
+  * **The Israelites were now called Jews**  - This could also be translated as, "People now called the Israelites by the name 'Jews.'"
+  * **the land of Judah**  - That is, the area where the kingdom of Judah was located before the Exile. Jerusalem was the capital city of Judah.
 **[[:hi:obs:notes:frames:20-10|<<]] | [[:hi:obs:notes:20|Up]] | [[:hi:obs:notes:frames:20-12|>>]]**
