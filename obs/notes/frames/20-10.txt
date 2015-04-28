@@ -2,7 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-10.jpg?nolink&}}
 
-**निर्वासन** में लोगों को दूर ले जाने के द्वारा **[[:hi:obs:notes:key-terms:god|परमेश्वर]]** ने उन्हें उनके **[[:hi:obs:notes:key-terms:sin|पाप]]** का ******[[:hi:obs:notes:key-terms:punish|दंड तो दिया]]******, लेकिन उनके साथ जो **[[:hi:obs:notes:key-terms:promise|वाचाएँ]]** उसने बाँधी थी, उन्हें वह **न ****भूला** । परमेश्वर अपने लोगो की **देख-रेख** और **अपने** **[[:hi:obs:notes:key-terms:prophet|नबियों]] के द्वारा उनसे बातचीत करता रहा।** उसने यह प्रतिज्ञा की, की सत्तर सालों के बाद वे **[[:hi:obs:notes:key-terms:promised-land|वाचा की भूमि]]** में लौटेंगे।
+**निर्वासन** में लोगों को दूर ले जाने के द्वारा **[[:hi:obs:notes:key-terms:god|परमेश्वर]]** ने उन्हें उनके **[[:hi:obs:notes:key-terms:sin|पाप]]** का **[[:hi:obs:notes:key-terms:punish|दंड तो दिया]]**, लेकिन उनके साथ जो **[[:hi:obs:notes:key-terms:promise|वाचाएँ]]** उसने बाँधी थी, उन्हें वह **न ****भूला** । परमेश्वर अपने लोगो की **देख-रेख** और **अपने** **[[:hi:obs:notes:key-terms:prophet|नबियों]] के द्वारा उनसे बातचीत करता रहा।** उसने यह प्रतिज्ञा की, की सत्तर सालों के बाद वे **[[:hi:obs:notes:key-terms:promised-land|वाचा की भूमि]]** में लौटेंगे।
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
   * **[[https://door43.org/en/obe/kt/god|परमेश्वर ]]**
@@ -11,9 +11,9 @@
   * **[[https://door43.org/en/obe/kt/promise|वाचाएँ]]**
   * **[[https://door43.org/en/obe/kt/prophet|नबियों]]**
   * **[[https://door43.org/en/obe/kt/promisedland|वाचा की भूमि]]**
-===== Translation Notes: =====
+===== अनुवाद के लिए नोट्स: =====
 
-  * **exile**  - See how you translated this term in **[[:hi:obs:notes:frames:20-09|[20-09]]]**.
+  * **निर्वासन**  - See how you translated this term in **[[:hi:obs:notes:frames:20-09|[20-09]]]**.
   * **did not forget**  - This could be translated as, “did not ignore” or, “did not neglect.” Or the whole phrase could be translated as, “continued to honor his commitment to his people and his promises.”
   * **watch over**  - That is, “take care of.”
   * **speak to them through his prophets**  - This could be translated as, “tell his prophets messages that he wanted them to tell his people.”
