@@ -1,18 +1,28 @@
-====== Cyrus Sent Judah Home [20-12] ======
+====== कुस्रू द्वारा यहूदा की घर वापसी [20-12] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-12.jpg?nolink&}}
 
-The **Persian Empire** was strong but **[[:en:key-terms:mercy|merciful]]** to the people it conquered. Shortly after **Cyrus** became king of the Persians, he gave an order that any **[[:en:key-terms:jew|Jew]]** who wanted **to return to Judah** could leave Persia and go back to Judah. He even gave them money to rebuild the **[[:en:key-terms:temple|Temple]]**! So, after seventy years in **exile**, a small group of Jews **returned** to the city of **[[:en:key-terms:jerusalem|Jerusalem]]** in Judah.
+**फारसी साम्राज्य** बहुत शक्तिशाली, लेकिन पराजित देश के लोगो के प्रति **दयालु** भी था। जैसे ही **कुस्रू** फारसियों का राजा बना, वैसे ही थोड़े समय बाद उसने एक आदेश दिया कि **यहूदा** **लौटने** की इच्छा रखेनेवाला कोई भी **यहूदी**, फारस छोड़ कर अपने यहूदा लौट सकता है। **मंदिर** के पुनः र्निर्माण के लिए उसने उन्हें धन भी दिया! इस तरह, सत्तर सालों तक **निर्वासन** में बिताने के बाद, यहूदियों का एक छोटा समूह यहूदा के **यरूशलेम** नगर में **लौट आया** ।
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
+**[[https://door43.org/en/obe/kt/mercy|दयालु ]]**
+  *
+
+**[[https://door43.org/en/obe/other/jew|यहूदी ]]**
+  *
+
+**[[https://door43.org/en/obe/kt/temple|मन्दिर ]]**
+  *
+
+**[[https://door43.org/en/obe/other/jerusalem|यरूशलेम ]]**
 ===== Translation Notes: =====
 
-  * **Persian Empire** - See how you translated this term in **[[:hi:obs:notes:frames:20-11|[20-11]]]**.
-  * **Cyrus** - See how you translated his name in **[[:hi:obs:notes:frames:20-11|[20-11]]]**.
-  * **Judah** - See the note about Judah in  **[[:hi:obs:notes:frames:20-11|[20-11]]]**.
-  * **to return to Judah** - Since most of these Jews were the children and grandchildren of those who left Judah, they had never lived in Judah before. In some languages it might be better to say “to go to Judah.” 
-  * **exile** - See how you translated this term in **[[:hi:obs:notes:frames:20-09|[20-09]]]**.
-  * **returned** – That is, “went back.” Some languages may prefer to say, “went” since most of these people had never been to Jerusalem. 
-  
-
+  * **Persian Empire**  - See how you translated this term in **[[:hi:obs:notes:frames:20-11|[20-11]]]**.
+  * **Cyrus**  - See how you translated his name in **[[:hi:obs:notes:frames:20-11|[20-11]]]**.
+  * **Judah**  - See the note about Judah in **[[:hi:obs:notes:frames:20-11|[20-11]]]**.
+  * **to return to Judah**  - Since most of these Jews were the children and grandchildren of those who left Judah, they had never lived in Judah before. In some languages it might be better to say “to go to Judah.”
+  * **exile**  - See how you translated this term in **[[:hi:obs:notes:frames:20-09|[20-09]]]**.
+  * **returned**  – That is, “went back.” Some languages may prefer to say, “went” since most of these people had never been to Jerusalem.
 **[[:hi:obs:notes:frames:20-11|<<]] | [[:hi:obs:notes:20|Up]] | [[:hi:obs:notes:frames:20-13|>>]]**
