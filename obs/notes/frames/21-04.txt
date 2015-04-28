@@ -1,14 +1,27 @@
-====== A Descendant of David [21-04] ======
+====== दाऊद का एक वंशज [21-04] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-04.jpg?nolink&}}
 
-**[[:en:key-terms:god|God]]** **[[:en:key-terms:promise|promised]]** **[[:en:key-terms:david|King David]]** that the **[[:en:key-terms:messiah|Messiah]]** would be one of **David’s own [[:en:key-terms:descendant|descendants]]**.
+**[[:hi:obs:notes:key-terms:god|परमेश्वर]]** ने **[[:hi:obs:notes:key-terms:david|राजा दाऊद]]** से **[[:hi:obs:notes:key-terms:promise|प्रतिज्ञा की]]** थी कि उसका एक वंशज परमेश्वर के लोगों पर एक राजा के समान अनन्त राज्य करेगा। जिसका आशय था कि **दाऊद का अपना एक** **[[:hi:obs:notes:key-terms:descendant|वंशज]]** **[[:hi:obs:notes:key-terms:messiah|मसीह]]** होगा।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  *
 
+**[[https://door43.org/en/obe/kt/god|परमेश्वर ]]**
+  *
 
-  * **David's own descendants** - Another way to say this would be, “a direct descendant of David himself.”
-  
+**[[https://door43.org/en/obe/kt/promise|प्रतिज्ञा की ]]**
+  *
 
+**[[https://door43.org/en/obe/other/david|राजा दाऊद]]**
+  *
+
+**[[https://door43.org/en/obe/kt/christ|मसीह ]]**
+  *
+
+**[[https://door43.org/en/obe/other/descendant|वंशज ]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **दाऊद का अपना वंशज**  - इसे हम ऐसे भी लिख सकते हैं, "स्वयं दाऊद के वंश से हुआ अपना वंशज।"
 **[[:hi:obs:notes:frames:21-03|<<]] | [[:hi:obs:notes:21|Up]] | [[:hi:obs:notes:frames:21-05|>>]]**
