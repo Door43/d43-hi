@@ -2,21 +2,14 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-13.jpg?nolink&}}
 
-**यरूशलेम** में पहुँचने पर **लोगों** ने **मंदिर** और नगर के घेरे की **दीवार** का पुनर्निर्माण किया। हालाकि उन पर अब भी **दूसरों का शासन** था, **एक**** बार फिर** वे वाचा की भूमि में रहने लगे और **मंदिर में आराधना की** ।
+**[[:hi:obs:notes:key-terms:jerushalem|यरूशलेम]]** में पहुँचने पर **लोगों** ने **[[:hi:obs:notes:key-terms:temple|मन्दिर]]** और नगर के घेरे की **दीवार** का पुनर्निर्माण किया। हालाकि उन पर अब भी **दूसरों का शासन** था, **एक**** बार फिर** वे **[[:hi:obs:notes:key-terms:promisedland|वाचा की भूमि]]** में रहने लगे और **मंदिर में [[:hi:obs:notes:key-terms:worship|आराधना की]]** ।
+
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
-
-**[[https://door43.org/en/obe/other/jerusalem|यरूशलेम ]]**
-  *
-
-**[[https://door43.org/en/obe/kt/temple|मन्दिर ]]**
-  *
-
-**[[https://door43.org/en/obe/kt/promisedland|वाचा की भूमि ]]**
-  *
-
-**[[https://door43.org/en/obe/kt/worship|आराधना की ]]**
+  * **[[https://door43.org/en/obe/other/jerusalem|यरूशलेम ]]**
+  * **[[https://door43.org/en/obe/kt/temple|मन्दिर ]]**
+  * **[[https://door43.org/en/obe/kt/promisedland|वाचा की भूमि ]]**
+  * **[[https://door43.org/en/obe/kt/worship|आराधना की ]]**
 ===== Translation Notes: =====
 
   * **the people**  - That is, the Israelites, the descendants of Jacob, who were now called the Jews.
