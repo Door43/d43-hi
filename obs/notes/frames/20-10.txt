@@ -2,27 +2,15 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-10.jpg?nolink&}}
 
-**निर्वासन** में लोगों को दूर ले जाने के द्वारा **परमेश्वर** ने उन्हें उनके **पाप** का **दंड** तो दिया, लेकिन उनके साथ जो वाचाए उसने बाँधी थी, उन्हें वह **न ****भूला** । God continued to **watch over** his people and **speak to them through his [[:en:key-terms:prophet|prophets]]**. He promised that, after seventy years, they would return to the **[[:en:key-terms:promised-land|Promised Land]]** again.
-===== Important Terms: =====
+**निर्वासन** में लोगों को दूर ले जाने के द्वारा **[[:hi:obs:notes:key-terms:god|परमेश्वर]]** ने उन्हें उनके **[[:hi:obs:notes:key-terms:sin|पाप]]** का ******[[:hi:obs:notes:key-terms:punish|दंड तो दिया]]******, लेकिन उनके साथ जो **[[:hi:obs:notes:key-terms:promise|वाचाएँ]]** उसने बाँधी थी, उन्हें वह **न ****भूला** । परमेश्वर अपने लोगो की **देख-रेख** और **अपने** **[[:hi:obs:notes:key-terms:prophet|नबियों]] के द्वारा उनसे बातचीत करता रहा।** उसने यह प्रतिज्ञा की, की सत्तर सालों के बाद वे **[[:hi:obs:notes:key-terms:promised-land|वाचा की भूमि]]** में लौटेंगे।
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
-
-**[[https://door43.org/en/obe/kt/god|God]]**
-  *
-
-**[[https://door43.org/en/obe/other/punish|punished]]**
-  *
-
-**[[https://door43.org/en/obe/kt/sin|sin]]**
-  *
-
-**[[https://door43.org/en/obe/kt/promise|promises]]**
-  *
-
-**[[https://door43.org/en/obe/kt/prophet|prophets]]**
-  *
-
-**[[https://door43.org/en/obe/kt/promisedland|Promised Land]]**
+  * **[[https://door43.org/en/obe/kt/god|परमेश्वर ]]**
+  * **[[https://door43.org/en/obe/other/punish|दण्ड तो दिया]]**
+  * **[[https://door43.org/en/obe/kt/sin|पाप ]]**
+  * **[[https://door43.org/en/obe/kt/promise|वाचाएँ]]**
+  * **[[https://door43.org/en/obe/kt/prophet|नबियों]]**
+  * **[[https://door43.org/en/obe/kt/promisedland|वाचा की भूमि]]**
 ===== Translation Notes: =====
 
   * **exile**  - See how you translated this term in **[[:hi:obs:notes:frames:20-09|[20-09]]]**.
