@@ -2,24 +2,15 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-03.jpg?nolink&}}
 
-**[[:hi:obs:notes:key-terms:god|परमेश्वर]]** **ने** **मूसा** **से** ****[[:hi:obs:notes:key-terms:promise|प्रतिज्ञाकी]]**** थी कि भविष्य में वह **[[:hi:obs:notes:key-terms:moses|मूसा]] के जैसा एक और [[:hi:obs:notes:key-terms:prophet|नबी]]** खड़ा करेगा। यह बाद में आनेवाले **[[:hi:obs:notes:key-terms:messiah|मसीह]]** को लेकर एक और प्रतिज्ञा थी।
+**[[:hi:obs:notes:key-terms:god|परमेश्वर]]****ने** **मूसा** **से** **[[:hi:obs:notes:key-terms:promise|प्रतिज्ञा की]]** थी कि भविष्य में वह **[[:hi:obs:notes:key-terms:moses|मूसा]] के जैसा एक और [[:hi:obs:notes:key-terms:prophet|नबी]]** खड़ा करेगा। यह बाद में आनेवाले **[[:hi:obs:notes:key-terms:messiah|मसीह]]** को लेकर एक और प्रतिज्ञा थी।
+
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
-
-**[[https://door43.org/en/obe/kt/god|परमेश्वर ]]**
-  *
-
-**[[https://door43.org/en/obe/kt/promise|प्रतिज्ञा की ]]**
-  *
-
-**[[https://door43.org/en/obe/other/moses|मूसा ]]**
-  *
-
-**[[https://door43.org/en/obe/kt/prophet|नबी ]]**
-  *
-
-**[[https://door43.org/en/obe/kt/christ|मसीह ]]**
+  * **[[https://door43.org/en/obe/kt/god|परमेश्वर ]]**
+  * **[[https://door43.org/en/obe/kt/promise|प्रतिज्ञा की ]]**
+  * **[[https://door43.org/en/obe/other/moses|मूसा ]]**
+  * **[[https://door43.org/en/obe/kt/prophet|नबी ]]**
+  * **[[https://door43.org/en/obe/kt/christ|मसीह ]]**
 ===== अनुवाद के लिए नोट्स: =====
 
   * **raise up another prophet like Moses**  - That is, “appoint another prophet like Moses” or, “cause another prophet to come who would be like Moses.”
