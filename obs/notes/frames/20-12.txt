@@ -2,24 +2,16 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-12.jpg?nolink&}}
 
-**फारसी साम्राज्य** बहुत शक्तिशाली, लेकिन पराजित देश के लोगो के प्रति **दयालु** भी था। जैसे ही **कुस्रू** फारसियों का राजा बना, वैसे ही थोड़े समय बाद उसने एक आदेश दिया कि **यहूदा** **लौटने** की इच्छा रखेनेवाला कोई भी **यहूदी**, फारस छोड़ कर अपने यहूदा लौट सकता है। **मंदिर** के पुनः र्निर्माण के लिए उसने उन्हें धन भी दिया! इस तरह, सत्तर सालों तक **निर्वासन** में बिताने के बाद, यहूदियों का एक छोटा समूह यहूदा के **यरूशलेम** नगर में **लौट आया** ।
+**फारसी साम्राज्य** बहुत शक्तिशाली, लेकिन पराजित देश के लोगो के प्रति **[[:hi:obs:notes:key-terms:mercy|दयालु]]** भी था। जैसे ही **कुस्रू** फारसियों का राजा बना, वैसे ही थोड़े समय बाद उसने एक आदेश दिया कि **यहूदा** **लौटने** की इच्छा रखेनेवाला कोई भी **[[:hi:obs:notes:key-terms:jew|यहूदी]]**, फारस छोड़ कर अपने यहूदा लौट सकता है। **[[:hi:obs:notes:key-terms:temple|मंदिर]]** के पुनः र्निर्माण के लिए उसने उन्हें धन भी दिया! इस तरह, सत्तर सालों तक **निर्वासन** में बिताने के बाद, यहूदियों का एक छोटा समूह यहूदा के **[[:hi:obs:notes:key-terms:jerusalem|यरूशलेम]]** नगर में **लौट आया** ।
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
+  * **[[https://door43.org/en/obe/kt/mercy|दयालु ]]**
+  * **[[https://door43.org/en/obe/other/jew|यहूदी ]]**
+  * **[[https://door43.org/en/obe/kt/temple|मन्दिर ]]**
+  * **[[https://door43.org/en/obe/other/jerusalem|यरूशलेम ]]**
+===== अनुवाद के लिए नोट्स: =====
 
-**[[https://door43.org/en/obe/kt/mercy|दयालु ]]**
-  *
-
-**[[https://door43.org/en/obe/other/jew|यहूदी ]]**
-  *
-
-**[[https://door43.org/en/obe/kt/temple|मन्दिर ]]**
-  *
-
-**[[https://door43.org/en/obe/other/jerusalem|यरूशलेम ]]**
-===== Translation Notes: =====
-
-  * **Persian Empire**  - See how you translated this term in **[[:hi:obs:notes:frames:20-11|[20-11]]]**.
+  * **फारसी साम्राज्य**  - See how you translated this term in **[[:hi:obs:notes:frames:20-11|[20-11]]]**.
   * **Cyrus**  - See how you translated his name in **[[:hi:obs:notes:frames:20-11|[20-11]]]**.
   * **Judah**  - See the note about Judah in **[[:hi:obs:notes:frames:20-11|[20-11]]]**.
   * **to return to Judah**  - Since most of these Jews were the children and grandchildren of those who left Judah, they had never lived in Judah before. In some languages it might be better to say “to go to Judah.”
