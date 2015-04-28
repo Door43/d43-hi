@@ -2,7 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-08.jpg?nolink&}}
 
-**[[:hi:obs:notes:key-terms:kingdom of judah|यहूदा]]** के **[[:hi:obs:notes:key-terms:king|राजा]]** को उसके द्रोह के लिए **[[:hi:obs:notes:key-terms:punish|दण्डित]] करने** के लिए, **[[:hi:obs:notes:key-terms:nebuchadnezzar|नबूकदनेस्सर के]]** सिपाहियों ने राजा के **[[:hi:obs:notes:key-terms:son|बेटों]]** को **उसी के सामने** मार डाला, और फिर **उसे अंधा कर ****दिया** । इसके बाद, उन्होंने राजा को **[[:hi:obs:notes:key-terms:babylon|बेबीलोन]]** की जेल में मरने के लिए डाल दिया।
+**[[:hi:obs:notes:key-terms:kingdom-of-judah|यहूदा]]** के **[[:hi:obs:notes:key-terms:king|राजा]]** को उसके द्रोह के लिए **[[:hi:obs:notes:key-terms:punish|दण्डित]] करने** के लिए, **[[:hi:obs:notes:key-terms:nebuchadnezzar|नबूकदनेस्सर के]]** सिपाहियों ने राजा के **[[:hi:obs:notes:key-terms:son|बेटों]]** को **उसी के सामने** मार डाला, और फिर **उसे अंधा कर ****दिया** । इसके बाद, उन्होंने राजा को **[[:hi:obs:notes:key-terms:babylon|बेबीलोन]]** की जेल में मरने के लिए डाल दिया।
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
   *
@@ -23,6 +23,7 @@
   *
 
 **[[https://door43.org/en/obe/other/babylon|बेबीलोन]]**
+
 ===== Translation Notes: =====
 
   * **To punish**  - Nebuchadnezzar punished the king of Judah by telling his soldiers to do these things.
