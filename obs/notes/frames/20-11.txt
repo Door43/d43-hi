@@ -2,26 +2,18 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-11.jpg?nolink&}}
 
-लगभग **सत्तर सालों के बाद**, **फारसवासियों** के** [[:hi:obs:notes:key-terms:king|राजा]]**, **कुस्रू** ने **[[:hi:obs:notes:key-terms:babylon|बेबीलोन]]** को हराया, और इस तरह बेबीलोनी साम्राज्य की जगह फारसी साम्राज्य ने ले ली। **[[:hi:obs:notes:key-terms:israel|इस्राएलियों ]]**को अब **[[:hi:obs:notes:key-terms:jew|यहूदी]]** कहा जाने लगा था और उनमे से अधिकाँश लोगो ने अपना पूरा जीवन बेबीलोन में बिताया था। केवल थोड़े से बूढ़े यहूदियों को ही **यहूदा** **की** **भूमि की** **याद** **थी।**
+लगभग **सत्तर सालों के बाद**, **फारसवासियों** के** [[:hi:obs:notes:key-terms:king|राजा]]**, **कुस्रू** ने **[[:hi:obs:notes:key-terms:babylon|बेबीलोन]]** को हराया, और इस तरह बेबीलोनी साम्राज्य की जगह फारसी साम्राज्य ने ले ली। **[[:hi:obs:notes:key-terms:israel|इस्राएलियों ]]****को अब** **[[:hi:obs:notes:key-terms:jew|यहूदी]]****कहा जाने लगा** **था** और उनमे से अधिकाँश लोगो ने अपना पूरा जीवन बेबीलोन में बिताया था। केवल थोड़े से बूढ़े यहूदियों को ही **यहूदा** **की** **भूमि की** **याद** **थी।**
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
+  * **[[https://door43.org/en/obe/other/king|राजा]]**
+  * **[[https://door43.org/en/obe/other/babylon|बेबीलोन]]**
+  * **[[https://door43.org/en/obe/other/israel|इस्राएलियों]]**
+  * **[[https://door43.org/en/obe/other/jew|यहूदी]]**
+===== अनुवाद के लिए नोट्स: =====
 
-**[[https://door43.org/en/obe/other/king|राजा]]**
-  *
-
-**[[https://door43.org/en/obe/other/babylon|बेबीलोन]]**
-  *
-
-**[[https://door43.org/en/obe/other/israel|इस्राएलियों]]**
-  *
-
-**[[https://door43.org/en/obe/other/jew|यहूदी]]**
-===== Translation Notes: =====
-
-  * **seventy years later**  - This refers to the seventy years that had passed since the Babylonian army took the people of Jerusalem into exile.
-  * **Cyrus**  - Cyrus was also called, "Cyrus the Great." The name "Cyrus" meant "like the sun" in the Persian language. However, since Cyrus was an important historical person, it might be best to transliterate his name, rather than translating the meaning.
-  * **Persians**  - The Persian Empire grew to cover the area from central Asia to Egypt. Its home was located in the general area of modern-day Iran.
-  * **The Israelites were now called Jews**  - This could also be translated as, "People now called the Israelites by the name 'Jews.'"
-  * **the land of Judah**  - That is, the area where the kingdom of Judah was located before the Exile. Jerusalem was the capital city of Judah.
+  * **सत्तर सालों के बाद**  - इसका आशय बेबीलोन की सेना द्वारा यरूशलेम के लोगों को निर्वासन में ले जाने के बाद के सत्तर सालों से है।
+  * **कुस्रू **- जो "कुस्रू महान" भी कहलाता था। फारसी भाषा में "कुस्रू" का मतलब "सूर्य के सामान" होता है। लेकिन, चूंकि कुस्रू एक महत्वपूर्ण ऐतिहासिक व्यक्ति था, इसलिए इसके नाम को लिप्यन्तरित करना सही रहेगा।
+  * **फारसियों**  - मध्य एशिया से लेकर मिस्र तक फारस साम्राज्य का विस्तार हुआ। इसका मूल स्थान आधुनिक समय के ईरान में स्थित है।
+  * **इस्राएलियों को अब यहूदी कहा जाने लगा था**  - इसका अनुवाद ऐसे भी किया जा सकता है, : "लोग अब इस्राएलियों को 'यहूदी' कहते थे।"
+  * **यहूदा की भूमि**  - अर्थात, वह भूमि, जहां निर्वासन से पहले यहूदा राज्य हुआ करता था। यहूदा की राजधानी यरूशलेम थी।
 **[[:hi:obs:notes:frames:20-10|<<]] | [[:hi:obs:notes:20|Up]] | [[:hi:obs:notes:frames:20-12|>>]]**
