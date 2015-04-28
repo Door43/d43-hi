@@ -2,42 +2,20 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-05.jpg?nolink&}}
 
-**[[:hi:obs:notes:key-terms:god|परमेश्वर]]** **ने** **[[:hi:obs:notes:key-terms:jeremiah|यिर्मयाह]]** **[[:hi:obs:notes:key-terms:prophet|नबी]]** **के** **माध्यम** **से** **यह** **[[:hi:obs:notes:key-terms:promise|प्रतिज्ञा]]** **की** थी कि वह एक **[[:hi:obs:notes:key-terms:new-covenant|नयी वाचा]]** बांधेगा, लेकिन वह **ऐसी** **[[:hi:obs:notes:key-terms:covenant|वाचा]]** **नहीं** होगी जैसी परमेश्वर ने **[[:hi:obs:notes:key-terms:israel|इस्राएल]]** के साथ **[[:hi:obs:notes:key-terms:sinai|सीनै]]** पर बाँधी थी। नयी वाचा में, **परमेश्वर लोगों के मनों में अपनी व्यवस्था को लिखेगा**, लोग परमेश्वर को व्यक्तिगत रूप से जानेंगे, वे **उसके अपने लोग होंगे**, और परमेश्वर उनके पाप को **[[:hi:obs:notes:key-terms:forgive|क्षमा]]** करेगा। इस **नयी वाचा का आरम्भ** मसीह करेगा।
+**[[:hi:obs:notes:key-terms:god|परमेश्वर]]****ने** **[[:hi:obs:notes:key-terms:jeremiah|यिर्मयाह]]** **[[:hi:obs:notes:key-terms:prophet|नबी]]****के** **माध्यम** **से** **यह** **[[:hi:obs:notes:key-terms:promise|प्रतिज्ञा]]****की** थी कि वह एक **[[:hi:obs:notes:key-terms:new-covenant|नयी वाचा]]** बांधेगा, लेकिन वह **ऐसी** **[[:hi:obs:notes:key-terms:covenant|वाचा]]****नहीं** होगी जैसी परमेश्वर ने **[[:hi:obs:notes:key-terms:israel|इस्राएल]]** के साथ **[[:hi:obs:notes:key-terms:sinai|सीनै]]** पर बाँधी थी। नयी वाचा में, **परमेश्वर लोगों के मनों में अपनी व्यवस्था को लिखेगा**, लोग परमेश्वर को व्यक्तिगत रूप से जानेंगे, वे **उसके अपने लोग होंगे**, और परमेश्वर उनके पाप को **[[:hi:obs:notes:key-terms:forgive|क्षमा]]** करेगा। इस **नयी वाचा का आरम्भ** मसीह करेगा।
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
-
-**[[https://door43.org/en/obe/kt/prophet|नबी ]]**
-  *
-
-**[[https://door43.org/en/obe/other/jeremiah|यिर्मयाह ]]**
-  *
-
-**[[https://door43.org/en/obe/kt/god|परमेश्वर ]]**
-  *
-
-**[[https://door43.org/en/obe/kt/promise|प्रतिज्ञा ]]**
-  *
-
-**[[https://door43.org/en/obe/kt/newcovenant|नयी वाचा ]]**
-  *
-
-**[[https://door43.org/en/obe/kt/covenant|वाचा ]]**
-  *
-
-**[[https://door43.org/en/obe/other/israel|इस्राएल ]]**
-  *
-
-**[[https://door43.org/en/obe/kt/sinai|सीनै]]**
-  *
-
-**[[https://door43.org/en/obe/kt/forgive|क्षमा ]]**
-  *
-
-**[[https://door43.org/en/obe/kt/sin|पाप]]**
-  *
-
-**[[https://door43.org/en/obe/kt/christ|मसीह ]]**
+  * **[[https://door43.org/en/obe/kt/prophet|नबी ]]**
+  * **[[https://door43.org/en/obe/other/jeremiah|यिर्मयाह ]]**
+  * **[[https://door43.org/en/obe/kt/god|परमेश्वर ]]**
+  * **[[https://door43.org/en/obe/kt/promise|प्रतिज्ञा ]]**
+  * **[[https://door43.org/en/obe/kt/newcovenant|नयी वाचा ]]**
+  * **[[https://door43.org/en/obe/kt/covenant|वाचा ]]**
+  * **[[https://door43.org/en/obe/other/israel|इस्राएल ]]**
+  * **[[https://door43.org/en/obe/kt/sinai|सीनै]]**
+  * **[[https://door43.org/en/obe/kt/forgive|क्षमा ]]**
+  * **[[https://door43.org/en/obe/kt/sin|पाप]]**
+  * **[[https://door43.org/en/obe/kt/christ|मसीह ]]**
 ===== Translation Notes: =====
 
   * **Through the prophet Jeremiah God promised**  – This could be translated as, “Through the messages that God gave to Jeremiah, God promised” or, “The prophet Jeremiah told the people God's promise.”
