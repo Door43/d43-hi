@@ -1,21 +1,28 @@
-====== The Temple Was Rebuilt [20-13] ======
+====== मंदिर का पुनर्निर्माण [20-13] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-13.jpg?nolink&}}
 
-When **the people** arrived in **[[:en:key-terms:jerusalem|Jerusalem]]**, they rebuilt the **[[:en:key-terms:temple|Temple]]** and **the wall** around the city. Although they were still **ruled by other people**, **once again** they lived in the **[[:en:key-terms:promised-land|Promised Land]]** and **[[:en:key-terms:worship|worshiped]] at the Temple**.
+**यरूशलेम** में पहुँचने पर **लोगों** ने **मंदिर** और नगर के घेरे की **दीवार** का पुनर्निर्माण किया। हालाकि उन पर अब भी **दूसरों का शासन** था, **एक**** बार फिर** वे वाचा की भूमि में रहने लगे और **मंदिर में आराधना की** ।
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-//A Bible story from: 2 Kings 17; 24-25; 2 Chronicles 36; Ezra 1-10; Nehemiah 1-13//
+  *
 
+**[[https://door43.org/en/obe/other/jerusalem|यरूशलेम ]]**
+  *
 
+**[[https://door43.org/en/obe/kt/temple|मन्दिर ]]**
+  *
+
+**[[https://door43.org/en/obe/kt/promisedland|वाचा की भूमि ]]**
+  *
+
+**[[https://door43.org/en/obe/kt/worship|आराधना की ]]**
 ===== Translation Notes: =====
 
-
-  * **the people** - That is, the Israelites, the descendants of Jacob, who were now called the Jews. 
-  * **the wall** - This wall was very thick (2.5 meters) and was built to protect the city from attackers.
-  * **ruled by other people** - That is, another nation controlled them. The Jews were ruled by the Persians at this time, and later by other nations.  
-  * **once again** - In some languages this might need to be translated as, “now” or, “as their ancestors had done” or, "just as before the Exile." 
-  * **worshiped at the Temple** - They worshiped Yahweh, the One True God, at the Temple they rebuilt.
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-  
-
+  * **the people**  - That is, the Israelites, the descendants of Jacob, who were now called the Jews.
+  * **the wall**  - This wall was very thick (2.5 meters) and was built to protect the city from attackers.
+  * **ruled by other people**  - That is, another nation controlled them. The Jews were ruled by the Persians at this time, and later by other nations.
+  * **once again**  - In some languages this might need to be translated as, “now” or, “as their ancestors had done” or, "just as before the Exile."
+  * **worshiped at the Temple**  - They worshiped Yahweh, the One True God, at the Temple they rebuilt.
+  * //A Bible story from//  - These references may be slightly different in some Bible translations.
 **[[:hi:obs:notes:frames:20-12|<<]] | [[:hi:obs:notes:20|Up]] | [[:hi:obs:notes:frames:21-01|>>]]**
