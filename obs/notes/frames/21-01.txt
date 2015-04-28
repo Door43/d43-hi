@@ -2,7 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-01.jpg?nolink&}}
 
-**आदि** **से** **ही**, **[[:hi:obs:notes:key-terms:god|परमेश्वर]]** ने **[[:hi:obs:notes:key-terms:messiah|मसीह]]** को भेजने की योजना बना रखी थी। मसीह के आने की पहली **प्रतिज्ञा ** सबसे पहले **आदम** और **हव्वा** को मिली थी। परमेश्वर ने प्रतिज्ञा की थी कि हव्वा का एक वंशज पैदा होगा, जो **सर्प का सिर ****कुचलेगा** । **हव्वा को छलनेवाला वह** **सर्प शैतान था** । प्रतिज्ञा का आशय मसीह द्वारा शैतान को पूरी तरह से परास्त करना था।
+**आदि** **से** **ही**, **[[:hi:obs:notes:key-terms:god|परमेश्वर]]** ने **[[:hi:obs:notes:key-terms:messiah|मसीह]]** को भेजने की योजना बना रखी थी। मसीह के आने की पहली **[[:hi:obs:notes:key-terms:promise|प्रतिज्ञा ]]** सबसे पहले **[[:hi:obs:notes:key-terms:adam|आदम]]** और **[[:hi:obs:notes:key-terms:eve|हव्वा]]** को मिली थी। परमेश्वर ने प्रतिज्ञा की थी कि हव्वा का एक **[[:hi:obs:notes:key-terms:descendant|वंशज]]** पैदा होगा, जो **सर्प का सिर ****कुचलेगा** । **हव्वा को छलनेवाला वह** **सर्प [[:hi:obs:notes:key-terms:satan|शैतान]] था** । प्रतिज्ञा का आशय मसीह द्वारा शैतान को पूरी तरह से परास्त करना था।
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
   * **[[https://door43.org/en/obe/kt/god|परमेश्वर ]]**
@@ -12,10 +12,10 @@
   * **[[https://door43.org/en/obe/other/descendant|हव्वा ]]**
   * **[[https://door43.org/en/obe/other/descendant|वंशज ]]**
   * **[[https://door43.org/en/obe/kt/satan|शैतान ]]**
-===== Translation Notes: =====
+===== अनुवाद के लिए नोट्स: =====
 
-  * **From the very beginning**  - That is, from when the earth was first created.
-  * **crush the snake’s head**  - Unless the head of a venomous snake is crushed, the snake can still hurt someone. Use a word for “crush” that communicates that its head is destroyed.
-  * **The snake…was Satan**  – Satan spoke to Eve in the form of a snake. This does not mean that he is a snake now. This could be translated as, “The snake…was an appearance of Satan.”
-  * **who deceived Eve**  - That is, “who lied to Eve." The snake lied by making Eve doubt what God had said and tricking her into disobeying God.
+  * **आदि से ही**  - That is, from when the earth was first created.
+  * **सर्प का सिर कुचलेगा**  - Unless the head of a venomous snake is crushed, the snake can still hurt someone. Use a word for “crush” that communicates that its head is destroyed.
+  * **सर्प....शैतान था**  – Satan spoke to Eve in the form of a snake. This does not mean that he is a snake now. This could be translated as, “The snake…was an appearance of Satan.”
+  * **हव्वा को छलनेवाला सर्प शैतान था**  - That is, “who lied to Eve." The snake lied by making Eve doubt what God had said and tricking her into disobeying God.
 **[[:hi:obs:notes:frames:20-13|<<]] | [[:hi:obs:notes:21|Up]] | [[:hi:obs:notes:frames:21-02|>>]]**
