@@ -2,7 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-07.jpg?nolink&}}
 
-**लोगों के [[:hi:obs:notes:key-terms:sin|पापों]] के [[:hi:obs:notes:key-terms:punish|दंड]] के बदले ** में, **उनके लिए** **[[:hi:obs:notes:key-terms:israel|इस्राएली]]** **[[:hi:obs:notes:key-terms:priest|याजकों]]** ने **[[:hi:obs:notes:key-terms:god|परमेश्वर]]** को **[[:hi:obs:notes:key-terms:sacrifice|बलिदान]]** चढ़ाए। याजकों ने भी लोगों के लिए परमेश्वर से **[[:hi:obs:notes:key-terms:pray|प्रार्थना की]]** । **[[:hi:obs:notes:key-terms:messiah|मसीह]]** ऐसा **सिद्ध [[:hi:obs:notes:key-terms:high priest|महा याजक]]** होगा जो परमेश्वर के सामने **स्वयं को एक सिद्ध बलिदान के रूप में प्रस्तुत ****करेगा** ।
+**लोगों के [[:hi:obs:notes:key-terms:sin|पापों]] के [[:hi:obs:notes:key-terms:punish|दंड]] के बदले ** में, **उनके लिए** **[[:hi:obs:notes:key-terms:israel|इस्राएली]]** **[[:hi:obs:notes:key-terms:priest|याजकों]]** ने **[[:hi:obs:notes:key-terms:god|परमेश्वर]]** को **[[:hi:obs:notes:key-terms:sacrifice|बलिदान]]** चढ़ाए। याजकों ने भी लोगों के लिए परमेश्वर से **[[:hi:obs:notes:key-terms:pray|प्रार्थना की]]** । **[[:hi:obs:notes:key-terms:messiah|मसीह]]** ऐसा **सिद्ध [[:hi:obs:notes:key-terms:high-priest|महा याजक]]** होगा जो परमेश्वर के सामने **स्वयं को एक सिद्ध बलिदान के रूप में प्रस्तुत ****करेगा** ।
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
   * **[[https://door43.org/en/obe/other/israel|इस्राएली]]**
@@ -14,11 +14,11 @@
   * **[[https://door43.org/en/obe/other/pray|प्रार्थना की ]]**
   * **[[https://door43.org/en/obe/kt/christ|मसीह ]]**
   * **[[https://door43.org/en/obe/kt/highpriest|महा याजक ]]**
-===== Translation Notes: =====
+===== अनुवाद के लिए नोट्स: =====
 
-  * **on behalf of**  - This may be translated as, "for the benefit of" or, "in the place of."
-  * **as a substitute for the punishment for their sins**  - God allowed people to bring animals to sacrifice for their sin as a reminder of the punishment that they deserved and their dependence on God to remove their sin. God accepted these sacrifices as a temporary covering for sin and did not punish the people for it.
-  * **perfect high priest**  - Unlike the other high priests, the Messiah would never sin, and he would permanently take away all the sins of the people.
-  * **offer himself**  – That is, “allow himself to be killed.”
-  * **perfect sacrifice**  - That is, “a sacrifice that has no fault or imperfection.”
+  * **उनके लिए**  - अनुवाद में हम ऐसे भी लिख सकते हैं, :"उनके हित के लिए", या फिर, "उनकी जगह पर।"
+  * **लोगों के पापों के दंड के बदले**  - अपने पापों के कारण लोग जिस दंड के योग्य हैं, उस दंड तथा उन पापों को हटाने के लिए परमेश्वर पर उनकी निर्भरता को याद दिलाने के लिए परमेश्वर ने उनके द्वारा जानवरों के बलिदान देने को स्वीकार किया था। उनके पापों को ढांपने के एक अस्थाई आवरण के रूप में परमेश्वर ने उनके इन बलिदानो को स्वीकार किया और उन्हें दंड नहीं दिया।
+  * **सिद्ध महा याजक**  - दुसरे महा याजकों के समान मसीहा कभी पाप करनेवाला नहीं था, और साथ ही वह लोगों के पापों को हमेशा के लिए दूर करेगा।
+  * **स्वयं को.....बलि के रूप में प्रस्तुत करेगा**  – अर्थात, "स्वयं को मार दिया जाने देगा।"
+  * **सिद्ध बलि**  - अर्थात, "किसी भी दोष या अपूर्णता से मुक्त बलिदान।"
 **[[:hi:obs:notes:frames:21-06|<<]] | [[:hi:obs:notes:21|Up]] | [[:hi:obs:notes:frames:21-08|>>]]**
