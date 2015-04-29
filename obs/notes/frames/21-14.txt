@@ -2,40 +2,21 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-14.jpg?nolink&}}
 
-The **[[:en:key-terms:prophet|prophets]]** foretold that the **[[:en:key-terms:messiah|Messiah]]** would **[[:en:key-terms:death|die]]** and that **[[:en:key-terms:god|God]]** would also **[[:en:key-terms:raise|raise]] him from the dead**. **Through the Messiah’s death and [[:en:key-terms:resurrection|resurrection]], God would**accomplish his plan to **[[:en:key-terms:save|save]]** **[[:en:key-terms:sin|sinners]]** and **start the [[:en:key-terms:covenant-new|New Covenant]]**.
-
+**[[:hi:obs:notes:key-terms:prophet|नबियों]]** ने यह पूर्व सूचना दी थी कि मसीह मरेगा और परमेश्वर उसे **मुर्दों में से जिलाएगा।** **मसीह की मृत्यु और पुनरुत्थान के दौरान**,पापियों को बचाने और **नयी वाचा का आरम्भ** करने की अपनी योजना परमेश्वर पूरी करेगा।
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
-
-**[[https://door43.org/en/obe/kt/prophet|नबियों ]]**
-  *
-
-**[[https://door43.org/en/obe/kt/christ|मसीह ]]**
-  *
-
-**[[https://door43.org/en/obe/kt/death|मर ]]**
-  *
-
-**[[https://door43.org/en/obe/kt/god|परमेश्वर ]]**
-  *
-
-**[[https://door43.org/en/obe/kt/raise|जिलाएगा ]]**
-  *
-
-**[[https://door43.org/en/obe/kt/resurrection|पुनरुत्थान ]]**
-  *
-
-**[[https://door43.org/en/obe/kt/save|बचाएगा ]]**
-  *
-
-**[[https://door43.org/en/obe/kt/sin|पापियों ]]**
-  *
-
-**[[https://door43.org/en/obe/kt/newcovenant|नयी वाचा ]]**
+  * **[[https://door43.org/en/obe/kt/prophet|नबियों ]]**
+  * **[[https://door43.org/en/obe/kt/christ|मसीह ]]**
+  * **[[https://door43.org/en/obe/kt/death|मर ]]**
+  * **[[https://door43.org/en/obe/kt/god|परमेश्वर ]]**
+  * **[[https://door43.org/en/obe/kt/raise|जिलाएगा ]]**
+  * **[[https://door43.org/en/obe/kt/resurrection|पुनरुत्थान ]]**
+  * **[[https://door43.org/en/obe/kt/save|बचाएगा ]]**
+  * **[[https://door43.org/en/obe/kt/sin|पापियों ]]**
+  * **[[https://door43.org/en/obe/kt/newcovenant|नयी वाचा ]]**
 ===== अनुवाद के लिए नोट्स: =====
 
   * **मुर्दों में से जिलाएगा**  - अर्थात, "उसमे फिर से जीवित् करेगा।
-  * **मसीह की मृत्यु और पुनरुत्थान के दौरान, परमेश्वर**  - इसका अनुवाद हम ऐसे भी कर सकते हैं, :"परमेश्वर मसीह की मृत्यु और पुनरुत्थान को", या "मसीह की मृत्यु और पुनरुत्थान के द्वारा परमेश्वर...।"
+  * **मसीह की मृत्यु और पुनरुत्थान के दौरान, परमेश्वर**  - इसका अनुवाद हम ऐसे भी कर सकते हैं, :"परमेश्वर मसीह की मृत्यु और पुनरुत्थान को", या "मसीह की मृत्यु और पुनरुत्थान के द्वारा परमेश्वर…।"
   * **नयी वाचा का आरम्भ**  – अर्थात, "नयी वाचा की शुरुआत करना।"
 **[[:hi:obs:notes:frames:21-13|<<]] | [[:hi:obs:notes:21|Up]] | [[:hi:obs:notes:frames:21-15|>>]]**
