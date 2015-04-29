@@ -2,31 +2,17 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-09.jpg?nolink&}}
 
-**मसीह** के बारे में **परमेश्वर** **के** **नबियों** ने बहुत से बातों की भविष्यदवाणी की थी। **मलाकी** नबी ने यह **पूर्व घोषणा की** थी कि मसीह के आने से पहले एक महान नबी होगा। यशायाह नबी ने **भविष्यदवाणी की** थी कि मसीह एक कुंवारी से जन्म लेगा। मीका नबी ने कहा था कि वह बतलहेमके नगर में जन्म लेगा।
+**[[:hi:obs:notes:key-terms:messiah|मसीह]]** के बारे में ****[[:hi:obs:notes:key-terms:god|परमेश्वर के]]**** **[[:hi:obs:notes:key-terms:prophet|नबियों]]** ने बहुत से बातों की भविष्यदवाणी की थी। **मलाकी** नबी ने यह **पूर्व घोषणा की** थी कि मसीह के आने से पहले एक महान नबी होगा। **[[:hi:obs:notes:key-terms:isaiah|यशायाह]]** नबी ने **[[:hi:obs:notes:key-terms:prophet|भविष्यदवाणी की]]** थी कि मसीह एक **[[:hi:obs:notes:key-terms:virgin|कुँँवारी]]** से जन्म लेगा। मीका नबी ने कहा था कि वह **[[:hi:obs:notes:key-terms:bethlehem|बैतलहम]]** के नगर में जन्म लेगा।
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
-
-**[[https://door43.org/en/obe/kt/god|परमेश्वर के ]]**
-  *
-
-**[[https://door43.org/en/obe/kt/prophet|नबियों ]]**
-  *
-
-**[[https://door43.org/en/obe/kt/christ|मसीह ]]**
-  *
-
-**[[https://door43.org/en/obe/other/isaiah|यशायाह ]]**
-  *
-
-**[[https://door43.org/en/obe/kt/prophet|भविष्यवाणी की ]]**
-  *
-
-**[[https://door43.org/en/obe/other/virgin|कुँवारी ]]**
-  *
-
-**[[https://door43.org/en/obe/other/bethlehem|बैतलहम ]]**
-===== Translation Notes: =====
+  * **[[https://door43.org/en/obe/kt/god|परमेश्वर के ]]**
+  * **[[https://door43.org/en/obe/kt/prophet|नबियों ]]**
+  * **[[https://door43.org/en/obe/kt/christ|मसीह ]]**
+  * **[[https://door43.org/en/obe/other/isaiah|यशायाह ]]**
+  * **[[https://door43.org/en/obe/kt/prophet|भविष्यवाणी की ]]**
+  * **[[https://door43.org/en/obe/other/virgin|कुँवारी ]]**
+  * **[[https://door43.org/en/obe/other/bethlehem|बैतलहम ]]**
+===== अनुवाद के लिए नोट्स: =====
 
   * **Malachi**  - Malachi was the last prophet in the Old Testament.
   * **foretold**  - This could be translated as, “predicted” or, “prophesied.” It means to tell something that will happen in the future. Malachi spoke God's message to the people 400 years before the Messiah came.
