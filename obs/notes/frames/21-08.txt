@@ -2,26 +2,16 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-08.jpg?nolink&}}
 
-**[[:hi:obs:notes:key-terms:king|राजा]]** एक ऐसा व्यक्ति है, जो किसी **[[:hi:obs:notes:key-terms:kingdom|राज्य]]** पर शासन करता है और लोगो का ****[[: :hi:obs:notes:key-terms:judge|न्याय करता है]]****। **[[:hi:obs:notes:key-terms:messiah|मसीह]]** एक सिद्ध राजा होगा जो **अपने पूर्वज [[:hi:obs:notes:key-terms:david|दाऊद]] के सिंहासन पर विराजेगा।** वह सदा के लिए **पूरे संसार पर** राज्य करेगा, और हमेशा ईमानदारी से न्याय करेगा और सही निर्णय लेगा।
+**[[:hi:obs:notes:key-terms:king|राजा]]** एक ऐसा व्यक्ति है, जो किसी **[[:hi:obs:notes:key-terms:kingdom|राज्य]]** पर शासन करता है और लोगो का [[:hi:obs:notes:key-terms:judge|न्याय करता है]]। **[[:hi:obs:notes:key-terms:messiah|मसीह]]** एक सिद्ध राजा होगा जो **अपने पूर्वज [[:hi:obs:notes:key-terms:david|दाऊद]] के सिंहासन पर विराजेगा।** वह सदा के लिए **पूरे संसार पर** राज्य करेगा, और हमेशा ईमानदारी से न्याय करेगा और सही निर्णय लेगा।
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
-
-**[[https://door43.org/en/obe/other/king|राजा ]]**
-  *
-
-**[[https://door43.org/en/obe/other/kingdom|राज्य ]]**
-  *
-
-**[[https://door43.org/en/obe/kt/judge|न्याय करता है ]]**
-  *
-
-**[[https://door43.org/en/obe/kt/christ|मसीह ]]**
-  *
-
-**[[https://door43.org/en/obe/other/david|दाऊद  ]]**
+  * **[[https://door43.org/en/obe/other/king|राजा ]]**
+  * **[[https://door43.org/en/obe/other/kingdom|राज्य ]]**
+  * **[[https://door43.org/en/obe/kt/judge|न्याय करता है ]]**
+  * **[[https://door43.org/en/obe/kt/christ|मसीह ]]**
+  * **[[https://door43.org/en/obe/other/david|दाऊद ]]**
 ===== अनुवाद के लिए नोट्स: =====
 
-  * **sit on the throne of his ancestor David**  - A throne is a ceremonial chair for a king or queen that represents their authority. This expression could also be translated as, “have the authority to reign as his ancestor King David did” or, “be the descendant of King David and continue his rule over God's people.”
-  * **the whole world**  - This could also be translated as, “everyone everywhere.”
+  * **अपने पूर्वज दाऊद के सिंहासन पर विराजेगा**  - सिहासन राजा या रानी का अधिकृत कुर्सी होती है और उनके अधिकार का प्रतीक होती है। इस अभिव्यक्ति को हम यूँ भी लिख सकते हैं, : "अपने पूर्वज, दाऊद के सामान शासन करने का अधिकार होगा," अथवा, "राजा दाऊद का वंशज होगा और परमेश्वर के लोगों पर अपना राज्य को बनाए रखेगा।"
+  * **सम्पूर्ण संसार**  - इसका अनुवाद ऐसे भी कर सकते हैं, "हर जगह के हर व्यक्ति।"
 **[[:hi:obs:notes:frames:21-07|<<]] | [[:hi:obs:notes:21|Up]] | [[:hi:obs:notes:frames:21-09|>>]]**
