@@ -2,7 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-04.jpg?nolink&}}
 
-**जब** **[[:hi:obs:notes:key-terms:mary|मरियम]]** **के** **जन्म** **देने** **का** **समय** **नज़दीक** **हो** **आया**, **[[:hi:obs:notes:key-terms:rome|रोमी]]**** सरकार** ने **जन गणना के लिए** सबको अपने पूर्वजों के नगर में जाने को कहा। **[[:hi:obs:notes:key-terms:joseph nt|यूसुफ]]** और मरियम को भी **[[:hi:obs:notes:key-terms:nazareth|नासरत]]** से **[[:hi:obs:notes:key-terms:bethlehem|बैतलहम]]** की एक लम्बी यात्रा करनी पड़ी, क्योंकि **[[:hi:obs:notes:key-terms:david|दाऊद]]** उनका पूर्वज था जो उस नगर में पला-बड़ा था।
+**जब** **[[:hi:obs:notes:key-terms:mary|मरियम]]****के** **जन्म** **देने** **का** **समय** **नज़दीक** **हो** **आया**, **[[:hi:obs:notes:key-terms:rome|रोमी]]**** सरकार** ने **जन गणना के लिए** सबको अपने पूर्वजों के नगर में जाने को कहा। **[[:hi:obs:notes:key-terms:joseph-nt|यूसुफ]]** और मरियम को भी **[[:hi:obs:notes:key-terms:nazareth|नासरत]]** से **[[:hi:obs:notes:key-terms:bethlehem|बैतलहम]]** की एक लम्बी यात्रा करनी पड़ी, क्योंकि **[[:hi:obs:notes:key-terms:david|दाऊद]]** उनका पूर्वज था जो उस नगर में पला-बड़ा था।
 
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
@@ -12,9 +12,9 @@
   * **[[https://door43.org/en/obe/other/nazareth|नासरत]]**
   * **[[https://door43.org/en/obe/other/bethlehem|बैतलहम]]**
   * **[[https://door43.org/en/obe/other/david|दाऊद]]**
-===== Translation Notes: =====
+===== अनुवाद के लिए नोट्स: =====
 
-  * **When the time was near for Mary to give birth**  - That is, “When it was near the end of Mary's pregnancy.”
-  * **Roman government**  - Rome had conquered and ruled over Israel at this time.
-  * **for a census**  - That is, “to be counted for the government record” or, “so that the government could write their names on a list” or, “to be counted by the government.” This census was probably made for the purpose of taxing the people.
+  * **जब मरियम के जन्म देने का समय नज़दीक हो आया**  - अर्थात, "मरियम के गर्भकाल की समाप्ति के आस-पास।"
+  * **रोमी सरकार**  - उस समय इस्राएल पर रोम का शासन था।
+  * **जन गणना के लिए**  - अर्थात, "सरकारी लेखे में स्वयं को दर्ज करवाने के लिए", या फिर, "ताकि सरकार अपनी सूची में उनका नाम दर्ज कर सके" या, "सरकार की गणना में अपनी गिनती करवाने के लिए।" इस जन गणना का उद्देश्य लोगों पर महसूल लगाना था।
 **[[:hi:obs:notes:frames:23-03|<<]] | [[:hi:obs:notes:23|Up]] | [[:hi:obs:notes:frames:23-05|>>]]**
