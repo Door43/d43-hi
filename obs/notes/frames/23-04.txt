@@ -1,29 +1,17 @@
-====== बैतलहम  की यात्रा [23-04] ======
+====== बैतलहम की यात्रा [23-04] ======
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-04.jpg?nolink&}}
 
-**When the time was near for [[:en:key-terms:mary|Mary]] to give birth**, the **[[:en:key-terms:rome|Roman]] government**told everyone to go **for a census** to the town where their ancestors had lived. **[[:en:key-terms:joseph-nt|Joseph]]** and Mary had to make a long journey from where they lived in **[[:en:key-terms:nazareth|Nazareth]]** to **[[:en:key-terms:bethlehem|Bethlehem]]** because their ancestor was **[[:en:key-terms:david|David]]** whose hometown was Bethlehem.
+**जब** **[[:hi:obs:notes:key-terms:mary|मरियम]]** **के** **जन्म** **देने** **का** **समय** **नज़दीक** **हो** **आया**, **[[:hi:obs:notes:key-terms:rome|रोमी]]**** सरकार** ने **जन गणना के लिए** सबको अपने पूर्वजों के नगर में जाने को कहा। **[[:hi:obs:notes:key-terms:joseph nt|यूसुफ]]** और मरियम को भी **[[:hi:obs:notes:key-terms:nazareth|नासरत]]** से **[[:hi:obs:notes:key-terms:bethlehem|बैतलहम]]** की एक लम्बी यात्रा करनी पड़ी, क्योंकि **[[:hi:obs:notes:key-terms:david|दाऊद]]** उनका पूर्वज था जो उस नगर में पला-बड़ा था।
 
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
-
-**[[https://door43.org/en/obe/other/mary|मरियम ]]**
-  *
-
-**[[https://door43.org/en/obe/other/rome|रोमी ]]**
-  *
-
-**[[https://door43.org/en/obe/other/josephnt|यूसुफ]]**
-  *
-
-**[[https://door43.org/en/obe/other/nazareth|नासरत]]**
-  *
-
-**[[https://door43.org/en/obe/other/bethlehem|बैतलहम]]**
-  *
-
-**[[https://door43.org/en/obe/other/david|दाऊद]]**
+  * **[[https://door43.org/en/obe/other/mary|मरियम ]]**
+  * **[[https://door43.org/en/obe/other/rome|रोमी ]]**
+  * **[[https://door43.org/en/obe/other/josephnt|यूसुफ]]**
+  * **[[https://door43.org/en/obe/other/nazareth|नासरत]]**
+  * **[[https://door43.org/en/obe/other/bethlehem|बैतलहम]]**
+  * **[[https://door43.org/en/obe/other/david|दाऊद]]**
 ===== Translation Notes: =====
 
   * **When the time was near for Mary to give birth**  - That is, “When it was near the end of Mary's pregnancy.”
