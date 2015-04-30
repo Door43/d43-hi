@@ -1,16 +1,28 @@
-====== You Will Have a Son [22-02] ======
+====== तुझे एक बेटा होगा [22-02] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-02.jpg?nolink&}}
 
+**[[:hi:obs:notes:key-terms:zechariah nt|जकर्याह]]**से **[[:hi:obs:notes:key-terms:angel|स्वर्गदूत]]** ने कहा, "तेरी पत्नी एक बेटे को जनेगी। तू उसका नाम **[[: :hi:obs:notes:key-terms:john the baptist|यूहन्ना]]** रखना। वह **[[:hi:obs:notes:key-terms:holy spirit|पवित्र आत्मा]] से भरा होगा**, और**[[:hi:obs:notes:key-terms:messiah|मसीह]]** के लिए लोगों को तैयार करेगा!" जकर्याह ने जवाब में कहा, "संतान पैदा करने के लिए मेरी पत्नी और मैं बहुत बूढ़े हो चुके हैं! **मैं कैसे जानू कि यह होगा**?
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-**The [[:en:key-terms:angel|angel]]** said to **[[:en:key-terms:zechariah-nt|Zechariah]]**, “Your wife will have a son. You will name him **[[:en:key-terms:john-baptist|John]]**. He will be **filled with the [[:en:key-terms:holy-spirit|Holy Spirit]]**, and will **prepare the people for the [[:en:key-terms:messiah|Messiah]]**!” Zechariah responded, “My wife and I are too old to have children! How will I know this will happen?”
+  *
 
+**[[https://door43.org/en/obe/kt/angel|स्वर्गदूत]]**
+  *
 
+**[[https://door43.org/en/obe/other/zechariahnt|जकर्याह ]]**
+  *
+
+**[[:door43.org:en:obe:other:johnthebaptist|[[https://door43.org/en/obe/other/johnthebaptist|यूहन्ना]]**]]**
+  *
+
+**[[https://door43.org/en/obe/kt/holyspirit|पवित्र आत्मा]]**
+  *
+
+**[[https://door43.org/en/obe/kt/christ|मसीह]]**
 ===== Translation Notes: =====
 
-  * **The angel** - This refers to the angel that came to Zechariah in **[[:hi:obs:notes:frames:22-01|[22-01]]]**.
-  * **filled with the Holy Spirit** - That is, "controlled by the Holy Spirit" or, "given wisdom and power by the Holy Spirit."
-  * **How will I know this will happen?** - Another way to translate this would be, “How can I be sure that this will truly happen?” 
-  
-
+  * **The angel**  - This refers to the angel that came to Zechariah in **[[:hi:obs:notes:frames:22-01|[22-01]]]**.
+  * **filled with the Holy Spirit**  - That is, "controlled by the Holy Spirit" or, "given wisdom and power by the Holy Spirit."
+  * **How will I know this will happen?**  - Another way to translate this would be, “How can I be sure that this will truly happen?”
 **[[:hi:obs:notes:frames:22-01|<<]] | [[:hi:obs:notes:22|Up]] | [[:hi:obs:notes:frames:22-03|>>]]**
