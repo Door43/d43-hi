@@ -1,15 +1,20 @@
-====== The Birth of Jesus [23-05] ======
+====== यीशु का जन्म [23-05] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-05.jpg?nolink&}}
 
-When they arrived in **[[:en:key-terms:bethlehem|Bethlehem]]**, there was **no place to stay**. The only room they could find was a **place where animals stayed**. The baby was born there and his mother laid him in a **feeding trough**, since they did not have a bed for him. They named him **[[:en:key-terms:jesus|Jesus]]**.
+**[[:hi:obs:notes:key-terms:bethlehem|बैतलहम]]** पहुँचने पर उन्हें **ठहरने की कोई जगह न मिली।** सिर छिपाने के लिए उन्हें **जानवरों का तबेला** ही मिल सका। बच्चे ने वही पर जन्म लिया और माता ने उसे **चरनी** में सुला दिया, क्योंकि बच्चे के लिए उनके पास कोई बिस्तर न था। उन्होंने उसका नाम **[[:hi:obs:notes:key-terms:jesus|यीशु]]** रखा।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  *
 
-  * **no place to stay** - That is, “no usual place to stay.” Because Bethlehem was so crowded at that time, the usual rooms for guests were already full of people. 
-  * **place where animals stayed** - This was a place for sheltering animals, not a place where people lived. Translate this with a term that would normally be used for a place where animals were kept.
-  * **feeding trough** - That is, “animal feed box” or, “wooden or stone box for feeding animals.” The box could have been filled with hay to provide a padded surface for the baby to lie on.
-  
+**[[https://door43.org/en/obe/other/bethlehem|बैतलहम]]**
+  *
 
+**[[https://door43.org/en/obe/kt/jesus|यीशु]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **ठहरने की कोई जगह न मिली**  - अर्थात, "ठहरने के लिए कोई आश्रय न मिला।" उस समय बैतलहम  में बहुत भीड़ थी, इसलिए आगंतुकों के लिए उपलब्ध सभी सराय वगैरह पहले ही भर चुकी थीं।
+  * **जानवरों का तबेला**  - यह कमरा जानवरों का आश्रय था, न की लोगों का। जानवरों के रखने की जगह के लिए आपकी भाषा में जिस विशिष्ट शब्द का प्रयोग किया जाता है, उसी का यहाँ प्रयोग करें।
+  * **चरनी**  - अर्थात, "जानवरों का चारा रखने की पेटी" या फिर, "जानवरों को चारा खिलाने के लिए बनायी गयी लकड़ी या पत्थर की पेटी।" इस पेटी में चारा डाल कर बच्चे के लिए उसे गद्देदार बनाया गया होगा।
 **[[:hi:obs:notes:frames:23-04|<<]] | [[:hi:obs:notes:23|Up]] | [[:hi:obs:notes:frames:23-06|>>]]**
