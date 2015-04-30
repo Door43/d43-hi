@@ -1,16 +1,30 @@
-====== The Angel and the Shepherds [23-06] ======
+====== स्वर्गदूत और गड़रिये [23-06] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-06.jpg?nolink&}}
 
 That night, there were some **[[:en:key-terms:shepherd|shepherds]]** in a nearby field **guarding their flocks**. Suddenly, **a shining [[:en:key-terms:angel|angel]]** appeared to them, and **they were terrified**. The angel said, “**Do not be afraid**, because I have some good news for you. The **[[:en:key-terms:messiah|Messiah]]**, the **[[:en:key-terms:lord|Master]]**, has been born in **[[:en:key-terms:bethlehem|Bethlehem]]**!”
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  *
 
-  * **guarding their flocks** - A "flock" is a group of sheep. The shepherds were caring for their sheep, and protecting them from harm or theft.
-  * **a shining angel** - This could also be translated as, “an angel surrounded by a bright light.” The shining light would have seemed even brighter in contrast to the darkness of the night.
-  * **they were terrified** - The appearance of the supernatural angel was extremely frightening.
-  * **Do not be afraid** - This often means, “stop being afraid.” The shepherds were very afraid when they saw the angel so he was telling them they did not need to be afraid. 
-  
+**[[https://door43.org/en/obe/other/shepherd|गड़रिये ]]**
+  *
 
+**[[https://door43.org/en/obe/kt/angel|स्वर्गदूत]]**
+  *
+
+**[[https://door43.org/en/obe/kt/christ|मसीह ]]**
+  *
+
+**[[https://door43.org/en/obe/kt/lord|प्रभु ]]**
+  *
+
+**[[https://door43.org/en/obe/other/bethlehem|बैतलहम]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **अपने भेड़ों की रखवाली**  - अर्थात भेड़ों के झुण्ड की। वे अपनी भेड़ो की देखरेख कर रहे थे, और उन्हें किसी प्रकार की हानि या चोरी होने से बचा रहे थे।
+  * **एक जगमगाता हुआ स्वर्गदूत**  - इसे, "तेज़ प्रकश में नहाया हुआ, एक स्वर्गदूत" भी कह सकते हैं। रात के अँधेरे में जगमगाता प्रकाश और भी अधिक चकाचौंध लगा होगा।
+  * **वे भयभीत हो गए**  - अलौकिक स्वर्गदूत का प्रकट होना बहुत ही भयावह अनुभव था।
+  * **डरो ****मत**-अर्थात, "डरना बंद करों।" स्वर्गदूत को देख कर गड़रिये बहुत ही डर गए थे, इसलिए उसे गड़रियों से न डरने की बात कहनी पड़ी।
 **[[:hi:obs:notes:frames:23-05|<<]] | [[:hi:obs:notes:23|Up]] | [[:hi:obs:notes:frames:23-07|>>]]**
