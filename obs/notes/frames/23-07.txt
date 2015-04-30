@@ -2,12 +2,12 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-07.jpg?nolink&}}
 
-“Go search for the baby, and you will find him **wrapped in pieces of cloth** and lying in a feeding trough.” Suddenly, the skies were **filled with [[:en:key-terms:angel|angels]]** praising **[[:en:key-terms:god|God]]**, saying, “**[[:en:key-terms:glory|Glory]] to God**in **[[:en:key-terms:heaven|heaven]]** and **[[:en:key-terms:peace|peace]] on earth**to **the people he favors**!”
+“Go search for the baby, and you will find him **wrapped in pieces of cloth** and lying in a feeding trough.” Suddenly, the skies were **filled with [[:en:key-terms:angel|angels]]** praising **[[:en:key-terms:god|God]]**, saying, “**[[:en:key-terms:glory|Glory]] to ****God**in **[[:en:key-terms:heaven|heaven]]** and **[[:en:key-terms:peace|peace]] on ****earth**to **the people he favors**!”
 ===== अनुवाद के लिए नोट्स: =====
 
   * (स्वर्गदूत कहते रहे)
-  * **कपडे में लिपटा**  - उस समय नवजात शिशु को कपडे की पट्टियों में लपेटने की प्रथा थी।, यहाँ पर ऐसा कहना बेहतर होगा कि "प्रथा के अनुसार, कपडे की लम्बी-लम्बी पट्टियों में लिपटा...।
-  * **feeding trough**  - That is, “animal feeding box.” Also see how you translated this in **[[:hi:obs:notes:frames:23-05|[23-05]]]**.
+  * **कपडे में लिपटा**  - उस समय नवजात शिशु को कपडे की पट्टियों में लपेटने की प्रथा थी।, यहाँ पर ऐसा कहना बेहतर होगा कि "प्रथा के अनुसार, कपडे की लम्बी-लम्बी पट्टियों में लिपटा…।
+  * **चरनी**  - That is, “animal feeding box.” Also see how you translated this in **[[:hi:obs:notes:frames:23-05|[23-05]]]**.
   * **filled with angels**  - This means that there were so many angels that they seemed to fill the sky.
   * **Glory to God**  - This can also be translated as, “Let us all give glory to God!” or, “Our God deserves all glory and honor!” or, “We all give glory to God!”
   * **peace on earth**  - Another way to say this would be, “may there be peace on earth.”
