@@ -2,25 +2,15 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-06.jpg?nolink&}}
 
-That night, there were some **[[:en:key-terms:shepherd|shepherds]]** in a nearby field **guarding their flocks**. Suddenly, **a shining [[:en:key-terms:angel|angel]]** appeared to them, and **they were terrified**. The angel said, “**Do not be afraid**, because I have some good news for you. The **[[:en:key-terms:messiah|Messiah]]**, the **[[:en:key-terms:lord|Master]]**, has been born in **[[:en:key-terms:bethlehem|Bethlehem]]**!”
+उस रात, पास ही के मैदान में **अपनी भेड़ों की रखवाली** करते कुछ **[[:hi:obs:notes:key-terms:shepherd|गड़रिये]]** थे। अचानक, **एक जगमगाता हुआ [[:hi:obs:notes:key-terms:angel|स्वर्गदूत ]]** उनके सामने प्रकट हुआ, और **वे भयभीत हो गए** । स्वर्गदूत बोला, "**डरों** **मत**, क्योंकि मेरे पास तुम्हारे लिए एक खुशखबरी है। **[[:hi:obs:notes:key-terms:bethlehem|बैतलहम]]** में **[[:hi:obs:notes:key-terms:lord|प्रभु]]**, **[[:hi:obs:notes:key-terms:messiah|मसीह]]** का जन्म हुआ है!"
 
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
-
-**[[https://door43.org/en/obe/other/shepherd|गड़रिये ]]**
-  *
-
-**[[https://door43.org/en/obe/kt/angel|स्वर्गदूत]]**
-  *
-
-**[[https://door43.org/en/obe/kt/christ|मसीह ]]**
-  *
-
-**[[https://door43.org/en/obe/kt/lord|प्रभु ]]**
-  *
-
-**[[https://door43.org/en/obe/other/bethlehem|बैतलहम]]**
+  * **[[https://door43.org/en/obe/other/shepherd|गड़रिये ]]**
+  * **[[https://door43.org/en/obe/kt/angel|स्वर्गदूत]]**
+  * **[[https://door43.org/en/obe/kt/christ|मसीह ]]**
+  * **[[https://door43.org/en/obe/kt/lord|प्रभु ]]**
+  * **[[https://door43.org/en/obe/other/bethlehem|बैतलहम]]**
 ===== अनुवाद के लिए नोट्स: =====
 
   * **अपने भेड़ों की रखवाली**  - अर्थात भेड़ों के झुण्ड की। वे अपनी भेड़ो की देखरेख कर रहे थे, और उन्हें किसी प्रकार की हानि या चोरी होने से बचा रहे थे।
