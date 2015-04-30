@@ -2,25 +2,15 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-01.jpg?nolink&}}
 
-**[[:en:key-terms:mary|Mary]]** was engaged to a **[[:en:key-terms:righteous|righteous]]** man named **[[:en:key-terms:joseph-nt|Joseph]]**. When he heard that Mary was pregnant, **he knew it was not his baby**. He did not want **to shame Mary**, so **he planned to quietly divorce her**. Before he could do that, an **[[:en:key-terms:angel|angel]]** came and spoke to him **in a [[:en:key-terms:dream|dream]]**.
+**[[:hi:obs:notes:key-terms:mary|मरियम]]** की **[[:hi:obs:notes:key-terms:joseph nt|यूसुफ]]** नाम के एक **[[:hi:obs:notes:key-terms:righteous|धर्मी]]** व्यक्ति से सगाई हुई थी। उसे जब मरियम के गर्भवती होने की खबर मिली, तो **वह जान गया कि यह संतान उससे नहीं थी।** वह **मरियम** **को** **अपमानित** नहीं करना चाहता था, इसलिए **उसने चुपचाप से मरियम को तलाक देने की योजना बना ली** । लेकिन इससे पहले कि वह ऐसा करता, उसके **[[:hi:obs:notes:key-terms:dream|सपने]] में** एक **[[:hi:obs:notes:key-terms:angel|स्वर्गदूत]]** ने आकर उससे बात की।
 
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
-
-**[[https://door43.org/en/obe/other/mary|मरियम ]]**
-  *
-
-**[[https://door43.org/en/obe/kt/righteous|धर्मी ]]**
-  *
-
-**[[https://door43.org/en/obe/other/josephnt|यूसुफ ]]**
-  *
-
-**[[https://door43.org/en/obe/kt/angel|स्वर्गदूत ]]**
-  *
-
-**[[https://door43.org/en/obe/other/dream|सपने ]]**
+  * **[[https://door43.org/en/obe/other/mary|मरियम ]]**
+  * **[[https://door43.org/en/obe/kt/righteous|धर्मी ]]**
+  * **[[https://door43.org/en/obe/other/josephnt|यूसुफ ]]**
+  * **[[https://door43.org/en/obe/kt/angel|स्वर्गदूत ]]**
+  * **[[https://door43.org/en/obe/other/dream|सपने ]]**
 ===== अनुवाद के लिए नोट्स: =====
 
   * **वह जान गया कि यह संतान उससे नहीं थी**  - अर्थात, "वह जानता था कि मरियम को उसने गर्भवती नहीं किया है।"
