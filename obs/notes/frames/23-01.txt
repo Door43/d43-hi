@@ -1,17 +1,31 @@
-====== Mary Was Pregnant [23-01] ======
+====== मरियम गर्भ से थी [23-01] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-01.jpg?nolink&}}
 
 **[[:en:key-terms:mary|Mary]]** was engaged to a **[[:en:key-terms:righteous|righteous]]** man named **[[:en:key-terms:joseph-nt|Joseph]]**. When he heard that Mary was pregnant, **he knew it was not his baby**. He did not want **to shame Mary**, so **he planned to quietly divorce her**. Before he could do that, an **[[:en:key-terms:angel|angel]]** came and spoke to him **in a [[:en:key-terms:dream|dream]]**.
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  *
 
-  * **he knew it was not his baby** -  That is, “he knew that he was not the one who had caused her to be pregnant.” 
-  * **to shame Mary** - That is, “to cause Mary to be publicly disgraced” or “to embarrass Mary publicly.” Joseph was merciful to Mary, even though it seemed like she was an adulterer. 
-  * **he planned to quietly divorce her** - This could also be translated as, “He planned to divorce her without telling others why,” or, “He planned to divorce her without telling others about her pregnancy.” Because Joseph was righteous, he wanted to resolve the situation in the best way possible, which in this culture would be to divorce her quietly.
-  * **divorce her** - For some languages it may be better to say, “break their engagement.” Joseph and Mary were engaged or, “pledged to be married.” But in Jewish culture a divorce was required in order to break off an engagement.
-  * **in a dream** – That is, “while he was asleep and dreaming.”
-  
+**[[https://door43.org/en/obe/other/mary|मरियम ]]**
+  *
 
+**[[https://door43.org/en/obe/kt/righteous|धर्मी ]]**
+  *
+
+**[[https://door43.org/en/obe/other/josephnt|यूसुफ ]]**
+  *
+
+**[[https://door43.org/en/obe/kt/angel|स्वर्गदूत ]]**
+  *
+
+**[[https://door43.org/en/obe/other/dream|सपने ]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **वह जान गया कि यह संतान उससे नहीं थी**  - अर्थात, "वह जानता था कि मरियम को उसने गर्भवती नहीं किया है।"
+  * **मरियम को अपमानित**  - अर्थात, "मरियम को सबके सामने लज्जित नहीं करना चाहता था।" मरियम के व्यभिचारिणी होने की सम्भावना लगने पर भी, यूसुफ उसके प्रति दया भाव रखता था।
+  * **उसने चुपचाप से मरियम को तलाक देने की योजना बना ली**  - इसका अनुवाद हर ऐसे भी कर सके हैं, कि : "उसने किसी को कारण बताये, तलाक देने की योजना बना ली," या फिर, "उसके गर्भवती होने की बात किसी को बताये बिना, उसे तलाक देने की योजना बना ली।" यूसुफ एक धर्मी व्यकित था, इसलिए वह स्थिति को सबसे बेह्टर रीति से सुलझाना चाहता था, जो कि इस संस्कृति में चुपके से तलाक देना होता।
+  * **उसे तलाक देने**  - कुछ भाषाओं में "अपनी सगाई तोड़ने" लिखना बेहतर होगा। यूसुफ और मरियम की सगाई हुई थी, अर्थात "एक दूसरे से विवाह के लिए प्रतिबद्ध थे।" लेकिन यहूदी संस्कृति में सगाई तोड़ने के लिए भी तलाक देना पड़ता था।
+  * **सपने में**  – अर्थात, "जब वह नींद में था और सपना देख रहा था।"
 **[[:hi:obs:notes:frames:22-07|<<]] | [[:hi:obs:notes:23|Up]] | [[:hi:obs:notes:frames:23-02|>>]]**
