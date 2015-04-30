@@ -1,13 +1,23 @@
-====== Unable to Speak [22-03] ======
+====== बोलने में असमर्थ [22-03] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-03.jpg?nolink&}}
 
-The **[[:en:key-terms:angel|angel]]** responded to Zechariah, “I was sent by **[[:en:key-terms:god|God]]** to bring you this good news. Because you did not **[[:en:key-terms:believe|believe]]** me, you will not be able to speak until the child is born.” Immediately, **[[:en:key-terms:zechariah-nt|Zechariah]]** was unable to speak. Then the angel left Zechariah. After this, Zechariah returned home and his wife **became pregnant**.
+**[[:hi:obs:notes:key-terms:angel|स्वर्गदूत]]** ने जकर्याह से कहा, "यह सुसमाचार देने, मुझे **[[:hi:obs:notes:key-terms:god|परमेश्वर]]** ने भेजा था। चूंकि तूने मेरा **[[:hi:obs:notes:key-terms:believe|विश्वास]]** नहीं किया, इसलिए तेरी संतान के होने तक तू कुछ बोल न सकेगा।" इसके तुरंत बाद ही, **[[:hi:obs:notes:key-terms:zechariah nt|जकर्याह]]** की बोलने की शक्ति समाप्त हो गयी। स्वर्गदूत तब जकर्याह को छोड़ कर चला गया। इसके बाद, जकर्याह अपने घर लौट आया, और उसकी पत्नी को **गर्भ ठहर ****गया** ।
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
+**[[https://door43.org/en/obe/kt/angel|स्वर्गदूत]]**
+  *
+
+**[[https://door43.org/en/obe/kt/god|परमेश्वर]]**
+  *
+
+**[[https://door43.org/en/obe/kt/believe|विश्वास ]]**
+  *
+
+**[[https://door43.org/en/obe/other/zechariahnt|जकर्याह ]]**
 ===== Translation Notes: =====
 
-  * **became pregnant** - Some languages have polite ways of saying "become pregnant." Use an expression that will not be embarrassing to readers.
-  
-
+  * **became pregnant**  - Some languages have polite ways of saying "become pregnant." Use an expression that will not be embarrassing to readers.
 **[[:hi:obs:notes:frames:22-02|<<]] | [[:hi:obs:notes:22|Up]] | [[:hi:obs:notes:frames:22-04|>>]]**
