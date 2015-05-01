@@ -1,15 +1,25 @@
-====== A Call to Repent [24-02] ======
+====== मन फिराने की बुलाहट [24-02] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-02.jpg?nolink&}}
 
-Many people came out to the **wilderness** to listen to **[[:en:key-terms:john-baptist|John]]**. He **[[:en:key-terms:preach|preached]]** to them, saying, “**[[:en:key-terms:repent|Repent]]**, for **the [[:en:key-terms:kingdom-of-god|kingdom of God]] is near**!”
+बहुत से लोग **यूहन्ना** को सुनने **बीहड़** में जाते थे। यह कहते हुए उसने उन्हें उपदेश दिया, "**मन** **फिराओ**, क्योंकि **परमेश्वर का राज्य निकट है** ।"
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[https://door43.org/en/obe/other/johnthebaptist|यूहन्ना]]**
+  *
 
-  * **wilderness** - See how you translated this word in **[[:hi:obs:notes:frames:24-01|[24-01]]]**.
-  * **Repent** - It might be better to say, "Repent from your sins."
-  * **the kingdom of God is near** - That is, “the kingdom of God is ready to appear” or, “the kingdom of God will arrive soon.” This refers to God's ruling over people. This can also be translated as, “God's reign is about to begin” or, “God will soon rule over us as king.”
-  
+**[[https://door43.org/en/obe/other/preach|उपदेश दिया ]]**
+  *
 
+**[[https://door43.org/en/obe/kt/repent|मन फिराओं ]]**
+  *
+
+**[[https://door43.org/en/obe/kt/kingdomofgod|परमेश्वर का राज्य]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **बीहड़**  - See how you translated this word in **[[:hi:obs:notes:frames:24-01|[24-01]]]**.
+  * **मन फिराओं**  - शायद "अपने पापों का पश्चाताप करो" कहना बेहतर होगा।
+  * **परमेश्वर का राज्य निकट है**  - अर्थात, "परमेश्वर का राज्य प्रकट होने को है" या फिर, "परमेश्वर का राज्य जल्दी आनेवाला है।" इसका आशय लोगों पर परमेश्वर के शासन से है। इसके अनुवाद में हम यह भी लिख सकते हैं, "परमेश्वर का राज्य शुरू होनेवाला है", या फिर, "जल्द ही परमेश्वर हम पर राजा होकर राज्य करेगा।"
 **[[:hi:obs:notes:frames:24-01|<<]] | [[:hi:obs:notes:24|Up]] | [[:hi:obs:notes:frames:24-03|>>]]**
