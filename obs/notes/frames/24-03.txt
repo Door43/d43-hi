@@ -1,15 +1,28 @@
-====== A Baptism of Repentance [24-03] ======
+====== मन फिराव का बप्तिस्मा [24-03] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-03.jpg?nolink&}}
 
-When people heard **[[:en:key-terms:john-baptist|John's]]** message, many of them **[[:en:key-terms:repent|repented]] from their [[:en:key-terms:sin|sins]]**, and John **[[:en:key-terms:baptize|baptized]]** them. Many **[[:en:key-terms:jewish-leaders|religious leaders]]** also came to be baptized by John, but they **did not repent** or **confess their sins**.
+**[[:hi:obs:notes:key-terms:john baptist|यूहन्ना का]]** उपदेश सुन कर बहुतो ने **अपने पापों का पश्चाताप किया**, और यूहन्ना ने उन्हें बपतिस्मा दिया। बहुत से धार्मिक अगुवों ने भी यूहन्ना से बपतिस्मा लिया, लेकिन **न तो उन्होंने मन फिराया** और न ही **अपने पापों का अंगीकार ****किया** ।
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
+**[[https://door43.org/en/obe/other/johnthebaptist|यूहन्ना के ]]**
+  *
+
+**[[https://door43.org/en/obe/kt/repent|पश्चाताप किया ]]**
+  *
+
+**[[https://door43.org/en/obe/kt/sin|पापों ]]**
+  *
+
+**[[https://door43.org/en/obe/kt/baptize|बपतिस्मा दिया ]]**
+  *
+
+**[[https://door43.org/en/obe/other/jewishleaders|धर्मी अगुवों ]]**
 ===== Translation Notes: =====
 
-  * **repented from their sins** - This could also be translated as, "repented concerning their sins" or, "changed their minds about their sins" or, "turned away from their sins."
-  * **did not repent** - That is, "did not turn away from their sins."
-  * **confess their sins** - To confess is to acknowledge that something is true. These leaders did not want to acknowledge that they had sinned. This may be translated as, "confess that they had sinned."
-  
-
+  * **repented from their sins**  - This could also be translated as, "repented concerning their sins" or, "changed their minds about their sins" or, "turned away from their sins."
+  * **did not repent**  - That is, "did not turn away from their sins."
+  * **confess their sins**  - To confess is to acknowledge that something is true. These leaders did not want to acknowledge that they had sinned. This may be translated as, "confess that they had sinned."
 **[[:hi:obs:notes:frames:24-02|<<]] | [[:hi:obs:notes:24|Up]] | [[:hi:obs:notes:frames:24-04|>>]]**
