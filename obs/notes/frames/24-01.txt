@@ -2,23 +2,17 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-01.jpg?nolink&}}
 
-**जकरयाह** और इलीशिबा का बेटा **यूहन्ना** बड़ा होकर एक नबी बना। वह **बीहड़ो** में रहता, **जंगली शहद** व **टिड्डियाँ** खाता, और **ऊँट के बालों** से बने वस्त्र पहनता था।
+**[[:hi:obs:notes:key-terms:zechariah nt|जकरयाह]]** और इलीशिबा का बेटा **[[:hi:obs:notes:key-terms:john baptist|यूहन्ना]]** बड़ा होकर एक **[[:hi:obs:notes:key-terms:prophet|नबी]]** बना। वह **बीहड़ो** में रहता, **जंगली शहद** व **टिड्डियाँ** खाता, और **ऊँट के बालों** से बने वस्त्र पहनता था।
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
+  * **[[https://door43.org/en/obe/other/johnthebaptist|यूहन्ना ]]**
+  * **[[https://door43.org/en/obe/other/zechariahnt|जकरयाह]]**
+  * **[[https://door43.org/en/obe/kt/prophet|नबी]]**
+===== अनुवाद के लिए नोट्स: =====
 
-**[[https://door43.org/en/obe/other/johnthebaptist|यूहन्ना ]]**
-  *
-
-**[[https://door43.org/en/obe/other/zechariahnt|जकरयाह]]**
-  *
-
-**[[https://door43.org/en/obe/kt/prophet|नबी]]**
-===== Translation Notes: =====
-
-  * **wilderness**  - That is, “the desert” or, “a remote, desert-like place.” There were few people living out in this area.
-  * **wild honey**  - This honey was the natural product of bees in the wilderness; it was not cultivated by people. If that is what people would understand by the word "honey," you may not need to call it "wild."
-  * **locusts**  - These were large, hopping insects with wings, like very large grasshoppers. Some people who live in the desert eat them.
-  * **camel hair**  - A camel is an animal that has very rough hair. People could make clothing out of it. This could be translated as “rough animal hair.”
-  * **clothes made from camel hair**  - That is, “coarse clothes made of camel hair.” These clothes would not quickly wear out in the wilderness as other clothes would.
+  * **बीहड़**  - अर्थात, "वीराने में" या, "निर्जन में।" ऐसी जगहों पर बहुत ही कम लोग रहते थे।
+  * **जंगली शहद**  - यह लोगों द्वारा पालतू मक्खियों से बना शहद नहीं, बल्कि जंगल में सहज रूप से मक्खियों द्वारा उनके छत्ते में बनाया गया शहद था। यही लोगो के लिए शहद का मतलब प्राकृतिक शहद से है, तो फिर आपको "जंगली" शब्द लिखने की ज़रुरत नहीं है।
+  * **टिड्डियाँ**  - ये पंखोवाले छिटकनेवाले, बड़े आकर के टिड्डे थे। मरू भूमि में रहनेवाले कुछ लोग इसका सेवन करते थे।
+  * **ऊँट के बाल**- ऊँट के बाल बहुत हो सख्त और रूखे होते हैं। लोग इससे वस्त्र बना सकते हैं। यहाँ पर हम "जानवर के रूखे-सकत बाल" भी लिख सकते हैं।
+  * **ऊँट के बाल से बने वस्त्र**  - अर्थात, "ऊँट के बालों से बने खुरदरे-मोटे वस्त्र।" दूसरे वस्त्रों के सामान, मरू भूमि में ये वस्त्र जल्दी से फटते-घिसते नहीं थे।
 **[[:hi:obs:notes:frames:23-10|<<]] | [[:hi:obs:notes:24|Up]] | [[:hi:obs:notes:frames:24-02|>>]]**
