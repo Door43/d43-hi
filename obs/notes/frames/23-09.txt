@@ -1,17 +1,27 @@
-====== The Wise Men Visited Jesus [23-09] ======
+====== मजूसियों की यीशु से भेंट [23-09] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-09.jpg?nolink&}}
 
-**Sometime later**, **[[:en:key-terms:wise|wise]] men** from countries far to the east saw an **unusual star** in the sky. **They realized** it meant a new **[[:en:key-terms:king-of-jews|king of the Jews]]** had been born. So, they traveled a great distance to see this king. They came to **[[:en:key-terms:bethlehem|Bethlehem]]** and found **the house** where **[[:en:key-terms:jesus|Jesus]]** and his parents were staying.
+**कुछ समय बाद**,  पूर्व के किसी देश के **मजूसियों** ने आकाश में **अद्भुत सा एक तारा** देखा। **उन्हें यह अहसास हो गया** कि इसका मतलब है कि यहूदियों का एक नया राजा जन्म ले चूका है। इसलिए, राजा को देखने के लिए वे एक लम्बी यात्रा पर निकल पड़े। बैतलहम आकर उन्हें वह **घर** मिला जहाँ यीशु और उनके माता-पिता रह रहे थे।
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[https://door43.org/en/obe/kt/wise|मजूसी ]]**
+  *
 
-  * **Sometime later** - It is not clear how long it was after the birth of Jesus before the wise men saw the star, but it may have taken as long as two years for them to prepare for the trip and then travel to Bethlehem.
-  * **wise men** - The “wise men” were probably astrologers who studied the stars. They may also have had access to the Old Testament prophets' writings that predicted the birth of the Messiah.
-  * **unusual star** - The star that they noticed was not a normal star. It was something that appeared at the time of Jesus' birth.
-  * **They realized** - Some languages may add, “From their studies, these scholars realized.” 
-  * **the house** - They were no longer staying in the place for animals where he was born.
-  
+**[[https://door43.org/en/obe/kt/kingofthejews|यहूदियों का राजा ]]**
+  *
 
+**[[https://door43.org/en/obe/other/bethlehem|बैतलहम ]]**
+  *
+
+**[[https://door43.org/en/obe/kt/jesus|यीशु ]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **कुछ समय बाद**  - इस स्पष्ट नहीं है कि यीशु के जन्म के कितने समय बाद उन्हें वह तारा दिखा था, लेकिन तैयारी करके बैतलहम  की यात्रा में निकलने के लिए कम से कम दो सालों का समय तो लगा ही होगा।
+  * **मजूसी**  - ये मजूसी शायद नक्षत्रों का अध्ययन करनेवाले ज्योतिषी थे। उनके पास पुराने नियम के नबियों के लेख भी अवश्य होंगे जिनमे उन्होंने मसीह के जन्म की भविष्यदवाणी की हैं।
+  * **अद्भुत सा एक तारा**  - उन्होंने कोई सामान्य तारा नहीं देखा था। यह केवल यीशु के जन्म पर दिखाई दिया था।
+  * **उन्हें अहसास हुआ**  - कुछ भाषाओं में ऐसा लिखना होगा, कि "अपने अध्ययनों के द्वारा विद्वानों को पता चला कि....।"
+  * **घर**  - वे अब ज्यादा समय जानवरों के तबेले में नहीं रह रहे थे।
 **[[:hi:obs:notes:frames:23-08|<<]] | [[:hi:obs:notes:23|Up]] | [[:hi:obs:notes:frames:23-10|>>]]**
