@@ -1,14 +1,24 @@
-====== John Baptized Jesus [24-07] ======
+====== यूहन्ना ने यीशु को बपतिस्मा दिया [24-07] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-07.jpg?nolink&}}
 
-**[[:en:key-terms:john-baptist|John]]** said to **[[:en:key-terms:jesus|Jesus]]**, “**I am not worthy to [[:en:key-terms:baptize|baptize]] you**. You should baptize me instead.” But Jesus said, “You should baptize me, because **it is the right thing to do**.” So John baptized him, even though Jesus had never **[[:en:key-terms:sin|sinned]]**.
+**यूहन्ना** ने **यीशु** से कहा, "**मैं तुझे बपतिस्मा देने के योग्य नहीं** । बल्कि तुझको मुझे बपतिस्मा देना चाहिए।" लेकिन यीशु ने कहा, "तू मुझे बप्तिस्मा दे, क्योंकि **ऐसा करना सही है** ।" इस तरह यूहन्ना ने उसे बपतिस्मा दिया, हालाकि यीशु ने कभी कोई पाप नहीं किया था।
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[https://door43.org/en/obe/other/johnthebaptist|यूहन्ना ]]**
+  *
 
-  * **I am not worthy to baptize you** - This could be translated as, “I am not good enough to baptize you” or, “I am sinful, so I should not baptize you.” 
-  * **it is the right thing to do** - This might also be translated as, “it is the proper thing to do” or, “this is what God wants me to do.” 
-  
+**[[https://door43.org/en/obe/kt/jesus|यीशु ]]**
+  *
 
+**[[https://door43.org/en/obe/kt/baptize|बपतिस्मा दिया ]]**
+  *
+
+**[[https://door43.org/en/obe/kt/sin|पाप किया था ]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **मैं तुझे बप्तिस्मा देने के योग्य नहीं**  - इसका अनुवाद हम यूँ भी कर सकते नहीं, : “मैं इतना भला व्यक्ति नहीं कि तुझे बप्तिस्मा देने योग्य ठहरूं,” या फिर, “मैं पापी भला तुझे बप्तिस्मा कैसे दे सकूँगा।“
+  * **ऐसा करना सही है**  - इसका अनुवाद हम ऐसे भी कर सकते हैं, : “ऐसा करना उचित है”, या फिर, “परमेश्वर चाहता है कि मैं यह करू।“
 **[[:hi:obs:notes:frames:24-06|<<]] | [[:hi:obs:notes:24|Up]] | [[:hi:obs:notes:frames:24-08|>>]]**
