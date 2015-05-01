@@ -1,14 +1,21 @@
-====== Not the Messiah [24-05] ======
+====== मसीह नहीं [24-05] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-05.jpg?nolink&}}
 
-Some **[[:en:key-terms:jew|Jews]]** asked **[[:en:key-terms:john-baptist|John]]** if he was the **[[:en:key-terms:messiah|Messiah]]**. John replied, “I am not the Messiah, but there is someone coming after me. **He is so great** that I am **not even worthy to untie his sandals**.”
+कुछ **[[:hi:obs:notes:key-terms:jew|यहूदियों]]** ने **[[:hi:obs:notes:key-terms:john baptist|यूहन्ना]]** से पूछा, कि क्या वह **[[:hi:obs:notes:key-terms:messiah|मसीह]]** था। यूहन्ना ने उत्तर दिया, "मैं मसीह नहीं हूँ, लेकिन मेरे बाद कोई आनेवाला है। **वह इतना महान है** कि मैं तो **उसकी जूतियों की रस्सियाँ भी खोलने के योग्य नहीं** ।"
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[https://door43.org/en/obe/other/jew|यहूदियों ]]**
+  *
 
-  * **He is so great** - This could be translated as, "He is so important."
-  * **not even worthy to untie his sandals** -  In other words, "compared to him, I am not important enough to do even the most menial task for him.” Untying sandals was a very low job, something a slave would do. 
-  
+**[[https://door43.org/en/obe/other/johnthebaptist|यूहन्ना ]]**
+  *
 
+**[[https://door43.org/en/obe/kt/christ|मसीह]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **वह इतना महान है**  - इसका अनुवाद हम ऐसे भी कर सकते हैं, "वह इतना महत्वपूर्ण है।"
+  * **उसकी जूतियों की रस्सियाँ भी खोलने के योग्य नहीं**  - दूसरे शब्दों में, "उसकी तुलना में, मेरा इतना भी महत्त्व नहीं कि मैं उसकी जूतियाँ उतारने का काम कर सकूँँ।" जूतियाँ खोलना बहुत छोटा काम समझा जाता था; ऐसे काम दास लोग ही करते थे।
 **[[:hi:obs:notes:frames:24-04|<<]] | [[:hi:obs:notes:24|Up]] | [[:hi:obs:notes:frames:24-06|>>]]**
