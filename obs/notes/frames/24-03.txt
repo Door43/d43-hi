@@ -2,27 +2,17 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-03.jpg?nolink&}}
 
-**[[:hi:obs:notes:key-terms:john baptist|यूहन्ना का]]** उपदेश सुन कर बहुतो ने **अपने पापों का पश्चाताप किया**, और यूहन्ना ने उन्हें बपतिस्मा दिया। बहुत से धार्मिक अगुवों ने भी यूहन्ना से बपतिस्मा लिया, लेकिन **न तो उन्होंने मन फिराया** और न ही **अपने पापों का अंगीकार ****किया** ।
+**[[:hi:obs:notes:key-terms:john-baptist|यूहन्ना का]]** उपदेश सुन कर बहुतो ने **अपने [[:hi:obs:notes:key-terms:sin|पापों]] का [[:hi:obs:notes:key-terms:repent|पश्चाताप किया]]**, और यूहन्ना ने उन्हें **[[:hi:obs:notes:key-terms:baptize|बपतिस्मा ]]****[[:hi:obs:notes:key-terms:baptize|दिया]]**। बहुत से **[[:hi:obs:notes:key-terms:jewish leaders|धार्मिक अगुवों]]** ने भी यूहन्ना से बपतिस्मा लिया, लेकिन **न तो उन्होंने मन फिराया** और न ही **अपने पापों का अंगीकार ****किया** ।
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
+  * **[[https://door43.org/en/obe/other/johnthebaptist|यूहन्ना के ]]**
+  * **[[https://door43.org/en/obe/kt/repent|पश्चाताप किया ]]**
+  * **[[https://door43.org/en/obe/kt/sin|पापों ]]**
+  * **[[https://door43.org/en/obe/kt/baptize|बपतिस्मा दिया ]]**
+  * **[[https://door43.org/en/obe/other/jewishleaders|धर्मी अगुवों ]]**
+===== अनुवाद के लिए नोट्स: =====
 
-**[[https://door43.org/en/obe/other/johnthebaptist|यूहन्ना के ]]**
-  *
-
-**[[https://door43.org/en/obe/kt/repent|पश्चाताप किया ]]**
-  *
-
-**[[https://door43.org/en/obe/kt/sin|पापों ]]**
-  *
-
-**[[https://door43.org/en/obe/kt/baptize|बपतिस्मा दिया ]]**
-  *
-
-**[[https://door43.org/en/obe/other/jewishleaders|धर्मी अगुवों ]]**
-===== Translation Notes: =====
-
-  * **repented from their sins**  - This could also be translated as, "repented concerning their sins" or, "changed their minds about their sins" or, "turned away from their sins."
-  * **did not repent**  - That is, "did not turn away from their sins."
-  * **confess their sins**  - To confess is to acknowledge that something is true. These leaders did not want to acknowledge that they had sinned. This may be translated as, "confess that they had sinned."
+  * **अपने पापो का पश्चाताप किया**  - इसका अनुवाद हम ऐसे भी कर सकते हैं, :"अपने पापो से मन फिराया" या फिर, "पापों के विषय में अपना मन बदला", या फिर, "अपने पापों से दूर हो गए।"
+  * **न तो उन्होंने मन फिराया**  - अर्थात, "उन्होंने अपने पापों का पश्चाताप नही किया।"
+  * **अपने पापों का अंगीकार किया**  - अंगीकार करना किसी बात के होने को स्वीकारना है। इन अगुवों ने यह स्वीकार नहीं किया कि उन्होंने पाप किया था। इसका अनुवाद करते समय ऐसे भी लिख सकते हैं, "उन्होंने अपने पापों को मानने से मना कर दिया।"
 **[[:hi:obs:notes:frames:24-02|<<]] | [[:hi:obs:notes:24|Up]] | [[:hi:obs:notes:frames:24-04|>>]]**
