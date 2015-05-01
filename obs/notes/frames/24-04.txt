@@ -1,20 +1,33 @@
-====== Preparing the Way [24-04] ======
+====== मार्ग तैयार करो [24-04] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-04.jpg?nolink&}}
 
-**[[:en:key-terms:john-baptist|John]]** said to the **[[:en:key-terms:jewish-leaders|religious leaders]]**, “**You poisonous snakes**! **[[:en:key-terms:repent|Repent]]** and change your behavior. **Every tree that does not bear good fruit** **will be cut down and thrown into the fire**.” **John [[:en:key-terms:fulfill|fulfilled]]** what the **[[:en:key-terms:prophet|prophets]]** said, “**See**, I send **my messenger** **ahead of you**, who will **prepare your way**.”
+**यूहन्ना** ने **धार्मिक अगुओं** से कहा, "**हे** **विषैले** **साँपों**! मन फिराओं और अपना बर्ताव बदलो। **हर वह पेड़ जो फल नहीं लाता**, **काट कर आग में झोंक दिया ****जाएगा** ।" यूहन्ना ने नबियों की कही उस बात को पूरा किया,"**देखो**, मैं अपना **संदेशवाहक** **तेरे आगे** भेजता हूँ, जो **तेरा मार्ग तैयार करेगा।"**
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[https://door43.org/en/obe/other/johnthebaptist|यूहन्ना ]]**
+  *
 
-  * **You poisonous snakes** - This could be translated as, “You are like lying poisonous snakes!” John was calling them poisonous snakes because they were dangerous and deceptive.
-  * **Every tree that does not bear good fruit** - John is not really talking about trees. This is an expression that compares good fruit to good actions and attitudes that come from God.
-  * **will be cut down and thrown into the fire** – This means, “will be judged and punished by God.”
-  * **John fulfilled** - That is, “John was doing” what the prophet said God's messenger would do.
-  * **See** - This could be translated as "Look and see" or, "Pay attention!"
-  * **my messenger** - That is, “I, Yahweh, will send my messenger.” In some languages it would be more natural to use an indirect quote for this sentence, such as: "what the prophet Isaiah predicted when he said that God would send his messenger.”
-  * **ahead of you** - In this phrase, the word "you" refers to the Messiah. 
-  * **prepare your way** - God's messenger will prepare the people to listen to the Messiah.
+**[[https://door43.org/en/obe/other/jewishleaders|धार्मिक अगुओं]]**
+  *
 
+**[[https://door43.org/en/obe/kt/repent|मन फिराओं ]]**
+  *
 
+**[[https://door43.org/en/obe/kt/fulfill|पूरी की ]]**
+  *
+
+**[[https://door43.org/en/obe/kt/prophet|नबियों]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **हे विषैले साँपों**  - इसे हम यूँ भी लिख सकते हैं, :"तुम लोग विषैले साँपों के सामान हो!" यूहन्ना उन्हें सांप इसलिए कह रहा था क्योंकि वे खतरनाक और धोखेबाज़ थे।
+  * **हर वह पेड़ जो फल नहीं लाता**  - यूहन्ना यहाँ पर पेड़ों की बात नहीं कर रहा। यह तो अच्छे काम की अच्छे फल और अच्छी प्रवृत्ति से तुलना की गई है जो कि परमेश्वर की ओर से आती है।
+  * **काट कर आग में झोंक दिया जाएगा**  – अर्थात, "परमेश्वर द्वारा उसका न्याय होगा और वह दण्डित होगा।"
+  * **यूहन्ना....ने पूरी की**  - अर्थात, "यूहन्ना वही कर रहा था" जो कि नबियों ने कहा था कि परमेश्वर का संदेशवाहक करेगा।
+  * **देखो**  - इसे हम "ध्यान से देखो" भी लिख सकते हैं!"
+  * **मेरा संदेशवाहक**  - अर्थात, "मैं, यहोवा, अपना संदेशवाहक भेजूँगा।" कुछ भाषाओं में वचन का सीधा सन्दर्भ देना बेहतर होगा, जैसे कि : "जैसा की यशायाह नबी ने कहा था कि परमेश्वर अपना संदेशवाहक भेजेगा.....।"
+  * **तेरे आगे**  - इस वाक्य में शब्द "तुम्हारे" मसीह के लिए प्रयुक्त हुआ है।
+  * **तेरा मार्ग तैयार करेगा**  - परमेश्वर का संदेशवाहक लोगों को मसीह की बातें सुनने के लिए तैयार करेगा।
 **[[:hi:obs:notes:frames:24-03|<<]] | [[:hi:obs:notes:24|Up]] | [[:hi:obs:notes:frames:24-05|>>]]**
