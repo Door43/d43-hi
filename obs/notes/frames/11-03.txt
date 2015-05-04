@@ -1,16 +1,18 @@
-====== Blood on the Door [11-03] ======
+====== द्वार पर लहू [11-03] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-03.jpg?nolink&}}
 
-**[[:en:key-terms:god|God]]** told the **[[:en:key-terms:israel|Israelites]]** to put some of the **[[:en:key-terms:lamb|lamb's]]** **[[:en:key-terms:blood|blood]]** around the door of their house, and to roast the meat and eat it quickly, along with bread that was **made without yeast**. He also told them to be ready to leave **[[:en:key-terms:egypt|Egypt]]** **when they ate**.
+**परमेश्वर ** ने **इस्राएलियों** को अपने घर की चौकट पर **मेमने का लहू ** लगाने, और मांस को भून कर, उसे **अखामीरी रोटी** के साथ तुरंत खाने को कहा। उसने उन्हें **खाने के बाद मिस्र से पलायन करने ** के लिए तैयार रहने को भी कहा।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएलियों]]__**
+  * **__[[:hi:obs:notes:key-terms:lamb|मेमना]]__**
+  * **__[[:hi:obs:notes:key-terms:blood|लहू]]__**
+  * **__[[:hi:obs:notes:key-terms:egypt|मिस्र]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **made without yeast** – Yeast is something that is mixed into bread dough to make bread rise as it cooks. This could be translated as, “made without something that would make it rise.” Making the bread with yeast would have taken much longer, so cooking the bread without yeast was a way to be prepared to leave Egypt quickly. 
-  * **when they ate** – This means they needed to be prepared to leave before they started to eat.
-    
-
+  * **अखामीरी**   -  रोटी को फुलाने के लिय आटा गूंधते समय खमीर को आटें में डाला जाता है।  इसका अनुवाद ऐसे भी कर सकते हैं,"रोटी को फुलाने के लिए उसमे डाले जानेवाले खमीर के बिना।" खमीर के साथ रोटी बनाने में अधिक समय लगता, इस तरह बिना खमीर की रोटी बनान असल में मिस्र से जल्दी निकलने की तय्यारी थी।
+  * **खाने के बाद**  -  यानी कि उन्हें खाने से पहले ही निकलने की तैयारी कर लेनी थी।
 **[[:hi:obs:notes:frames:11-02|<<]] | [[:hi:obs:notes:11|Up]] | [[:hi:obs:notes:frames:11-04|>>]]**
-
