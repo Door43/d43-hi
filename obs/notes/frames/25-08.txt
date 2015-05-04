@@ -1,16 +1,26 @@
-====== Angels Ministered to Jesus [25-08] ======
+====== दूतों द्वारा यीशु की सेवा [25-08] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-08.jpg?nolink&}}
 
-**[[:en:key-terms:jesus|Jesus]]** **did not give in to** **[[:en:key-terms:satan|Satan's]]** **[[:en:key-terms:tempt|temptations]]**, so Satan left him. Then **[[:en:key-terms:angel|angels]]** came and took care of Jesus.
+**यीशु**, **शैतान के** **उकसाने में न आया**, इसलिए शैतान उसे छोड़ कर चला गया। इस पर, **दूतों** ने आकर यीशु के देखरेख की।
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-//A Bible story from: Matthew 4:1-11; Mark 1:12-13; Luke 4:1-13//
+  *
 
+**[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  *
 
+**[[:hi:obs:notes:key-terms:satan|शैतान के]]**
+  *
+
+**[[:hi:obs:notes:key-terms:tempt|उकसाने]]**
+  *
+
+**[[:hi:obs:notes:key-terms:angel|दूतों]]**
 ===== Translation Notes: =====
 
-  * **did not give in to** - This could be translated as, “did not do the things that Satan was tempting him to do.”
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-  
+  * **उकसाने में न आया**  - इसे हम यूँ भी कह सकते हैं, कि “उसने वे चीज़े न की जो शैतान उससे करवाना चाहता था।“
+  * बाइबिल की कहानी
+-  बाइबिल के कुछ संस्करणों में इनका अनुवाद अलग तरह से किया हो सकता है।
 
 **[[:hi:obs:notes:frames:25-07|<<]] | [[:hi:obs:notes:25|Up]] | [[:hi:obs:notes:frames:26-01|>>]]**
