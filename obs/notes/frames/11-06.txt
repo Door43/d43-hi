@@ -1,18 +1,15 @@
-====== Death of the Firstborn [11-06] ======
+====== पहलौठों की मृत्यु [11-06] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-06.jpg?nolink&}}
 
-But the **[[:en:key-terms:egypt|Egyptians]]** **did not [[:en:key-terms:believe|believe]] [[:en:key-terms:god|God]] or obey his commands**. So God **did not pass over** their houses. God killed every one of the Egyptians' firstborn sons.
+लेकिन **मिस्रवासियों ने परमेश्वर की बात पर न तो विश्वास किया और न ही उसकी आज्ञाओं का पालन ****किया** । इसलिए परमेश्वर ने **उनके घरों को न ****बख्शा** । परमेश्वर ने हर मिस्रवासी के पहलौठे को मृत्यु दे दी।
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
+   * **__[[:hi:obs:notes:key-terms:egypt|मिस्रवासियों]]__**
+  * **__[[:hi:obs:notes:key-terms:believe|विश्वास]]__**
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+**अनुवाद के लिए नोट्स****:**
 
-===== Translation Notes: =====
-
-
-  * **did not believe God or obey his commands** – In some languages it may be more natural or clear to say, “did not believe God and so they did not obey his commands.”
-  * **did not pass over** - He did not pass by their houses. Rather he stopped at each house and killed their eldest son. 
-  
-
+  * **परमेश्वर की बात पर न तो विश्वास किया और न ही उसकी आज्ञाओं का पालन किया**  - कुछ भाषाओं में ऐसा कहना अधिक सहज होगा कि, "परमेश्वर की बात पर विश्वास नहीं किया और इसलिए उसकी आज्ञाओं का पालन भी नहीं किया।"
+  * **न बख्शा**  -  उसने उनके घरो को न छोड़ा। बल्कि वह हर घर पर रुका और उनके सबसे बड़े बेटों को मृत्यु दी।
 **[[:hi:obs:notes:frames:11-05|<<]] | [[:hi:obs:notes:11|Up]] | [[:hi:obs:notes:frames:11-07|>>]]**
-
-
-
