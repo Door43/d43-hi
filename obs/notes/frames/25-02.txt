@@ -1,14 +1,24 @@
-====== The First Temptation [25-02] ======
+====== पहली परीक्षा [25-02] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-02.jpg?nolink&}}
 
-**[[:en:key-terms:satan|Satan]]** **[[:en:key-terms:tempt|tempted]]** **[[:en:key-terms:jesus|Jesus]]** by saying, “If you are the **[[:en:key-terms:god-son|Son of God]]**, **turn these rocks into bread** so you can eat!”
+**[[:hi:obs:notes:key-terms:satan|शैतान]]** ने ऐसा कहते हुए **[[:hi:obs:notes:key-terms:jesus|यीशु]]** की **[[:hi:obs:notes:key-terms:tempt|परीक्षा ली]]**, कि “यदि तू **[[:hi:obs:notes:key-terms:son of god|परमेश्वर का बेटा]]** है तो **इन पत्थरों को रोटियों में बदल दे**, ताकि तू उन्हें खा सके!”
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[https://door43.org/en/obe/kt/satan|शैतान]]**
+  *
 
-  * **turn these rocks into bread** - This may also be translated as, "make these rocks become bread" or, "supernaturally change these rocks into bread."
-  * **bread** – This could be translated as, “food” for languages where bread is not a common food. In the Jews' culture, bread was the main food.
-  
+**[[https://door43.org/en/obe/kt/tempt|परीक्षा ली]]**
+  *
 
+**[[https://door43.org/en/obe/kt/jesus|यीशु]]**
+  *
+
+**[[https://door43.org/en/obe/kt/sonofgod|परमेश्वर का बेटा]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **इस पत्थरों को रोटियों में बदल दे**  - इसका अनुवाद करते समय आप ऐसा लिख सकते हैं, : “इन पत्थरों को रोटियाँ बना दे”, या फिर, “इन पत्थरों को अलौकिक रीती से रोटियों में बदल दे।“
+  * **रोटियों**  – इसे “भोजन” भी लिख सकते हैं। यहूदी संस्कृति में रोटी ही मुख्य भोजन होती है।
 **[[:hi:obs:notes:frames:25-01|<<]] | [[:hi:obs:notes:25|Up]] | [[:hi:obs:notes:frames:25-03|>>]]**
