@@ -1,20 +1,20 @@
-====== Pharaoh Refused to Listen [10-12] ======
+====== फिरौन ने आज्ञा मानने से इनकार कर दिया [10-12] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-12.jpg?nolink&}}
 
-Even after **these nine plagues**, **[[:en:key-terms:pharaoh|Pharaoh]]** still refused to let the **[[:en:key-terms:israel|Israelites]]** go free. **Since Pharaoh would not listen**, **[[:en:key-terms:god|God]]** planned to send one last plague. **This would change Pharaoh’s mind**.
+**इन नौ विपत्तियों** के बावजूद, **फिरौन** ने **इस्राएलियों ** को जाने न दिया। **चूंकि फिरौन आज्ञा नहीं मान रहा था**, इसलिए **परमेश्वर ** ने एक अंतिम विपत्ति भेजने की योजना बनाई। **इससे फिरौन का मन बदल ****जाएगा** ।
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-//A Bible story from: Exodus 5-10//
+   * **__[[:hi:obs:notes:key-terms:pharaoh|फिरौन]]__**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएलियों]]__**
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+**अनुवाद के लिए नोट्स****:**
 
+  * **इस नौ विपत्तियों**  - इसका आशय उन नौ त्रासदियों से है जो परमेश्वर ने मिस्र पर भेजी थीं।
+  * **चूंकि फिरौन आज्ञा नहीं मान रहा था**  - इसका अबुवाद हम ऐसे भी कर सकते हैं, "चूंकि फिरौन परमेश्वर की कही बात को न मानता," या. "चूंकि फिरौन ने परमेश्वर की आज्ञा मानने से मना कर दिया था।"
+  * **इससे फिरौन का मन बदल जाएगा**  - इसे कहने का दूसरा तरीका होगा, "अन्तिम विपत्ति परमेश्वर के प्रति फिरौन के विचार बदल देगा और जिस कारण वह इस्राएलियों को जाने देगा।"
+  * बाइबिल की कहानी   -  बाइबिल के कुछ संस्करणों में इनका अनुवाद अलग तरह से किया हो सकता है।
 
-===== Translation Notes: =====
-
-  * **these nine plagues** - This means, "these nine disasters that God had caused." 
-  * **Since Pharaoh would not listen** - This could be translated as, “Since Pharaoh would not do what God was telling him to do” or, “Since Pharaoh refused to obey God.”
-  * **This would change Pharaoh's mind** - Another way to say this would be, "This last plague would cause Pharaoh to change how he thought about God and as a result he would let the Israelites go free."
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-  
+  *
 
 **[[:hi:obs:notes:frames:10-11|<<]] | [[:hi:obs:notes:10|Up]] | [[:hi:obs:notes:frames:11-01|>>]]**
-
-
