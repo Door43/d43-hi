@@ -1,16 +1,15 @@
-====== Sorrow in Egypt [11-07] ======
+====== मिस्र में दुःख [11-07] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-07.jpg?nolink&}}
 
-Every **[[:en:key-terms:egypt|Egyptian]]** firstborn male died, **from the firstborn of the prisoner in jail, to the firstborn of [[:en:key-terms:pharaoh|Pharaoh]]**. Many people in **[[:en:key-terms:egypt|Egypt]]** were crying and wailing because of their deep sadness.
+**जेल के कैदी से ले कर, फिरौन के पहले बेटे तक**, हर **मिस्रवासी ** का पहलौठा मारा गया। गहरे दुःख के कारण **मिस्र ** में कई लोग मातम मना रहे थे।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:egypt|मिस्र की]]__**
+  * **__[[:hi:obs:notes:key-terms:pharaoh|फिरौन]]__**
+  * **__[[:hi:obs:notes:key-terms:egypt|मिस्र]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **from the firstborn of the prisoner in jail, to the firstborn of Pharaoh** - This is a way of saying that everyone's firstborn son died–from the son of the least important person to the son of the most important person, and everyone in between.
-
-
+  * **जेल के कैदी से लेकर****, ****फिरौन के बेटे तक**  -  ऐसा कह कर ये बताया जा रहा है की मिस्र के साधारण व्यक्ति से लेकर सबसे महत्वपूर्ण व्यक्ति तक हर व्यक्ति के पहलौठे की मृत्यु हो गयी थी।
 **[[:hi:obs:notes:frames:11-06|<<]] | [[:hi:obs:notes:11|Up]] | [[:hi:obs:notes:frames:11-08|>>]]**
-
-
