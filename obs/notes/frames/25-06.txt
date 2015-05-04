@@ -1,16 +1,28 @@
-====== The Third Temptation [25-06] ======
+====== तीसरी परीक्षा [25-06] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-06.jpg?nolink&}}
 
-Then **[[:en:key-terms:satan|Satan]]** showed **[[:en:key-terms:jesus|Jesus]]** all the **[[:en:key-terms:kingdom|kingdoms]] of the world** and all **their [[:en:key-terms:glory|glory]]** and said, “**I will give you all this** if you bow down and **[[:en:key-terms:worship|worship]]** me.”
+**शैतान** तब **यीशु** को **संसार के सारे राज्य**, **उनका सारा वैभव** दिखा कर बोला, “यदि तू मेरे सामने झुके और मेरी आराधना करे तो **मैं तुझे यह सब दे ****दूँगा** ।“
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[:hi:obs:notes:key-terms:satan|शैतान]]**
+  *
 
-  * **kingdoms of the world** - This refers to all the greatest cities, countries, and other territories of the world.
-  * **their glory** - That is, "their power and wealth.” 
-  * **I will give you all this** -  This could be translated as, “I will give you all the wealth and power of these kingdoms” or, “I will make you the ruler over all these countries, cities and people.” 
+**[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  *
 
-  
+**[[:hi:obs:notes:key-terms:kingdom|राज्य]]**
+  *
 
+**[[:hi:obs:notes:key-terms:glory|वैभव]]**
+  *
+
+**[[:hi:obs:notes:key-terms:worship|आराधना]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **संसार के सारे राज्य**  - अर्थात, संसार के महान नगर, देश, और अधिकार क्षेत्र।
+  * **उनका वैभव**  - अर्थात, “उनकी सामर्थ और समृद्धि।“
+  * **मैं तुझे यह सब दे दूँँगा**  - इसका अनुवाद हम ऐसे कर सकते हैं,: “मैं तुझे इन सब देशों, नगरों और लोगों का शासक बना दूँगा।“
 **[[:hi:obs:notes:frames:25-05|<<]] | [[:hi:obs:notes:25|Up]] | [[:hi:obs:notes:frames:25-07|>>]]**
