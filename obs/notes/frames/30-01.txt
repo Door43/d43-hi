@@ -1,14 +1,21 @@
-====== A Quiet Place [30-01] ======
+====== एक विश्राम स्थल [30-01] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-01.jpg?nolink&}}
 
-**[[:en:key-terms:jesus|Jesus]]** sent his **[[:en:key-terms:apostle|apostles]]** to **[[:en:key-terms:preach|preach]]** and to teach people in many different villages. When they returned to where Jesus was, they told him what they had done. Then Jesus invited them to go with him to a **quiet place** across the lake to rest for a while. So, they got into a boat and went to the other side of the lake.
+अपने **[[:hi:obs:notes:key-terms:apostle|प्रेरितों]]** को [[:hi:obs:notes:key-terms:jesus|यीशु]] न कई नगरो-गाँवों में [[:hi:obs:notes:key-terms:preach|उपदेश]] और शिक्षा देने भेजा। वहाँ पर उन्होंने जो भी किया, वे सारी बाते उन्होंने यीशु के निवास स्थान पर लौट कर उसे बताई। यीशु ने तब उनसे झील पार की एक **एकांत जगह** पर चल कर थोडा सा विश्राम करने को कहा। इस पर वे नाव में सवार हो कर झील की दूसरी और चले गए।
+===== महत्वपूर्ण शब्द: =====
 
+  *
+
+**[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  *
+
+**[[:hi:obs:notes:key-terms:apostle|प्रेरित]]**
+  *
+
+**[[:hi:obs:notes:key-terms:preach|उपदेश देना]]**
 ===== Translation Notes: =====
 
-
-  * **returned** - This could also  be translated as, "returned to Jesus" or, "returned to where Jesus was."
-  * **quiet place** - This refers to a place with few people where they could be by themselves.
-  
-
+  * **returned**  - This could also be translated as, "returned to Jesus" or, "returned to where Jesus was."
+  * **quiet place**  - This refers to a place with few people where they could be by themselves.
 **[[:hi:obs:notes:frames:29-09|<<]] | [[:hi:obs:notes:30|Up]] | [[:hi:obs:notes:frames:30-02|>>]]**
