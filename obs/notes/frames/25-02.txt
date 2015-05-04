@@ -2,21 +2,13 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-02.jpg?nolink&}}
 
-**[[:hi:obs:notes:key-terms:satan|शैतान]]** ने ऐसा कहते हुए **[[:hi:obs:notes:key-terms:jesus|यीशु]]** की **[[:hi:obs:notes:key-terms:tempt|परीक्षा ली]]**, कि “यदि तू **[[:hi:obs:notes:key-terms:son of god|परमेश्वर का बेटा]]** है तो **इन पत्थरों को रोटियों में बदल दे**, ताकि तू उन्हें खा सके!”
+**[[:hi:obs:notes:key-terms:satan|शैतान]]** ने ऐसा कहते हुए **[[:hi:obs:notes:key-terms:jesus|यीशु]]** की **[[:hi:obs:notes:key-terms:tempt|परीक्षा ली]]**, कि “यदि तू **[[:hi:obs:notes:key-terms:son-of-god|परमेश्वर का बेटा]]** है तो **इन पत्थरों को रोटियों में बदल दे**, ताकि तू उन्हें खा सके!”
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
-
-**[[https://door43.org/en/obe/kt/satan|शैतान]]**
-  *
-
-**[[https://door43.org/en/obe/kt/tempt|परीक्षा ली]]**
-  *
-
-**[[https://door43.org/en/obe/kt/jesus|यीशु]]**
-  *
-
-**[[https://door43.org/en/obe/kt/sonofgod|परमेश्वर का बेटा]]**
+  * **[[https://door43.org/en/obe/kt/satan|शैतान]]**
+  * **[[https://door43.org/en/obe/kt/tempt|परीक्षा ली]]**
+  * **[[https://door43.org/en/obe/kt/jesus|यीशु]]**
+  * **[[https://door43.org/en/obe/kt/sonofgod|परमेश्वर का बेटा]]**
 ===== अनुवाद के लिए नोट्स: =====
 
   * **इस पत्थरों को रोटियों में बदल दे**  - इसका अनुवाद करते समय आप ऐसा लिख सकते हैं, : “इन पत्थरों को रोटियाँ बना दे”, या फिर, “इन पत्थरों को अलौकिक रीती से रोटियों में बदल दे।“
