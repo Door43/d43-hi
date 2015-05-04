@@ -1,16 +1,38 @@
-====== Jesus Is the Son of God [24-09] ======
+====== यीशु ही परमेश्वर का बेटा है [24-09] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-09.jpg?nolink&}}
 
-**[[:en:key-terms:god|God]] had told [[:en:key-terms:john-baptist|John]]**, “The **[[:en:key-terms:holy-spirit|Holy Spirit]]** **will come down and rest on** someone you **[[:en:key-terms:baptize|baptize]]**. That person is the **[[:en:key-terms:god-son|Son of God]]**.” There is only one God. But John heard **[[:en:key-terms:god-father|God the Father]]** speak, and saw **[[:en:key-terms:jesus|Jesus]]** the **[[:en:key-terms:god-son|Son]]** and the Holy Spirit when he baptized Jesus.
+**[[:en:key-terms:god|God]] had told [[:en:key-terms:john-baptist|John]]**, “The **[[:en:key-terms:holy-spirit|Holy Spirit]]****will come down and rest on** someone you **[[:en:key-terms:baptize|baptize]]**. That person is the **[[:en:key-terms:god-son|Son of God]]**.” There is only one God. But John heard **[[:en:key-terms:god-father|God the Father]]** speak, and saw **[[:en:key-terms:jesus|Jesus]]** the **[[:en:key-terms:god-son|Son]]** and the Holy Spirit when he baptized Jesus.
 
-//A Bible story from: Matthew 3; Mark 1:9-11; Luke 3:1-23//
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[https://door43.org/en/obe/kt/god|परमेश्वर]]**
+  *
 
-  * **God had told John** - That is, “Before this, God had told John” or, “Before Jesus came to be baptized, God had told John.” 
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-  
+**[[https://door43.org/en/obe/other/johnthebaptist|यूहन्ना]]**
+  *
+
+**[[https://door43.org/en/obe/kt/holyspirit|पवित्र आत्मा]]**
+  *
+
+**[[https://door43.org/en/obe/kt/baptize|baptizeबपतिस्मा]]**
+  *
+
+**[[https://door43.org/en/obe/kt/sonofgod|परमेश्वर का बेटा]]**
+  *
+
+**[[https://door43.org/en/obe/kt/godthefather|पिता परमेश्वर]]**
+  *
+
+**[[https://door43.org/en/obe/kt/jesus|यीशु]]**
+  *
+
+**[[https://door43.org/en/obe/kt/sonofgod|बेटा]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **परमेश्वर ने यूहन्ना को बताया**  - अर्थात, “बपतिस्मा लेने के लिए यीशु के आने से पूर्व ही, यूहन्ना को परमेश्वर बता चुका था।“
+  * बाइबिल की कहानी - बाइबिल के कुछ संस्करणों में इनका अनुवाद अलग तरह से किया हो सकता है।
 
 **[[:hi:obs:notes:frames:24-08|<<]] | [[:hi:obs:notes:24|Up]] | [[:hi:obs:notes:frames:25-01|>>]]**
