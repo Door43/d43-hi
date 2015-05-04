@@ -1,17 +1,21 @@
-====== Israel Left Egypt [12-01] ======
+====== इस्राएल का मिस्र छोड़ना [12-01] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-01.jpg?nolink&}}
 
-The **[[:en:key-terms:israel|Israelites]]** were very happy to leave **[[:en:key-terms:egypt|Egypt]]**. **They were no longer [[:en:key-terms:servant|slaves]]**, and they were **going** to the **[[:en:key-terms:promised-land|Promised Land]]**! The **[[:en:key-terms:egypt|Egyptians]]** gave the Israelites whatever they asked for, even gold and silver and other valuable things. Some people from other nations **[[:en:key-terms:believe|believed]]** in **[[:en:key-terms:god|God]]** and went along with the Israelites as they left Egypt.
+**इस्राएलियों ** को **मिस्र** छोड़ने की बहुत ख़ुशी थी। **वे अब दास न थे**, और वे अब अपनी **वाचा की भूमि** की और** जा रहे थे**! इस्राएलियों ने जो भी माँगा, **मिस्रवासियों ** ने वो सब उन्हें दे दिया, यहाँ तक कि सोना और चांदी और दूसरी बहुमूल्य चीज़ें भी। दुसरे देशों के कुछ लोगो ने भी **परमेश्वर** पर **विश्वास** किया और इस्राएलियों के साथ मिस्र छोड़ कर चले गए।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:israel|इस्राएलियों]]__**
+  * **__[[:hi:obs:notes:key-terms:egypt|मिस्र]]__**
+  * **__[[:hi:obs:notes:key-terms:servant|दास]]__**
+  * **[[:hi:obs:notes:key-terms:promisedland|वाचा की भूमि]]**
+  * **__[[:hi:obs:notes:key-terms:egypt|मिस्रवासियों]]__**
+  * **__[[:hi:obs:notes:key-terms:believe|विश्वास किया]]__**
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **They were no longer slaves** - This could be translated as, “They were not slaves anymore.” 
-  * **going** – Some languages may use a more specific word like “traveling” since they would be going a long distance to the Promised Land. 
-  * **Promised Land** - This is the land that God had promised that he would give to Abraham's descendants.
-  
-
+  * **वे अब दास न थे**  - इसे ऐसे भी कह सकते हैं, कि "अब वे किसी के दास नहीं थे।"
+  * **जा रहे थे **- कुछ भाषाओं में "यात्रा कर रहे थे" कहना अधिक स्पष्टता देगा क्योंकि वे दूर स्थित वाचा की भूमि की ओर जा रहे थे।
+  * **वाचा की भूमि**  - यही वह भूमि है जिसे अब्राहम के वंशजो को देने की वाचा परमेश्वर ने बाँधी थी।
 **[[:hi:obs:notes:frames:11-08|<<]] | [[:hi:obs:notes:12|Up]] | [[:hi:obs:notes:frames:12-02|>>]]**
-
