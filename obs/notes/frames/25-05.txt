@@ -1,15 +1,28 @@
-====== Do Not Test God [25-05] ======
+====== परमेश्वर की परीक्षा न ले [25-05] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-05.jpg?nolink&}}
 
-But **[[:en:key-terms:jesus|Jesus]]** replied to **[[:en:key-terms:satan|Satan]]** by quoting from the **[[:en:key-terms:word-of-god|Scriptures.]]** He said, “**In [[:en:key-terms:word-of-god|God's Word]], he commands his people, ‘Do not test the [[:en:key-terms:lord|Lord]] your [[:en:key-terms:god|God]]**.’”
+लेकिन **यीशु** ने वचन का सन्दर्भ देते हुए **शैतान** को उत्तर दिया। उसने कहा, “**परमेश्वर अपने वचन में अपने लोगों को आज्ञा देते हुए कहता है**, “**अपने** **प्रभु** **परमेश्वर** **की कभी परीक्षा न लेना** ।“
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  *
 
+**[[:hi:obs:notes:key-terms:satan|शैतान]]**
+  *
 
-  * **In God’s Word, he commands his people, ‘Do not test the Lord, your God.’”** – This could be translated as an indirect quote: “God commands us in his Word that we should not test the Lord our God.” 
-  * **Do not test the Lord your God** - This could be translated as, “Do not make the Lord your God prove himself to you” or, “Do not make the Lord your God prove that he is good.” 
-  * **Lord your God** – That is, “Yahweh, your God” or, “Yahweh, who is God and has authority over you.”  
+**[[:hi:obs:notes:key-terms:word of god|वचन]]**
+  *
 
+**[[:hi:obs:notes:key-terms:lord|प्रभु]]**
+  *
+
+**[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **परमेश्वर अपने वचन में, अपने लोगों को आज्ञा देते हुए कहता है:**  – इस वाक्य को परोक्ष रूप से भी कह सकते हैं: ““परमेश्वर अपने वचन में हमें आज्ञा देता है कि हमें अपने प्रभु परमेश्वर कि कभी परीक्षा न लेना।“
+  * **अपने प्रभु परमेश्वर की कभी परीक्षा न लेना**  - इसे हम ऐसे भी लिख सकते हैं, कि “कभी अपने परमेश्वर को स्वयं को सिद्ध करने को न कहना” या फिर, “कभी अपने परमेश्वर को अपनी भलाई प्रमाणित करने को न कहना।“
+  * **अपने प्रभु परमेश्वर**  – अर्थात, “अपने परमेश्वर, यहोवा” या फिर, “वह जिसका तुम पर अधिकार है, उस यहोवा को।“
 **[[:hi:obs:notes:frames:25-04|<<]] | [[:hi:obs:notes:25|Up]] | [[:hi:obs:notes:frames:25-06|>>]]**
