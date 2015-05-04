@@ -1,16 +1,19 @@
-====== The Painful Sores [10-07] ======
+====== **दर्दनाक घाव् ** [10-07] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-07.jpg?nolink&}}
 
-Then **[[:en:key-terms:god|God]]** told **[[:en:key-terms:moses|Moses]]** to throw ashes into the air in front of **[[:en:key-terms:pharaoh|Pharaoh]]**. When he did, painful skin sores appeared on the **[[:en:key-terms:egypt|Egyptians]]**, but not on the **[[:en:key-terms:israel|Israelites]]**. **God hardened Pharaoh's heart**, and Pharaoh would not let the Israelites go free.
+इसके बाद **परमेश्वर ** ने **मूसा** को **फिरौन** के आगे राख को हवा में उड़ाने को कहा। उसके ऐसा करने पर **मिस्रवासियों** की त्वचा पर दर्दनाक घाव निकल आये, लेकिन **इस्राएलियों** के साथ ऐसा नहीं हुआ। **परमेश्वर ने फिरौन का मन कठोर कर दिया**, और फिरौन ने इस्राएलियों को जाने न दिया।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:moses|मूसा]]__**
+  * **__[[:hi:obs:notes:key-terms:pharaoh|फिरौन]]__**
+  * **__[[:hi:obs:notes:key-terms:egypt|मिस्रवासियों]]__**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएलियों]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **God hardened Pharaoh's heart** - God caused Pharaoh to continue to be stubborn. See also note in **[[:hi:obs:notes:frames:10-04|[10-04]]]**.
- 
+  * **परमेश्वर ने फिरौन का मन कठोर कर दिया**  - परमेश्वर उस फिरौन को कठोर बनाए रखा। **__[10__ ****__ - __ ****__04]__** में दी टिपण्णी को देखे।
+  *
 
 **[[:hi:obs:notes:frames:10-06|<<]] | [[:hi:obs:notes:10|Up]] | [[:hi:obs:notes:frames:10-08|>>]]**
-
-
