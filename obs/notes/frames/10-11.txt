@@ -1,16 +1,17 @@
-====== The Darkness [10-11] ======
+====== अंधकार [10-11] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-11.jpg?nolink&}}
 
-Then **[[:en:key-terms:god|God]] sent darkness that lasted for three days**. It was so dark that the **[[:en:key-terms:egypt|Egyptians]]** could not leave their houses. But there was light where the **[[:en:key-terms:israel|Israelites]]** lived.
+इसके बाद **परमेश्वर ने तीन दिनों तक छाया रहेनेवाला अन्धकार ****भेजा** । अन्धकार इतना गहन था कि कोई भी **मिस्रवासी ** अपने घर से बाहर न निकल सका। लेकिन **इस्राएलियों ** के डेरों पर प्रकाश था।
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
+   * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:egypt|मिस्रवासियों]]__**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएलियों]]__**
+**अनुवाद के लिए नोट्स****:**
 
-===== Translation Notes: =====
+  * **परमेश्वर ने अन्धकार भेजा**  - परमेश्वर ने लगभग पूरे मिस्र को अन्धकार से धक् दिया। दूसरे शब्दों में कहें तो, परमेश्वर ने उस मिस्र से प्रकाश को हटा लिया।
+  * **तीन दिनों तक छाया रहनेवाला अन्धकार**  - यह रात में छानेवाले अन्धकार से कहीं अधिक गहन था, और यह अन्धकार पूरे तीन दिनों तक छाया रहा।
+  *
 
-
-  * **God sent darkness** - God caused darkness to cover or spread over most of Egypt. In other words, God took away the light from this part of Egypt.
-  * **darkness that lasted for three days** - This darkness was darker than ordinary nighttime darkness, and it continued to be totally dark for three whole days.
-  
 **[[:hi:obs:notes:frames:10-10|<<]] | [[:hi:obs:notes:10|Up]] | [[:hi:obs:notes:frames:10-12|>>]]**
-
-
