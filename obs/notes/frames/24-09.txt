@@ -2,34 +2,18 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-09.jpg?nolink&}}
 
-**[[:en:key-terms:god|God]] had told [[:en:key-terms:john-baptist|John]]**, “The **[[:en:key-terms:holy-spirit|Holy Spirit]]****will come down and rest on** someone you **[[:en:key-terms:baptize|baptize]]**. That person is the **[[:en:key-terms:god-son|Son of God]]**.” There is only one God. But John heard **[[:en:key-terms:god-father|God the Father]]** speak, and saw **[[:en:key-terms:jesus|Jesus]]** the **[[:en:key-terms:god-son|Son]]** and the Holy Spirit when he baptized Jesus.
+**परमेश्वर युहन्ना को बता चुका था**, कि “तू जिन्हे **बपतिस्मा** देगा, उनमें से एक के ऊपर **पवित्र आत्मा** आकर ठहरेगा। वह व्यक्ति **[[:hi:obs:notes:key-terms:god son|परमेश्वर का बेटा]]** है। परमेश्वर केवल एक है। लेकिन यीशु को बपतिस्मा देते समय युहन्ना ने **[[:hi:obs:notes:key-terms:god father|पिता परमेश्वर]]** को बोलते सूना, पुत्र परमेश्वर, **[[:hi:obs:notes:key-terms:jesus|यीशु]]** को अपने समक्ष देखा, और पवित्र आत्मा को भी देखा।
 
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
-
-**[[https://door43.org/en/obe/kt/god|परमेश्वर]]**
-  *
-
-**[[https://door43.org/en/obe/other/johnthebaptist|यूहन्ना]]**
-  *
-
-**[[https://door43.org/en/obe/kt/holyspirit|पवित्र आत्मा]]**
-  *
-
-**[[https://door43.org/en/obe/kt/baptize|baptizeबपतिस्मा]]**
-  *
-
-**[[https://door43.org/en/obe/kt/sonofgod|परमेश्वर का बेटा]]**
-  *
-
-**[[https://door43.org/en/obe/kt/godthefather|पिता परमेश्वर]]**
-  *
-
-**[[https://door43.org/en/obe/kt/jesus|यीशु]]**
-  *
-
-**[[https://door43.org/en/obe/kt/sonofgod|बेटा]]**
+  * **[[https://door43.org/en/obe/kt/god|परमेश्वर]]**
+  * **[[https://door43.org/en/obe/other/johnthebaptist|यूहन्ना]]**
+  * **[[https://door43.org/en/obe/kt/holyspirit|पवित्र आत्मा]]**
+  * **[[https://door43.org/en/obe/kt/baptize|बपतिस्मा]]**
+  * **[[https://door43.org/en/obe/kt/sonofgod|परमेश्वर का बेटा]]**
+  * **[[https://door43.org/en/obe/kt/godthefather|पिता परमेश्वर]]**
+  * **[[https://door43.org/en/obe/kt/jesus|यीशु]]**
+  * **[[https://door43.org/en/obe/kt/sonofgod|बेटा]]**
 ===== अनुवाद के लिए नोट्स: =====
 
   * **परमेश्वर ने यूहन्ना को बताया**  - अर्थात, “बपतिस्मा लेने के लिए यीशु के आने से पूर्व ही, यूहन्ना को परमेश्वर बता चुका था।“
