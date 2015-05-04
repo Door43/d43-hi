@@ -1,15 +1,14 @@
-====== Pharaoh's Hard Heart [10-09] ======
+====== फिरौन का कठोर मन [10-09] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-09.jpg?nolink&}}
 
-But **[[:en:key-terms:pharaoh|Pharaoh]]** **[[:en:key-terms:sin|sinned]]** again and **hardened his heart**. He would not let the **[[:en:key-terms:israel|Israelites]]** go free.
+लेकिन **फिरौन ने फिर पाप किया** और अपने **मन को फिर से कठोर कर ****लिया** । उसने **इस्राएलियों** को जाने न दिया।
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
+   * **__[[:hi:obs:notes:key-terms:pharaoh|फिरौन]]__**
+  * **__[[:hi:obs:notes:key-terms:sin|पाप किये]]__**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएलियों]]__**
+**अनुवाद के लिए नोट्स****:**
 
-===== Translation Notes: =====
-
-
-  * **hardened his heart** - See note in **[[:hi:obs:notes:frames:10-04|[10-04]]]**.  
-
-
+  * **मन कठोर कर लिया**  - **[[:hi:obs:notes:frames:10-04|[10-04]]]** को देखें।
 **[[:hi:obs:notes:frames:10-08|<<]] | [[:hi:obs:notes:10|Up]] | [[:hi:obs:notes:frames:10-10|>>]]**
-
