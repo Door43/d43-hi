@@ -2,18 +2,12 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-01.jpg?nolink&}}
 
-अपने **[[:hi:obs:notes:key-terms:apostle|प्रेरितों]]** को [[:hi:obs:notes:key-terms:jesus|यीशु]] न कई नगरो-गाँवों में [[:hi:obs:notes:key-terms:preach|उपदेश]] और शिक्षा देने भेजा। वहाँ पर उन्होंने जो भी किया, वे सारी बाते उन्होंने यीशु के निवास स्थान पर लौट कर उसे बताई। यीशु ने तब उनसे झील पार की एक **एकांत जगह** पर चल कर थोडा सा विश्राम करने को कहा। इस पर वे नाव में सवार हो कर झील की दूसरी और चले गए।
+अपने **[[:hi:obs:notes:key-terms:apostle|प्रेरितों]]** को **[[:hi:obs:notes:key-terms:jesus|यीशु]]** न कई नगरो-गाँवों में **[[:hi:obs:notes:key-terms:preach|उपदेश]]** और शिक्षा देने भेजा। वहाँ पर उन्होंने जो भी किया, वे सारी बाते उन्होंने यीशु के निवास स्थान पर लौट कर उसे बताई। यीशु ने तब उनसे झील पार की एक **एकांत जगह** पर चल कर थोडा सा विश्राम करने को कहा। इस पर वे नाव में सवार हो कर झील की दूसरी और चले गए।
 ===== महत्वपूर्ण शब्द: =====
 
-  *
-
-**[[:hi:obs:notes:key-terms:jesus|यीशु]]**
-  *
-
-**[[:hi:obs:notes:key-terms:apostle|प्रेरित]]**
-  *
-
-**[[:hi:obs:notes:key-terms:preach|उपदेश देना]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:apostle|प्रेरित]]**
+  * **[[:hi:obs:notes:key-terms:preach|उपदेश देना]]**
 ===== Translation Notes: =====
 
   * **returned**  - This could also be translated as, "returned to Jesus" or, "returned to where Jesus was."
