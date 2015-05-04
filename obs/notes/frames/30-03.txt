@@ -1,15 +1,25 @@
-====== Jesus Taught and Healed People [30-03] ======
+====== यीशु ने लोगों को उपदेश दिया और चंगा किया [30-03] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-03.jpg?nolink&}}
 
-The crowd had over 5,000 men in it, **not counting the women and children**. **[[:en:key-terms:jesus|Jesus]]** felt great compassion towards the people. **To Jesus**, these people were **like [[:en:key-terms:sheep|sheep]] without a [[:en:key-terms:shepherd|shepherd]]**. So he taught them and **[[:en:key-terms:heal|healed]]** the people among them who were sick.
+**महिलाओं व बच्चों को छोड़**,  भीड़ में ५००० से भी अधिक लोग थे। यीशु को उन पर बहुत तरस आया। **यीशु के लिए** वे लोग **बिना गडरिये की भेड़ों के समान** थे। इसलिए यीशु ने उन्हें उपदेश सुनाया और उनमे से जो बीमार थे, उन्हें **चंगा ****किया** ।
+===== Important Terms: =====
 
+  *
 
-===== Translation Notes: =====
+**[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  *
 
-  * **not counting the women and children** - That is, “not counting the women and children who were with them” or, “and there were also women and children in addition to the men.” Another way to translate this could also be, “in addition, there were many women and children.”
-  * **To Jesus** – That is, “Jesus knew that” or, “Jesus understood that.”
-  * **like sheep without a shepherd** - This could be translated as, “vulnerable and lost, just like sheep are when they have no shepherd to take care of them.”
-  
+**[[:hi:obs:notes:key-terms:sheep|भेड़ों]]**
+  *
 
+**[[:hi:obs:notes:key-terms:shepherd|गडरिये]]**
+  *
+
+**[[:hi:obs:notes:key-terms:heal|चंगा किया]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **महिलाओं व बच्चों को छोड़**  ---अर्थात, "उनके साथ आयीं महिलाओं व बच्चों को छोड़" या फिर, "उनके साथ महिलायें व बच्चे भी थे।"
+  * **यीशु के ****लिए** --या फिर,"यीशु को ज्ञात था कि वे..." या फिर, "यीशु को वे ......लगे।"
+  * **बिना गडरिये की भेड़ों के समान**  --इसकी जगह हम "बिना गडरिये की भेड़ों के समान वे कमज़ोर और खोये हुए थे" भी लिख सकते हैं।
 **[[:hi:obs:notes:frames:30-02|<<]] | [[:hi:obs:notes:30|Up]] | [[:hi:obs:notes:frames:30-04|>>]]**
