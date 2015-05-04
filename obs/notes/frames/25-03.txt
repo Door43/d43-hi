@@ -2,11 +2,11 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-03.jpg?nolink&}}
 
-**[[:hi:obs:notes:key-terms:jesus|यीशु]]** ने उत्तर दिया, “**[[:hi:obs:notes:key-terms:word of god|परमेश्वर]]****[[:hi:obs:notes:key-terms:word of god| के वचन]]** में लिखा है, कि मनुष्य को जीने के लिए केवल **रोटी** नहीं, **बल्कि परमेश्वर के हर वचन की ज़रुरत होती है** ।“
+**[[:hi:obs:notes:key-terms:jesus|यीशु]]** ने उत्तर दिया, “**[[:hi:obs:notes:key-terms:word-of-god|परमेश्वर]]** **[[:hi:obs:notes:key-terms:word-of-god|के वचन]]** में लिखा है, कि मनुष्य को जीने के लिए केवल **रोटी** नहीं, **बल्कि परमेश्वर के हर वचन की ज़रुरत होती है** ।“
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  * **[[:door43.org:en:obe:kt:jesus|यीशु]]**
-  * **[[:hi:obs:notes:key-terms:wordofgod|परमेश्वर का वचन ]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:word of god|परमेश्वर का वचन ]]**
   * **[[:hi:obs:notes:key-terms:god|परमेश्वर ]]**
 ===== अनुवाद के लिए शब्द तथा वाक्यांश: =====
 
