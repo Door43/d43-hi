@@ -1,19 +1,20 @@
-====== Go Away! [11-08] ======
+====== चले जाओ! [11-08] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-08.jpg?nolink&}}
 
-That same night, **[[:en:key-terms:pharaoh|Pharaoh]] called for [[:en:key-terms:moses|Moses]]** and **[[:en:key-terms:aaron|Aaron]] and said**, “Take the **[[:en:key-terms:israel|Israelites]]** and leave **[[:en:key-terms:egypt|Egypt]]** immediately!” The **[[:en:key-terms:egypt|Egyptian]]** people also urged the Israelites to leave immediately.
+उसी रात, फिरौन ने मूसा और **हारून** को बुलवाया **और कहा**, "**इस्राएलियों ** को साथ ले और **मिस्र ** से तुरंत निकल जा!" **मिस्र के लोगों ** ने इस्राएलियों को तुरंत निकल जाने को कहा।
 
-//A Bible story from: Exodus 11:1-12:32//
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
+   * **__[[:hi:obs:notes:key-terms:pharaoh|फिरौन]]__**
+  * **__[[:hi:obs:notes:key-terms:moses|मूसा]]__**
+  * **__[[:hi:obs:notes:key-terms:aaron|हारून]]__**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएलियों]]__**
+  * **__[[:hi:obs:notes:key-terms:egypt|मिस्र]]__**
+**अनुवाद के लिए नोट्स****:**
 
-===== Translation Notes: =====
-
-
-  * **called for** – This means that Pharaoh told his servants to tell Moses and Aaron to come to him. 
-  * **and said** – Pharaoh said the following words to Moses and Aaron after they came to him. In some languages this would be translated as, “and said to them,” or, "After they came, Pharaoh said to them."
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-  
+  * **बुलवाया**  - इसका अर्थ है की फिरौन ने अपने सेवको के द्वारा मूसा और हारून को बुलवाया था।
+  * **और कहा**  -  मूसा और हारून के आने के बाद फिरौन ने ये शब्द उनसे कहे। कुछ भाषाओं में इसका अनुवाद ऐसा होगा, "और उनसे कहा," या कि, "उनके आने पर फिरौन उनसे बोला।"
+  * बाइबिल की कहानी -  बाइबिल के कुछ संस्करणों में इनका अनुवाद अलग तरह से किया हो सकता है।
 
 **[[:hi:obs:notes:frames:11-07|<<]] | [[:hi:obs:notes:11|Up]] | [[:hi:obs:notes:frames:12-01|>>]]**
-
