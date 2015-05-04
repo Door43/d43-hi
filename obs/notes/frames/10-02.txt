@@ -1,18 +1,19 @@
-====== Pharaoh Refused to Obey [10-02] ======
+====== फिरौन ने आज्ञा मानने से मना कर दिया [10-02] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-02.jpg?nolink&}}
 
-**[[:en:key-terms:pharaoh|Pharaoh]]** kept refusing to let **the people** go, so **[[:en:key-terms:god|God]]** sent **ten terrible plagues** on **[[:en:key-terms:egypt|Egypt]]**. Through these plagues, God showed Pharaoh that he is more powerful than Pharaoh and **all of Egypt's [[:en:key-terms:god-false|gods]]**.
+**फिरौन** बारम्बार **लोगो को** जाने देने से मना कर देता, इसलिए **परमेश्वर** ने **मिस्र** पर **दस घोर विपत्तियाँ** भेजी। इन विपत्तियों के द्वारा परमेश्वर ने फिरौन को दिखाया कि वह फिरौन तथा **मिस्र के सभी** **देवताओं** से अधिक बलशाली है।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__फिरौन__ **
+  * **__परमेश्वर__ **
+  * **__मिस्र__ **
+  * **__देवताओं__ **
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **the people** - This refers to the people of Israel, also called, “the Israelites.” 
-  * **ten terrible plagues** - A plague is something very bad or terrible that happens to someone or something. A plague usually refers to something that affects many people or happens over a large geographic area. Another word for "plague" would be "disaster."
-  * **all of Egypt's gods** - It may be more clear to say, “all the gods that the Egyptian people worshiped.” The people of Egypt worshiped many different false gods. These false gods were either spirit beings that the God of Israel created, or they did not actually exist. 
-  
+  * **लोग**  - इसका आशय इस्राएल के लोगो से है, जिन्हें "इस्राएली" भी कहते हैं।
+  * **दस घोर विपत्तियाँ**  - किसी के साथ बहुत बुरा होने को उस पर विपत्ति आना कहते हैं। यह अकसर लोगो की विशाल संख्या अथवा विशाल भौगोलिक क्षेत्र के लोगों को प्रभावित करता है। "विपत्ति" के लिए "त्रासदी" भी कह सकते हैं।
+  * **मिस्र के सभी देवताओं**  - इसे और अधिक स्पष्ट करने के लिए हम ऐसा भी कह सकते है "मिस्रवासी जितने भी देवताओं की आराधना करते हैं।" मिस्र के लोग बहुत से देवताओं की आराधन करते थे। ये झूठे देवता या तो इस्राएल के परमेश्वर द्वारा रचे आत्मिक जीव थे, या फिर असल में उनका आस्तित्व ही नहीं था।
 
 **[[:hi:obs:notes:frames:10-01|<<]] | [[:hi:obs:notes:10|Up]] | [[:hi:obs:notes:frames:10-03|>>]]**
-
-
