@@ -1,18 +1,22 @@
-====== The Hail [10-08] ======
+====== **ओले** [10-08] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-08.jpg?nolink&}}
 
-**After that**, **[[:en:key-terms:god|God]] sent hail** that destroyed most of the crops in **[[:en:key-terms:egypt|Egypt]]** and killed anybody who went outside. **[[:en:key-terms:pharaoh|Pharaoh]]** called **[[:en:key-terms:moses|Moses]]** and **[[:en:key-terms:aaron|Aaron]]** and told them, “I have **[[:en:key-terms:sin|sinned]]**. **You may go**.” So Moses **[[:en:key-terms:pray|prayed]]**, and the hail stopped falling from the sky.
+**इसके बाद**,**परमेश्वर** उस **ओले बरसाए**, जिसने **मिस्र** के अधिकाँश फसल को बर्बाद कर दिया और जो भी बाहर गया, वह मारा गया। **फिरौन ** ने **मूसा** और **हारून** को बुलाया और कहा, "मैंने **पाप** किया है। **तुम लोग जा सकते हो** ।" तब मूसा ने **प्रार्थना ** की, और आकाश से ओलों का बरसना बंद हो गया।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__परमेश्वर__ **
+  * **__मिस्र__ **
+  * **__फिरौन__ **
+  * **__मूसा__ **
+  * **__हारून__ **
+  * **__पाप किये__ **
+  * **__प्रार्थना__ **
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **After that** - This means, after God caused the painful sores to appear on the Egyptians' skin.
-  * **God sent hail** - God caused hail to fall from the sky. 
-  * **hail** - Hail is like chunks of ice that fall down from the clouds as rain does. These chunks can be very small or very large. The larger ones will hurt or kill whatever they fall on. 
-  * **You may go** - The word "you" refers to Moses, Aaron, and the Israelites.
-  
-
+  * **इसके बाद**  - अर्थात परमेश्वर मिस्रवासियों की त्वचा पर दर्दनाक घाव निकालने के बाद।
+  * **परमेश्वर ने ओले बरसाए**  - परमेश्वर ने आकाश से ओलों की बारिश की।
+  * **ओले**  - बारिश के समय आकाश से बरसनेवाले बर्फ के टुकड़े। ये टुकड़े आकार में छोटे भी हो सकते हैं और बड़े भी। बड़े टुकड़े जिन पर भी बरसते हैं, उसे ख़त्म कर सकते हैं।
+  * **तुम लोग जा सकते हो - ** यहाँ पर मूसा, हारून और सभी इस्राएलियों की बात हो रही है।
 **[[:hi:obs:notes:frames:10-07|<<]] | [[:hi:obs:notes:10|Up]] | [[:hi:obs:notes:frames:10-09|>>]]**
-
