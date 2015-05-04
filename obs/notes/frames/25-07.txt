@@ -1,16 +1,32 @@
-====== Worship Only God [25-07] ======
+====== केवल परमेश्वर की आराधना कर [25-07] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-07.jpg?nolink&}}
 
-**[[:en:key-terms:jesus|Jesus]]** replied, “**Get away from me**, **[[:en:key-terms:satan|Satan]]**! **In [[:en:key-terms:word-of-god|God’s word]] he commands his people, ‘[[:en:key-terms:worship|Worship]] only the [[:en:key-terms:lord|Lord]] your [[:en:key-terms:god|God]] and only serve him**.’”
+**यीशु** ने उत्तर दिया, “**दूर भाग** ऐ **शैतान**! **परमेश्वर अपने वचन** में अपने लोगों को आदेश देता है, कि “केवल **अपने प्रभु परमेश्वर** की **आराधना** कर **और उसी की सेवा कर** ।“
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[https://door43.org/en/obe/kt/jesus|यीशु]]**
+  *
 
-  * **Get away from me** - This may also be translated as, "Leave me" or, "Leave me alone."
-  * **In God’s word he commands his people, “Worship only the Lord your God and only serve him”** – This could be written as an indirect quote, “In God's word, he commands us that we must worship and serve only the Lord God, who rules over us.”
-  * **Lord your God** – Translate this phrase the same way as you did in **[[:hi:obs:notes:frames:25-05|[25-05]]]**.
-  * **and only serve him** – Another way to say this would be, “He is the only one you should serve.” 
-  
+**[[https://door43.org/en/obe/kt/satan|शैतान]]**
+  *
 
+**[[https://door43.org/en/obe/kt/wordofgod|परमेश्वर अपने वचन]]**
+  *
+
+**[[https://door43.org/en/obe/kt/worship|आराधना]]**
+  *
+
+**[[https://door43.org/en/obe/kt/lord|प्रभु]]**
+  *
+
+**[[https://door43.org/en/obe/kt/god|परमेश्वर]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **दूर भाग**  - इसे हम “भाग जा” या, “मेरा पीछा छोड़” भी लिख सकते हैं।
+  * **In God’s word he commands his people, “Worship only the Lord your God and only serve him”**  – This could be written as an indirect quote, “In God's word, he commands us that we must worship and serve only the Lord God, who rules over us.”
+  * **Lord your God**  – Translate this phrase the same way as you did in **[[:hi:obs:notes:frames:25-05|[25-05]]]**.
+  * **and only serve him**  – Another way to say this would be, “He is the only one you should serve.”
 **[[:hi:obs:notes:frames:25-06|<<]] | [[:hi:obs:notes:25|Up]] | [[:hi:obs:notes:frames:25-08|>>]]**
