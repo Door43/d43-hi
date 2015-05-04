@@ -6,10 +6,10 @@
 
 **महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-   * **__[[:hi:obs:notes:key-terms:pharaoh|फिरौन]]__**
-  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
-  * **__[[:hi:obs:notes:key-terms:egypt|मिस्र]]__**
-  * **__[[:hi:obs:notes:key-terms:falsegod|देवताओं]]__**
+   * **__[[:hi:obs:notes:key-terms:pharaoh|फिरौन]]__ **
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__ **
+  * **__[[:hi:obs:notes:key-terms:egypt|मिस्र]]__ **
+  * **__[[:hi:obs:notes:key-terms:god-false|देवताओं]]__ **
 **अनुवाद के लिए नोट्स****:**
 
   * **लोग**  - इसका आशय इस्राएल के लोगो से है, जिन्हें "इस्राएली" भी कहते हैं।
