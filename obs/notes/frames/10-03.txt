@@ -1,16 +1,16 @@
-====== The Water Became Blood [10-03] ======
+====== पानी लहू हो गया [10-03] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-03.jpg?nolink&}}
 
-**[[:en:key-terms:god|God]] turned the [[:en:key-terms:nile-river|Nile River]] into blood**, but **[[:en:key-terms:pharaoh|Pharaoh]]** still would not let the **[[:en:key-terms:israel|Israelites]]** go.
+**परमेश्वर ने नील नदी को लहू में बदल दिया**, लेकिन **फिरौन** तब भी **इस्राएलियों** को जाने नहीं देता था।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:nileriver|नील नदी]]__**
+  * **__[[:hi:obs:notes:key-terms:pharaoh|फिरौन]]__**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएलियों]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **turned the Nile River into blood** - Some languages may need to say, “turned the water in the Nile River into blood.” Instead of water in the river there was blood, so the fish died and the people had no water to drink. 
-  
-
+  * **नील नदी को लहू में बदल दिया**  - कुछ भाषाओँ में ऐसा भी कहा जा सकता है, "नील नदी के पानी को लहू में बदल दिया।" नदी में पानी की जगह लहू था, जिस कारण उसकी सब मछलियाँ मर गयीं और लोगो के पीने के लिए पानी न रहा।
 **[[:hi:obs:notes:frames:10-02|<<]] | [[:hi:obs:notes:10|Up]] | [[:hi:obs:notes:frames:10-04|>>]]**
-
-
