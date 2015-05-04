@@ -3,17 +3,11 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-02.jpg?nolink&}}
 
 लेकिन कुछ लोगों ने **[[:hi:obs:notes:key-terms:jesus|यीशु]]** और उसके **[[:hi:obs:notes:key-terms:disciple|चेलों]]** को **नाव में बैठ कर** झील के पार जाते देख लिया। वे लोग झील के किनारे-किनारे दौड़ते हुए,उनसे पहले झील के उस पार पहुँच गए। इसलिए जब यीशु और चेले वहाँ **पहुंचे**, तब लोगों की एक बड़ी भीड़ पहले से उनकी प्रतीक्षा कर रही थी।
-
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:disciple|चेले]]**
+===== अनुवाद के लिए नोट्स: =====
 
-**[[:hi:obs:notes:key-terms:jesus|यीशु]]**
-  *
-
-**[[:hi:obs:notes:key-terms:disciple|चेले]]**
-===== Translation Notes: =====
-
-  * **leave in the boat**  - Some languages may need to add, "to cross the lake."
-  * **arrived**  - That is, “got to the other side of the lake” or, “got there.”
+  * **पहुंचे**  - अर्थात, "झील की दूसरी और पहुंचे" या फिर, "झील की दूसरी और उतरे।"
 **[[:hi:obs:notes:frames:30-01|<<]] | [[:hi:obs:notes:30|Up]] | [[:hi:obs:notes:frames:30-03|>>]]**
