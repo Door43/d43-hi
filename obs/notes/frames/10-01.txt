@@ -1,14 +1,21 @@
-====== Let My People Go! [10-01] ======
+====== **मेरे लोगो को जाने दे! ** [10-01] ======
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-01.jpg?nolink&}}
 
-**[[:en:key-terms:moses|Moses]]** and **[[:en:key-terms:aaron|Aaron]]** went **to [[:en:key-terms:pharaoh|Pharaoh]]**. They said, “This is what the **[[:en:key-terms:god|God]] of [[:en:key-terms:israel|Israel]]** says, ‘**Let my people go**!’” Pharaoh did not **listen to** them. Instead of letting the **[[:en:key-terms:israel|Israelites]]** go free, he forced them to work even harder!
+**मूसा ** और **हारून** **फिरौन** के पास गए। उन्होंने कहा,"**इस्राएल** का **परमेश्वर** यह कहता है, "**मेरे लोगो को जाने दे****!"** लेकिन फिरौन ने उनकी न **सुनी** ।” बजाय इसके कि **वह ****इस्रायालियों** को मुक्त करके जाने दे, उसने उन्हें और भी अधिक मेहनत करने पर मजबूर किया!
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:moses|मूसा]]__**
+  * **__[[:hi:obs:notes:key-terms:aaron|हारून]]__**
+  * **__[[:hi:obs:notes:key-terms:pharaoh|फिरौन]]__**
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएल]]__**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएलियों]]__**
+**अनुवाद के लिए नोट्स****:**
 
-  * **to Pharaoh**  – It may be clearer to say, “to Pharaoh's palace to talk to him.”
-  * **God of Israel**  - This could be translated as, “God, who chose the Israelites to be his people” or, “God, who rules the people of Israel” or, “the God whom the Israelites worship.”
-  * **Let My people go**  – Another way to say this would be, “Allow My people to go free” or, “Free My people to leave Egypt.”
-  * **my people**  - See "my people" in **[[:hi:obs:notes:frames:09-13|[09-13]]]**.
-  * **listen to**  – This could be translated as “heed” or, “obey.”
+  * **फिरौन के पास**  - "फिरौन के महल में उससे बात करने गए" कहना शायद अधिक स्पष्ट होगा।
+  * **इस्राएल का परमेश्वर**  - इसका अनुवाद ऐसे भी किया जा सकता है, "इस्राएल को अपना चुननेवाला परमेश्वर," या "इस्राएल पर राज्य करनेवाला परमेश्वर", या फिर "इस्रायलियों का आराध्य परमेश्वर।"
+  * **मेरे लोगो को जाने दे**  - इसे कहने का दूसरा तरीका यह भी हो सकता है, "मेरे लोगो को मुक्त होकर जाने दे" या, "मेरे लोगो को मिस्र से जाने दे।"
+  * **मेरे लोग**  - **__[[:hi:obs:notes:frames:09-13|[09-13]]]__** में उल्लिखित "मेरे लोगो को जाने दे" का पूर्व अनुवाद देखें।
+  * **सुनी**  - इसे ऐसे भी कह सकते हैं, कि "कोई परवाह न की", या फिर "उनकी बात न मानी।”
 **[[:hi:obs:notes:frames:09-15|<<]] | [[:hi:obs:notes:10|Up]] | [[:hi:obs:notes:frames:10-02|>>]]**
