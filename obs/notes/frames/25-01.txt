@@ -1,16 +1,36 @@
-====== Satan Tempted Jesus [25-01] ======
+====== शैतान द्वारा यीशु की परीक्षा [25-01] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-01.jpg?nolink&}}
 
-Immediately after **[[:en:key-terms:jesus|Jesus]]** was **[[:en:key-terms:baptize|baptized]]**, **the [[:en:key-terms:holy-spirit|Holy Spirit]] led him** out into **the wilderness**, where he **[[:en:key-terms:fast|fasted]]** for **forty days and forty nights**. Then **[[:en:key-terms:satan|Satan]]** came to Jesus and **[[:en:key-terms:tempt|tempted]] him to [[:en:key-terms:sin|sin]]**.
+Immediately after **[[:en:key-terms:jesus|Jesus]]** was **[[:en:key-terms:baptize|baptized]]**, **the [[:en:key-terms:holy-spirit|Holy Spirit]] led him**out into **the wilderness**, where he **[[:en:key-terms:fast|fasted]]** for **forty days and forty nights**. Then **[[:en:key-terms:satan|Satan]]** came to Jesus and **[[:en:key-terms:tempt|tempted]] him to [[:en:key-terms:sin|sin]]**.
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  *
 
-  * **the Holy Spirit led him** – That is, "the Holy Spirit guided him" or, "the Holy Spirit prompted him to go."
-  * **the wilderness** - This could also be translated as, “the desert” or, “a remote, barren place with few people.” This place probably had very few trees or other plants, so most people would not be able to live there. 
-  * **forty days and forty nights** - This means “forty days, both during the day and during the night.” Make sure the translation of this phrase does not sound like a period of eighty days.
-  * **tempted him to sin** - Since Jesus did not sin, make sure you use a word that does not imply that Satan succeeded in convincing Jesus to sin. This phrase could also be translated as, “tried to convince him to sin.”  
-  
+**[[https://door43.org/en/obe/kt/jesus|यीशु]]**
+  *
 
+**[[https://door43.org/en/obe/kt/baptize|बपतिस्मा लेने के बाद]]**
+  *
+
+**[[https://door43.org/en/obe/kt/holyspirit|पवित्र आत्मा]]**
+  *
+
+**[[https://door43.org/en/obe/other/fast|उपवास रखा ]]**
+  *
+
+**[[https://door43.org/en/obe/kt/satan|शैतान]]**
+  *
+
+**[[https://door43.org/en/obe/kt/tempt|परीक्षा]]**
+  *
+
+**[[https://door43.org/en/obe/kt/sin|पाप]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **पवित्र आत्मा उसे....की ओर ले गया**  – अर्थात, “पवित्र आत्मा ने उसकी......और अगुआई कि” या फिर, “पवित्र आत्मा ने उसे .......और जाने को प्रेरित किया।“
+  * **बीहड़**  - अनुवाद करते समय हम इसे “निर्जन”, या “एकांत जगह” भी लिख सकते हैं। इस जगह पर पेड़-पौधे बहुत कम थे, इसलिए वहाँ बहुत ही कम लोग रहते थे।
+  * **चालीस दिनों और चालीस रातों**  - अर्थात, “दिन-रात मिला कर पूरे चालीस दिन।“ अनुवाद करते समय सुनिश्चित करें कि वाक्य से ऐसा न लगे कि यह अवधि अस्सी दिनों की थी।
+  * **पाप करने के परीक्षा में डाला**  - चूंकि यीशु न कभी कोई पाप नहीं किया था, इसलिए वाक्य में किसी ऐसे शब्द का प्रयोग न करें जिससे ऐसा लगे कि उसने यीशु को पाप करने के लिए सहमत कर लिया था। इसलिए, इसका अनुवाद करते समय आप यह भी लिख सकते हैं, कि “उसने यीशु को पाप करने के लिए उकसाने कि कोशिश की।“
 **[[:hi:obs:notes:frames:24-09|<<]] | [[:hi:obs:notes:25|Up]] | [[:hi:obs:notes:frames:25-02|>>]]**
