@@ -1,15 +1,13 @@
-====== Moses Divided the Sea [12-07] ======
+====== मूसा ने सागर को दो भाग किया [12-07] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-07.jpg?nolink&}}
 
-**[[:en:key-terms:god|God]]** told **[[:en:key-terms:moses|Moses]]** to **raise his hand over the sea** and divide the waters. Then God caused wind to push the water in the sea to the left and the right, so that a path formed through the sea.
+**परमेश्वर ** ने **मूसा ** को** ****सागर पर अपने हाथ उठा ** कर पानी को बांटने को कहा। तब परमेश्वर ने हवा से सागर को दांयी और बायीं ओर बाँट दिया, ताकि सागर के बीचोबीच एक रास्ता बन सके।
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
+   * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:moses|मूसा]]__**
+**अनुवाद के लिए नोट्स****:**
 
-===== Translation Notes: =====
-
-
-  * **raise his hand over the sea** - This could be translated as, “held out his hand over the sea”. This was a gesture to show that God was doing this miracle through Moses. 
-  
-
+  * **सागर पर अपने हाथ उठाने**  - इसका अनुवाद ऐसे भी कर सकते है, कि "अपने हाथ सागर के सामने उठाए।" इसके द्वारा यह बताया गया है कि परमेश्वर ने यह आश्चर्यकर्म मूसा के द्वारा करवाया था।
 **[[:hi:obs:notes:frames:12-06|<<]] | [[:hi:obs:notes:12|Up]] | [[:hi:obs:notes:frames:12-08|>>]]**
-
