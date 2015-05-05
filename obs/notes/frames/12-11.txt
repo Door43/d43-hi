@@ -1,18 +1,18 @@
-====== The Egyptians Drowned [12-11] ======
+====== मिस्र की सेना डूब गई [12-11] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-11.jpg?nolink&}}
 
-After the **[[:en:key-terms:israel|Israelites]]** all **made it safely to the other side** of the sea, **[[:en:key-terms:god|God]]** told **[[:en:key-terms:moses|Moses]]** to **stretch out his arm again**. When he obeyed, the **water fell on the [[:en:key-terms:egypt|Egyptian]] army** and **returned to its normal place**. **The whole Egyptian army** drowned.
+**इस्राएलियों** के **सुरक्षित रूप से सागर की दूसरी ओर पहुँचने** पर **परमेश्वर ** ने **मूसा** से **एक बार फिर से अपने हाथ उठाने ** को कहा। जब उसने आज्ञा का पालन किया तो **पानी मिस्र की सेना पर गिर पड़ा** और फिर से **अपनी सामान्य अवस्था में लौट ****आया** । **मिस्र की पूरी सेना** डूब गयी।
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
+   * **__[[:hi:obs:notes:key-terms:israel|इस्राएलियों]]__**
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:moses|मूसा]]__**
+  * **__[[:hi:obs:notes:key-terms:egypt|मिस्र की]]__**
+**अनुवाद के लिए नोट्स****:**
 
-===== Translation Notes: =====
-
-
-  * **made it safely to the other side** – This could be translated as, “walked safely to the other side” or, “arrived safely on the other side” or, “walked to the other side and were safe from the Egyptians and the sea.”
-  * **stretch out his arm again** - This could be translated as, “lift his arm over the sea again” or, as a direct command, as in, “God told Moses, 'Stretch out your arm again.'”
-  * **returned to its normal place** - This could be translated as, “covered the place again where the path had been,” or “filled the whole sea again” or, "went back to where it was before God separated it."
-  * **The whole Egyptian army** - This could be translated as, “everyone in Egypt's army.”
-  
-
+  * **सुरक्षित रूप से सागर की दूसरी ओर पहुँचने पर**  - इसका अनुवाद ऐसे भी किया जा सकता है, "सुरक्षित रूप से दूसरी ओर जाने पर", या फिर, "मिस्रवासियों तथा सागर से सुरक्षित दूसरी ओर पहुंचने पर।"
+  * **एक बार फिर से अपने हाथ उठाने को कहा**  - इसका अनुवाद ऐसे भी किया जा सकता है, "एक बार फिर से अपने हाथ सागर पर उठाने," या फिर इसे एक प्रत्यक्ष आज्ञा के रूप में लिखें, जैसे कि, "परमेश्वर मूसा से बोला, "अपने हाथ फिर से उठा।"
+  * **अपनी सामान्य अवस्था में लौट आया**  - इसका अनुवाद ऐसे भी किया जा सकता है "जहां मार्ग बना था, वह जगह फिर पानी से भर गयी," या फिर, "सागर को फिर से भर दिया" या कि, "सागर वैसा हो गया जैसा वह परमेश्वर द्वारा बांटे जाने से पहले था।"
+  * **मिस्र की पूरी सेना**  - इसका अनुवाद करते समय "मिस्र की सेना के सभी लोग" भी लिख सकते हैं।
 **[[:hi:obs:notes:frames:12-10|<<]] | [[:hi:obs:notes:12|Up]] | [[:hi:obs:notes:frames:12-12|>>]]**
-
