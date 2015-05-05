@@ -1,18 +1,22 @@
-====== I Am Your God [13-04] ======
+====== मैं तुम्हारा परमेश्वर हूँ [13-04] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-04.jpg?nolink&}}
 
-**Then [[:en:key-terms:god|God]] gave them the [[:en:key-terms:covenant|covenant]] and said**, “I am **[[:en:key-terms:yahweh|Yahweh]], your God**, **who [[:en:key-terms:save|saved]] you from [[:en:key-terms:servant|slavery]]** in **[[:en:key-terms:egypt|Egypt]]**. Do not **[[:en:key-terms:worship|worship]]** other **[[:en:key-terms:god-false|gods]]**.”
+**इसके बाद परमेश्वर ने उन्हें वाचा दी और कहा**, "**मैं तुम्हारा परमेश्वर, यहोवा हूँ,जिसने तुम्हे मिस्र में बन्धुआई से बचाया** है। किसी और **देवताओं** की **आराधना** न करना।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:covenant|वाचा]]__**
+  * **__[[:hi:obs:notes:key-terms:yahweh|यहोवा]]__**
+  * **__[[:hi:obs:notes:key-terms:save|बचाया]]__**
+  * **__[[:hi:obs:notes:key-terms:servant|बन्धुआई]]__**
+  * **__[[:hi:obs:notes:key-terms:egypt|मिस्र]]__**
+  * **__[[:hi:obs:notes:key-terms:worship|आराधना]]__**
+  * **__[[:hi:obs:notes:key-terms:god-false|देवताओं]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **Then God gave them the covenant and said** - What God says next is the content of the covenant, that is, he tells the people the things that they must obey. This could be translated as, “Then God told them His covenant. He said” or, “Then God made this covenant with them:”
-  * **Yahweh your God** - In some languages it might be more natural to change the order and say “your God Yahweh." Make sure it does not sound like the Israelites had more than one God. It should be clear that Yahweh is the only God. Another way to translate this would be, “Yahweh, who is your God” or, “your God, whose name is Yahweh.”
-  * **who saved you from slavery** - This could be translated as, “I freed you from slavery." 
-  
-
+  * **इसके बाद परमेश्वर ने उन्हें वाचा दी और कहा**  - इस कथन के बाद परमेश्वर ने जो कहा, वो वाचा की विषयवस्तु है; वह उन्हें वे बातें बताता जिनका पालन उन्हें करना था। इसका अनुवाद ऐसे भी कर सकते हैं, "इसके बाद परमेश्वर ने उन्हें अपनी वाचा बताई। उसने कहा", या कि, "परमेश्वर ने तब उन्हें अपनी वाचा बताई:"
+  * तुम्हारा **परमेश्वर****,****यहोवा**  -  कुछ भाषाओं में "तुम्हारा यहोवा परमेश्वर" कहना अधिक सहज लगेगा। इस बात को सुनिश्चित करें कि अनुवाद करते समय कतई ऐसा न लगे कि इस्राएलियों के एक से अधिक परमेश्वर थे। यह बिलकुल स्पष्ट होना चाहिए कि यहोवा ही एकमेव परमेश्वर है। एक और तरह से भी इसका अनुवाद किया जा सकता है, कि "यहोवा, जो कि तुम्हारा परमेश्वर है", या फिर "तुम्हारा परमेश्वर, जिसका नाम यहोवा है।"
+  * **तुम्हे बन्धुआई से बचाया**  -  इसे ऐसे भी लिख सकते हैं कि "मैंने तुम्हे बन्धुआई से छुड़ाया था।"
 **[[:hi:obs:notes:frames:13-03|<<]] | [[:hi:obs:notes:13|Up]] | [[:hi:obs:notes:frames:13-05|>>]]**
-
-
