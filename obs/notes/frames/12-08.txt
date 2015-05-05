@@ -1,17 +1,14 @@
-====== Israel Crossed the Sea [12-08] ======
+====== इस्राएल सागर को पार कर गया [12-08] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-08.jpg?nolink&}}
 
-The **[[:en:key-terms:israel|Israelites]]** **marched** through the sea on dry ground **with a wall of water on either side of them**.
+सागर के बीच की सूखी ज़मीन पर,**अपनी दोनों ओर पानी की दीवार** के बीच से **इस्राएली लोग चलते हुए निकल गए** ।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:israel|इस्राएलियों]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **marched** - This can be translated as, "walked" or, "went." 
-  * **with a wall of water on either side of them** - This could be translated as, “and the water on both sides of them stood up tall and straight like a wall.”
-  
-
+  * **चलते हुए निकल गए**  - इसे हम "चले गये" या, "से गए" भी लिख सकते हैं।
+  * **अपनी दोनों ओर पानी की दीवार के बीच से**  - इसका अनुवाद इस तरह भी किया जा सकता है, "और उनकी दोनों ओर पानी ऐसे खड़ा था मानो एक ऊंची दीवार हो।"
 **[[:hi:obs:notes:frames:12-07|<<]] | [[:hi:obs:notes:12|Up]] | [[:hi:obs:notes:frames:12-09|>>]]**
-
-
