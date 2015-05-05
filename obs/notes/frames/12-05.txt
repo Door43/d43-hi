@@ -1,16 +1,17 @@
-====== God Will Fight for You [12-05] ======
+====== परमेश्वर आप ही तुम्हारे लिए लड़ेगा [12-05] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-05.jpg?nolink&}}
 
-**[[:en:key-terms:moses|Moses]]** told the **[[:en:key-terms:israel|Israelites]]**, “**Stop being afraid**! **[[:en:key-terms:god|God]] will fight for you today and [[:en:key-terms:save|save]] you**.” Then God told Moses, “Tell the people to **move** toward the **[[:en:key-terms:red-sea|Red Sea]]**.”
+**मूसा ** ने **इस्राएलियों ** से कहा, "**डरना बंद करो**! **आज तुम्हारे लिए परमेश्वर लडेगा और तुम्हे ****बचाएगा** ।" तब परमेश्वर ने मूसा से कहा, "लोगों से **लाल सागर की ओर जाने** को कह।"
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
+   * **__[[:hi:obs:notes:key-terms:moses|मूसा]]__**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएलियों]]__**
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:save|बचा]]__**
+  * **__[[:hi:obs:notes:key-terms:redsea|लाल सागर]]__**
+**अनुवाद के लिए नोट्स****:**
 
-===== Translation Notes: =====
-
-
-  * **God will fight for you today and save you** - Another way to say this would be, “Today God will defeat the Egyptians for you and keep them from harming you.” 
-  * **move** – Some languages will be more specific and say, “walk.” 
-  
-
+  * **आज परमेश्वर तुम्हारे लिए लडेगा और तुम्हे बचाएगा**  - इसे कहना का दूसरा तरीका है, "आज परमेश्वर मिस्रवासियों को तुम्हारे लिए हराएगा और तुम्हे कोई हानि न होने देगा।"
+  * **जाने**  - कुछ भाषाओं में "चलो" भी कह सकते हैं।
 **[[:hi:obs:notes:frames:12-04|<<]] | [[:hi:obs:notes:12|Up]] | [[:hi:obs:notes:frames:12-06|>>]]**
-
