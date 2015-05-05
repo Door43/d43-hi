@@ -1,21 +1,23 @@
-====== An Annual Feast [12-14] ======
+====== एक वार्षिक उत्सव [12-14] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-14.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-14.jpg?nolink&}}
 
-**[[:en:key-terms:god|God]]** commanded the **[[:en:key-terms:israel|Israelites]]** to celebrate **the [[:en:key-terms:passover|Passover]]** every year in order to **remember how God gave them victory over** the **[[:en:key-terms:egypt|Egyptians]]** and rescued them from being **[[:en:key-terms:servant|slaves]]**. They celebrated by killing a **perfect [[:en:key-terms:lamb|lamb]]**, eating it with **unleavened bread**.
+**परमेश्वर** ने **इस्राएलियों** को हर साल इस बात की याद में **फसह का पर्व** मनाने की आज्ञा दी  कि  कैसे **परमेश्वर ने उन्हें मिस्रवासियों पर जय दी थी** और उन्हें **दास** होने से बचाया था। एक **निर्दोष मेमने** को मार कर, और उसे अ**खामीरी**** रोटी** के साथ खाया और इस बात का बखान करके उत्सव मनाया कि कैसे परमेश्वर ने उन्हें **बचाया** था।
 
-//A Bible story from: Exodus 12:33-15:21//
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
+   * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएलियों]]__**
+  * **__[[:hi:obs:notes:key-terms:passover|फसह का पर्व]]__**
+  * **__[[:hi:obs:notes:key-terms:egypt|मिस्रवासियों]]__**
+  * **__[[:hi:obs:notes:key-terms:servant|दास]]__**
+  * **__[[:hi:obs:notes:key-terms:lamb|मेमने]]__**
+**अनुवाद के लिए नोट्स****:**
 
-===== Translation Notes: =====
-
-
-  * **the Passover** - This could be translated as, “the Passover activities” or, “the Passover celebration” or, “the Passover meal.” 
-  * **remember how God gave them victory over** – This could be translated as, “regularly remind themselves of how God defeated.” The word “remember” here doesn't just mean to not forget; it also means to formally commemorate something.
-  * **perfect lamb** - The word “perfect” here refers to a lamb with no disease or anything else wrong with it. Another way to say this might be, “a completely healthy and well-formed lamb.” 
-  * **unleavened bread** - This is another way to say, "bread that was made without yeast."
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-
+  * **फसह का पर्व**  - इसका अनुवाद ऐसे भी कर सकते हैं, "फसह की गतिविधियों" या, "फसह का उत्सव" या फिर, "फसह का भोज"
+  * **इस बात की याद में.....परमेश्वर ने उन्हें मिस्रवासियों पर जय दी थी **- इसका अनुवाद ऐसे भी कर सकते हैं, "स्वयं को नियमित रूप से यह याद करने के लिए......कि परमेश्वर ने कैसे हराया था।" यहाँ पर याद" शब्द केवल याद करने के सन्दर्भ में ही नहीं प्रयुक्त हुआ; बल्कि औपचारिक रूप से उत्सव मनाने के सन्दर्भ में भी प्रयुक्त हुआ है।
+  * **निर्दोष मेमने**  - यहाँ पर "निर्दोष" शब्द का आशय रोगहीन होने, और किसी भी प्रकार के कोई अन्य दोष से है। इस बात को ऐसे भी के सकते हैं, "पूरी तरह से स्वस्थ और सुडौल मेमने।"
+  * **अखामीरी रोटी**  - इसे "बिना खमीर की रोटी" भी कह सकते हैं।
+  * बाइबिल की कहानी   -  बाइबिल के कुछ संस्करणों में इनका अनुवाद अलग तरह से किया हो सकता है।
 
 **[[:hi:obs:notes:frames:12-13|<<]] | [[:hi:obs:notes:12|Up]] | [[:hi:obs:notes:frames:13-01|>>]]**
-
