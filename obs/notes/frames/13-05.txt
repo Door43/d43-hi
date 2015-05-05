@@ -1,19 +1,22 @@
-====== The Commandments [13-05] ======
+====== आज्ञाएं [13-05] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-05.jpg?nolink&}}
 
-"Do not make **[[:en:key-terms:idol|idols]]** and do not **[[:en:key-terms:worship|worship]]** them, because **I, [[:en:key-terms:yahweh|Yahweh]], am a jealous [[:en:key-terms:god|God]]**. **Do not use my name in a disrespectful way**. Be sure to keep the **[[:en:key-terms:sabbath|Sabbath day]]** **[[:en:key-terms:holy|holy]]**. That is, do all your work in six days, for the **[[:en:key-terms:sabbath|seventh day]]** is a day for you to rest and **to remember me**.”
+"कोई **मूरतें** न बनाना और न ही उनकी **आराधना** करना, क्योंकि **मैं**,**यहोवा**, **जलन रखनेवाला** **परमेश्वर ****हूँ** । **मेरा नाम अनादर से न ****लेना** । सुनिश्चित करना कि **सब्त का दिन पवित्र ****रहे** । अर्थात, अपने सब कार छ दिनों में करना, लेकिन **सातवाँ दिन** अपने विश्राम और **मुझे याद करने** के लिए रखना।"
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
+   * **__[[:hi:obs:notes:key-terms:idol|मूरतों]]__**
+  * **__[[:hi:obs:notes:key-terms:worship|आराधना]]__**
+  * **__[[:hi:obs:notes:key-terms:yahweh|यहोवा]]__**
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:sabbath|सब्त का दिन]]__**
+  * **__[[:hi:obs:notes:key-terms:holy|पवित्र]]__**
+  * **__[[:hi:obs:notes:key-terms:sabbath|सातवाँ दिन]]__**
+**अनुवाद के लिए नोट्स****:**
 
-===== Translation Notes: =====
-
-
-  * (God continues speaking to Moses.)
-  * **I, Yahweh, am a jealous God** - This could be translated as, “I, Yahweh, will be angry if you worship or honor anything besides me.” God strongly desires that his people love, serve, and obey Him more than anything or anyone else. He must be the only master of their lives. 
-  * **Do not use my name in a disrespectful way** - This could be translated as, “Do not talk about me in a way that does not show respect and honor” or, "Talk about me in a way that gives me proper respect and honor."
-  * **seventh day** - To translate this, it is best to use the number (“seventh”) rather than give the name of a specific day of the week. 
-  * **to remember me** - This could be translated as, “to keep me in mind” or, “to honor me.”
-  
-
+  * (परमेश्वर मूसा से अपनी बात कहना जारी रखता है।)
+  * **मैं****, ****यहोवा****, ****एक जलन रखनेवाला परमेश्वर हूँ**  - इसका अनुवाद करते समय ऐसे भी लिख सकते हैं, "यदि तुम मेरे आलावा किसी और की आराधना या आदर करोगे, तो मै, यहोवा, तुम पर क्रोध करूंगा।" परमेश्वर की यह तीव्र इच्छा है कि उसके लोग किसी भी चीज़ से अधिक उससे प्रेम करें, उसकी सेवा करें और उसकी आज्ञाओं का पालन करें। केवल वही उनके जीवनों का मालिक हो।
+  * **मेरा नाम अनादर से न लेना**  - इसका अनुवाद ऐसे भी कर सकते है, "मेरे विषय में इस रीति से न कहना कि उससे अनादर व असम्मान प्रकट हो", या, "मेरे बारे मैं सम्मान व आदर के साथ कहना।"
+  * **सातवाँ दिन**  - इसका अनुवाद करते समय अंक के नाम का इस्तेमाल करना बेहतर होगा बनिस्पत कि सातवे दिन के किसी विशिष्ट नाम का।
+  * **मुझे याद करने**  - इसका अनुवाद करते समय ऐसे भी लिख सकते हैं, "मेरा स्मरण करने", या फिर, "मेरे सम्मान में।"
 **[[:hi:obs:notes:frames:13-04|<<]] | [[:hi:obs:notes:13|Up]] | [[:hi:obs:notes:frames:13-06|>>]]**
-
