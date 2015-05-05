@@ -1,16 +1,16 @@
-====== Darkness over the Egyptians [12-06] ======
+====== मिस्र के लोगों पर अन्धकार [12-06] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-06.jpg?nolink&}}
 
-Then **[[:en:key-terms:god|God]]** moved the **pillar of cloud** and placed it between the **[[:en:key-terms:israel|Israelites]]** and the **[[:en:key-terms:egypt|Egyptians]]** so the Egyptians **could not see** the Israelites.
+इसके बाद **परमेश्वर ** ने बादल के खम्भे को **इस्राएलियों ** और मिस्रवासियों के बीच खडा कर दिया, ताकि मिस्रवासी इस्राएलियों को न देख सकें।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएलियों]]__**
+  * **__[[:hi:obs:notes:key-terms:egypt|मिस्रवासियों]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **pillar of cloud** – See how you translated this phrase in **[[[:hi:obs:notes:frames:12-02|[12-02]]]**
-  * **could not see** - The cloud pillar was so large and thick that the Egyptians could no longer see any of the Israelites.
-  
-
+  * **बादल के खम्भे**  - **__**__**__[[:hi:obs:notes:frames:12-02|[12- 02]]]__**__**__** में जा कर पहले का अनुवाद देखें।
+  * **न देख सकें**  - बादल का खम्भा इतना विशाल था कि मिस्रवासियों को इस्राएली लोग दिखाई न दिए।
 **[[:hi:obs:notes:frames:12-05|<<]] | [[:hi:obs:notes:12|Up]] | [[:hi:obs:notes:frames:12-07|>>]]**
-
