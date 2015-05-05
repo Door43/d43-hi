@@ -1,16 +1,19 @@
-====== The Mountain at Sinai [13-01] ======
+====== सीनै पर्वत पर [13-01] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-01.jpg?nolink&}}
 
-After **[[:en:key-terms:god|God]]** led the **[[:en:key-terms:israel|Israelites]]** through the **[[:en:key-terms:red-sea|Red Sea]]**, he led them through the wilderness to a mountain called **[[:en:key-terms:sinai|Sinai]]**. This was the same mountain where **[[:en:key-terms:moses|Moses]]** had seen the **burning bush**. The people **set up their tents** at the **base of the mountain**.
+**लाल सागर** के बीच से **इस्राएलियों** की अगुवाई करने के बाद **परमेश्वर** उन्हें बीहड़ से होता हुआ **सीनै** नाम के पर्वत की ओर ले गया। यह वही पर्वत था जहाँ** मूसा** ने **जलती हुई झाडी** देखी थी। **पर्वत के नीचे** लोगो ने **अपने तम्बू गाड़** लिए।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएलियों]]__**
+  * **__[[:hi:obs:notes:key-terms:red-sea|लाल सागर]]__**
+  * **__[[:hi:obs:notes:key-terms:sinai|सीनै]]__**
+  * **__[[:hi:obs:notes:key-terms:moses|मूसा]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **burning bush** - Before Moses returned to Egypt, God had spoken to him from a shrub that was on fire, but that was not burned up by the fire. See **[[:hi:obs:notes:frames:09-12|[09-12]]]**.
-  * **set up their tents** - The Israelites had to travel a great distance from Egypt to the Promised Land. So they took tents with them so that they could set them up as shelters and sleep in them along the way. Some languages could translate this as, “hung their tents.”   
-  * **base of the mountain** – This could be translated as, “bottom of the mountain." This refers to the area of land that is located next to the place where the ground starts to slant upward to form a mountain.
-
+  * **जलती हुई झाडी**  - मूसा के मिस्र लौटने से पहले, परमेश्वर ने एक झाडी के माध्यम से बात की थी जो जल तो रही थी लेकिन भस्म नहीं हो रही थी। देखिए **__**__**__[[:hi:obs:notes:frames:09-12|[09- 12]]]__**__**__**.
+  * **अपने तम्बू गाड़ लिए**  - इस्राएलियों को मिस्र से लेकर वाचा की भूमि तक का लम्बा सफ़र तय करना था। इसलिए वे अपने तम्बू साथ ले कर चले थे ताकि उनसे वे अपने सिर छिपाने की जगह बना सकें और यात्रा के दौरान उनमे सो सकें। कुछ भाषों में इसे यूँ भी कह सकते हैं कि "उनहोंने अपने तम्बू टांग लिए।"
+  * **पर्वत के नीचे**  - इसका अनुवाद करते समय इसे "पर्वत के साए में" भी कर सकते हैं। यह पर्वत के पास की उस जगह हो कहते हैं जहां से पर्वत का आधार शुरू हो कर ज़मीन ऊपर की ओर बढती है।
 **[[:hi:obs:notes:frames:12-14|<<]] | [[:hi:obs:notes:13|Up]] | [[:hi:obs:notes:frames:13-02|>>]]**
-
