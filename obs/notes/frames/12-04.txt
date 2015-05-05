@@ -1,17 +1,19 @@
-====== Pharaoh Chased Israel [12-04] ======
+====== फिरौन इस्राएल का पीछा करता है [12-04] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-04.jpg?nolink&}}
 
-So **[[:en:key-terms:pharaoh|Pharaoh]]** and his army chased after the **[[:en:key-terms:israel|Israelites]]** to **make them their [[:en:key-terms:servant|slaves]] again**. When the Israelites saw the **[[:en:key-terms:egypt|Egyptian]]** army coming, they realized **they were trapped between Pharaoh's army and the [[:en:key-terms:red-sea|Red Sea]]**. They were very afraid and cried out, “**Why did we leave [[:en:key-terms:egypt|Egypt]]**? We are going to die!”
+इसलिए **फिरौन ** और उसकी सेना ने **इस्राएलियों ** को **फिर से अपना दास बनाने के लिए** उनका पीछा किया। जब इस्राएलियों ने **मिस्र ** की सेना को आते देखा, तो उन्हें इस बात का अहसास हुआ कि वे **फिरौन की सेना और लाल सागर के बीच फंसे हुए थे** । वे डर गए और चिल्लाने लगे, "**न जाने हमने मिस्र क्यों छोड़ा**? हम मरनेवाले है!"
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:pharaoh|फिरौन]]__**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएलियों]]__**
+  * **__[[:hi:obs:notes:key-terms:servant|दास]]__**
+  * **__[[:hi:obs:notes:key-terms:egypt|मिस्र की]]__**
+  * **__[[:hi:obs:notes:key-terms:redsea|लाल सागर]]__**
+  * **__[[:hi:obs:notes:key-terms:egypt|मिस्र]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **they were trapped between...Red Sea** - Another way to say this would be, “there was nowhere they could go to escape since the Egyptians were behind them and the Red Sea was in front of them.” 
-  * **Why did we leave Egypt?** – This means, “We should not have left Egypt!” They were not really asking for reasons. Because they were afraid, in this moment they were wishing they had not left Egypt (even though it had been very difficult for them there). 
-  
-
+  * **वे फंसे हुए ****थे****¦****लाल**** सागर**  - इसे ऐसे भी कह सकते है, कि "उनके पास भागने की कोई जगह नहीं थी क्योंकि मिस्र के लोग उनके पीछे थे और लाल सागर उनके आगे।
+  * **न जाने हमने मिस्र क्यों छोड़ा****?**  - उनके कहने का मतलब था कि "हमें मिस्र नहीं छोड़ना चाहिए था!" वे असल में किसी से कोई कारण नहीं पूछ रहे थे। असल में वे डरे हुए थे, इसलिए इस समय वे यह कामना कर रहे की काश उन्होंने मिस्र न छोड़ा होता (बावजूद इसके कि उनका जीवन वहां बहुत दूभर था)।
 **[[:hi:obs:notes:frames:12-03|<<]] | [[:hi:obs:notes:12|Up]] | [[:hi:obs:notes:frames:12-05|>>]]**
-
-
