@@ -1,15 +1,18 @@
-====== Pharaoh Changed His Mind [12-03] ======
+====== फिरौन ने अपने मन को बदला [12-03] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-03.jpg?nolink&}}
 
-**After a short time**, **[[:en:key-terms:pharaoh|Pharaoh]]** and his people **changed their minds** and wanted the **[[:en:key-terms:israel|Israelites]]** to be their **[[:en:key-terms:servant|slaves]]** again. **[[:en:key-terms:god|God]]** caused Pharaoh to be stubborn so that people would see he is the One True God, and understand that he, Yahweh, is more powerful than Pharaoh and his **[[:en:key-terms:god-false|gods]]**.
+**थोड़े ही समय बाद**,**फिरौन** और उसके लोगों का **मन बदल गया ** और वे फिर से **इस्राएलियों ** को अपना **दास ** बनाना चाहते थे। **परमेश्वर** ने फिरौन का मन कठोर किया ताकि लोग यह देख सकें इस केवल वही एकमेव सच्चा परमेश्वर है, और यह समझे की वह,यहोवा, फिरौन व उसके **देवताओं ** से अधिक सामर्थी है।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:pharaoh|फिरौन]]__**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएलियों]]__**
+  * **__[[:hi:obs:notes:key-terms:servant|दास]]__**
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:false-god|देवताओं]]__**
+**अनुवाद के लिए नोट्स****:**
 
-  * **After a short time** – Probably at least two days had gone by. For that to be clear, it may be translated as, “After a few days” or, “A few days after the Israelites left Egypt.” 
-  * **changed their minds** - This phrase means, “began to think differently than they had before.” Some languages may not have this same expression, and will express the meaning in a direct way. 
-  
-
+  * **थोड़े ही समय बाद**  - शायद दो ही दिन बीते थे। इस बात को अधिक स्पष्ट करने के लिए अनुवाद करते समय ऐसे भी लिख सकते हैं, कि "कुछ दिनों के बाद" या कि, "इस्राएलियों के मिस्र छोड़ने के कुछ दिन बाद।"
+  * **मन बदल गया**  - इसका मतलब है, कि "उनके विचार बदल गए थे।" कुछ भाषाओं में हो सकता है कि यह अभिव्यक्ति न हो, और उन्हें सीधे शब्दों में बात को कहना पड़े।
 **[[:hi:obs:notes:frames:12-02|<<]] | [[:hi:obs:notes:12|Up]] | [[:hi:obs:notes:frames:12-04|>>]]**
-
