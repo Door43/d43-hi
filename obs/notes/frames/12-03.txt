@@ -6,11 +6,11 @@
 
 **महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-   * **__[[:hi:obs:notes:key-terms:pharaoh|फिरौन]]__**
-  * **__[[:hi:obs:notes:key-terms:israel|इस्राएलियों]]__**
-  * **__[[:hi:obs:notes:key-terms:servant|दास]]__**
-  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
-  * **__[[:hi:obs:notes:key-terms:false-god|देवताओं]]__**
+   * **__[[:hi:obs:notes:key-terms:pharaoh|फिरौन]]__ **
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएलियों]]__ **
+  * **__[[:hi:obs:notes:key-terms:servant|दास]]__ **
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__ **
+  * **__[[:hi:obs:notes:key-terms:god-false|देवताओं]]__ **
 **अनुवाद के लिए नोट्स****:**
 
   * **थोड़े ही समय बाद**  - शायद दो ही दिन बीते थे। इस बात को अधिक स्पष्ट करने के लिए अनुवाद करते समय ऐसे भी लिख सकते हैं, कि "कुछ दिनों के बाद" या कि, "इस्राएलियों के मिस्र छोड़ने के कुछ दिन बाद।"
