@@ -1,17 +1,17 @@
-====== Moses Destroyed the Idol [13-14] ======
+====== मूसा ने मूरत तोड़ डाली [13-14] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-14.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-14.jpg?nolink&}}
 
-Then **[[:en:key-terms:moses|Moses]] beat the [[:en:key-terms:idol|idol]] into powder**, threw the powder into some water and made the people drink the water. **[[:en:key-terms:god|God]]** sent **a plague** on the people and many of them died.
+इस पर **मूसा ने मूरत को तोड़ कर उसका चूरा किया**, और उसे थोड़े पानी में मिला कर लोगो को पिला दिया। **परमेश्वर ** ने उन लोगो पर एक **विपत्ति** भेजी, जिसमे बहुत लोग मारे गए।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:moses|मूसा]]__**
+  * **__[[:hi:obs:notes:key-terms:idol|मूरत]]__**
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **beat the idol into powder** - Moses utterly destroyed the idol by pounding it into fine particles. 
-  * **into some water** - Moses scattered the gold powder over a large expanse of water.  
-  * **a plague** - This could be translated as, “a terrible disease.” 
-  
-
+  * **तोड़ कर उसका चूरा किया**  - मूसा ने मूरत को पीट - पीट कर चूरे में बदल दिया।
+  * **थोड़े पानी में**  - मूसा ने सोने का चूरा पानी के सोते में बिखेर दिया।
+  * **एक विपत्ति**  - इसे "भयानक रोग भी कह सकते हैं।
 **[[:hi:obs:notes:frames:13-13|<<]] | [[:hi:obs:notes:13|Up]] | [[:hi:obs:notes:frames:13-15|>>]]**
-
