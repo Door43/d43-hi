@@ -1,19 +1,23 @@
-====== Moses Prayed for Israel [13-15] ======
+====== मूसा ने इस्राएल के लिए प्रार्थना की [13-15] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-15.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-15.jpg?nolink&}}
 
-**[[:en:key-terms:moses|Moses]]** climbed the mountain again and **[[:en:key-terms:pray|prayed]]** that **[[:en:key-terms:god|God]]** would **[[:en:key-terms:forgive|forgive]]** the people. God **listened to** Moses and forgave them. **Moses wrote** the **[[:en:key-terms:ten-commandments|Ten Commandments]]** on new stone tablets to replace the ones he had broken. Then God led the **[[:en:key-terms:israel|Israelites]]** away from **[[:en:key-terms:sinai|Mount Sinai]]** toward the **[[:en:key-terms:promised-land|Promised Land]]**.
+**मूसा ** फिर से पहाड़ी पर गया और **परमेश्वर ** से लोगों को क्षमा करने के लिए प्रार्थना की। परमेश्वर ने मूसा की प्रार्थना सुनी और उन्हें क्षमा कर दिया। **मूसा ने दस आज्ञाओं को** पत्थर की नयी तख्तियों पर लिखा और उन्हें टूटी हुई तख्तियों को बदल दिया। परमेश्वर तब **इस्राएलियों** को **सीनै पर्वत** से दूर **वाचा की भूमि** की ओर ले गया।
 
-//A Bible story from: Exodus 19-34//
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
+   * **__[[:hi:obs:notes:key-terms:moses|मूसा]]__**
+  * **__[[:hi:obs:notes:key-terms:pray|प्रार्थना]]__**
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:forgive|क्षमा]]__**
+  * **__[[:hi:obs:notes:key-terms:ten-commandments|दस आज्ञाएँ]]__**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएलियों]]__**
+  * **[[:hi:obs:notes:key-terms:sinai|सीनै पर्वत]]**
+  * **[[:hi:obs:notes:key-terms:promised-land|वाचा की भूमि]]**
+**अनुवाद के लिए नोट्स****:**
 
-===== Translation Notes: =====
-
-  * **listened to** - See how you translated this phrase in **[[:hi:obs:notes:frames:13-12|[13-12]]]**.
-  * **Moses wrote** - Moses chiseled the words into the stone using a tool.
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-  
+  * **सुनी**  - **__**__**__[[:hi:obs:notes:frames:13-12|[13- 12]]]__**__**__**में देखे कि आपने इसका अनुवाद कैसे किया था।
+  * **मूसा****.....****लिखा**  - एक औजार का इस्तेमाल करते हुए मूसा ने उन शब्दों को पत्थर की तख्तियों पर लिखा।
+  * बाइबिल की कहानी   -  बाइबिल के कुछ संस्करणों में इनका अनुवाद अलग तरह से किया हो सकता है।
 
 **[[:hi:obs:notes:frames:13-14|<<]] | [[:hi:obs:notes:13|Up]] | [[:hi:obs:notes:frames:14-01|>>]]**
-
-
