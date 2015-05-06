@@ -1,17 +1,21 @@
-====== The Golden Calf [13-12] ======
+====== सोने का बछड़ा [13-12] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-12.jpg?nolink&}}
 
-**[[:en:key-terms:aaron|Aaron]] made a golden [[:en:key-terms:idol|idol]]** in the shape of a calf. The people began to **wildly [[:en:key-terms:worship|worship]]** the idol and make **[[:en:key-terms:sacrifice|sacrifices]]**  to it! **[[:en:key-terms:god|God]]** was very angry with them because of their **[[:en:key-terms:sin|sin]]** and planned to destroy them. But **[[:en:key-terms:moses|Moses]]** **[[:en:key-terms:pray|prayed]]** for them, and God **listened to his prayer** and did not destroy them.
+**हारून ने बछड़े के आकार में सोने की एक मूरत ****बनाई** । लोग उस मूरत की अंधाधुंध आराधना करने और उसके लिए बलियां देने लगे। उनके पाप के कारण **परमेश्वर ** को उन पर बहुत क्रोध आया, और उसने उन्हें नष्ट करने की योजना बनाई। लेकिन **मूसा ने उनके लिए प्रार्थना की**, और परमेश्वर ने **उसकी प्रार्थना सुनी** और उन्हें नष्ट नहीं किया।
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
+   * **__[[:hi:obs:notes:key-terms:aaron|हारून]]__**
+  * **__[[:hi:obs:notes:key-terms:idol|मूरत]]__**
+  * **__[[:hi:obs:notes:key-terms:worship|आराधना]]__**
+  * **__[[:hi:obs:notes:key-terms:sacrifice|भेंटे]]__**
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:sin|पाप]]__**
+  * **__[[:hi:obs:notes:key-terms:moses|मूसा]]__**
+  * **__[[:hi:obs:notes:key-terms:pray|प्रार्थना]]__**
+**अनुवाद के लिए नोट्स****:**
 
-===== Translation Notes: =====
-
-
-  * **made a golden idol** - Aaron took the things made of gold that the people had brought to him, melted them, combined them, and formed them into the shape of a calf.
-  * **wildly worship** - The people were sinning by worshiping the idol and also by doing sinful things as they worshiped it. 
-  * **listened to his prayer** - God always hears prayer. In this situation, “listened” means that God agreed to do what Moses asked. 
-  
-
+  * **सोने की एक मूरत बनाई**  -
+  * **अंधाधुंध आराधना**  - मूरत की आराधना करने तथा साथ ही उसकी आराधना करते समय बुरी चीज़ें करके लोगो ने पाप किया।
+  * **उसकी प्रार्थना सुनी**  - परमेश्वर हमेशा प्रार्थना सुनता है। यहाँ "सुनी" का आशय परमेश्वर के मूसा की विनती पूरी करने की सहमति से है।
 **[[:hi:obs:notes:frames:13-11|<<]] | [[:hi:obs:notes:13|Up]] | [[:hi:obs:notes:frames:13-13|>>]]**
-
