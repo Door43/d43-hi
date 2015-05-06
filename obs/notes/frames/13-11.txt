@@ -1,15 +1,18 @@
-====== Make Us an Idol for Us [13-11] ======
+====== हमारे लिए एक मूर्ति बनाओं [13-11] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-11.jpg?nolink&}}
 
-For many days, **[[:en:key-terms:moses|Moses]]** was on top of **[[:en:key-terms:sinai|Mount Sinai]]** talking with **[[:en:key-terms:god|God]]**. **The people became tired of waiting** for him to return. So they **brought gold** to **[[:en:key-terms:aaron|Aaron]]** and asked him to make an **[[:en:key-terms:idol|idol]]** for them!
+**मूसा ** कई दिनों तक **सीनै पर्वत** पर **परमेश्वर** से बातचीत करता रहा। **लोग उसके लौटने की प्रतीक्षा करते - करते थक गए** । इसलिए वे** हारून के पास सोना लाये ** और उससे उनके लिए एक **मूरत** बनाने को कहा!
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:moses|मूसा]]__**
+  * **[[:hi:obs:notes:key-terms:sinai|सीनै पर्वत]]**
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:aaron|हारून]]__**
+  * **__[[:hi:obs:notes:key-terms:idol|मूरत]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **The people became tired of waiting** - This could be translated as, “The people became impatient because he did not return quickly” or, “The people didn't want to wait any longer for him to return.” 
-  * **brought gold** - These were objects and jewelry made of gold, which could be melted and formed into other things.    
-
+  * **प्रतीक्षा करते**  - करते थक गए - इसका अनुवाद करते समय ऐसे भी कह सकते हैं कि, "उसके जल्दी न लौटने के कारण लोग धीरज खो बैठे", या फिर, "लोग उसके लौटने की और अधिक प्रतीक्षा नहीं करना चाहते थे।"
+  * **सोना लाये**  - इसका आशय सोने की वस्तुओं और गहनों से है, जिन्हें पिघला कर कोई और आकृति बनाई जा सकती है।
 **[[:hi:obs:notes:frames:13-10|<<]] | [[:hi:obs:notes:13|Up]] | [[:hi:obs:notes:frames:13-12|>>]]**
-
