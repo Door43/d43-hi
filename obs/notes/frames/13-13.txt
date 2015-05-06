@@ -1,16 +1,16 @@
-====== Moses Was Angry [13-13] ======
+====== मूसा क्रोधित था [13-13] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-13.jpg?nolink&}}
 
-When **[[:en:key-terms:moses|Moses]]** came down the mountain and saw the **[[:en:key-terms:idol|idol]]**, he was so angry that he **smashed the stones** on which **[[:en:key-terms:god|God]]** had written the **[[:en:key-terms:ten-commandments|Ten Commandments]]**.
+पर्वत से नीचे उतरने पर जब **मूसा ** ने जब **मूरत ** को देखा, तो उसे इतना क्रोध आया कि उसने **वे पत्थर तोड़ डाले** जिन पर **परमेश्वर ** ने **दस आज्ञाएँ** लिखी थीं।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:moses|मूसा]]__**
+  * **__[[:hi:obs:notes:key-terms:idol|मूरत]]__**
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:ten-commandments|दस आज्ञाएँ]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **smashed the stones** - He threw the stones down on the ground and they broke up into little pieces. 
-  
-
+  * **पत्थर तोड़ डाले**  - उसने पत्थरों की तख्तियों को भूमि पर पटक दिया और उसके छोटे - छोटे टुकड़े हो गए।
 **[[:hi:obs:notes:frames:13-12|<<]] | [[:hi:obs:notes:13|Up]] | [[:hi:obs:notes:frames:13-14|>>]]**
-
-
