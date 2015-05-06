@@ -1,18 +1,19 @@
-====== The Tent of Meeting [13-08] ======
+====== मिलापवाला तम्बू [13-08] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-08.jpg?nolink&}}
 
-**[[:en:key-terms:god|God]]** also gave the **[[:en:key-terms:israel|Israelites]] a detailed description** of a tent he wanted them to make. **It was called** the **[[:en:key-terms:tent-of-meeting|Tent of Meeting]]**, and it had two rooms, separated by a large curtain. Only the **[[:en:key-terms:priest-high|high priest]]** was allowed to go into **the room behind the curtain**, because **God lived there**.
+**परमेश्वर ** ने **इस्राएलियों को एक तम्बू का विस्तृत ब्यौरा ** भी दिया जो वह चाहता था कि वे बनाए। **इसे मिलाप का तम्बू कहा गया**, जिसमे दो कमरे थे जिनके बीच उन्हें बाँटनेवाला एक विशाल पर्दा था। **परदे के पीछेवाले कमरे** में जाने की अनुमति केवल **महा याजक** को थी, क्योंकि **परमेश्वर का निवास वहां पर था** ।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएलियों]]__**
+  * **__[[:hi:obs:notes:key-terms:tent-of-meeting|मिलाप के तम्बू]]__**
+  * **[[:hi:obs:notes:key-terms:priest-high|महा याजक]]**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **a detailed description** - This could be translated as, “God described it in detail” or, “God told them exactly how He wanted them to make it.”
-  * **It was called** - This could be translated as, “They called it” or, “Moses called it.” 
-  * **the room behind the curtain** - This room was hidden by the curtain. Some languages would call this room, “the room in front of the curtain.”
-  * **God lived there** - If this phrase would lead people to think that God was limited to living in the tent, here are some ways of translating it: “God was there” or, “God revealed Himself to humans there.” 
-  
-
+  * **एक विस्तृत ब्यौरा**  - इसका अनुवाद ऐसे किया जा सकता है,"परमेश्वर ने उन्हे विस्तार से बताया कि," या फिर "परमेश्वर उन्हें इस बात का पूरा ब्यौरा दिया कि वह उनसे ये कैसा बनवाना चाहता था।"
+  * **कहा गया**  - इसका अनुवाद यूँ भी कर सकते हैं, "उन्होंने उसे....कहा", या फिर, "मूसा ने उसे ....कहा।"
+  * **परदे के पीछेवाले कमरे**  - ये कमरा परदे से छिपा था। कुछ भाषाओं में इसे "परदे के आगेवाला कमरा" कहा जा सकता है।
+  * **परमेश्वर का निवास वहां पर था**  - यदि इस कथन से लोगो को ऐसा लग सकता है कि अनुवाद से लोगो को परमेश्वर के उसी स्थान में सीमित होने का भ्रम हो सकता है, तो ऐसे में इसे अलग तरह से कहें: “परमेश्वर वहां था", या, "परमेश्वर वहां स्वयं को लोगो पर प्रकट करता था।.”
 **[[:hi:obs:notes:frames:13-07|<<]] | [[:hi:obs:notes:13|Up]] | [[:hi:obs:notes:frames:13-09|>>]]**
-
