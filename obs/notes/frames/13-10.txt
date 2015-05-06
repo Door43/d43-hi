@@ -1,19 +1,19 @@
-====== The People Sinned [13-10] ======
+====== लोगो ने पाप किया [13-10] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-10.jpg?nolink&}}
 
-The people all agreed to **[[:en:key-terms:obey|obey]]** the laws that **[[:en:key-terms:god|God]]** had **given them**, to **[[:en:key-terms:worship|worship]]** only God, and to be **his special people**. But a short time after they **[[:en:key-terms:promise|promised]]** to obey God, they **[[:en:key-terms:sin|sinned]] terribly**.
+केवल **परमेश्वर** की **आराधना ** करने की परमेश्वर **द्वारा उन्हें दी गयी** **आज्ञा को मानने**, और **उसकी विशेष प्रजा** होने की बात पर सब लोग सहमत हो गए।  लेकिन परमेश्वर की आज्ञा मानने की **प्रतिज्ञा** करने के थोड़े ही समय बाद, उन्होंने फिर से  **घोर पाप ****किया** ।
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
+   * **__[[:hi:obs:notes:key-terms:obey|आज्ञाओं का पालन]]__**
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:worship|आराधना]]__**
+  * **__[[:hi:obs:notes:key-terms:promise|प्रतिज्ञा की]]__**
+  * **__[[:hi:obs:notes:key-terms:sin|पाप किये]]__**
+**अनुवाद के लिए नोट्स****:**
 
-===== Translation Notes: =====
-
-
-  * **given them** - This could be translated as, “told them to obey.”
-  * **his special people** -  From among all the nations, God had chosen the Israelites for his special purpose. This could be translated as “his special nation” or, “his own people” or, “the nation he chose to be his people.”
-  * **a short time** – The people sinned during the forty days that Moses was on the mountain with God. 
-  * **sinned terribly** - They sinned in a way that was especially offensive to God. This could be translated as, “they sinned badly,” or “they did something that was very bad” or, “they did something bad that made God very angry.” 
-  
-
+  * **उन्हें दी**  - इसे अनुवाद करते समय "उन्हें मानने के लिया कहा था" भी कह सकते हैं।
+  * **उसकी विशेष प्रजा**  - लोगो की सब जातियों के बीच, परमेश्वर ने इस्राएलियों को अपने विशेष उद्देश्य के लिए चुना। इसे अनुवाद करते समय "उसकी विशेष जाति" या फिर, "अपने निज लोग" या, "अपने निज के लोग होने के लिए चुनी जाति" कह सकते हैं।
+  * **थोड़े ही समय बाद**  - लोगो ने मूसा की परमेश्वर के साथ पर्वत पर चालीस दिनों की भेंट के दौरान पाप किया।
+  * **घोर पाप किया**  - उन्होंने ऐसे - ऐसे पाप किये थे जो परमेश्वर को बहुत ही घृणा थी। अनुवाद करते समय यह भी लिखा जा सकता है कि, "उन्होंने बहुत ही बुरे पाप किये थे," या फिर, "उन्होंने ऐसे बुरे पाप किये जिससे परमेश्वर बहुत हुआ।"
 **[[:hi:obs:notes:frames:13-09|<<]] | [[:hi:obs:notes:13|Up]] | [[:hi:obs:notes:frames:13-11|>>]]**
-
-
