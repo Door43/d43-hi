@@ -1,16 +1,22 @@
-====== The People Rebelled [14-07] ======
+====== लोगों का बलवा करना [14-07] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-07.jpg?nolink&}}
 
-But the people did not listen to **[[:en:key-terms:caleb|Caleb]]** and **[[:en:key-terms:joshua|Joshua]]**. They became angry with **[[:en:key-terms:moses|Moses]]** and **[[:en:key-terms:aaron|Aaron]]** and said, “**Why did you bring us** to **this horrible place**? We should have stayed in **[[:en:key-terms:egypt|Egypt]] rather than be killed in battle and our wives and children made [[:en:key-terms:servant|slaves]]**.” The people wanted to choose a different leader to take them back to Egypt.
+लेकिन लोगो ने **कालिब ** और **यहोशु ** की न सुनी। वे **मूसा ** और **हारून ** पर क्रोधित हुए और बोले, "**तुम हमें ऐसी भयानक जगह पर क्यों लाये**? लड़ाई में मारे जाने और बीवी - बच्चों के दास बनाए जाने से तो बेहतर था की हम मिस्र में ही रह गए होते।" लोग कोई और अगुवा चुन कर मिस्र में वापिस लौटना चाहते थे।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:caleb|कालिब]]__**
+  * **__[[:hi:obs:notes:key-terms:joshua|यहोशु]]__**
+  * **__[[:hi:obs:notes:key-terms:moses|मूसा]]__**
+  * **__[[:hi:obs:notes:key-terms:aaron|हारून]]__**
+  * **__[[:hi:obs:notes:key-terms:egypt|मिस्र]]__**
+  * **__[[:hi:obs:notes:key-terms:servant|दास]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **Why did you bring us** – This is not a real question. It is a way that some languages use to say, “You should not have brought us.” 
-  * **this horrible place** - They considered Canaan to be “horrible” because they thought it was so dangerous that they would all be killed. 
-  * **rather than be killed in battle and our wives and children made slaves** - This could be translated as, “If we fight against the Canaanites, they will kill us men and force our wives and children to be their slaves.”
-  
+  * **तुम हमें  -  -  -  -  -  -  - क्यों ले आये**  -  - असल में यहाँ कोई प्रश्न नहीं पूछा जा रहा है। कुछ भाषों में असल में ऐसा कहने का आशय है कि, "तुम्हे हमको यहाँ नहीं लाना चाहिए था।"
+  * **ऐसी भयानक जगह **
+ - वे कनान को एक "भयानक" जगह समझते थे क्योंकि उन्हें लगता था कि वह इतनी खतरनाक जगह थी कि वहां पर उनके मारे जाने की आशंका थी।
+  * लड़ाई में मारे जाने और बीवी - बच्चों के दास बनाए जाने से तो बेहतर था कि -  -  - इस पीरे कथन का अनवाद ऐसे भी किया जा सकता है, "यदि हमने कनानियों के साथ युद्ध किया, तो वे हमे मार डालेंगे और स्त्रियों व बच्चो को अपनी बन्धुआई में ले लेंगे।"
 
 **[[:hi:obs:notes:frames:14-06|<<]] | [[:hi:obs:notes:14|Up]] | [[:hi:obs:notes:frames:14-08|>>]]**
