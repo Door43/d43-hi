@@ -1,16 +1,23 @@
-====== At the Promised Land [14-14] ======
+====== वाचा की भूमि में [14-14] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-14.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-14.jpg?nolink&}}
 
-After the **[[:en:key-terms:israel|Israelites]]** had wandered in the wilderness for forty years, all of them  **who had [[:en:key-terms:rebel|rebelled]] against [[:en:key-terms:god|God]]** were dead. Then God led **the people** to the edge of the **[[:en:key-terms:promised-land|Promised Land]]** again. **[[:en:key-terms:moses|Moses]]** was now very old, so God chose **[[:en:key-terms:joshua|Joshua]]** to help him lead the people. God also **[[:en:key-terms:promise|promised]]** Moses that **one day**, he would send **another [[:en:key-terms:prophet|prophet]] like Moses**.
+इस्राएलियों के चालीस सालों तक बीहड़ में भटकने के बाद, परमेश्वर के विरुद्ध द्रोह करनेवाले सब लोग मर चुके थे। एक बार फिर, परमेश्वर लोगों को **वाचा की भूमि ** के किनारे ले गया। **मूसा ** अब बहुत बूढा हो चूका था, इसलिए लोगों की अगुआई करने के लिए परमेश्वर ने **यहोशु** को चुना। साथ ही परमेश्वर ने मूसा से यह प्रतिज्ञा की, कि एक दिन वह **मूसा के जैसा एक और नबी ** भेजेगा।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:israel|इस्राएलियों]]__**
+  * **__[[:hi:obs:notes:key-terms:rebel|द्रोह किया]]__**
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **[[:hi:obs:notes:key-terms:promised-land|वाचा की भूमि ]]**
+  * **__[[:hi:obs:notes:key-terms:moses|मूसा]]__**
+  * **__[[:hi:obs:notes:key-terms:joshua|यहोशु]]__**
+  * **__[[:hi:obs:notes:key-terms:promise|प्रतिज्ञा की]]__**
+  * **__[[:hi:obs:notes:key-terms:prophet|नबी]]__**
+**अनुवाद के लिए नोट्स****:**
 
-  * **who had rebelled against God** - This could be translated, "who had refused to obey God when he told them to go into the Promised Land." 
-  * **the people** - That is, the children of the generation that died.
-  * **one day** - This means, "some time in the future."
-  * **another prophet like Moses** - Like Moses, this man would be an Israelite, he would speak God's words to the people, and he would lead the people.
-
-
+  * **जिन्होंने परमेश्वर के विरुद्ध द्रोह किया था**  - इसका अनुवाद करते समय ऐसे भी लिख सकते हैं, "जिन्होंने वाचा की भूमि में जाने की  परमेश्वर द्वारा दी गयी आज्ञा को मानने से मना किया था।"
+  * **लोगों**  - यह बीहड़ में मर चुकी पिछली पीढ़ी की संतानें थीं।
+  * **एक दिन**  - अर्थात, "भविष्य में कभी।"
+  * **मूसा के जैसा दूसरा नबी**  - मूसा के जैसा का आशय है कि यह व्यक्ति एक इसरायली होगा, वह लोगो को परमेश्वर के वचन बतायेगा, और लोगों की अगुआई करेगा।
 **[[:hi:obs:notes:frames:14-13|<<]] | [[:hi:obs:notes:14|Up]] | [[:hi:obs:notes:frames:14-15|>>]]**
