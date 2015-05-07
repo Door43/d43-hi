@@ -1,18 +1,25 @@
-====== The Two Spies [15-01] ======
+====== दो जासूस [15-01] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-01.jpg?nolink&}}
 
-**At last it was time for** the **[[:en:key-terms:israel|Israelites]]** to **enter [[:en:key-terms:canaan|Canaan]]**, the **[[:en:key-terms:promised-land|Promised Land]]**. **[[:en:key-terms:joshua|Joshua]]** sent **two spies to the [[:en:key-terms:canaan|Canaanite]] city of [[:en:key-terms:jericho|Jericho]]** that was **protected by strong walls**. In that city there lived a prostitute named **[[:en:key-terms:rahab|Rahab]]** who hid the spies and later helped them to **escape**. She did this because she **[[:en:key-terms:believe|believed]]** **[[:en:key-terms:god|God]]**. They **[[:en:key-terms:promise|promised]]** to protect Rahab and **her family** when the Israelites would destroy Jericho. 
+**आखिरकार** **इस्राएलियों के कनान में**,**वाचा की भूमि ** में** प्रवेश ** करने का समय आ गया। चारो ओर मज़बूत दीवारों से घिरे हुए कनानी नगर, यरीहो में, **यहोशु ** ने **दो ****जासूस ** भेजे। उस नगर में रहाब नाम की एक वेश्या रहती थी, जिसने उन जासूसों को छिपाया और बाद में उन्हें भागने में मदद की थी। उसने ऐसा इसलिए किया क्योंकि उसे **परमेश्वर पर विश्वास था** । उन्होंने रहाब से प्रतिज्ञा की और कहा कि **इस्राएलियों** द्वारा यरीहो का नाश किये जाते समय, वह और उसके परिवार को कुछ नहीं होगा।
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
+   * **__[[:hi:obs:notes:key-terms:israel|इस्राएलियों]]__**
+  * **__[[:hi:obs:notes:key-terms:canaan|कनान]]__**
+  * **[[:hi:obs:notes:key-terms:promised-land|वाचा की भूमि]]**
+  * **__[[:hi:obs:notes:key-terms:joshua|यहोशु]]__**
+  * **__[[:hi:obs:notes:key-terms:canaan|कनानी]]__**
+  * **__[[:hi:obs:notes:key-terms:jericho|यरीहो]]__**
+  * **__[[:hi:obs:notes:key-terms:rahab|राहाब]]__**
+  * **__[[:hi:obs:notes:key-terms:believe|विश्वास किया]]__**
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:promise|प्रतिज्ञा की]]__**
+**अनुवाद के लिए नोट्स****:**
 
-===== Translation Notes: =====
-
-
-  * **At last it was time for** - "At last" means "finally" or, "after a long wait." To make it clear what “time” refers to, you could say, "after they had wandered in the desert for 40 years, God finally permitted.”  
-  * **two spies to the Canaanite city of Jericho** - This could be translated as, "two men to Jericho, a city in Canaan, to find out information about it.” Also see the notes for, “spy out the land” in **[[:hi:obs:notes:frames:14-04|[14-04]]]**. 
-  * **protected by strong walls** - This could be translated as, “completely surrounded by thick, strong walls made of stone to protect it from their enemies.” 
-  * **escape** – It is also possible to add, "escape from people in Jericho who wanted to harm them.”
-  * **her family** - Rahab asked for protection for her father, mother, brothers, and sisters. Use your word for family that includes these people. 
-  
-
+  * **आखिरकार -  -  -  -  - समय आ गया**  - "आखिरकार" अर्थात "अंतत:" या कि, "एक लम्बी प्रतीक्षा के बाद।" बात को अधिक स्पष्ट बनाने के लिए आप ऐसा लिखे सकते हैं, कि "बीहड़ में ४० सालों तक भटकने के बाद, आख़िरकार परमेश्वर ने उन्हें अनुमति दे दी।"
+  * **कनानी नगर यरीहो में ****....****दो भेदिये**  - इसका अनुवाद करते समय यूँ भी लिख सकते हैं, कि "कनानी नगर, यरीहो के बारे में जानकारी लेने दो लोग भेजे।" साथ ही **__[[:hi:obs:notes:frames:14-04|[14-04] ]]__**में जा कर अनुवाद देखे।
+  * **मज़बूत दीवारों से घिरे**  - इसका अनुवाद ऐसे भी कर सकते हैं, "चारो और पत्थर की बनी मोटी दीवार से घिरे।"
+  * **भागने**  -  - यहाँ पर "यरीहो के उन लोगो से भागने में मदद की जो उन्हें नुक्सान पहुंचाना चाहते थे।"
+  * **उसके परिवार**  - रहाब ने अपने पिता - माता,भाइयों, और बहनों की सुरक्षा मांगी। अपनी भाषा में एक ऐसे शब्द का प्रयोग करें जिसमे परिवार के ये लोग भी शामिल होते हों।
 **[[:hi:obs:notes:frames:14-15|<<]] | [[:hi:obs:notes:15|Up]] | [[:hi:obs:notes:frames:15-02|>>]]**
