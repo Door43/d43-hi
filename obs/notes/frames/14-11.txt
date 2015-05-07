@@ -1,15 +1,16 @@
-====== Manna from Heaven [14-11] ======
+====== स्वर्ग से मन्ना [14-11] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-11.jpg?nolink&}}
 
-During the forty years that the people of **[[:en:key-terms:israel|Israel]]** wandered in the wilderness, **[[:en:key-terms:god|God]] provided for them**. He gave them **bread from heaven, called “manna.” He also sent flocks of quail** (which are medium-sized birds) **into their camp** so they could have meat to eat. During all that time, God kept their clothes and shoes from wearing out.
+**इस्राएल** के लोग चालीस सालों तक बीहड़ में भटकते रहे, इस दौरान **परमेश्वर ने उनका पोषण करता ****रहा** । उसने **मन्ना कहलाने वाली रोटी उन्हें स्वर्ग से दी** । उसने बटेरों के झुण्ड भी (जो कि माध्यम आकार की चिड़िया होती है) उनके शिविरों में भेजे, ताकि उनके पास खाने के लिए मांस हो। इस अवधि के दौरान, परमेश्वर ने उनके कपड़ों और जूतों को फटने - घिसने न दिया।
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
+   * **__[[:hi:obs:notes:key-terms:israel|इस्राएल]]__**
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+**अनुवाद के लिए नोट्स****:**
 
-===== Translation Notes: =====
-
-  * **God provided for them** – This could be translated as, “God gave them everything they needed for food, water, and shelter.” 
-  * **bread from heaven, called “manna”** - This thin, bread-like food fell from the sky overnight onto the grass like dew. They called it “manna.” Almost every day the people gathered this "manna" and cooked it as their food. 
-  * **He also sent flocks of quail...camp** - Another way to say this would be, “He also caused a large number of quails to fly into their camp.” If quails are unknown, a different, similar type bird could be used. Or it could be translated as, “a large number of medium-sized birds.”   
-  * **their camp** - The place where the Israelites set up their tents to sleep in was called a "camp." It was like a city with tents instead of buildings, and it could be moved around.
-
+  * **परमेश्वर ने उनका पोषण किया**  - इसका अनुवाद ऐसे ही कर सकते है, "परमेश्वर ने उनके भोजन पानी और आश्रय की सभी ज़रूरतें पूरी की।"
+  * **मन्ना कहलाने वाली स्वर्ग की रोटी**  - यह पतली रोटी जैसी खाने की चीज़ थी जो ओस की मानिंद रात भर आसमान से बरसती थी। उन्होंने उसे "मन्ना" कहा। लगभग हर दिन लोग "मन्ना" बटोरते और पका कर खाते।
+  * **उसने बटेरो के झुण्ड भी उनके शिविरों में भेजे**  - इसे हम ऐसे भी कह सकते है, "उसने कई साड़ी बटेरें भी उनके शिविरों की ओर भेजीं।" यदि बटेर के बारे में जानकारी न हो तो आप किसी दूसरी छोटी चिड़िया का नाम भी लिख सकते हैं। या फिर अनुवाद करते समय ऐसे भी लिख सकते हैं, "माध्यम आकार की चिड़ियों के झुण्ड"।
+  * **उनके शिविरों**  - सोने के लिए इस्राएलियों द्वारा गाड़े गए तम्बुओं को "शिविर" कहते हैं। ये इमारतों की जगह तम्बुओं से भरे हुए नगर की तरह था, और इसे एक जगह से दूसरी जगह ले जाया जा सकता था।
 **[[:hi:obs:notes:frames:14-10|<<]] | [[:hi:obs:notes:14|Up]] | [[:hi:obs:notes:frames:14-12|>>]]**
