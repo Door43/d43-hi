@@ -1,15 +1,19 @@
-====== God Spoke [14-08] ======
+====== परमेश्वर का बात करना [14-08] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-08.jpg?nolink&}}
 
-**[[:en:key-terms:god|God]] was very angry** and **came to** the **[[:en:key-terms:tent-of-meeting|Tent of Meeting]]**. **[[:en:key-terms:god|God]]** said, "Because you have rebelled against me, all of the people will have to **wander in the wilderness**. Except for **[[:en:key-terms:joshua|Joshua]]** and **[[:en:key-terms:caleb|Caleb]]**, everyone who is twenty years or older will die there and never enter the **[[:en:key-terms:promised-land|Promised Land]]**.”
+**परमेश्वर बहुत क्रोधित था ** और मिलाप के तम्बू पर उनसे मिलने आया।  **परमेश्वर ** बोला, "क्योंकि तुमने मेरे विरुद्ध द्रोह किया है, इसलिए सब लोगों को बीहड़ में भटकना पड़ेगा। **यहोशु ** और **कालिब ** को छोड़, बीस साल और उससे अधिक आयु के सभी लोग कभी **वाचा की भूमि ** में प्रवेश करने न पायेंगे।"
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:tent-of-meeting|मिलाप के तम्बू]]__**
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:joshua|यहोशु]]__**
+  * **__[[:hi:obs:notes:key-terms:caleb|कालिब]]__**
+  * **[[:hi:obs:notes:key-terms:promised-land|वाचा की भूमि]]**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **came to** - God did not appear as a person, but came in some other form  that showed his glory and power. 
-  * **wander in the wilderness** - God would lead the people around in the wilderness with no specific destination until all of the adults who rebelled against him died.
-  
-
+  * **आया**  - परमेश्वर किसी व्यक्ति के रूप में नहीं, बल्कि ऐसे किसी रूप में आया था जिससे उनकी महिमा व सामर्थ्य प्रकट होता था।
+  * **बीहड़ में भटकोगे**  - परमेश्वर उन्हें बीहड़ में भटकता रहेगा जब तक कि द्रोह करनेवाले हर वयस्क व्यक्ति की मृत्यु नहीं हो जाती।
 **[[:hi:obs:notes:frames:14-07|<<]] | [[:hi:obs:notes:14|Up]] | [[:hi:obs:notes:frames:14-09|>>]]**
