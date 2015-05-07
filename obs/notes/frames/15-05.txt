@@ -1,15 +1,17 @@
-====== The Walls Fell Down [15-05] ======
+====== दीवारें गिर गई [15-05] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-05.jpg?nolink&}}
 
-Then the walls around **[[:en:key-terms:jericho|Jericho]]** fell down! The **[[:en:key-terms:israel|Israelites]]** destroyed everything in the city as **[[:en:key-terms:god|God]]** had commanded.  They only spared **[[:en:key-terms:rahab|Rahab]]** and her family, who **became part of** the Israelites. When the other people living in **[[:en:key-terms:canaan|Canaan]]** heard that the Israelites had destroyed Jericho, they were terrified that the Israelites would attack them also.
+**यरीहो** की दीवार गिर पड़ी! **परमेश्वर** की आज्ञा अनुसार **इस्राएलियों** ने नगर की हर चीज़ का नाश कर दिया। उन्होंने केवल **रा****हाब** और उसके परिवार को छोड़ा, जो इस्राएलियों का हिस्सा बन गये। जब कनान में रहनेवाले दूसरे समुदायों ने सुना कि इस्राएलियों ने यरीहो का नाश कर दिया है, वे भयभीत हो गए कि कहीं इस्राएली लोग उन भी हमला न कर दें।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:jericho|यरीहो]]__**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएलियों]]__**
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:rahab|राहाब]]__**
+  * **__[[:hi:obs:notes:key-terms:canaan|कनान]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **became part of** - This can be translated as, “who then joined the Israelite community” or, “who then became members of the nation of Israel.” 
-  
-
+  * **हिस्सा बन गए**  - इसके अनुवाद में ऐसा भी लिखा जा सकता है, कि "बाद में वे इस्राएली समुदाय से जुड़ गए" या फिर, "जो फिर इस्राएल जाति के सदस्य हो गए।"इस्राएल
 **[[:hi:obs:notes:frames:15-04|<<]] | [[:hi:obs:notes:15|Up]] | [[:hi:obs:notes:frames:15-06|>>]]**
-
