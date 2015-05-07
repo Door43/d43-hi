@@ -1,17 +1,23 @@
-====== Water from a Rock [14-12] ======
+====== पत्थर से पानी [14-12] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-12.jpg?nolink&}}
 
-**[[:en:key-terms:god|God]]** even **miraculously gave them water from a rock**. **But despite all this**, the people of **[[:en:key-terms:israel|Israel]]** complained and grumbled against God and against **[[:en:key-terms:moses|Moses]]**. **Even so, God was still [[:en:key-terms:faithful|faithful]] to his [[:en:key-terms:promise|promises]]** to **[[:en:key-terms:abraham|Abraham]]**, **[[:en:key-terms:isaac|Isaac]]**, and **[[:en:key-terms:jacob|Jacob]]**.
+**बड़ी ही अद्भुत रीति से परमेश्वर ने उनके लिए पत्थर से पानी निकाला ** । लेकिन इन सबके बावजूद, इस्राएल के लोग परमेश्वर और **मूसा ** के विरुद्ध कुडकूड़ाटे रहे। इस पर भी,**परमेश्वर अब्राहम**,**इसहाक**,**याकूब से बाँधी अपनी वाचाओं के प्रति विश्वासयोग्य रहा** ।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएल]]__**
+  * **__[[:hi:obs:notes:key-terms:moses|मूसा]]__**
+  * **__[[:hi:obs:notes:key-terms:faithful|विश्वासयोग्य]]__**
+  * **__[[:hi:obs:notes:key-terms:promise|वाचाओं]]__**
+  * **__[[:hi:obs:notes:key-terms:abraham|अब्राहम]]__**
+  * **__[[:hi:obs:notes:key-terms:isaac|इसहाक]]__**
+  * **__[[:hi:obs:notes:key-terms:jacob|याकूब]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **miraculously gave them water from a rock** - This could be translated, "by doing something that only God can do, he made water pour out of a rock so the people and animals could drink."
-   * **But despite all this** - This could be translated as, “But even though God provided food, water, clothing, and everything that they needed.”
-   * **Even so** - This could be translated, "Even though the Israelites complained and grumbled against him."
-  * **God was still faithful to his promises** - This could be translated, "God continued to do what he had told Abraham, Isaac, and Jacob he would do." He provided their descendants with what they needed so they that could live and become a great nation and eventually own the land of Canaan. 
-  
-
+  * **बड़ी ही अद्भुत रीति से परमेश्वर ने उनके लिए पत्थर से पानी निकला**  - इसका अनुवाद हम ऐसे कर सकते हैं, "परमेश्वर ने अपनी सामर्थ्य से पत्थर से पानी निकला, ताकि लोग और उनके जानवर पानी पी सकें।
+  * **लेकिन इन सबके बावजूद**  -  इसका अनुवाद ऐसे किया जा सकता है, कि "लेकिन तब भी, परमेश्वर उनकी सभी ज़रूरते पूरी करते हुए उनके लिए भोजन, पानी और वस्त्र उपलब्ध करता रहा।"
+  * **इस पर भी**  - इसका अनुवाद ऐसे कर सकते है, "इस्राएलियों की शिकायतों और कुडकुडाने पर भी....।"
+  * **परमेश्वर -  -  -  - अपनी वाचाओं के प्रति विश्वासयोग्य रहा**  - इसका अनुवाद करते समय यह लिखे सकते हैं, कि "परमेश्वर वो सब करता रहा जो उनसे अब्राहम,इसहाक और याकूब से कहा था की वो करेगा।" उनके वंशजो को उसने पानी दिया ताकि वे जीवित रहें और एक महान जाति बन कर आखिरकार कनान की भूमि पर स्वामित्व पा सकें।
 **[[:hi:obs:notes:frames:14-11|<<]] | [[:hi:obs:notes:14|Up]] | [[:hi:obs:notes:frames:14-13|>>]]**
