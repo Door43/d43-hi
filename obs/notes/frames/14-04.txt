@@ -1,16 +1,18 @@
-====== The Twelve Spies [14-04] ======
+====== बारह जासूस [14-04] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-04.jpg?nolink&}}
 
-When the **[[:en:key-terms:israel|Israelites]]** reached the border of **[[:en:key-terms:canaan|Canaan]]**, **[[:en:key-terms:moses|Moses]]** chose twelve men, one from each tribe of **[[:en:key-terms:israel|Israel]]**. He gave the men instructions to go and **spy on the land** to see what it was like. They were also to **spy on the [[:en:key-terms:canaan|Canaanites]] to see if they were strong or weak**.
+**इस्राएलियों ** के **कनान ** की सीमा पर पहुँचने पर, **मूसा ** ने इस्राएल के हर गोत्र से एक को लेकर, बारह लोगों को चुना। उसने उन व्यक्तियों को भूमि में जाकर वहां का भेद लाने को कहा। साथ ही उन्हें **कनानियों का भेद लेकर पता लगाना वे बलशाली थे या ****कमज़ोर** ।
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
+   * **__[[:hi:obs:notes:key-terms:israel|इस्राएलियों]]__**
+  * **__[[:hi:obs:notes:key-terms:canaan|कनान]]__**
+  * **__[[:hi:obs:notes:key-terms:moses|मूसा]]__**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएल]]__**
+  * **__[[:hi:obs:notes:key-terms:canaan|कनानियो]]__**
+**अनुवाद के लिए नोट्स****:**
 
-===== Translation Notes: =====
-
-
-  * **spy on the land** - This could be translated as, “secretly get information about the land” or, “secretly learn about the land." Part of the spies' task was to find out what kinds of food the land could produce.
-  * **spy on the Canaanites** - This could be translated as, “secretly get information about the people of Canaan” or, “secretly learn about the Canaanites.” 
-  * **to see if they were strong or weak** - They wanted to know if the Canaanites were prepared to fight against them. This could be translated as, “to find out how powerful the Canaanite armies were.” 
-  
-
+  * **भेद लाने**  - इसके अनुवाद में ऐसे भी लिख सकते हैं, कि  "गुप्त रीति से वहां के बारे में पता लगाने", या फिर "गुप्त रीति से भूमि के बारे में जानने।" भेदियों को जिन बातों का पता लगाना था उसमें इस बात की जानकारी भी लेनी थी कि वहां किस तरह का अन्न उगते हैं।
+  * **कनानियों का भेड़ लेकर**  - इसका अनुवाद यूँ भी कर सकते हैं, "उन्हें गुप्त रीति से कनान के लोगो की जानकारी लेनी थी" या फिर, "उन्हें गुप्त रीति से कनानियों के बारे में जानना था।"
+  * **कि वे बलशाली थे या कमज़ोर**  - वे इस बात का पता लगाना चाहते थे की कनानी लोग लड़ाई के लिए तैयार थे या नहीं। इसे ऐसे भी लिख सकते हैं, कि "वे पता लगाना चाहते थे कि कनानी सेना कितनी शक्तिशाली थी।"
 **[[:hi:obs:notes:frames:14-03|<<]] | [[:hi:obs:notes:14|Up]] | [[:hi:obs:notes:frames:14-05|>>]]**
