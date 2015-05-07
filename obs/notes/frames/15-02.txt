@@ -1,15 +1,20 @@
-====== Crossing the Jordan River [15-02] ======
+====== यरदन नदी को पार करना [15-02] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-02.jpg?nolink&}}
 
-The **[[:en:key-terms:israel|Israelites]]** had to cross the **[[:en:key-terms:jordan-river|Jordan River]]** to enter into the **[[:en:key-terms:promised-land|Promised Land]]**. **[[:en:key-terms:god|God]]** told **[[:en:key-terms:joshua|Joshua]]**, “**Have the [[:en:key-terms:priest|priests]] go first**.” When the priests started to step into the Jordan River, **the water upstream stopped flowing** so the Israelites could cross over to the other side of the river on dry ground.
+**वाचा की भूमि** में प्रवेश करने के लिए **इस्राएलियों** को **यरदन नदी** पार करनी थी। परमेश्वर ने यहोशु से कहा, "सबसे पहले याजकों को जाने दे।" जैसे ही याजकों ने यरदन नदी में पैर रखा, इस्राएलियों की ओर ऊपर से आ रहे पानी का बहाव रुक गया ताकि वे नदी की दूसरी तरफ की सूखी भूमि पर जा सकें।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:israel|इस्राएलियों]]__**
+  * **__[[:hi:obs:notes:key-terms:jordan-river|यरदन नदी]]__**
+  * **[[:hi:obs:notes:key-terms:promised-land|वाचा की भूमि]]**
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:joshua|यहोशु]]__**
+  * **__[[:hi:obs:notes:key-terms:priest|याजकों]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **Have the priests go first** – For some languages it may be helpful to add, “Have the priests go before the rest of the people to cross the river.” 
-  * **the water upstream stopped flowing** — In some languages it may be helpful to add, “and the water in front of them flowed away downstream.”
-  
+  * **याजकों को पहले जाने दे**  - कुछा भाषाओँ में अनुवाद करते समय ऐसा कहना मददगार होगा, "नदी को पार करते समय याजकों को सबके आगे जाने दे।"
+  * **ऊपर से आ रहे पानी का बहाव रुक गया**  - कुछ भाषाओँ में ऐसा कहना उचित होगा, "और उनके आगे खड़ा पानी नीचे की ओर बह गया।"
 
 **[[:hi:obs:notes:frames:15-01|<<]] | [[:hi:obs:notes:15|Up]] | [[:hi:obs:notes:frames:15-03|>>]]**
