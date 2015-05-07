@@ -1,15 +1,15 @@
-====== Shouting to God [15-04] ======
+====== परमेश्वर के लिए ऊंची आवाज़ [15-04] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-04.jpg?nolink&}}
 
-Then on the seventh day, the **[[:en:key-terms:israel|Israelites ]]**marched around the city seven more times. **While they marched around the city for the last time**, the soldiers shouted while the **[[:en:key-terms:priest|priests]] blew their trumpets**.
+इसके बाद सातवें दिन, **इस्राएलियों** ने और सात चक्कर लगाए। अंतिम बार नगर का चक्कर लगाने के दौरान सिपाहियों ने ऊंची आवाजों में चिल्लाये जबकि याजकों ने अपनी तुरहियाँ फूंकी।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:israel|इस्राएलियों]]__**
+  * **__[[:hi:obs:notes:key-terms:priest|याजकों]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **While they marched around the city for the last time** - This can be translated as, “During their final circuit around the city.” 
-  * **blew their trumpets** - This could be translated as, “They sounded their trumpets” or, “They played their trumpets.” These trumpets were made out of ram's horns.
-  
-
+  * **अंतिम बार नगर का चक्कर लगाते समय**  - इसके अनुवाद मैं यह ही लिख सकते हैं, "नगर के अंतिम चक्कर के दौरान।"
+  * **अपनी तुरहियों फूंकी**  - इसके अनुवाद में हम "उन्होंने अपनी तुरहियों से आवाज़ की" या फिर, "उन्होंने अपनी तुरहियाँ बजाई" भी लिख सकते हैं। ये तुरहियाँ मेंढे के सींघो से बनी थीं।
 **[[:hi:obs:notes:frames:15-03|<<]] | [[:hi:obs:notes:15|Up]] | [[:hi:obs:notes:frames:15-05|>>]]**
