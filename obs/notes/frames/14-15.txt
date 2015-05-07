@@ -1,17 +1,20 @@
-====== The Death of Moses [14-15] ======
+====== मूसा की मृत्यु [14-15] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-15.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-15.jpg?nolink&}}
 
-Then **[[:en:key-terms:god|God]]** told **[[:en:key-terms:moses|Moses]]** to go to the top of a mountain so he could see the **[[:en:key-terms:promised-land|Promised Land]]**. Moses saw the Promised Land but God did not permit him to enter it. Then Moses died, and the **[[:en:key-terms:israel|Israelites]] mourned for thirty days**. **[[:en:key-terms:joshua|Joshua]]** became their new leader. Joshua was a good leader because he **[[:en:key-terms:trust|trusted]]** and **[[:en:key-terms:obey|obeyed]]** God.
+**परमेश्वर ** ने तब **मूसा ** से पहाड़ी के ऊपर जाने को कहा ताकि वह **वाचा की भूमि ** देख सके। मूसा ने वाचा की भूमि को देखा, लेकिन परमेश्वर ने उसे वहां जाने की अनुमति नहीं दी। फिर मूसा की मृत्यु हो गयी, और **इस्राएलियों ने तीस दिनों तक शोक ****किया** । **यहोशु ** उनका नया अगुआ बना। यहोशु एक अच्छा अगुआ था क्योंकि ओग **परमेश्वर पर भरोसा रखता था ** और उसकी आज्ञाओं का पालन करता था।
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-//A Bible story from: Exodus 16-17; Numbers 10-14; 20; 27; Deuteronomy 34//
+   * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:moses|मूसा]]__**
+  * **[[:hi:obs:notes:key-terms:promised-land|वाचा की भूमि ]]**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएलियों]]__**
+  * **__[[:hi:obs:notes:key-terms:joshua|यहोशु]]__**
+  * **__[[:hi:obs:notes:key-terms:trust|भरोसा]]__**
+  * **__[[:hi:obs:notes:key-terms:obey|आज्ञाओं का पालन किया]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-===== Translation Notes: =====
-
-
-  * **mourned for thirty days** - For thirty days all the people of Israel cried and showed that they were very sad that Moses had died.
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-  
+  * **तीस दिनों तक शोक किया**  - तीस दिनों तक इस्राएल के लोग रोए और यह जताते रहे की मूसा की मृत्यु से वे कितने दुखी थे।
+  * बाइबिल की कहानी   -  बाइबिल के कुछ संस्करणों में इनका अनुवाद अलग तरह से किया हो सकता है।
 
 **[[:hi:obs:notes:frames:14-14|<<]] | [[:hi:obs:notes:14|Up]] | [[:hi:obs:notes:frames:15-01|>>]]**
