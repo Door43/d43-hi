@@ -1,17 +1,19 @@
-====== The People Ignored God [14-09] ======
+====== लोगों ने परमेश्वर को अनदेखा किया [14-09] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-09.jpg?nolink&}}
 
-When the people heard this, they were sorry **they had [[:en:key-terms:sin|sinned]]**. They took their weapons and went to attack the people of **[[:en:key-terms:canaan|Canaan]]**. **[[:en:key-terms:moses|Moses]] warned them not to go** because **[[:en:key-terms:god|God]] was not with them**, **but they did not listen to him**.
+लोगों ने जब यह सुना तो उन्हें अपने पाप करने पर पछतावा हुआ। उन्होंने अपने हथियार लिए और **कनान ** के लोगों पर हमला बोलने चले गए। **मूसा ने उन्हें न जाने की चेतावनी दी ** क्योंकि **परमेश्वर उनके साथ नहीं था**, लेकिन उन्होंने उसके एक न सुनी।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:sin|पाप किये]]__**
+  * **__[[:hi:obs:notes:key-terms:canaan|कनान]]__**
+  * **__[[:hi:obs:notes:key-terms:moses|मूसा]]__**
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **they had sinned** - It may be necessary to add, “they had sinned by disobeying God's command to conquer the peoples of Canaan.” 
-  * **Moses warned them not to go** - This means that Moses told them not to go to fight against the Canaanites because they would be in danger if they did that. 
-  * **God was not with them** – In other words, God would not be with them to help them. Because of the Israelites' disobedience, God withdrew from them his presence, protection, and power. 
-  * **but they did not listen to him** - They did not obey Moses. They went to attack the Canaanites anyway.
-
-  
+  * **पाप करने पर**  - यहाँ पर ये जोड़ना ज़रूरी हो सकता है कि "कनान के लोगो पर जय करने की आज्ञा को न मान कर उन्होंने पाप किया था।"
+  * **मूसा ने उन्हें न जाने की चेतावनी दी**  -  - अर्थात मूसा ने उन्हें कनानियों के साथ युद्ध करने से मना किया था क्योंकि ऐसा करने पर वे भारी खतरे में पद सकते थे।
+  * **परमेश्वर उनके साथ नहीं था**  - दूसरे शब्दों में कहें तो उनकी मदद के लिए परमेश्वर उनके साथ नहीं था। इस्राएलियों की अवज्ञा करने के कारण परमेश्वर ने उनके बीच से अपनी उपस्थिति, सुरक्षा, और सामर्थ हटा ली थी।
+  * **लेकिन उन्होंने उसकी एक न सुनी**  - उन्होंने मूसा की बात नहीं मानी; और वे कनानियों पर हमला करने चले गए।
 **[[:hi:obs:notes:frames:14-08|<<]] | [[:hi:obs:notes:14|Up]] | [[:hi:obs:notes:frames:14-10|>>]]**
