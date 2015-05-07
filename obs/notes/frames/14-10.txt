@@ -1,16 +1,17 @@
-====== The Canaanites Defeated Israel [14-10] ======
+====== कनानियों ने इस्राएल को पराजित किया [14-10] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-10.jpg?nolink&}}
 
-**[[:en:key-terms:god|God]] did not go with them into this battle**, so they were defeated and many of them were killed. Then the **[[:en:key-terms:israel|Israelites]] turned back from [[:en:key-terms:canaan|Canaan]]** and **wandered through the wilderness** for forty years.
+**परमेश्वर उनके साथ युद्ध में नहीं गया**, और इस कारण उनकी हार हुई और वे मारे गए। इसके बाद इस्राएल लोग कनान से लौट आये और चालीस सालों तक बीहड़ में भटकते रहे।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएलियों]]__**
+  * **__[[:hi:obs:notes:key-terms:canaan|कनान]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **God did not go with them into this battle** - In other words, God did not help them in this fight.
-  * **turned back from Canaan** - They left Canaan and went back into the wilderness where they were before. 
-  * **wandered through the wilderness** - They lived in the wilderness, and together they moved from place to place in that large, dry land, looking for food and water for themselves and their animals. 
- 
-  
+  * **परमेश्वर उनके साथ युद्ध में नहीं गया**  - दूसरे शब्दों में, परमेश्वर ने युद्ध में उनकी कोई सहायता नहीं की।
+  * **कनान से लौट आपये**  - उन्होंने कनान छोड़ दिया और उस बीहड़ में लौट गए जहां वे पहले रहते थे।
+  * **बीहड़ में भटकते रहे**  - वे बीहड़ में रहे और अपने व अपने पशुओं के लिये भोजन - पानी की खोज में एक जगह से दूसरी जगह जाते रहे।
 **[[:hi:obs:notes:frames:14-09|<<]] | [[:hi:obs:notes:14|Up]] | [[:hi:obs:notes:frames:14-11|>>]]**
