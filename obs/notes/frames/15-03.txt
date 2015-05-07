@@ -1,16 +1,20 @@
-====== Marching around Jericho [15-03] ======
+====== यरीहो के चारों ओर चक्कर लगाना [15-03] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-03.jpg?nolink&}}
 
-**After the people crossed the [[:en:key-terms:jordan-river|Jordan River]]**, **[[:en:key-terms:god|God]]** told **[[:en:key-terms:joshua|Joshua]] how to attack** the powerful city of **[[:en:key-terms:jericho|Jericho]]**. The people **[[:en:key-terms:obey|obeyed]]** God. Just as God told them to do, the soldiers and **[[:en:key-terms:priest|priests]]** marched around the city of Jericho **once a day for six days**.
+**लोगों के यरदन नदी को पार करने के बाद**, **परमेश्वर** ने **यहोशु को बताया** कि उस शक्तिशाली नगर, **यरीहो पर हमला कैसे करना है** । लोगों ने परमेश्वर की आज्ञा मानी। जैसा कि परमेश्वर ने उन्हें करने को कहा था, सिपाहियों और  याजकों ने छ: दिनों तक हर दिन एक बार, यरीहो नगर के चक्कर लगाये।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:jordan-river|यरदन नदी]]__**
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:joshua|यहोशु]]__**
+  * **__[[:hi:obs:notes:key-terms:jericho|यरीहो]]__**
+  * **__[[:hi:obs:notes:key-terms:obey|आज्ञाओं का पालन किया]]__**
+  * **__[[:hi:obs:notes:key-terms:priest|याजकों]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **After the people crossed the Jordan River** – In some languages it is better to say, “The people crossed the Jordan River and then…”
-  * **how to attack** – This could be translated as, “exactly what he should do to attack.” 
-  * **once a day for six days** - That is, they went around the city one time every day for a total of six days.
-  
-
-**[[:hi:obs:notes:frames:15-02|<<]] | [[:hi:obs:notes:15|Up]] | [[:en:obs-:notes:frames:15-04|>>]]**
+  * **लोगों के यरदन नदी को पार करने के बाद**  - कुछ भाषाओं में ऐसा कहना बेहतर होगा, कि "लोगों ने यरदन नदी को पार किया और फिर...।"
+  * **हमला कैसे करना है**  - इसका अनुवाद ऐसे भी कर सकते हैं, "कि हमला करने के लिए उसे क्या करना है।"
+  * **छ**: **दिनों तक हर दिन में एक बार**  -  - अर्थात, छ: दिनों तक वे हर दिन, एक बार नगर का चक्कर लगाते थे।"
+**[[:hi:obs:notes:frames:15-02|<<]] | [[:hi:obs:notes:15|Up]] | [[:en:obs:notes:frames:15-04|>>]]**
