@@ -1,16 +1,23 @@
-====== Destroy the Canaanites [14-03] ======
+====== कनानियों का नाश कर दो [14-03] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-03.jpg?nolink&}}
 
-**[[:en:key-terms:god|God]]** told the **[[:en:key-terms:israel|Israelites]]**, “You must **get rid of** all the **[[:en:key-terms:canaan|Canaanites]]** in the **[[:en:key-terms:promised-land|Promised Land]]**. **Do not make [[:en:key-terms:peace|peace]] with them** and **do not marry them**. You must completely destroy all of their **[[:en:key-terms:idol|idols]]**. If you do not **[[:en:key-terms:obey|obey]]** me, **you will [[:en:key-terms:worship|worship]] their idols** instead of me.”
+**परमेश्वर ** ने **इस्राएलियों ** से कहा, "तुम्हे **वाचा की भूमि ** की भूमि के सभी  कनानियों को मिटाना होगा। उनके साथ संधि न करना और न ही उनके साथ विवाह करना। तुम्हे उनकी सभी मूरतों का नाश करना है। यदि तुमने मेरी आज्ञा नहीं मानी, तो तुम मेरी जगह उनकी मूरतों की आराधन करोगे।"
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएलियों]]__**
+  * **__[[:hi:obs:notes:key-terms:canaan|कनानियो]]__**
+  * **[[:hi:obs:notes:key-terms:promised-land|वाचा की भूमि ]]**
+  * **__[[:hi:obs:notes:key-terms:peace|शान्ति]]__**
+  * **__[[:hi:obs:notes:key-terms:idol|मूरतों]]__**
+  * **__[[:hi:obs:notes:key-terms:obey|आज्ञाओं का पालन]]__**
+  * **__[[:hi:obs:notes:key-terms:worship|आराधना]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **get rid of** - This could be translated as, “get them out of the land” or, “remove them from the land.” 
-  * **Do not make peace with them** - This could be translated as, “Do not live peacefully among or alongside them” or, “Do not promise to live peacefully with them.”  
-  * **do not marry them** - God did not want any Israelite person to marry any Canaanite person. 
-  * **you will worship their idols** - If the Israelites became friends with the Canaanites and did not destroy the idols, they would be tempted to worship those idols instead of God. You could say, “you will end up worshiping” to make it clear that this would result from living so close to the Canaanites and learning their ways. 
-
+  * **मिटाना**  - इसे लिसे भी लिख सकते हैं, "उन्हें भूमि से खदेड़ना होगा" या फिर, "उन्हें भूमि से हटाना होगा।"
+  * **उनके साथ संधि न करना**  - इसका अनुवाद ऐसे कर सकते हैं, "उनके साथ, या उनके बीच शान्ति से न रहना", या फिर, "उन्हें यह भरोसा न देना कि तुम उनके साथ शान्तिपूर्वक रहोगे।"
+  * **उनके साथ विवाह न करना**  - परमेश्वर नहीं चाहता था की कोई इस्राएली किसी कनानी से विवाह करे।
+  * **तुम उनके मूरतों की आराधना करोगे**  - यदि इस्राएलियों ने कनानियों के साथ मित्रता की और उनके मूरतों को नष्ट नहीं किया, तो ऐसे में वे परमेश्वर की जगह उन मूरतों की आराधना करने की परीक्षा में पद सकते हैं। आप कह सकते हैं, "तुम एक दिन उनकी आराधना करने लगोगे", ताकि यह स्पष्ट हो जाए की अन्यथा वे कनानियों के बातें सीख लेंगे।
 **[[:hi:obs:notes:frames:14-02|<<]] | [[:hi:obs:notes:14|Up]] | [[:hi:obs:notes:frames:14-04|>>]]**
