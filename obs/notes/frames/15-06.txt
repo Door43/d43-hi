@@ -1,17 +1,21 @@
-====== The Gibeonites' Lie [15-06] ======
+====== गिबोनियों का झूठ [15-06] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-06.jpg?nolink&}}
 
-**[[:en:key-terms:god|God]]** had commanded the **[[:en:key-terms:israel|Israelites]]** not to make a **[[:en:key-terms:peace|peace]] treaty** with any of the people groups in **[[:en:key-terms:canaan|Canaan]]**. **But one of the Canaanite people groups, called the [[:en:key-terms:gibeon|Gibeonites]]**, **lied to [[:en:key-terms:joshua|Joshua]] and said** they were from a place far from Canaan. They asked Joshua to make a peace treaty with them. Joshua and the Israelites did not ask God **where the Gibeonites were from**. So Joshua made a peace treaty with them.
+**परमेश्वर ** ने **इस्राएलियों ** को आदेश दिया था कि वे कनान में रहनेवाले किसी भी समुदाय के साथ शान्ति संधिन करें। लेकिन गिबोनी कहलानेवाले कनानी लोगो के एक समुदाय ने **यहोशु से झूठ बोला और कहा ** कि वे कनान से दूर स्थित एक जगह से हैं। उन्होंने यहोशु से शान्ति संधि करने को कहा। यहोशु और इस्राएलियों ने परमेश्वर से नहीं पूछा कि आखिर गिबोनी लोग कहाँ से थे। इसलिए यहोशु ने उनके साथ शांति संधि कर ली।
 
-===== Translation Notes: =====
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
+   * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएलियों]]__**
+  * **__[[:hi:obs:notes:key-terms:peace|शान्ति]]__**
+  * **__[[:hi:obs:notes:key-terms:canaan|कनान]]__**
+  * **__[[:hi:obs:notes:key-terms:gibeon|गिबोनियों]]__**
+  * **__[[:hi:obs:notes:key-terms:joshua|यहोशु]]__**
+**अनुवाद के लिए नोट्स****:**
 
-  * **peace treaty** – This is an agreement between two groups of people that they will not harm each other but will live in peace and help each other. This could be translated as, “peace agreement.”
-  * **But one of the Canaanite people groups called the Gibeonites** – Some languages may introduce this as, “But one day a Canaanite people group by the name of the Gibeonites ..." 
-  * **lied to Joshua and said** - This could be translated as, “They lied to Joshua by saying” or, “They falsely said to Joshua” or, “They falsely told Joshua.”
-  * **where the Gibeonites were from** - That is, “where the Gibeonites lived” or, “where the Gibeonites' home was.” "Gibeonites" means, "people of Gibeon."
-  
-
+  * **शान्ति संधि**  - लोगों के दो समुदायों के बीच हुए समझौता कि वे एक दूसरे को नुकसान नहीं पहुंचाएंगे तथा शांति व आपसी सहयोग से रहेंगे। इसे "शान्ति समझौता" भी कह सकते हैं।
+  * **लेकिन गिबोनी कहलानेवाले कनानी लोगों के एक समुदाय ने**  - कुछ भाषाओं में ऐसे भी लिख सकते हैं, "लेकिन एक दिन गिबोनी नाम के एक समुदाय...।"कनान
+  * **यहोशु से झूठ बोला और कहा**  - इसका अनुवाद ऐसे भी कर सकते हैं, "उन्होंने यह कहते हुए यहोशु से झूठ बोला कि" या फिर, "उन्होंने यहोशु से झूठ बोलते हुए कहा" या फिर, "उन्होंने झूठमूठ में यहोशु से कहा", या कि, "उन्होंने यहोशु को गलत बताया।"
+  * **गिबोनी लोग कहाँ से थे**  - अर्थात, "गिबोनी लोग कहाँ रहते थे" या फिर, "गिबोनियों का निवास कहाँ था।" "गिबोनियों" का मतलब "गिबोनवासियों से था।"
 **[[:hi:obs:notes:frames:15-05|<<]] | [[:hi:obs:notes:15|Up]] | [[:hi:obs:notes:frames:15-07|>>]]**
-
