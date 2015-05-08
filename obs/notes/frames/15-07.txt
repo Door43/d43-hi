@@ -1,15 +1,22 @@
-====== The Gibeonites in Danger [15-07] ======
+====== गिबोन के निवासियों का संकट [15-07] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-07.jpg?nolink&}}
 
-The **[[:en:key-terms:israel|Israelites]]** were angry when they found out that the **[[:en:key-terms:gibeon|Gibeonites]]** had deceived them, but they kept the **[[:en:key-terms:peace|peace]]** treaty they had made with them because it was a **[[:en:key-terms:promise|promise]]** before **[[:en:key-terms:god|God]]**. Sometime later, the **[[:en:key-terms:king|kings]]** of another people group in **[[:en:key-terms:canaan|Canaan]]**, the **[[:en:key-terms:amorite|Amorites]]**, heard that the Gibeonites had made a peace treaty with the Israelites, so they combined their armies into one large army and attacked **[[:en:key-terms:gibeon|Gibeon]]**. The Gibeonites **sent a message to [[:en:key-terms:joshua|Joshua]] asking for help**.
+**इस्राएलियों ** को जब गिबोनियों द्वारा धोखा दिया जाने के पता चला तो उन्हें बहुत क्रोध आया, लेकिन उन्होंने उनके साथ की शांति संधि का मान रखा क्योंकि यह परमेश्वर के आगे की प्रतिज्ञा थी। कुछ समय बाद, **कनान ** के एक दूसरे समुदाय के राजाओं, अमोरियों, ने जब गिबोनियों की इस्राएलियों के साथ संधि करने की बात सुनी, तो उन्होंने अपनी सेनाओं को मिला कर एक विशाल सेना बना कर गिबोन पर हमला बोल दिया। गिबोनियों ने यहोशु से मदद मांगने के लिए सन्देश भेजा।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:israel|इस्राएलियों]]__**
+  * **__[[:hi:obs:notes:key-terms:gibeon|गिबोनियों]]__**
+  * **__[[:hi:obs:notes:key-terms:peace|शान्ति]]__**
+  * **__[[:hi:obs:notes:key-terms:promise|प्रतिज्ञा]]__**
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:king|राजाओं]]__**
+  * **__[[:hi:obs:notes:key-terms:canaan|कनान]]__**
+  * **__[[:hi:obs:notes:key-terms:amorite|अमोरियों]]__**
+  * **__[[:hi:obs:notes:key-terms:gibeon|गिबोन]]__**
+  * **__[[:hi:obs:notes:key-terms:joshua|यहोशु]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **sent a message to Joshua asking for help** - This could be translated as, “sent some of their people to tell Joshua that they needed the Israelites to help defend them against their enemies.” 
-
-
+  * **यहोशु के पास मदद मांगने के लिए सन्देश भेजा**  - इस्कान अनुवाद ऐसे भी कर सकते हैं, "कुछ लोगो को यहोशु को यह बताने के लिए भेजा कि अपने शत्रुओं से बचाव के लिए उन्हें इस्राएलियों की मदद चाहिए।"
 **[[:hi:obs:notes:frames:15-06|<<]] | [[:hi:obs:notes:15|Up]] | [[:hi:obs:notes:frames:15-08|>>]]**
-
