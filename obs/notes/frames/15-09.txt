@@ -1,17 +1,16 @@
-====== God Fought the Amorites [15-09] ======
+====== अमोरियों से परमेश्वर ने युद्ध किया [15-09] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-09.jpg?nolink&}}
 
-**[[:en:key-terms:god|God]] fought for [[:en:key-terms:israel|Israel]]** that day. He **caused the [[:en:key-terms:amorite|Amorites]] to be confused** and he sent **large hailstones** that killed many of the Amorites.
+उस दिन **इस्राएल के लिए परमेश्वर ****लड़ा** । उसने अमोरियों के बीच गड़बड़ी पैदा कर दी और उन पर बड़े - बड़े ओले बरसा कर कई अमोरियों के मार दिया।
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
+   * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएल]]__**
+  * **__[[:hi:obs:notes:key-terms:amorite|अमोरियों]]__**
+**अनुवाद के लिए नोट्स****:**
 
-===== Translation Notes: =====
-
-
-  * **God fought for Israel** - God fought on the side of Israel against Israel's enemies. 
-  * **caused the Amorites to be confused** - This could be translated as, “made the Amorites panic” or, “caused the Amorites to be unable to fight together well.” 
-  * **large hailstones** - This could be translated as, “very large balls of ice to come down from the sky.”
-  
-
+  * **इस्राएल के लिए परमेश्वर लड़ा**  -  - इस्राएल के शत्रुओं के विरुद्ध परमेश्वर उनसे लड़ा।
+  * **अमोरियों के बीच गड़बड़ी पैदा की**  -  - इसका अनुवाद ऐसे भी कर सकते हैं, "अमोरियों के बीच आतंक पैदा कर दिया" या फिर, "अमोरियों की साथ मिल कर लड़ने की क्षमता ख़त्म कर दी।"
+  * **बड़े - बड़े ओले**  - इसका अनुवाद करते समय यह भी कह सकते हैं : "बर्फ के बड़े - बड़े टुकड़े आसमान से बरसाए।"
 **[[:hi:obs:notes:frames:15-08|<<]] | [[:hi:obs:notes:15|Up]] | [[:hi:obs:notes:frames:15-10|>>]]**
-
