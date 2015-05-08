@@ -1,18 +1,21 @@
-====== The Deliverer [16-03] ======
+====== मुक्तिदाता [16-03] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-03.jpg?nolink&}}
 
+**परमेश्वर ने तब एक मुक्तिदाता दिया ** जिसने उन्हें शत्रुओं से छुड़ाया और उनकी भूमि में शान्ति को स्थापित किया। लेकिन लोग फिर से **परमेश्वर को भूल गए ** और मूरतों की **आराधना करने ** लगे। इसलिए परमेश्वर ने पास ही रहनेवाले शत्रुओं, **मिद्यानियों ** द्वारा उन्हें पराजय दिलाई।
 
-Then **[[:en:key-terms:god|God]] provided** a **[[:en:key-terms:deliverer|deliverer]]** who rescued them from their enemies and **brought [[:en:key-terms:peace|peace]]** to **the land**. But then **the people forgot about God** and started **[[:en:key-terms:worship|worshiping]]** **[[:en:key-terms:idol|idols]]** again. So God allowed the **[[:en:key-terms:midian|Midianites]]**, a nearby enemy people group, to defeat them.
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
+   * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:deliverer|मुक्तिदाता]]__**
+  * **__[[:hi:obs:notes:key-terms:peace|शान्ति]]__**
+  * **__[[:hi:obs:notes:key-terms:worship|आराधना करना]]__**
+  * **__[[:hi:obs:notes:key-terms:idol|मूरतों]]__**
+  * **__[[:hi:obs:notes:key-terms:midian|मिद्यानियों]]__**
+**अनुवाद के लिए नोट्स****:**
 
-===== Translation Notes: =====
-
-
-  * **God provided** - This could be translated as, “God chose” or, “God appointed” or, "God raised up."
-  * **brought peace** - This could be translated as, “allowed the people to live without fear" or, "ended the fighting” or, “stopped their enemies from attacking them.” 
-  * **the land** - That refers to Canaan, the Promised Land that God had given to Abraham.
-  * **the people forgot about God** - This means, "The people stopped thinking about God and ignored what he had commanded them." 
-  
-
+  * **परमेश्वर****.....****ने दिया**  -  इसका अनुवाद करते समय "चुना" या "नियुक्त किया" भी लिखे सकते हैं।
+  * **शान्ति स्थापित किया**  - इसका अनुवाद ऐसे भी कर सकते हैं : "लोगो को भयमुक्त जीवन दिया," या फिर, "लड़ाई का अंत किया," या कि, "उनके शत्रुओं को हमला करने से रोक दिया।"
+  * **भूमि**  - इसका आशय परमेश्वर द्वारा अब्राहम को दी गयी कनान, अर्थात वाचा की भूमि से है।
+  * **लोग परमेश्वर को भूल गए**  - अर्थात, "लोगो ने परमेश्वर को याद करना और उसके आज्ञाओं का पालन करना छोड़ दिया।"
 **[[:hi:obs:notes:frames:16-02|<<]] | [[:hi:obs:notes:16|Up]] | [[:hi:obs:notes:frames:16-04|>>]]**
