@@ -1,15 +1,17 @@
-====== Israel Helped the Gibeonites [15-08] ======
+====== इस्राएल का गिबोनियों की मदद करना [15-08] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-08.jpg?nolink&}}
 
-So **[[:en:key-terms:joshua|Joshua]]** gathered the **[[:en:key-terms:israel|Israelite]]** army and they marched all night **to reach the [[:en:key-terms:gibeon|Gibeonites]]**. In the early morning **they surprised the [[:en:key-terms:amorite|Amorite]] armies** and attacked them.
+इस पर **यहोशु ** ने **इस्राएली** सेना को इकठ्ठा किया, और **गिबोनियों तक पहुँचने** के लिए वे लोग रात भर पैदल चले। भोर के समय उन्होंने **अमोरियों के सेनाओं को चौंका** दिया और उन पर हमला बोल दिया।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:joshua|यहोशु]]__**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएली]]__**
+  * **__[[:hi:obs:notes:key-terms:gibeon|गिबोनियों]]__**
+  * **__[[:hi:obs:notes:key-terms:amorite|अमोरियों]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **to reach the Gibeonites** - That is, "to get to the Gibeonites" or, "to arrive at where the Gibeonites lived." The Gibeonites lived in Canaan, but Canaan is big enough that it took all night for the Israelite army to travel from their camp to where the Gibeonites were. 
-  * **they surprised the Amorite armies** - The Amorites did not know that the Israelites were coming to attack them.   
-
+  * **गिबोनियों तक पहुँचने के लिए**  - अर्थात, "गिबोनियों के पास पहुँचाने के लिए" या फिर, "गिबोनियों की जगह ता पहुँचने के लिए।" गिबोनी लोग कनान में रहते थे, लेकिन कनान इतना विशाल था कि अपने शिविर से गिबोनियों तक पहुँचने के लिए इस्राएली सेना को पूरी रात की यात्रा करनी पड़ी।
+  * **उन्होंने अमोरियों के सेनाओं को चौंका दिया**  - अमोरियों को इस बात की ज़रा भी खबर नहीं थी कि इस्राएली लोग उन पर हमला करने आ रहे थे।
 **[[:hi:obs:notes:frames:15-07|<<]] | [[:hi:obs:notes:15|Up]] | [[:hi:obs:notes:frames:15-09|>>]]**
-
