@@ -1,16 +1,15 @@
-====== Israel Defeated the Canaanites [15-11] ======
+====== इस्राएल ने कनानियों को पराजित किया [15-11] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-11.jpg?nolink&}}
 
-After God defeated those armies, many of the other **[[:en:key-terms:canaan|Canaanite]]** people groups gathered together to attack **[[:en:key-terms:israel|Israel]]**. **[[:en:key-terms:joshua|Joshua]]** and the Israelites **attacked and destroyed them**.
+परमेश्वर के हांथो उन सेनाओं की हार के बाद, कनानी लोगों के कई दूसरे समुदायों ने साथ मिल कर इस्राएल पर हमला किया। **यहोशु ** और इस्राएलियों ने उन पर हमला किया और उनका नाश कर दिया।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:canaan|कनानी]]__**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएल]]__**
+  * **__[[:hi:obs:notes:key-terms:joshua|यहोशु]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **attacked and destroyed them** - This could be translated as, “fought against them and defeated them.” 
-  
-
-
+  * **हमला किया और उनका नाश कर दिया**  - इसका अनुवाद करते समय हम यह भी लिख सकते हैं कि, "उनके विरुद्ध लड़ाई की और उन्हें हरा दिया।"
 **[[:hi:obs:notes:frames:15-10|<<]] | [[:hi:obs:notes:15|Up]] | [[:hi:obs:notes:frames:15-12|>>]]**
-
