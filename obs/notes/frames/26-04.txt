@@ -1,15 +1,25 @@
-====== The Prophesy about Jesus [26-04] ======
+====== यीशु के बारे में भविष्यदवाणी [26-04] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-04.jpg?nolink&}}
 
-Then **[[:en:key-terms:jesus|Jesus]]** sat down. Everybody watched him closely. They knew the passage of **[[:en:key-terms:word-of-god|scripture]]** that he had just read referred to the **[[:en:key-terms:messiah|Messiah]]**. Jesus said, “**The words I just read to you are happening right now**.” All the people were **amazed**. “**Isn’t this the son of [[:en:key-terms:joseph-nt|Joseph]]**?” they said.
+फिर **यीशु** बैठ गया। हर कोई उसे ध्यान से देखने लगा। उन्हें इस बात का ज्ञान था कि **वचन** का जो अंश उसने अभी पढ़ा था वह **मसीह** के विषय में था। यीशु ने कहा, “**वे**** शब्द जो मैंने तुम्हारे लिए अभी पढ़े हैं, वे इस समय घट रहे ****हैं** ।“ सब लोग इस पर **चकित** हो गए। ““**क्या**** यह ****यूसुफ**** का बेटा नहीं है**?” वे बोले।
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  *
 
-  * **The words I just read to you are happening right now** - Other ways to translate this would be, “The words you just heard me read are being fulfilled right now” or, “Today the words I read to you came true as you heard them.” 
-  * **amazed** - Translate the word "amazed" with a term that means that they were surprised, shocked, and confused about how this could be possible.
-  * **Isn't this the son of Joseph?** –This could also be translated as, “This man is only the son of Joseph!” or, “Everyone knows he is just Joseph's son!” The people were not asking if he was Joseph's son or not. They were wondering how he could be the Messiah since they thought he was only the son of an ordinary man. 
+**[[:hi:obs:notes:key-terms:word of god|वचन]]**
+  *
 
+**[[:hi:obs:notes:key-terms:messiah|मसीह]]**
+  *
 
+**[[:hi:obs:notes:key-terms:joseph nt|यूसुफ]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **वे शब्द जो मैंने अभी तुम्हारे लिए पढ़े हैं, वे इस समय घट रहे हैं**  - इसे यूँ भी कहा जा सकता है, कि “वे शब्द जो तुमने अभी मुझको पढ़ते हुए सुने हैं, वे इस समय पूरे हो रहे हैं” या फिर, “जो वचन मैंने पढ़े हैं, वे तुम्हारे सुनते हुए सच हुए हैं।“
+  * **चकित**  - अर्थात, भौंचक्के, हैरान, विस्मित, या समझ नहीं नहीं पा रहे थे कि ऐसे कैसे संभव हो सकता है।
+  * **क्या यह युसूफ का बेटा नहीं है?**  –या फिर, “यह तो बस युसूफ का बेटा है”, या फिर, “सब जानते हैं कि यह तो बस युसूफ का बेटा है!” यहाँ पर लोग प्रश्न नहीं कर रहे थे कि वह युसूफ का बेटा है या नहीं। बल्कि वे तो इस बात पर अपनी हैरानी व्यक्त कर रहे थे कि वह व्यक्ति मसीह कैसे हो सकता है, जबकि वह तो एक साधारण सा व्यक्ति था।
 **[[:hi:obs:notes:frames:26-03|<<]] | [[:hi:obs:notes:26|Up]] | [[:hi:obs:notes:frames:26-05|>>]]**
