@@ -1,18 +1,31 @@
-====== The Lawyer's Question [27-01] ======
+====== वकील का प्रश्न [27-01] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-01.jpg?nolink&}}
 
-**One day**, an **expert in the Jewish law** came to **[[:en:key-terms:jesus|Jesus]]** **to test him**, saying, “**[[:en:key-terms:teacher|Teacher]]**, what must I do **to [[:en:key-terms:inherit|inherit]]** **[[:en:key-terms:eternal-life|eternal life]]**?” Jesus answered, “**What is written in [[:en:key-terms:gods-law|God's law]]**?”
+**एक दिन**, **यहूदी व्यवस्था में पारंगत** एक व्यक्ति **यीशु** को **परखने** के लिए उसके पास आया, और बोला, “हे **गुरु**, **अनंत जीवन की विरासत पाने** के लिए मुझे क्या करना होगा?” यीशु ने उत्तर दिया, “**परमेश्वर**** के वचन में क्या लिखा है?**”
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[:hi:obs:notes:key-terms:jesus|यीशु ]]**
+  *
 
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * ** expert in the Jewish law** -  This man was someone who studied and taught the laws God had given the Israelites, as well as other Jewish laws. 
-  * **to test him** - That is, “to see if Jesus would give a good answer.” 
-  * **to inherit eternal life** - That is, “to have life with God forever” or, “so that God will give me life with him forever” or, “to receive eternal life from God.” The law expert was asking how he could be worthy to receive eternal life as an inheritance from God the Father. 
-  * **eternal life** - This refers to life forever with God after the mortal body dies. See the key term page for eternal life. 
-  * **What is written in God's law?** - That is, “What is written in God's law about this?” Jesus asked this question because he wanted the man to think about what God's law really teaches. 
+**[[:hi:obs:notes:key-terms:teacher|गुरु ]]**
+  *
 
+**[[:hi:obs:notes:key-terms:inherit|विरासत पाने ]]**
+  *
 
+**[[:hi:obs:notes:key-terms:eternal life|अनन्त जीवन ]]**
+  *
+
+**[[:hi:obs:notes:key-terms:gods law|परमेश्वर की व्यवस्था ]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **एक दिन**  - ये शब्द घटना के होने के सटीक समय का भान नहीं कराते। कई भाषाओं में कहानियों कि शुरुआत अकसर इन्ही शब्दों के साथ की जाती है।
+  * **यहूदी व्यवस्था में पारंगत**  - अर्थात, ऐसा व्यक्ति जिसने परमेश्वर द्वारा इस्राएलियों को दी व्यवस्था, तथा अन्य यहूदी नियमो का गहन अध्ययन किया है।
+  * **परखने**  - अर्थात, “यह देखने कि यीशु उसके प्रश्न का सही उत्तर देता है या नहीं।“
+  * **अनंत जीवन कि विरासत पाने**  - अर्थात, “परमेश्वर के साथ सदा का जीवन पाने” या फिर, “ताकि परमेश्वर की संगति में मुझे सदा का जीवन मिले” अथवा, “परमेश्वर से अनंतकाल का जीवन पाने के लिए।“ यहूदी व्यवस्था का पंडित पूछ रहा था कि पिता परमेश्वर ने अनंतकाल के जीवन कि विरासत पाने के योग्य वह कैसे बन सकता है।
+  * **अनंत जीवन**  - इसका आशय नश्वर देह की मृत्यु के बाद परमेश्वर के साथ सदा दे जीवन से है। अनंत जीवन के लिए मुख्य शब्दों के पृष्ठ को देखें।
+  * **परमेश्वर की व्यवस्था में क्या लिखा है?**  - अर्थात, “इसके विषय में परमेश्वर की व्यवस्था में क्या लिखा है?” यीशु ने यह प्रश्न उस व्यक्ति को व्यवस्था में लिखी बातों पर विचार कर्न्वाने के लिए पूछा था।
 **[[:hi:obs:notes:frames:26-10|<<]] | [[:hi:obs:notes:27|Up]] | [[:hi:obs:notes:frames:27-02|>>]]**
