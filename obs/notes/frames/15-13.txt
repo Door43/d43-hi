@@ -1,20 +1,26 @@
-====== Joshua Renewed the Covenant [15-13] ======
+====== यहोशु द्वारा वाचा का नवीनीकरण [15-13] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-13.jpg?nolink&}}
 
-**When [[:en:key-terms:joshua|Joshua]] was an old man**, he called all the people of **[[:en:key-terms:israel|Israel]]** together. Then Joshua reminded the people of their obligation to **[[:en:key-terms:obey|obey]]** the **[[:en:key-terms:covenant|covenant]]** that **[[:en:key-terms:god|God]]** had made with the **[[:en:key-terms:israel|Israelites]]** at **[[:en:key-terms:sinai|Sinai]]**. The people **[[:en:key-terms:promise|promised]]** to **remain [[:en:key-terms:faithful|faithful]] to God** and **follow [[:en:key-terms:gods-law|his laws]]**.
+**यहोशु बहुत बूढा हो गया था**, एक दिन उसने इस्राएल के लोगो को एक साथ अपने पास बुलाया। यहोशु ने **इस्राएलियों को उस** वाचा का पालन करने की बात याद दिलाई जो वाचा परमेश्वर ने उनके साथ सीनै पर्वत पर बाँधी थी। **लोगों ने परमेश्वर के प्रति विश्वासयोग्य बने रहने ** और उसकी व्यवस्था का पालन करने की प्रतिज्ञा की।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-//A Bible story from: Joshua 1-24//
+   * **__[[:hi:obs:notes:key-terms:joshua|यहोशु]]__**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएल]]__**
+  * **__[[:hi:obs:notes:key-terms:obey|आज्ञाओं का पालन]]__**
+  * **__[[:hi:obs:notes:key-terms:covenant|वाचा]]__**
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएलियों]]__**
+  * **__[[:hi:obs:notes:key-terms:sinai|सीनै]]__**
+  * **__[[:hi:obs:notes:key-terms:promise|प्रतिज्ञा की]]__**
+  * **__[[:hi:obs:notes:key-terms:faithful|विश्वासयोग्य]]__**
+  * __**[[:hi:obs:notes:key-terms:gods-law|उसकी व्यवस्था]]**__
+**अनुवाद के लिए नोट्स****:**
 
-
-===== Translation Notes: =====
-
-
-  * **When Joshua was an old man** – It may be clearer to say, “Many years later, when Joshua was an old man.” Joshua was over 100 years old at this time.
-  * **remain faithful to God** - In other words, they would be loyal to God. They would worship and serve only God; they would not worship or serve any other gods. 
-  * **follow his laws** - This means that the people would obey the laws that God had given them already as part of the covenant.
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-  
+  * **यहोशु बहुत बूढा हो गया**  - इसको और अधिक स्पष्ट करने के लिए हम इसे यूँ भी लिख सकते हैं, "बहुत सालों बाद, यहोशु बहुत बूढा हो चला था।" इस समय यहोशु 100 साल की आयु का था।
+  * **परमेश्वर के प्रति विश्वासयोग्य बने रहने**  -  दूसरे शब्दों में, वे परमेश्वर के प्रति निष्ठावान बने रहते। वे केवल परमेश्वर की आराधना व उसीकी सेवा करते; वे किसी अन्य देवता आदि की आराधना या सेवा नहीं करेंगे।
+  * **उसकी व्यवस्था का पालन**  -  इसका आशय लोगो द्वारा उन नियमो का पालन करने से था जो परमेश्वर उन्हें वाचा के अंश के रूप में पहले ही दे चुका था।
+  * बाइबिल की कहानी   -  बाइबिल के कुछ संस्करणों में इनका अनुवाद अलग तरह से किया हो सकता है।
 
 **[[:hi:obs:notes:frames:15-12|<<]] | [[:hi:obs:notes:15|Up]] | [[:hi:obs:notes:frames:16-01|>>]]**
