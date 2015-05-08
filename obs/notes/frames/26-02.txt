@@ -1,16 +1,34 @@
-====== Jesus in Nazareth [26-02] ======
+====== नासरत  में यीशु [26-02] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-02.jpg?nolink&}}
 
-**[[:en:key-terms:jesus|Jesus]]** went to the town of **[[:en:key-terms:nazareth|Nazareth]]** where he had lived during his childhood. On the **[[:en:key-terms:sabbath|Sabbath]]**, he went to the **place of [[:en:key-terms:worship|worship]]** so that he would read from it. They handed him the **scroll of the [[:en:key-terms:prophet|prophet]] [[:en:key-terms:isaiah|Isaiah]]**. Jesus **opened up the scroll** and read part of it to the people.
+**यीशु**, **नासरत** नाम की जगह पर गया जहाँ उसका बचपन बीता था। **सब्त** के दिन, वह **आराधनास्थल** गया। उन्होंने **यशायाह नबी** **की** **पुस्तक** उसे दी कि वह उसमे से सबके लिए पढ़ दे। यीशु ने **पुस्तक खोली** और उसके एक अंश को लोगों के लिए पढ़ा।
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
+
+**[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  *
+
+**[[:hi:obs:notes:key-terms:nazareth|नासरत]]**
+  *
+
+**[[:hi:obs:notes:key-terms:sabbath|सब्त]]**
+  *
+
+**[[:hi:obs:notes:key-terms:worship|आराधना]]**
+  *
+
+**[[:hi:obs:notes:key-terms:prophet|नबी]]**
+  *
+
+**[[:hi:obs:notes:key-terms:isaiah|यशायाह]]**
+  *
 
 ===== Translation Notes: =====
 
-  * **place of worship** – That is, “the building where the Jews gathered to worship God.” This can also be translated as, "worship building."
-  * **scroll** - A scroll was a long sheet of paper or leather that was rolled up and had writing on it.
-  * **the scroll of the prophet Isaiah** – That is, “the scroll that had the words that the prophet Isaiah had written.” Isaiah had written on a scroll hundreds of years before. This was a copy of that scroll.
-  * **opened up the scroll** – This could be translated as, “rolled open the scroll” or, “unrolled the scroll.”
-  
-
+  * **place of worship**  – That is, “the building where the Jews gathered to worship God.” This can also be translated as, "worship building."
+  * **scroll**  - A scroll was a long sheet of paper or leather that was rolled up and had writing on it.
+  * **the scroll of the prophet Isaiah**  – That is, “the scroll that had the words that the prophet Isaiah had written.” Isaiah had written on a scroll hundreds of years before. This was a copy of that scroll.
+  * **opened up the scroll**  – This could be translated as, “rolled open the scroll” or, “unrolled the scroll.”
 **[[:hi:obs:notes:frames:26-01|<<]] | [[:hi:obs:notes:26|Up]] | [[:hi:obs:notes:frames:26-03|>>]]**
