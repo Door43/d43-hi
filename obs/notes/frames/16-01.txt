@@ -1,20 +1,28 @@
-====== Israel Worshiped Idols [16-01] ======
+====== इस्राएल ने मूर्तियों कि आराधना की [16-01] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-01.jpg?nolink&}}
 
+**यहोशु ** की मृत्यु के बाद, **इस्राएलियों ने परमेश्वर की अवज्ञा की ** और  न तो उन्होंने शेष बचे कनानियों को नगर से बाहर खदेड़ा, और न ही परमेश्वर की व्यवस्था का पालन किया। इस्राएली लोग सच्चे परमेश्वर, यहोवा की जगह कनानी **देवताओं ** की **आराधना ** करने लगे। इस्राएलियों का कोई राजा नहीं था, इसलिए जिसे जो सही लगता, वह वाही करता।
 
-After **[[:en:key-terms:joshua|Joshua]]** died, the **[[:en:key-terms:israel|Israelites]]** **[[:en:key-terms:disobey|disobeyed]]** **[[:en:key-terms:god|God]] and did not drive out the rest of the [[:en:key-terms:canaan|Canaanites]] or [[:en:key-terms:obey|obey]] [[:en:key-terms:gods-law|God's laws]]**. The Israelites began to **[[:en:key-terms:worship|worship]]** the Canaanite **[[:en:key-terms:god-false|gods]]** instead of **[[:en:key-terms:yahweh|Yahweh]]**, **the [[:en:key-terms:true|true]] God**. The Israelites had no **[[:en:key-terms:king|king]]**, so everyone did **what they thought was right for them**.
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
+   * **__[[:hi:obs:notes:key-terms:joshua|यहोशु]]__**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएलियों]]__**
+  * **__[[:hi:obs:notes:key-terms:disobey|अवज्ञा की]]__**
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:canaan|कनानियो]]__**
+  * **__[[:hi:obs:notes:key-terms:obey|आज्ञाओं का पालन]]__**
+  * __**[[:hi:obs:notes:key-terms:gods-law|परमेश्वर की व्यवस्था]]**__
+  * **__[[:hi:obs:notes:key-terms:worship|आराधना]]__**
+  * **__[[:hi:obs:notes:key-terms:god-false|देवताओं]]__**
+  * **__[[:hi:obs:notes:key-terms:yahweh|यहोवा]]__**
+  * **__[[:hi:obs:notes:key-terms:truth|सच्चा]]__**
+  * **__[[:hi:obs:notes:key-terms:king|राजा]]__**
+**अनुवाद के लिए नोट्स****:**
 
-===== Translation Notes: =====
-
-
-  * **and did not drive out** – This tells how they disobeyed God, so in some languages it may be better to start this as a new sentence, “They did not.” 
-  * **drive out the rest of the Canaanites** - This can be translated, "fight with the rest of the Canaanites to force them to leave the land.” 
-  * **or obey God's laws** - This means that the people also disobeyed the laws that God gave to the Israelites at Mount Sinai.
-  * **the true God** - That is, “the only real God.” Yahweh is the only one that people should worship. 
-  * **what they thought was right for them** – This means that they all did whatever they wanted to do, including many evil things. 
-  
-
+  * **न तो****.....****को खदेड़ा**  - यह बताता कि उन्होंने परमेश्वर की अवज्ञा किस रीति से की थी। कुछ भाषाओं में इस वाक्य को "उन्होंने" के साथ शुरू कर सकते हैं।
+  * **शेष बचे कनानियों को खदेड़ा**  - इसका अनुवाद ऐसे भी कर सकते हैं, "शेष बचे कनानियों से युद्ध करके उन्हें वहां से जाने को विवश नहीं किया।"
+  * **न ही परमेश्वर की व्यवस्था का पालन किया**  - इसका आशय है कि लोगों ने परमेश्वर द्वारा सीनै पर्वत पर दिए नियमो का पालन भी नहीं किया।
+  * **सच्चे परमेश्वर**  -  - अर्थात, "एकमेव सच्चे परमेश्वर"। लोगों को केवल यहोवा ही की आराधना करनी चाहिए।
+  * **जिसे जो सही लगा****, ****उसने वही किया**  - इसका आशय है कि सबने अपनी मनमर्जी की।
 **[[:hi:obs:notes:frames:15-13|<<]] | [[:hi:obs:notes:16|Up]] | [[:hi:obs:notes:frames:16-02|>>]]**
-
