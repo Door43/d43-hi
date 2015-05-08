@@ -1,34 +1,20 @@
-====== नासरत  में यीशु [26-02] ======
+====== नासरत में यीशु [26-02] ======
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-02.jpg?nolink&}}
 
 **यीशु**, **नासरत** नाम की जगह पर गया जहाँ उसका बचपन बीता था। **सब्त** के दिन, वह **आराधनास्थल** गया। उन्होंने **यशायाह नबी** **की** **पुस्तक** उसे दी कि वह उसमे से सबके लिए पढ़ दे। यीशु ने **पुस्तक खोली** और उसके एक अंश को लोगों के लिए पढ़ा।
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:nazareth|नासरत]]**
+  * **[[:hi:obs:notes:key-terms:sabbath|सब्त]]**
+  * **[[:hi:obs:notes:key-terms:worship|आराधना]]**
+  * **[[:hi:obs:notes:key-terms:prophet|नबी]]**
+  * **[[:hi:obs:notes:key-terms:isaiah|यशायाह]]**
+===== अनुवाद के लिए नोट्स: =====
 
-**[[:hi:obs:notes:key-terms:jesus|यीशु]]**
-  *
-
-**[[:hi:obs:notes:key-terms:nazareth|नासरत]]**
-  *
-
-**[[:hi:obs:notes:key-terms:sabbath|सब्त]]**
-  *
-
-**[[:hi:obs:notes:key-terms:worship|आराधना]]**
-  *
-
-**[[:hi:obs:notes:key-terms:prophet|नबी]]**
-  *
-
-**[[:hi:obs:notes:key-terms:isaiah|यशायाह]]**
-  *
-
-===== Translation Notes: =====
-
-  * **place of worship**  – That is, “the building where the Jews gathered to worship God.” This can also be translated as, "worship building."
-  * **scroll**  - A scroll was a long sheet of paper or leather that was rolled up and had writing on it.
-  * **the scroll of the prophet Isaiah**  – That is, “the scroll that had the words that the prophet Isaiah had written.” Isaiah had written on a scroll hundreds of years before. This was a copy of that scroll.
-  * **opened up the scroll**  – This could be translated as, “rolled open the scroll” or, “unrolled the scroll.”
+  * **आराधानास्थल**  – अर्थात, “वह भवन जहाँ परमेश्वर की आराधना करने सभी यहूदी इकठ्ठा होते हैं।“ इसे “आराधनालय” भी कह सकते हैं।
+  * **पुस्तक**  - असल में यह कागज़ या चमड़े का एक लम्बा टुकड़ा था जिसे लपेट कर रखा जाता था और उस पर लेख लिखा होता था।
+  * **यशायाह नबी की पुस्तक**  – अर्थात, “कागज़ या चमड़े का लम्बा टुकड़ा जिस पर यशायाह नबी के लिखे वचन थे।“ यह पुस्तक यशायाह नबी ने सैकड़ो साल पहले लिखी थी। यह पुस्तक असल में मूल पुस्तक की एक प्रतिलिपि थी।
+  * **पुस्तक खोली**  – हिंदी भाषा में “खोली” या “खोल दी” ही सही रहेगा।
 **[[:hi:obs:notes:frames:26-01|<<]] | [[:hi:obs:notes:26|Up]] | [[:hi:obs:notes:frames:26-03|>>]]**
