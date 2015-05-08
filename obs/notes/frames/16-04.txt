@@ -1,18 +1,19 @@
-====== The Rule of Midian [16-04] ======
+====== मिद्यान का राज्य [16-04] ======
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-04.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-04.jpg?nolink}}
+सात सालों तक मिद्यानियों ने **इस्राएलियों की फसल** का सारा हिस्सा लिया। इस्राएली लोग इतने भयभीत थे कि वे डर के मारे गुफाओं में छिप गए ताकि मिद्यानी उन्हें ढूँढ न सकें। आखिरकार, उन्होंने **परमेश्वर** से गुहार लगाईं कि वह उन्हें बचा ले।
 
-The **[[:en:key-terms:midian|Midianites]]** took all of the **[[:en:key-terms:israel|Israelites']] crops** for seven years. The Israelites were **so scared; they hid** in caves so the Midianites would not find them. Finally, they **cried out** to **[[:en:key-terms:god|God]]** to **[[:en:key-terms:save|save]] them**.
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
+   * **__[[:hi:obs:notes:key-terms:midian|मिद्यानियों]]__**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएलियों]]__**
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:save|बचा]]__**
+**अनुवाद के लिए नोट्स****:**
 
-===== Translation Notes: =====
-
-
-  * **crops** - This refers to plants that the Israelites were growing in their gardens or fields for food. 
-  * **were so scared; they hid** – This could be translated as, “were very afraid of the Midianites, so they hid.”
-  * **cried out** - This might be translated as, "they called out” or, “they prayed desperately.” 
-  * **save them** – This might be translated as, "set them free" or, “rescue them from these enemies.”   
-  
-
+  * **फसल**  - इसका आशय इस्राएलियों द्वारा अपने बाग़ - बगीचों और खेतों में उगाये भोजन देनेवाले पेड़ - पौधों से है।
+  * **इतने भयभीत थे कि ****...****वे छिप गए**  - इसका अनुवाद ऐसे भी कर सकते हैं: "वे मिद्यानियों से बहुत डरते थे, इसलिए वे छिप गए।"
+  * **गुहार लगाईं**  - इसका अनुवाद करते ऐसे भी लिख सकते हैं, : "उन्होंने पुकारा" या फिर, "पूरे मन से प्रार्थना की।"
+  * **उन्हें बचा ले**  -  इसका अनुवाद हम यूँ भी कर सकते हैं, : "उन्हें मुक्ति दे", या फिर, "उनके शत्रुओं से छुटकारा दे।"
 **[[:hi:obs:notes:frames:16-03|<<]] | [[:hi:obs:notes:16|Up]] | [[:hi:obs:notes:frames:16-05|>>]]**
