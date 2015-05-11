@@ -1,16 +1,19 @@
-====== Wicked King Saul [17-01] ======
+====== दुष्ट राजा शाऊल [17-01] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-01.jpg?nolink&}}
 
-**[[:en:key-terms:saul|Saul]]** was the **first [[:en:key-terms:king|king]] of [[:en:key-terms:israel|Israel]]**. He was tall and handsome, just like the people wanted. Saul was a good king for the first few years that he ruled over Israel. But then he became a wicked man who did not **[[:en:key-terms:obey|obey]]** **[[:en:key-terms:god|God]]**, so God chose a different man who would **one day be king in his place**.
+**शाऊल** **इस्राएल का सबसे पहला राजा था** । वह लम्बा और आकर्षक व्यक्तित्व का था, ठीक जैसा की लोग चाहते थे। इस्राएल पर अपने शासन के पहले कुछ साल शाऊल बहुत भला राजा था। लेकिन इसके बाद वह एक दुष्ट व्यक्ति बन गया जो **परमेश्वर की अवज्ञा करता था**, इसी कारण परमेश्वर ने एक अन्य पुरुष को चुना जो एक दिन उसकी जगह राजा बनेगा।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:saul|शाऊल]]__**
+  * **__[[:hi:obs:notes:key-terms:king|राजा]]__**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएल]]__**
+  * **__[[:hi:obs:notes:key-terms:obey|आज्ञाओं का पालन]]__**
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **first king of Israel** – This could be translated as, “first king to rule over Israel.” 
-  * **one day** – This could be translated as, “some time in the future” or “years later.” 
-  * **be king in his place** – Another way to say this would be, “take his place as king over Israel” or, “rule as king instead of him.” 
-  
-
+  * **इस्राएल का पहला राजा**  - इसका अनुवाद करते समय ऐसे भी लिख सकते हैं, : "इस्राएल पर राज्य करनेवाला पहला राजा।"
+  * **एक दिन**  - इसका अनुवाद करते हम यह भी लिखे सकते हैं, : "आनेवाले कुछ समय बाद", या फिर, "कुछ साल बाद।"
+  * **एक दिन उसकी जगह राजा**  - इसे इस रीति से भी कह सकते हैं, : "उसकी जगह इस्राएल का राजा होगा।"
 **[[:hi:obs:notes:frames:16-18|<<]] | [[:hi:obs:notes:17|Up]] | [[:hi:obs:notes:frames:17-02|>>]]**
