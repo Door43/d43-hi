@@ -1,14 +1,21 @@
-====== David Wanted to Build a Temple [17-06] ======
+====== दाऊद एक मंदिर का निर्माण करना चाहता था [17-06] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-06.jpg?nolink&}}
 
-**[[:en:key-terms:david|David]]** wanted to **build a [[:en:key-terms:temple|temple]]** where all the **[[:en:key-terms:israel|Israelites]]** could **[[:en:key-terms:worship|worship]]** **[[:en:key-terms:god|God]]** and offer him **[[:en:key-terms:sacrifice|sacrifices]]**. For about 400 years, the people had been worshiping God and offering sacrifices to him at the **[[:en:key-terms:tent-of-meeting|Tent of Meeting]]** that **[[:en:key-terms:moses|Moses]]** had built.
+**दाऊद** एक मंदिर का निर्माण करना चाहता था जहाँ सब **इस्राएली परमेश्वर की आराधना** कर सकें, और उसे अपनी भेंटें प्रस्तुत कर सकें। 400 सालों से लोग **मूसा** द्वारा बनाए **मिलाप के तम्बू** पर परमेश्वर की आराधना और भेंटे अर्पण कर रहे थे।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:david|दाऊद]]__**
+  * **__[[:hi:obs:notes:key-terms:temple|मंदिर]]__**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएलियों]]__**
+  * **__[[:hi:obs:notes:key-terms:worship|आराधना]]__**
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:sacrifice|भेंटे]]__**
+  * **__[[:hi:obs:notes:key-terms:tent-of-meeting|मिलाप के तम्बू]]__**
+  * **__[[:hi:obs:notes:key-terms:moses|मूसा]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **build a temple** - David wanted to construct a permanent building for worshiping God that would replace the portable Tent of Meeting. 
-   
+  * **एक मंदिर का निर्माण**  - परमेश्वर की आराधना के लिए दाऊद एक स्थायी भवन का निर्माण करना चाहता था जो आसानी से उठा कर ले जानेवाले मिलाप के तम्बू का स्थान लेगा।
 
 **[[:hi:obs:notes:frames:17-05|<<]] | [[:hi:obs:notes:17|Up]] | [[:hi:obs:notes:frames:17-07|>>]]**
