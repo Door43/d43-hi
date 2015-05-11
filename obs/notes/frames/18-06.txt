@@ -1,14 +1,15 @@
-====== Rehoboam's Foolish Answer [18-06] ======
+====== रेहोबाम का मूर्खतापूर्ण उत्तर [18-06] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-06.jpg?nolink&}}
 
-**[[:en:key-terms:rehoboam|Rehoboam]]** **foolishly answered** them, “You thought my father **[[:en:key-terms:solomon|Solomon]]** made you work hard, but I will make you work harder than he did, and I will **[[:en:key-terms:punish|punish]]** you more harshly than he did.”
+**रेहोबाम ने इसका बहुत ही मूर्खतापूर्ण उत्तर दिया**, "तुम सोचते हो कि मेरे पिता **सुलैमान** ने तुमसे बहुत कड़ी मेहनत करवाई है, लेकिन मैं तुमसे और भी कड़ी मेहनत करवाऊंगा, और मैं तुम्हे उससे भी घोर दंड दूंगा।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:rehoboam|रेहोबाम]]__**
+  * **__[[:hi:obs:notes:key-terms:solomon|सुलैमान]]__**
+  * **__[[:hi:obs:notes:key-terms:punish|दंड]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **foolishly answered** - Rehoboam's answer was harsh, and caused the people to turn against him.
-
-  
+  * **मूर्खतापूर्ण उत्तर दिया**  - रेहोबाम का उत्तर बहुत ही कठोर था जिसके चलते लोग उसके विरुर्द्ध हो गए।
 **[[:hi:obs:notes:frames:18-05|<<]] | [[:hi:obs:notes:18|Up]] | [[:hi:obs:notes:frames:18-07|>>]]**
