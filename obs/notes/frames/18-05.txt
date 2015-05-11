@@ -1,13 +1,18 @@
-====== Rehoboam Became King [18-05] ======
+====== रेहोबाम राजा बना [18-05] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-05.jpg?nolink&}}
 
-After **[[:en:key-terms:solomon|Solomon]]** died, his son, **[[:en:key-terms:rehoboam|Rehoboam]]**, became **[[:en:key-terms:king|king]]**. Rehoboam was a foolish man. All the people of the **[[:en:key-terms:israel|nation of Israel]]** came together to **confirm him as king**. They complained to Rehoboam that Solomon had made them do a lot of hard work and pay a lot of taxes.
+सुलैमान की मृत्यु के बाद उसका बेटा रेहोबाम राजा हुआ। रेहोबाम एक मूर्ख व्यक्ति था। **इस्राएल देश** के सारे लोगों ने मिल कर उसे अपना राजा घोषित किया। वे रेहोबाम से शिकायत करते हुए बोले कि सुलैमान ने उनसे कड़ी मेहनत करवाई और ढेर सारा महसूल देने को विवश किया।
 
-===== Translation Notes: =====
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
+   * **__[[:hi:obs:notes:key-terms:solomon|सुलैमान]]__**
+  * **__[[:hi:obs:notes:key-terms:rehoboam|रेहोबाम]]__**
+  * **__[[:hi:obs:notes:key-terms:king|राजा]]__**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएल देश]]__**
+**अनुवाद के लिए नोट्स****:**
 
-  * **confirm him as king** - That is, “tell him that they were glad he was king and that they would do what he said.” 
-  
+  * **राजा घोषित किया**  - अर्थात, "उसे बताया कि उसके राजा बनने की उन्हें बहुत ख़ुशी है और वे उसके आदेशानुसार चलेंगे।"
+  *
 
 **[[:hi:obs:notes:frames:18-04|<<]] | [[:hi:obs:notes:18|Up]] | [[:hi:obs:notes:frames:18-06|>>]]**
