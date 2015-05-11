@@ -1,14 +1,17 @@
-====== The Evil Kings of Israel [18-11] ======
+====== इस्राएल के अधर्मी राजा [18-11] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-11.jpg?nolink&}}
 
-In the new **[[:en:key-terms:kingdom|kingdom]]** of **[[:en:key-terms:israel|Israel]]**, all the **[[:en:key-terms:king|kings]]** were **[[:en:key-terms:evil|evil]]**. Many of these kings were killed by other **[[:en:key-terms:israel|Israelites]]** who wanted to become king in their place.
+**इस्राएल** के नए राज्य में सब के सब "अधर्मी राजा" हुए। स्वयं राजा बनने की इच्छा करनेवाले बहुत से **इस्राएलियों** ने इनमे से बहुत से राजाओं को मार डाला।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:kingdom|राज्य]]__**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएल]]__**
+  * **__[[:hi:obs:notes:key-terms:king|राजाओं]]__**
+  * **__[[:hi:obs:notes:key-terms:evil|बुराई]]__**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएलियों]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **Israelites** - Here, "Israelites" refers only to the people living in the northern kingdom of Israel, not to the people living in the southern kingdom of Judah. 
-
-  
+  * **इस्राएलियों**  - यहाँ, "इस्राएलियों" का आशय उत्तर में रहनेवाले इस्राएल राज्य के नागरिकों से है, दक्षिण में स्थित यहूदा राज्य के लोगों से नहीं।
 **[[:hi:obs:notes:frames:18-10|<<]] | [[:hi:obs:notes:18|Up]] | [[:hi:obs:notes:frames:18-12|>>]]**
