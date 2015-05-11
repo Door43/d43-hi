@@ -1,15 +1,22 @@
-====== Jeroboam Made an Idol [18-09] ======
+====== यारोबाम ने मूर्ति बनाई [18-09] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-09.jpg?nolink&}}
 
-**[[:en:key-terms:jeroboam|Jeroboam]]** **[[:en:key-terms:rebel|rebelled]]** against **[[:en:key-terms:god|God]]** and **caused the people to [[:en:key-terms:sin|sin]]**. He built two **[[:en:key-terms:idol|idols]]** for his people to **[[:en:key-terms:worship|worship]] instead of worshiping God at the [[:en:key-terms:temple|Temple]] in the [[:en:key-terms:kingdom-of-judah|kingdom of Judah]]**.
+**यारोबाम ने परमेश्वर के विरुद्ध द्रोह किया** और लोगों से पाप करवाया। यहूदा राज्य में स्थित मंदिर में परमेश्वर की आराधना करने की बजाय उसने आराधन के लिए दो **मूरतें** बनवाई।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:jeroboam|यारोबाम]]__**
+  * **__[[:hi:obs:notes:key-terms:rebel|द्रोह किया]]__**
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:sin|पाप]]__**
+  * **__[[:hi:obs:notes:key-terms:idol|मूरतों]]__**
+  * **__[[:hi:obs:notes:key-terms:worship|आराधना]]__**
+  * **__[[:hi:obs:notes:key-terms:temple|मंदिर]]__**
+  * **__[[:hi:obs:notes:key-terms:kingdom-of-judah|यहूदा राज्य]]__****____ **
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **caused the people to sin** - This could be translated as, “led the people to sin” or, “motivated the people to sin.” Rehoboam led the people into sin by making idols for them to worship.  
-  * **instead of worshiping God at…Judah** - This can be translated as, “so that they would not worship God at" or, “instead of going to the kingdom of Judah to worship God at the Temple.” 
-  
+  * **लोगों से पाप करवाया**  - इसका अनुवाद ऐसे भी कर सकते हैं : "वह लोगों को पाप की ओर ले गया", या, "लोगों को पाप करने को उकसाया।" लोगों से मूरतों की आराधना करवा कर राहोबाम ने उनसे पाप करवाया।
+  * परमेश्वर की **आराधना करने की बजाय**  - इसका अनुवाद करते समय यूँ भी लिखे सकते हैं : "ताकि वे मंदिर में परमेश्वर की आराधना न करें" या फिर, "यहूदा राज्य में जाकर, वहां मंदिर में परमेश्वर की आराधना करने की बजाय....।"
 
 **[[:hi:obs:notes:frames:18-08|<<]] | [[:hi:obs:notes:18|Up]] | [[:hi:obs:notes:frames:18-10|>>]]**
