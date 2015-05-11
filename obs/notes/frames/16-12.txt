@@ -1,15 +1,15 @@
-====== Gideon's Army [16-12] ======
+====== गिदोन की सेना [16-12] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-12.jpg?nolink&}}
 
-Then **[[:en:key-terms:gideon|Gideon]]** returned to his soldiers and gave each of them a **horn**, a clay pot, and **a torch**. They surrounded the camp where the **[[:en:key-terms:midian|Midianite]]** soldiers were sleeping. Gideon's 300 men soldiers had the torches in the pots so the Midianites could not see the light of the torches.
+**गिदोन** तब अपने सिपाहियों के पास लौटा और उनमे से हरेक को एक नरसिंगा, एक मटका, और एक मशाल दी। मिद्यानी सिपाही जहां सो रहे थे, उन शिविरों को घेर लिया। गिदोन के 300 सिपाहियों ने अपनी मशालें मिटटी के उन घड़ो में रख दी ताकि मशाल की रोशनी मिद्यानियों से छिपी रहे।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:gideon|गिदोन ]]__**
+  * **__[[:hi:obs:notes:key-terms:midian|मिद्यानी]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **horn** - This could be translated as, “trumpet” or, “ram's horn trumpet.” These horns came from a male sheep and were often used to call men for battle. 
-  * **a torch** - This was probably a piece of wood wrapped with cloth and soaked in oil so that it could burn well. (This was not the modern torch that runs on batteries.)
-  
-
+  * **नरसिंगा**  - इसका अनुवाद करते समय "तुरही" या, "मेंढे के सींघो से बनी तुरही" भी लिख सकते हैं। ये नरसिंगे नर भेड़ से प्राप्त होते हैं और युद्ध में घोष के लिए इनका इस्तेमाल किया जाता था।
+  * **एक मशाल**  - संभवत: यह लकड़ी का एक टुकड़ा था जिस पर एक कपड़ा बंधा होता था ताकि वह अच्छी तरह जलता रहे। (यह आज कल इस्तेमाल की जानेवाली टोर्च नहीं थी।)
 **[[:hi:obs:notes:frames:16-11|<<]] | [[:hi:obs:notes:16|Up]] | [[:hi:obs:notes:frames:16-13|>>]]**
