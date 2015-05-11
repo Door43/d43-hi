@@ -1,14 +1,20 @@
-====== David Praised God [17-08] ======
+====== दाऊद ने परमेश्वर की स्तुति की [17-08] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-08.jpg?nolink&}}
 
-When **[[:en:key-terms:david|David]]** heard **these words**, he immediately thanked and **[[:en:key-terms:praise|praised]]** **[[:en:key-terms:god|God]]** because he had **[[:en:key-terms:promise|promised]]** David **this great honor** and many **[[:en:key-terms:bless|blessings]]**. David did not know when God would do these things. But as it happened, the **[[:en:key-terms:israel|Israelites]]** would have to wait a long time before the **[[:en:key-terms:messiah|Messiah]]** came, almost 1,000 years.
+**दाऊद** ने जब ये शब्द सुने, तो उसने तुरंत परमेश्वर को धन्यवाद दिया और उसकी स्तुति की क्योंकि उसने दाऊद को यह **महान सम्मान** और बहुत सी **आशीषें** देने की वाचा बाँधी थी। दाऊद नहीं जानता थी कि परमेश्वर कब इन बातों को पूरी करने वाला है। लेकिन असल में, **मसीह** के आने से पहले  **इस्राएलियों** को एक लम्बी प्रतीक्षा करनी थी, लगभग १,००० साल जितनी।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__दाऊद__ **
+  * **__प्रशंसा की__ **
+  * **__परमेश्वर__ **
+  * **__प्रतिज्ञा की__ **
+  * **__आशीषे__ **
+  * **__इस्राएलियों__ **
+  * **__मसीह__ **
+**अनुवाद के लिए नोट्स****:**
 
-  * **these words** - That is, “the words the prophet had just said.” This refers back to the promises in **[[:hi:obs:notes:frames:17-07|[17-07]]]**. 
-  * **this great honor** - People who lived later would highly respect David because some of his descendants would be kings over Israel and one of them would be the Messiah. 
-  
-
+  * **ये शब्द**  - अर्थात, "नबी द्वारा बोले गए शब्द।" __**[[:hi:obs:notes:frames:17-07|[17-07]]]**__ के सन्दर्भ में।
+  * **यह महान सम्मान**  - बाद में आनेवाले लोग दाऊद को बहुत ऊंचा सम्मान देंगे क्योंकि उसके कुछ वंशज इस्राएल के राजा होंगे और उनमें से एक मसीह होगा।
 **[[:hi:obs:notes:frames:17-07|<<]] | [[:hi:obs:notes:17|Up]] | [[:hi:obs:notes:frames:17-09|>>]]**
