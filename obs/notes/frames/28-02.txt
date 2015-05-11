@@ -2,9 +2,20 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-02.jpg?nolink&}}
 
-“**Which ones do I need to obey?**” he asked. **[[:en:key-terms:jesus|Jesus]]** replied, “Do not murder. Do not commit **[[:en:key-terms:adultery|adultery]]**. Do not steal. Do not lie. Honor your father and mother, and **[[:en:key-terms:love|love]]** your neighbor **as you love yourself**.”
-===== Translation Notes: =====
+“**मुझे**** कौन सी आज्ञाओं का पालन करना होगा?**” उसने पूछा। **यीशु** ने उत्तर दिया, “हत्या न कर। **व्यभिचार** न कर। चोरी न कर। झूठ न बोल। अपने माता-पिता का आदर कर, और अपने पडोसी से **अपने समान प्रेम रख** ।“
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  * **Which ones do I need to obey?**  - That is, “Which laws will be enough for me to receive eternal life?”
-  * **as you love yourself**  - That is, "as much as you love yourself" or, "to the same degree that you love yourself."
+  *
+
+**[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  *
+
+**[[:hi:obs:notes:key-terms:adultery|व्यभिचार]]**
+  *
+
+**[[:hi:obs:notes:key-terms:love|प्रेम]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **मुझे कौन सी आज्ञाओं का पालन करना होगा?**  - अर्थात, “अनंत जीवन पाने के लिए कौन सी आज्ञाओं का पालन करना पर्याप्त होगा?”
+  * **अपने समान प्रेम रख **- अर्थात, “जितना प्रेम तू स्वयं से रखता है।“
 **[[:hi:obs:notes:frames:28-01|<<]] | [[:hi:obs:notes:28|Up]] | [[:hi:obs:notes:frames:28-03|>>]]**
