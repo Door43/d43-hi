@@ -1,14 +1,16 @@
-====== Israel and Judah at War [18-10] ======
+====== इस्राएल और यहूदा के बीच युद्ध [18-10] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-10.jpg?nolink&}}
 
-The **[[:en:key-terms:kingdom|kingdoms]]** of **[[:en:key-terms:kingdom-of-judah|Judah]]** and **[[:en:key-terms:kingdom-of-israel|Israel]]** became enemies and often fought against each other.
+यहूदा और **इस्राएल** राज्यों में आपसी शत्रुता हो गई और वे अकसर एक दूसरे से लड़ने लगे।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:kingdom|राज्यों]]__**
+  * **__[[:hi:obs:notes:key-terms:kingdom-of-judah|यहूदा]]__**
+  * **__[[:hi:obs:notes:key-terms:kingdom-of-israel|इस्राएल]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **Judah and Israel** - The people of Judah and Israel were all descendants of Jacob and part of God's people. Even so, they disobeyed God and fought and killed each other.
-  
+  * **यहूदा और इस्राएल**  - यहूदा और इस्राएल के सभी लोग याकूब के वंशज और परमेश्वर के लोग थे। इस पर भी, उन्होंने परमेश्वर की अवज्ञा की और आपस में लड़ कर, एक दूसरे की हत्या की।
 
 **[[:hi:obs:notes:frames:18-09|<<]] | [[:hi:obs:notes:18|Up]] | [[:hi:obs:notes:frames:18-11|>>]]**
