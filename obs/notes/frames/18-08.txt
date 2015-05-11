@@ -1,14 +1,18 @@
-====== Jeroboam Ruled Israel [18-08] ======
+====== यारोबाम ने इस्राएल पर शासन किया [18-08] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-08.jpg?nolink&}}
 
-The other ten tribes of the **[[:en:key-terms:israel|nation of Israel]]** that rebelled against **[[:en:key-terms:rehoboam|Rehoboam]] appointed a man named [[:en:key-terms:jeroboam|Jeroboam]] to be their [[:en:key-terms:king|king]]**. They **set up their [[:en:key-terms:kingdom|kingdom]]** in the northern part of the land and were called the **[[:en:key-terms:kingdom-of-israel|kingdom of Israel]]**.
+राहोबाम से द्रोह करनेवाले **इस्राएल देश के दस गोत्रों ने यारोबाम नाम के व्यक्ति को अपना राजा नियुक्त किया** । उन्होंने अपने राज्य की स्थापना **राजा** भूमि के उत्तरी हिस्से में की और **इस्राएल राज्य** कहलाये।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:israel|इस्राएल देश]]__**
+  * **__[[:hi:obs:notes:key-terms:rehoboam|रेहोबाम]]__**
+  * **__[[:hi:obs:notes:key-terms:jeroboam|यारोबाम]]__**
+  * **__[[:hi:obs:notes:key-terms:king|राजा]]__**
+  * **__[[:hi:obs:notes:key-terms:kingdom|राज्य]]__**
+  * __**[[:hi:obs:notes:key-terms:kingdom-of-israel|इस्राएल देश]]**__
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **set up their kingdom** - This may be translated as, they "established" or, "built" their kingdom. This sentence may also be translated as, “They separated themselves from the other two tribes and lived in the northern part of the land, and they called their country 'Israel.'” 
-  
-
+  * **अपने राज्य की स्थापना**  - यहाँ "का निर्माण किया" भी लिख सकते हैं। इस वाक्य का अनुवाद हम ऐसे भी कर सकते हैं, "उन्होंने दूसरे दो गोत्रों से स्वयं को अलग कर लिए और भूमि के उत्तरी हिस्से में रहने लगे और 'इस्राएल' देश कहलाये।
 **[[:hi:obs:notes:frames:18-07|<<]] | [[:hi:obs:notes:18|Up]] | [[:hi:obs:notes:frames:18-09|>>]]**
