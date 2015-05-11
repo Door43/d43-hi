@@ -1,16 +1,21 @@
-====== Sell Everything [28-04] ======
+====== सब कुछ बेच दे [28-04] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-04.jpg?nolink&}}
 
-**[[:en:key-terms:jesus|Jesus]]** answered, “If **you** want to be **perfect**, then go and sell **everything you own** and give the money to the poor, and you will have **treasure in [[:en:key-terms:heaven|heaven]]**. Then come and follow me.”
+**यीशु** ने उत्तर दिया, “यदि **तू** **सिद्ध** होना चाहता है, तो जा और **जो कुछ भी तेरा है**, उसे बेच कर वह धन गरीबों को दे दे, और **स्वर्ग में** तेरे लिए **खज़ाना** होगा। फिर तू मेरे पास आ और मेरा अनुकरण कर।“
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[:hi:obs:notes:key-terms:jesus|यीशु ]]**
+  *
 
-  * **you** - If your language has different words for "you" depending on the number of people intended, use the singular form. Jesus was addressing this command to this one man.
-  * **perfect** - That is, "completely righteous."
-  * **everything you own** - That is, "all of your possessions."
-  * **treasure** - This could also be translated as, "riches" or, "great wealth."
-  * **in heaven** - This could also be translated as, "located in heaven when you arrive there." This treasure will exist "there and then," as opposed to the wealth that Jesus asked the young man to give up "here and now."
+**[[:hi:obs:notes:key-terms:heaven|स्वर्ग]]**
+===== अनुवाद के लिए नोट्स: =====
 
+  * **तू **- यदि आपकी भाषा में “तू” के लिए कई वैकल्पिक शब्द हों, तो ऐसे शब्द का प्रयोग करें जो एकवचन के लिए प्रयुक्त होता है। यीशु यह आदेश इसी एक व्यक्ति को दे रहे थे।
+  * **सिद्ध**  - अर्थात, “सम्पूर्ण रूप से धर्मी।“
+  * **जो कुछ भी तेरा है**  - अर्थात, “तेरी सारी संपत्ति।“
+  * **खज़ाना**  - इसे “धन” या, “अपार निधि” भी कह सकते हैं।
+  * **स्वर्ग में**  - इस वाक्यांश को हम यूँ भी लिख सकते हैं: “स्वर्ग पहुँचने पर तुझे वहाँ ....मिलेगा।“ यह खज़ाना उसे “वहाँ उस समय” मिलेगा, न कि “यहाँ और अभी” ।
 **[[:hi:obs:notes:frames:28-03|<<]] | [[:hi:obs:notes:28|Up]] | [[:hi:obs:notes:frames:28-05|>>]]**
