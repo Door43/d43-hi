@@ -1,16 +1,18 @@
-====== God Defeated the Midianites [16-14] ======
+====== परमेश्वर ने मिद्यानियों को पराजित किया [16-14] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-14.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-14.jpg?nolink&}}
 
-**[[:en:key-terms:god|God]] confused the [[:en:key-terms:midian|Midianites]]**, so that they started attacking and killing each other. Immediately, **the rest of the [[:en:key-terms:israel|Israelites]] were called** from their homes to come help chase the Midianites. They killed many of them and chased the rest of them out of the Israelites' land. 120,000 Midianites died that day. God had **[[:en:key-terms:save|saved]]** **[[:en:key-terms:israel|Israel]]**.
+**परमेश्वर ने मिद्यानियों के बीच गड़बड़ी पैदा कर दी**, जिस कारण वे स्वयं एक दूसरे पर ही हमला करके एक दूसरे को मारने लगे। इसके बाद, मिद्यानियों को खदेड़ने में मदद के लिए शेष **इस्राएलियों को तुरंत अपने घरों से बुलाया ****गया** । उन्होंने बहुतो को मौत के घात उतार दिया और शेष बचे लोगों को इस्राएलियों की भूमि से खदेड़ डाला। उस दिन 120,000 मिद्यानी मारे गए। परमेश्वर ने **इस्राएल को बचाया था** ।
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
+   * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:midian|मिद्यानियों]]__**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएलियों]]__**
+  * **__[[:hi:obs:notes:key-terms:save|बचाया]]__**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएल]]__**
+**अनुवाद के लिए नोट्स****:**
 
-===== Translation Notes: =====
-
-
-  * **God confused the Midianites** - God caused the Midianites to be confused. They wanted to attack the Israelites, but instead, they attacked each other. 
-  * **the rest of the Israelites** - This could be translated as, “many other Israelite men.” This refers to the soldiers previously sent home in **[[:hi:obs:notes:frames:16-10|[16-10]]]**.
-  * **were called** – That is, “were called out” or, “were summoned.” This sentence could also be translated as, “Gideon sent messengers to summon many other Israelite men from their homes.” 
-  
-
+  * **परमेश्वर ने मिद्यानियों के बीच गड़बड़ी पैदा कर दी**  - परमेश्वर ने मिद्यानियों को भ्रम में डाल दिया। वे इस्राएलियों पर हमला करना चाहते थे, लेकिन ऐसा करने की बजाय उन्होंने एक दूसरे पर ही हमला कर दिया।
+  * **शेष इस्राएलियों**  - अर्थात, "कई अन्य इस्राएली पुरुषों"। इसका आशय उन सिपाहियों से है जिन्हें घर भेज दिया गया था **__[[:hi:obs:notes:frames:16-10|[16-10]]]__**।
+  * **बुलाया गया**  - अर्थात, उन्हें "बुलवा भेजा गया", या कि "बुलवाया गया।" इस वाक्य का अनुवाद हम ऐसे भी कर सकते हैं, : "गिदोन ने दूतों को भेज कर उन इस्राएली सिपाहियों को बुलवाया जिन्हें पहले घर भेज दिया गया था।"
 **[[:hi:obs:notes:frames:16-13|<<]] | [[:hi:obs:notes:16|Up]] | [[:hi:obs:notes:frames:16-15|>>]]**
