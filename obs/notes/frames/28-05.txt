@@ -1,13 +1,14 @@
-====== Not Willing to Obey [28-05] ======
+====== पालन करने की अनिच्छा [28-05] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-05.jpg?nolink&}}
 
-When the young man **heard what [[:en:key-terms:jesus|Jesus]] said**, he became very sad, because he was very rich and did not want to give away all the things he possessed. He turned and went away from Jesus.
+**यीशु की बात सुन कर** युवक बहुत उदास हो गया, क्योंकि वह बहुत धनी था और अपनी संपत्ति नहीं देना चाहता था। वह मुड़ कर यीशु से दूर चला गया।
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **heard what Jesus said** – That is, “heard Jesus tell him to give away what he owned.”
-  
-
+  * **यीशु की बात सुन कर**  – अर्थात, “यीशु के मुख से संपत्ति को त्यागने का निर्देश सुन कर।“
 **[[:hi:obs:notes:frames:28-04|<<]] | [[:hi:obs:notes:28|Up]] | [[:hi:obs:notes:frames:28-06|>>]]**
