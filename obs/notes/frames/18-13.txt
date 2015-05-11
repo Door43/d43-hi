@@ -1,18 +1,28 @@
-====== Judah Was Unfaithful [18-13] ======
+====== यहूदा निष्ठाहीन था [18-13] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-13.jpg?nolink&}}
 
-The **[[:en:key-terms:king|kings]]** of **[[:en:key-terms:kingdom-of-judah|Judah]]** were **[[:en:key-terms:descendant|descendants]]** of **[[:en:key-terms:david|David]]**. Some of these kings were **[[:en:key-terms:good|good]]** men who **ruled [[:en:key-terms:justice|justly]]** and **[[:en:key-terms:worship|worshiped]]** **[[:en:key-terms:god|God]]**. But most of Judah’s kings were **[[:en:key-terms:evil|evil]]**, **corrupt**, and they worshiped **[[:en:key-terms:idol|idols]]**. Some of the kings even **[[:en:key-terms:sacrifice|sacrificed]]** their children to false **[[:en:key-terms:god-false|gods]]**. Most of the people of Judah also **[[:en:key-terms:rebel|rebelled]]** against God and worshiped other gods.
+**यहूदा** के **राजा** **दाऊद** के वंशज थे। इनमे से कुछ राजा भले थे जिन्होंने नयाय पूर्ण रीति से राज्य किया और **परमेश्वर की आराधना की** । लेकिन यहूदा के अधिकांश राजा दुष्ट, भ्रष्ट, और मूरतों के आराधक थे। कुछ राजाओं ने तो इन झूठे **देवताओं** के लिए अपने बच्चों तक की बलि दी। यहूदा के अधिकाँश लोगों ने भी परमेश्वर से द्रोह किया और दूसरे देवताओं की आराधना की।
 
-//A Bible story from: 1 Kings 1-6; 11-12//
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
+   * **__[[:hi:obs:notes:key-terms:king|राजाओं]]__**
+  * **__[[:hi:obs:notes:key-terms:kingdom-of-judah|यहूदा]]__**
+  * **__[[:hi:obs:notes:key-terms:descendant|वंशजो]]__**
+  * **__[[:hi:obs:notes:key-terms:david|दाऊद]]__**
+  * **__[[:hi:obs:notes:key-terms:good|भले]]__**
+  * **__[[:hi:obs:notes:key-terms:justice|न्यायपूर्ण]]__**
+  * **__[[:hi:obs:notes:key-terms:worship|आराधना की]]__**
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:evil|बुराई]]__**
+  * **__[[:hi:obs:notes:key-terms:idol|मूरतों]]__**
+  * **__[[:hi:obs:notes:key-terms:sacrifice|बलि दी]]__**
+  * **__[[:hi:obs:notes:key-terms:god-false|देवताओं]]__**
+  * **__[[:hi:obs:notes:key-terms:rebel|द्रोह किया]]__**
+**अनुवाद के लिए नोट्स****:**
 
-===== Translation Notes: =====
-
-
-  * **ruled justly** - This means they ruled according to God's laws. This can be translated as, “when they ruled, they did what was right.” 
-  * **corrupt** - This can be translated as, "did what was wrong in order to get whatever they wanted.” 
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-  
+  * **न्यायपूर्ण रीति से राज्य किया**  - अर्थात, उन्होंने परमेश्वर की व्यवस्था के अनुसार राज्य किया। इसका अनुवाद करते समय हम लिखे सकते हैं, "राज करते समय, उन्होंने वही किया जो सही था।"
+  * **भ्रष्ट**  - इसका अनुवाद करते समय हम लिख सकते हैं, : "अपनी इच्छित चीज़ पाने के लिए उन्होंने गलत काम किया।"
+  * बाइबिल की कहानी   -  बाइबिल के कुछ संस्करणों में इनका अनुवाद अलग तरह से किया हो सकता है।
 
 **[[:hi:obs:notes:frames:18-12|<<]] | [[:hi:obs:notes:18|Up]] | [[:hi:obs:notes:frames:19-01|>>]]**
