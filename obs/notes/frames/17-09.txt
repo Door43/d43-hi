@@ -1,16 +1,19 @@
-====== God Blessed David [17-09] ======
+====== परमेश्वर ने दाऊद को आशीष दिया [17-09] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-09.jpg?nolink&}}
 
-**[[:en:key-terms:david|David]] ruled with [[:en:key-terms:justice|justice]] and [[:en:key-terms:faithful|faithfulness]] for many years**, and **[[:en:key-terms:god|God]]** **[[:en:key-terms:bless|blessed]]** him. However, **toward the end of his life** he **[[:en:key-terms:sin|sinned]] terribly** against God.
+**न्याय और विश्वास** **योग्यता के साथ दाऊद ने कई सालों तक शासन किया**, और **परमेश्वर ने उसे आशीषित ****किया** । लेकिन तब भी, अपने जीवन के अंतिम दिनों में उसने परमेश्वर के विरुद्ध भयंकर पाप किये।
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
+   * **__[[:hi:obs:notes:key-terms:david|दाऊद]]__**
+  * **__[[:hi:obs:notes:key-terms:justice|न्याय]]__**
+  * **__[[:hi:obs:notes:key-terms:faithful|विश्वासयोग्यता]]__**
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:bless|आशीषें दी]]__**
+  * **__[[:hi:obs:notes:key-terms:sin|पाप किये]]__**
+**अनुवाद के लिए नोट्स****:**
 
-===== Translation Notes: =====
-
-
-  * **David ruled with justice and faithfulness for many years** - This could be translated as, “When David ruled the people, for many years he did what was right and fair, and he was faithful to God.”
-  * **toward the end of his life** - This may be translated as, "when David was older" or "later on in David's life."
-  * **sinned terribly** - That is, “sinned in a very evil way.” David's sin was especially evil.
-  
-
+  * **न्याय और विश्वासयोग्यता के साथ दाऊद ने कई सालों तक शासन किया**  - इसके अनुवाद में ऐसे भी लिख सकते हैं, कि "लोगों पर अपने शासनकाल के दौरान, कई सालों तक उसने सही व न्यायसंगत कार्य ही कियें. और परमेश्वर के प्रति विश्वासयोग्य रहा।"
+  * **अपने जीवन के अंतिम दिनों में**  - इसका अनुवाद हम ऐसे भी कर सकते हैं, : "दाऊद जब बूढा हुआ।"
+  * **भयंकर पाप किये**  - अर्थात, "बहुत बुरे - बारे पाप किये।" दाऊद के पाप विशेष रूप से बहुत बुरे थे।
 **[[:hi:obs:notes:frames:17-08|<<]] | [[:hi:obs:notes:17|Up]] | [[:hi:obs:notes:frames:17-10|>>]]**
