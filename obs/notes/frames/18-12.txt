@@ -6,11 +6,11 @@
 
 **महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-   * **__[[:hi:obs:notes:key-terms:kings|राजाओं]]__**
-  * __**[[:hi:obs:notes:key-terms:kingdom-of-israel|इस्राएल राज्य]]**__
-  * **__[[:hi:obs:notes:key-terms:worship|आराधना की]]__**
-  * **__[[:hi:obs:notes:key-terms:idol|मूरतों]]__**
-  * **__[[:hi:obs:notes:key-terms:sacrifice|भेंट]]__**
+   * **__[[:hi:obs:notes:key-terms:king|राजाओं]]__ **
+  * __**[[:hi:obs:notes:key-terms:kingdom-of-israel|इस्राएल राज्य]]** __
+  * **__[[:hi:obs:notes:key-terms:worship|आराधना की]]__ **
+  * **__[[:hi:obs:notes:key-terms:idol|मूरतों]]__ **
+  * **__[[:hi:obs:notes:key-terms:sacrifice|भेंट]]__ **
 **अनुवाद के लिए नोट्स****:**
 
   * **बाल बलि**  - अपने मूरतों दे समक्ष वे बच्चो की हत्या कर, उन्हें बलि के रूप में भेंट करते थे।
