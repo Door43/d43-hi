@@ -1,14 +1,16 @@
-====== David Killed Goliath [17-03] ======
+====== दाऊद ने गोलियत को मार डाला [17-03] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-03.jpg?nolink&}}
 
-**[[:en:key-terms:david|David]]** became a great soldier and leader. When David was still a young man, he fought against **a giant named Goliath**. Goliath was a trained soldier, very strong, and almost three meters tall! But **[[:en:key-terms:god|God]]** helped David kill Goliath and save **[[:en:key-terms:israel|Israel]]**. After that, David won many victories over Israel's enemies, for which the people **[[:en:key-terms:praise|praised]]** him.
+**दाऊद** एक महान योद्धा और अगुन बन गया। छोटी आयु ही मीना दाऊद ने गोलियत नाम के दैत्याकार व्यक्ति के विरुद्ध लड़ाई की। गोलियत एक प्रशिक्षित सिपाही था और बहुत मज़बूत व लगभग तीन मीटर लम्बा था! लेकिन गोलियत को मारने और इस्राएल को बचाने में **परमेश्वर** ने दाऊद की मदद की। इसके बाद, इस्राएली शत्रुओं पर दाऊद बहुत बार विजयी रहा, जिसके कारण लोगों ने उसकी प्रशंसा की।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:david|दाऊद]]__**
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएल]]__**
+  * **__[[:hi:obs:notes:key-terms:praise|प्रशंसा की]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **a giant named Goliath** - The word "giant" here describes a person who is unusually large and powerful. Goliath was a huge soldier in an army that was fighting against Israel. 
-  
-
+  * **गोलियत नामे के दैत्याकार व्यक्ति**  - "दैत्याकार" का आशय यहाँ लम्बे - चौड़े शरीरवाले व्यक्ति से है। गोलियत इस्राएल के विरुद्ध लड़ रही सेना का एक लम्बा - चौड़ा सिपाही था।
 **[[:hi:obs:notes:frames:17-02|<<]] | [[:hi:obs:notes:17|Up]] | [[:hi:obs:notes:frames:17-04|>>]]**
