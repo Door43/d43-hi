@@ -1,15 +1,25 @@
-====== The Jewish Traveler [27-04] ======
+====== यहूदी यात्री [27-04] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-04.jpg?nolink&}}
 
-**[[:en:key-terms:jesus|Jesus]]** answered the **law expert** by telling a story. “There was a **[[:en:key-terms:jew|Jewish]]** man who was traveling along the road **from [[:en:key-terms:jerusalem|Jerusalem]] to [[:en:key-terms:jericho|Jericho]]**.”
+**व्यवस्था के उस पंडित** को **यीशु** ने एक कहानी द्वारा उत्तर दिया। ““एक यहूदी व्यक्ति मार्ग के रास्ते **यरूशलेम से यरीहो** जा रहा था।“
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[:hi:obs:notes:key-terms:jesus|यीशु ]]**
+  *
 
-  * (The cloud-like frame around this picture indicates that Jesus is telling a story, and not necessarily explaining a historical event.)
-  * **law expert** - See how you translated this term in **[[:hi:obs:notes:frames:27-01|[27-01]]]**.
-  * **from Jerusalem to Jericho** – In some languages you could translate this as, “from the city of Jerusalem to the city of Jericho” or, “from Jerusalem City to Jericho City.” 
-  
+**[[:hi:obs:notes:key-terms:jew|यहूदी ]]**
+  *
 
+**[[:hi:obs:notes:key-terms:jerusalem|यरूशलेम ]]**
+  *
+
+**[[:hi:obs:notes:key-terms:jericho|यरीहो ]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * (चित्र में बनी बादल जैसे आकृति यह दर्शाती है कि यीशु कहानी सूना रहे हैं, जो कि ज़रूरी नहीं इतिहास से जुडी कोई घटना हो।)
+  * **व्यवस्था का पंडित**  - See how you translated this term in **[[:hi:obs:notes:frames:27-01|[27-01]]]**.
+  * **from Jerusalem to Jericho**  – In some languages you could translate this as, “from the city of Jerusalem to the city of Jericho” or, “from Jerusalem City to Jericho City.”
 **[[:hi:obs:notes:frames:27-03|<<]] | [[:hi:obs:notes:27|Up]] | [[:hi:obs:notes:frames:27-05|>>]]**
