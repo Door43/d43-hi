@@ -2,9 +2,19 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-17.jpg?nolink&}}
 
-**This pattern repeated many times**: the **[[:en:key-terms:israel|Israelites]]** would **[[:en:key-terms:sin|sin]]**, **[[:en:key-terms:god|God]]** would **[[:en:key-terms:punish|punish]]** them, they would **[[:en:key-terms:repent|repent]]**, and God would send a **[[:en:key-terms:deliverer|deliverer]]** to **[[:en:key-terms:save|save]]** them. Over many years, God sent many deliverers who saved the Israelites from their enemies.
+यह नमूना कई बार दोहराया गया: इस्राएली पाप करते, परमेश्वर उन्हें दण्ड देता, वे पश्चाताप करते, और फिर परमेश्वर उन्हें बचाने के लिए एक **मुक्तिदाता** भेजता। कई सालों के दौरान परमेश्वर ने बहुत से मुक्तिदाता भेजे जिन्होंने इस्राएलियों को उनके शत्रुओं से बचाया।
 
-===== Translation Notes: =====
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-  * **This pattern repeated many times**  - This could be translated as, “These things kept happening again and again” or, “These things happened many times.”
+   * **__[[:hi:obs:notes:key-terms:israel|इस्राएलियों]]__**
+  * **__[[:hi:obs:notes:key-terms:sin|पाप]]__**
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:punish|दंड]]__**
+  * **__[[:hi:obs:notes:key-terms:repent|पश्चाताप]]__**
+  * **__[[:hi:obs:notes:key-terms:deliverer|मुक्तिदाता]]__**
+  * **__[[:hi:obs:notes:key-terms:save|बचा]]__**
+**अनुवाद के लिए नोट्स****:**
+
+  * **यह नमूना कई बार दोहराया गया**  - इसका अनुवाद ऐसे भी कर सकते हैं, : "ये चीज़ीं बारम्बार होती" या फिर, "ये बातें बहुत बार हुई।"
+
 **[[:hi:obs:notes:frames:16-16|<<]] | [[:hi:obs:notes:16|Up]] | [[:hi:obs:notes:frames:16-18|>>]]**
