@@ -1,15 +1,16 @@
-====== David Murdered Uriah [17-12] ======
+====== दाऊद द्वारा ऊरिय्याह कि हत्या [17-12] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-12.jpg?nolink&}}
 
-**[[:en:key-terms:bathsheba|Bathsheba's]]** husband, a man named **[[:en:key-terms:uriah|Uriah]]**, was one of **[[:en:key-terms:david|David's]]** best soldiers. David called Uriah back from the battle and told him to **go be with his wife**. But Uriah refused to go home while the rest of the soldiers were in battle. So David sent Uriah back to the battle and told the general to place him **where the enemy was strongest** so that he would be killed.
+**बतशेबा का** पति, जिसका नाम उरिय्याह था, **दाऊद के** बेहतरीन सिपाहियों में से एक था। दाऊद ने उरिय्याह को युद्ध क्षेत्र से वापिस बुलवा कर अपने पत्नी के साथ होने को कहा। लेकिन उरिय्याह ने बाकी सिपाहियों को युद्ध में छोड़ कर घर जाने से मना कर दिया। इसलिए दाऊद ने उरिय्याह को फिर युद्ध में भेज दिया और सेनापति से उसे ऐसी जगह पर रखने को कहा जहां पर शत्रु सबसे अभिक प्रबल था, जिससे कि वह मारा जाए।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:bathsheba|बतशेबा का]]__**
+  * **__[[:hi:obs:notes:key-terms:uriah|उरिय्याह]]__**
+  * **__[[:hi:obs:notes:key-terms:david|दाऊद के]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **go be with his wife** - That is, “go home to be intimate with his wife.” David wanted people, especially Uriah, to believe that Bathsheba was pregnant with Uriah's child. 
-  * **where the enemy was strongest** - That is, the location in the battle where the most fighting was going on. 
-  
-
+  * **अपनी पत्नी के साथ होने को**  - अर्थात, "घर लौट कर पत्नी के करीब होने को कहा।" दाऊद चाहता था कि लोगों को, विशेषकर उरिय्याह को यह विश्वास हो जाए की बतशेबा की कोख में उरिय्याह की संतान थी।
+  * **जहां शत्रु सबसे अधिक प्रबल था**  - अर्थात, युद्ध क्षेत्र की एक ऐसी जगह जहां पर सबसे अधिक लड़ाई चल रही थी।
 **[[:hi:obs:notes:frames:17-11|<<]] | [[:hi:obs:notes:17|Up]] | [[:hi:obs:notes:frames:17-13|>>]]**
