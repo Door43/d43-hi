@@ -1,16 +1,19 @@
-====== The Midianite's Dream [16-11] ======
+====== मिद्यानि का स्वप्न [16-11] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-11.jpg?nolink&}}
 
-That night **[[:en:key-terms:god|God]]** told **[[:en:key-terms:gideon|Gideon]]**, “**Go down** to the **[[:en:key-terms:midian|Midianite]]** camp and when you hear what they say, you will **no longer be afraid**.” So that night, Gideon went down to the camp and heard a Midianite soldier telling his friend about **something he had [[:en:key-terms:dream|dreamed]]**. The man’s friend said, “This dream means that Gideon's army will defeat the Midianite army!” When Gideon heard this, he **[[:en:key-terms:worship|worshiped]]** God.
+उस रात परमेश्वर गिदोन से बोला, "तू नीचे **मिद्यानी** शिविर की ओर जा और जब तू उनकी बातें सुनेगा, तो और न डरेगा।" इसलिए, उस रात गिदोन नीचे की ओर उनके शिविर में गया और एक मिद्यानी सिपाही द्वारा अपने दोस्त को अपने सपने में दिखाई दी कोई बात बताते सुना। उस व्यक्ति के दोस्त ने कहा, "इस सपने का मतलब है कि गिदोन की सेना मिद्यानी सेना को हारने वाली है!" यह सुन कर गिदोन ने परमेश्वर की **आराधना** की।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:gideon|गिदोन ]]__**
+  * **__[[:hi:obs:notes:key-terms:midian|मिद्यानी]]__**
+  * **__[[:hi:obs:notes:key-terms:dream|सपने में दिखाई दी कोई बात]]__**
+  * **__[[:hi:obs:notes:key-terms:worship|आराधना की]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **Go down** - The Midianite soldiers were camping out in a valley and were at a lower elevation than the Israelite soldiers.
-  * **you will no longer be afraid** – That is, “you will stop being afraid.” 
-  * **something he had dreamed** – That is, “something he had seen in a dream” or, “a dream he had had.”
-  
-
+  * **नीचे की ओर....में जाने**  - मिद्यानी सिपाहियों ने एक घाटी में शिविर लगाया था जो की इस्राएली सिपाहियों के शिविर से नीचे की ओर था।
+  * **तू....और न डरेगा **- अर्थात, "तू डरना बंद कर देगा।"
+  * **सपने में दिखी कोई बात**  - अर्थात, "ऐसी बात जो उसे अपने सपने में दिखी थी" या फिर, "अपना एक सपना बताया।"
 **[[:hi:obs:notes:frames:16-10|<<]] | [[:hi:obs:notes:16|Up]] | [[:hi:obs:notes:frames:16-12|>>]]**
