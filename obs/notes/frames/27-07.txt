@@ -1,16 +1,23 @@
-====== The Levite [27-07] ======
+====== लेवी [27-07] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-07.jpg?nolink&}}
 
-“Not long after that, a Levite **came down the road**. (**Levites were a tribe of [[:en:key-terms:jew|Jews]]** who helped the **[[:en:key-terms:priest|priests]]** at the **[[:en:key-terms:temple|Temple]]**.) The Levite also crossed over to the other side of the road and **ignored** the man who had been robbed and beaten.”
+“इसके कुछ समय बाद ही, एक लेवी **उस मार्ग पर पहुँचा।** (**लेवी लोग यहूदियों के गोत्रों से थे** जो परमेश्वर के भवन में याजको की मदद करते थे।) वह लेवी भी मार्ग की दूसरी तरफ चला गया और उस व्यक्ति की **अनदेखी** कर दी जिसे लूटा व पीटा गया था।“
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[https://door43.org/en/obe/other/jew|यहूदियों ]]**
+  *
 
-  * (Jesus continues to tell the story.)
-  * **came down the road** – That is, “was traveling down that same road.” 
-  * **Levites were a tribe of Jews** – That is, “Levites were from the Israelite tribe of Levi” or, “Levites were from the Israelite clan of Levi.” 
-  * **ignored** – That is, “did not help.” 
+**[[https://door43.org/en/obe/kt/priest|याजकों ]]**
+  *
 
+**[[https://door43.org/en/obe/kt/temple|परमेश्वर का भवन ]]**
+===== अनुवाद के लिए नोट्स: =====
 
+  * (यीशु कहानी को आगे बढ़ाते हैं)
+  * **came down the road**  – That is, “was traveling down that same road.”
+  * **Levites were a tribe of Jews**  – That is, “Levites were from the Israelite tribe of Levi” or, “Levites were from the Israelite clan of Levi.”
+  * **ignored**  – That is, “did not help.”
 **[[:hi:obs:notes:frames:27-06|<<]] | [[:hi:obs:notes:27|Up]] | [[:hi:obs:notes:frames:27-08|>>]]**
