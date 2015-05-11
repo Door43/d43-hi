@@ -1,16 +1,24 @@
-====== David Became King [17-05] ======
+====== दाऊद का राजा बनना [17-05] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-05.jpg?nolink&}}
 
-Eventually, **[[:en:key-terms:saul|Saul]]** died in battle, and **[[:en:key-terms:david|David]]** became **[[:en:key-terms:king|king]]** of **[[:en:key-terms:israel|Israel]]**. He was a good king, and the people **[[:en:key-terms:love|loved]]** him. **[[:en:key-terms:god|God]]** **[[:en:key-terms:bless|blessed]]** David and **made him successful**. David fought many battles and God helped him defeat Israel's enemies. David conquered **[[:en:key-terms:jerusalem|Jerusalem]]** and made it **his capital city**. **During David’s reign**, Israel became powerful and wealthy.
+आखिरकार, **शाऊल** युद्ध में मारा गया, और **दाऊद** तब **इस्राएल** का **राजा** बना। वह एक भला राजा था, और लोग उसे प्रेम करते थे। दाऊद को **परमेश्वर ने आशीष दी** और उसे सफल बनाया। दाऊद ने कई लड़ाइयाँ लड़ी और इस्राएल के शत्रुओं को हराने में परमेश्वर ने उसकी मदद की। दाऊद ने यरूशलेम को जीता और उसे अपनी राजधानी बनाया। **दाऊद के शासन** **काल के दौरान**, इस्राएल सामर्थी व समृद्ध हुआ।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:saul|शाऊल]]__**
+  * **__[[:hi:obs:notes:key-terms:david|दाऊद]]__**
+  * **__[[:hi:obs:notes:key-terms:king|राजा]]__**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएल]]__**
+  * **__[[:hi:obs:notes:key-terms:love|प्रेम करते थे]]__**
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:bless|आशीषें दी]]__**
+  * **__[[:hi:obs:notes:key-terms:jerusalem|यरूशलेम]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **made him successful** - That is, “helped him accomplish the good things he wanted to do.” 
-  * **his capital city** - That is, “the capital city of his kingdom.” David lived in Jerusalem and ruled from there.
-  * **During David’s reign** -  That is, “During the time when David was king over Israel” or, “During the time when David was ruling as king over Israel.”  
-  
+  * **उसे सफल बनाया**  - अर्थात, "भले काम करने में उसकी मदद की।"
+  * **अपनी राजधानी**  - अर्थात, "उसके साम्राज्य की राजधानी।" दाऊद यरूशलेम में रहा और वहीँ से शासन किया।
+  * **दाऊद के शासनकाल के दौरान**  - अर्थात, "दाऊद के इस्राएल पर शासन करने के दौरान", या फिर, "इस्राएल पर राजा की हैसियत से राज्य करने की अवधि के दौरान।"
+  *
 
 **[[:hi:obs:notes:frames:17-04|<<]] | [[:hi:obs:notes:17|Up]] | [[:hi:obs:notes:frames:17-06|>>]]**
