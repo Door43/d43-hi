@@ -1,17 +1,18 @@
-====== The Wet Cloth [16-09] ======
+====== गीला कपड़ा [16-09] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-09.jpg?nolink&}}
 
+पहले चिन्ह के लिए **गिदोन** ने भूमि पर एक गीला कपडा रखा और **परमेश्वर** से कहा कि सुबह की ओस केवल कपडे पर गिरे लेकिन भूमि सूखी रहे। **परमेश्वर ने वैसा ही ****किया** । अगली रात, उसने कहा कि भूमि गीली हो जाये लेकिन कपडा सूखा ही रहे। परमेश्वर ने वैसा ही किया। इन दो चिन्हों के मिलने पर गिदोन को पूरा भरोसा हो गया कि मिद्यानियों से **इस्राएल को बचाने में** परमेश्वर उसका इस्तेमाल करेगा।
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-For the first **sign**, **[[:en:key-terms:gideon|Gideon]]** laid a cloth on the ground and asked **[[:en:key-terms:god|God]]** to **let the morning dew fall** only on the cloth and not on the ground. **God did that**. The next night, he asked that the ground be wet but the cloth dry. God did that too. These two signs convinced Gideon that God would use him to **[[:en:key-terms:save|save]]** **[[:en:key-terms:israel|Israel]]** from the **[[:en:key-terms:midian|Midianites]]**.
+   * **__[[:hi:obs:notes:key-terms:gideon|गिदोन ]]__**
+  * **__[[:hi:obs:notes:key-terms:sheep|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:save|बचा]]__**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएल]]__**
+  * **__[[:hi:obs:notes:key-terms:midian|मिद्यानियों]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-===== Translation Notes: =====
-
-
-  * **sign** - This could be translated as, “miracle" or, "impossible thing."
-  * **let the morning dew fall** - This can be translated as, “make the morning dew appear” or, “make the morning dew come up.” "Dew" refers to the drops of water that appear on the ground in the morning. Dew naturally covers everything equally. 
-  * **God did that** - This could be translated as, “God did what Gideon asked him to do.” 
-  
-
+  * **चिन्ह**  - इसे "अद्भुत कार्य" या, "असंभव कार्य" भी कह सकते हैं।
+  * **सुबह की ओस केवल कपडे पर गिरे**  - इसका अनुवाद करते समय यह भी लिखे सकते हैं, : "सुबह ही ओस केवल कपडे पर नज़र आये", या फिर, "सुबह की ओस को केवल कपडे पर गिरा"। "ओस" का आशय सुबह के समय भूमि पर दिखनेवाली पानी की नन्ही - नन्ही व सूक्ष्म जलकणों से है। सहज रूप से यह सब जगह एक सामान गिरती है।
+  * **परमेश्वर ने वैसा ही किया**  - इसका अनुवाद ऐसे भी किया जा सकता है, : "परमेश्वर ने थी वैसा ही कर दिया जैसा कि गिदोन ने कहा था।"
 **[[:hi:obs:notes:frames:16-08|<<]] | [[:hi:obs:notes:16|Up]] | [[:hi:obs:notes:frames:16-10|>>]]**
