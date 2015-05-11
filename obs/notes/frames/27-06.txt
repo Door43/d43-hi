@@ -1,16 +1,23 @@
-====== The Priest [27-06] ======
+====== याजक [27-06] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-06.jpg?nolink&}}
 
-“Soon after that, a **[[:en:key-terms:jew|Jewish]]** **[[:en:key-terms:priest|priest]]** **happened to walk down** that same road. When this **[[:en:key-terms:jewish-leaders|religious leader]]** saw the man who had been robbed and beaten, he moved to the other side of the road, **ignored the man** who needed help, and **kept on going**.”
+“जल्द ही, एक **यहूदी याजक** भी **यात्रा करते हुए उसी मार्ग पर पहुँँच ****गया** । जब उस **धार्मिक अगुए** की दृष्टि उस व्यक्ति पर पड़ी जिसे लूटा और पीटा गया था, वह तुरंत मार्ग की दूसरी और चला गया, और उस ज़रूरतमंद **व्यक्ति की अनदेखी कर** **आगे बढ़ता रहा।**
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[:hi:obs:notes:key-terms:jew|यहूदी ]]**
+  *
 
-  * (Jesus continues to tell the story.)
-  * **happened to walk down** – That is, “happened to be traveling along.” For some languages it may be necessary to use a word like “travel” rather than “walk” since the priest was not just walking on the road but was traveling to get to another city. 
-  * **ignored the man** - That is, “did not help the man” or, “showed no concern for the man.” 
-  * **kept on going** - That is, “continued traveling down the road.” 
+**[[:hi:obs:notes:key-terms:priest|याजक ]]**
+  *
 
+**[[:hi:obs:notes:key-terms:jewish leaders|धार्मिक अगुए ]]**
+===== अनुवाद के लिए नोट्स: =====
 
+  * (यीशु कहानी बताना जारी रखते हैं)
+  * **यात्रा करते हुए ....पहुँच गया**  – अर्थात, “जो कि उसी मार्ग से यात्रा कर रहा था।“ कुछ भाषाओं में “यात्रा” शब्द का ही प्रयोग करना आवश्यक होगा ताकि शब्दों से ऐसा भ्रम न हो कि वह याजक वहाँ पर चलता हुआ आ गया, या कि वह घूमता हुआ आ गया था।
+  * **व्यक्ति को अनदेखा कर**  - अर्थात, “उसकी मदद न करते हुए” या फिर, “उस व्यक्ति की चिंता किये बगैर।“
+  * **आगे बढ़ता रहा**  - अर्थात, यात्रा करता रहा।
 **[[:hi:obs:notes:frames:27-05|<<]] | [[:hi:obs:notes:27|Up]] | [[:hi:obs:notes:frames:27-07|>>]]**
