@@ -1,16 +1,16 @@
-====== An Offering for Gideon [16-15] ======
+====== गिदोन के लिए एक भेंट [16-15] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-15.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-15.jpg?nolink&}}
 
-The people wanted to make **[[:en:key-terms:gideon|Gideon]]** their **[[:en:key-terms:king|king]]**. Gideon **did not allow them to do this**, **but he asked them** for some of the gold rings that each of them had taken from the **[[:en:key-terms:midian|Midianites]]**. The people gave Gideon a large amount of gold.
+लोग **गिदोन** को अपना राजा बनाना चाहते थे। लेकिन गिदोन ने उन्हें ऐसा न करने दिया, बजाय इसके, उसने लोगों से कहा कि वे उसे **मिद्यानियों** से लिए गए सोने के चाल्लों में से कुछ छल्ले दें। लोगो ने उसे सोने की बहुत बड़ी मात्र दे दी।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:gideon|गिदोन ]]__**
+  * **__[[:hi:obs:notes:key-terms:king|राजा]]__**
+  * **__[[:hi:obs:notes:key-terms:midian|मिद्यानियों]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **did not allow them to do this** -  Gideon knew that it was better for the Israelites to have God as their king.
-  * **but he asked them** – This phrase starts with “but” because what he did next was not wise.
-
-  
-
+  * **ऐसा न करने दिया**  - गिदोन जानता था कि इस्राएलियों के लिए अच्छा है कि वे परमेश्वर को ही अपना राजा माने।
+  * **बजाय इसके उसने लोगो से कहा कि**  - यह वाक्य "बजाय" शब्द के साथ शुरू हुआ है क्योंकि इसके बाद जो उसने किया वह बुद्धिमानी नहीं थी।
 **[[:hi:obs:notes:frames:16-14|<<]] | [[:hi:obs:notes:16|Up]] | [[:hi:obs:notes:frames:16-16|>>]]**
