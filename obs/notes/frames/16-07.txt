@@ -1,16 +1,16 @@
-====== Gideon Was Rescued [16-07] ======
+====== गिदोन छुड़ाया गया [16-07] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-07.jpg?nolink&}}
 
-The next morning the people saw that someone had torn down and destroyed the **[[:en:key-terms:altar|altar]]**, and they were very angry. They went to **[[:en:key-terms:gideon|Gideon's]]** house to kill him, but Gideon's father said, “**Why are you trying to help your [[:en:key-terms:god-false|god]]**? **If he is a god, let him protect himself**!” Because he said this, the people did not kill Gideon.
+अगली सुबह लोग यह देख कर बहुत क्रोधित हुए कि किसी ने वेदी को तोड़ कर पूरी तरह से ध्वस्त कर दिया है।  वे गिदोन को मारने के लिए उसके घर पहुँच गए, लेकिन गिदोन के पिता ने कहा, "**तुम अपने परमेश्वर की मदद करने की कोशिश क्यों कर रहे हो**? यदि वह परमेश्वर है, तो उसे आप ही अपनी सुरक्षा करने दो!" उसके ऐसा कहने के कारण, लोगों ने गिदोन की जान नहीं ली।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:altar|वेदी]]__**
+  * **__[[:hi:obs:notes:key-terms:gideon|गिदोन के]]__**
+  * **__[[:hi:obs:notes:key-terms:god-false|देवता]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **Why are you trying to help your god?** - This is not a real question that asks for information. Another way of saying this would be, “You should not be trying to help your god” or, “You should not need to help your god.” 
-  * **If he is a god, let him protect himself** - This means, “If he were truly a god, he would be able to defend himself.” 
-
-  
-
+  * **तुम लोग अपने परमेश्वर की मदद करने के कोशिश क्यों कर रहे हो****?**  - असल में यह एक प्रश्न की तरह नहीं पूछा गया था। इसे यूँ भी कह सकते हैं, "तुम्हे अपने परमेश्वर की मदद करने की कोशिश नहीं करनी चाहिए" या फिर, "तुम्हे अपने परमेश्वर की मदद करने की ज़रुरत नहीं है।"
+  * **यही वह परमेश्वर है****, ****तो उसे आप ही अपनी सुरक्षा करने दो**  -  अर्थात, "यदि वह सचमुच एक परमेश्वर है, तो वह आप ही अपनी रक्षा कर लेगा।"
 **[[:hi:obs:notes:frames:16-06|<<]] | [[:hi:obs:notes:16|Up]] | [[:hi:obs:notes:frames:16-08|>>]]**
