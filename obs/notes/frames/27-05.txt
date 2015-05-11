@@ -1,14 +1,12 @@
-====== The Robbers [27-05] ======
+====== डकैत [27-05] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-05.jpg?nolink&}}
 
-“While the man was traveling, he was attacked by a group of robbers. They took **everything he had** and beat him until he was almost dead. Then they went away.”
+“यात्रा करते समय कुछ डकैतों ने उस पर हमला कर दिया। उन्होंने **उसका सब कुछ** लूट लिया और मार-मार कर उसे अधमरा कर दिया। फिर वे उसे छोड़ कर भाग गए।“
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+===== अनुवाद के लिए नोट्स: =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues to tell the story.)
-  * **everything he had** – That is, “everything he had with him, including the clothes he was wearing.” 
-
-
+  * (यीशु अपनी कहानी आगे बढ़ाते हैं।)
+  * **उसका सब कुछ**  – अर्थात, “जो भी उसके पास था, यहाँ तक कि उसके पहने कपडे भी।“
 **[[:hi:obs:notes:frames:27-04|<<]] | [[:hi:obs:notes:27|Up]] | [[:hi:obs:notes:frames:27-06|>>]]**
