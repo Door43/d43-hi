@@ -1,16 +1,27 @@
-====== God's Promise to David [17-07] ======
+====== दाऊद से परमेश्वर कि प्रतिज्ञा [17-07] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-07.jpg?nolink&}}
 
-But **[[:en:key-terms:god|God]]** sent **the [[:en:key-terms:prophet|prophet]] [[:en:key-terms:nathan|Nathan]]** to **[[:en:key-terms:david|David]]** with this message, “Because you are a **man of war**, you will not build **this [[:en:key-terms:temple|Temple]]** for me. Your **[[:en:key-terms:son|son]]** will build it. But, I will **[[:en:key-terms:bless|bless]]** you greatly. Someone from your family will always rule as **[[:en:key-terms:king|king]]** of **[[:en:key-terms:israel|Israel]]**, and the **[[:en:key-terms:messiah|Messiah]]** will be one of your **[[:en:key-terms:descendant|descendants]]**!” The Messiah was God’s Chosen One who would save people of the world from **[[:en:key-terms:sin|sin]]**.
+लेकिन **परमेश्वर** ने नातान नबी के द्वारा **दाऊद** के लिए यह सन्देश भेजा, "क्योंकि तू एक योद्धा है, इसलिए इस मंदिर का निर्माण तू नहीं करेगा। इसे तेरा बेटा बनाएगा। लेकिन, मैं तुझे बहुतायत से आशीष दूंगा। तेरा  एक **वंशज** मेरे लोगों पर सदा के लिए राज्य करेगा!" केवल मसीह ही दाऊद का एक ऐसा वंशज था जो अनंत काल के लिए राज्य कर सकता था। मसीह को परमेश्वर ने चुना था कि वह लोगो के इस जगत को उनके पाप से बचाए।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:prophet|नबी]]__**
+  * **__[[:hi:obs:notes:key-terms:nathan|नातान]]__**
+  * **__[[:hi:obs:notes:key-terms:david|दाऊद]]__**
+  * **__[[:hi:obs:notes:key-terms:temple|मंदिर]]__**
+  * **__[[:hi:obs:notes:key-terms:son|बेटा]]__**
+  * __**[[:hi:obs:notes:key-terms:bless|आशीष]]**__
+  * **__[[:hi:obs:notes:key-terms:king|राजा]]__**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएल]]__**
+  * **__[[:hi:obs:notes:key-terms:messiah|मसीह]]__**
+  * **__[[:hi:obs:notes:key-terms:descendant|वंशजो]]__**
+  * **__[[:hi:obs:notes:key-terms:sin|पाप]]__**
+**अनुवाद के लिए नोट्स****:**
 
-  * **the prophet Nathan** – It may be more natural in some languages to say, “a prophet named Nathan.” 
-  * **man of war** - That is, “man who fights battles.” David killed many, many people in battle against the Israelites' enemies. God wasn't punishing David, but God wanted a man of peace to build the Temple where people would worship him. 
-  * **this Temple** - That is, “this building for worship” or, “this place of worship.” 
-  * **from sin** - That is, “from the terrible consequences of their sin.” 
-  
-
+  * **नातान नबी**  - कुछ भाषाओं में इस बात को कहने की सहज रीति कुछ ऐसी होगी, "नातान नाम का नबी।"
+  * **योद्धा**  - अर्थात, युद्ध में लडनेवाला। दाऊद ने इस्राएलियों के कई शत्रुओं को मारा था। यहाँ परमेश्वर उसे इसके लिए दंड नहीं दे रहा था, लेकिन वह चाहता था कि ऐसा स्थान जहां लोग उसकी आराधना करेंगे, उसका निर्माण कोई शांतिपूर्ण व्यक्ति ही करे।
+  * **इस मंदिर**  - अर्थात, "आराधना की इस जगह" या फिर, "इस आराधना स्थल।"
+  * **पाप से**  - अर्थात, "पाप के भयंकर परिणामों से।"
 **[[:hi:obs:notes:frames:17-06|<<]] | [[:hi:obs:notes:17|Up]] | [[:hi:obs:notes:frames:17-08|>>]]**
