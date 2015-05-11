@@ -1,14 +1,22 @@
-====== Nathan Rebuked David [17-13] ======
+====== नातान ने दाऊद को डांटा [17-13] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-13.jpg?nolink&}}
 
-After **[[:en:key-terms:uriah|Uriah]]** was killed, **[[:en:key-terms:david|David]]** married **[[:en:key-terms:bathsheba|Bathsheba]]**. Later, she gave birth to David's son. **[[:en:key-terms:god|God]]** was very angry about what David had done, so he sent the **[[:en:key-terms:prophet|prophet]]** **[[:en:key-terms:nathan|Nathan]]** to tell David how **[[:en:key-terms:evil|evil]]** his **[[:en:key-terms:sin|sin]]** was. David **[[:en:key-terms:repent|repented]]** of his sin and God **[[:en:key-terms:forgive|forgave]]** him. For the rest of his life, **David followed and [[:en:key-terms:obey|obeyed]] God**, even in difficult times.
+उरिय्याह की मृत्यु के बाद, **दाऊद** ने **बतशेबा** से विवाह कर लिया। बाद में, उसने दाऊद के बेटे को जन्म दिया। **परमेश्वर** दाऊद की करतूत पर बहुत क्रोधित था, इसलिए दाऊद को यह बताने के लिए कि उसका पाप कितना बुरा था, परमेश्वर ने उसके पास नातान नबी को भेजा। दाऊद ने अपने पाप का पश्चाताप किया और परमेश्वर ने उसे क्षमा कर दिया। अपने शेष जीवन, दाऊद ने कठिन समय में भी **परमेश्वर का अनुकरण किया और उसकी आज्ञाओं को ****माना** ।
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
+   * **__[[:hi:obs:notes:key-terms:uriah|उरिय्याह]]__**
+  * **__[[:hi:obs:notes:key-terms:david|दाऊद]]__**
+  * **__[[:hi:obs:notes:key-terms:bathsheba|बतशेबा]]__**
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:prophet|नबी]]__**
+  * **__[[:hi:obs:notes:key-terms:nathan|नातान]]__**
+  * **__[[:hi:obs:notes:key-terms:evil|बुराई]]__**
+  * **__[[:hi:obs:notes:key-terms:sin|पाप]]__**
+  * **__[[:hi:obs:notes:key-terms:repent|पश्चाताप किया]]__**
+  * **__[[:hi:obs:notes:key-terms:forgive|क्षमा कर दिया]]__**
+  * **__[[:hi:obs:notes:key-terms:obey|आज्ञाओं का पालन किया]]__**
+**अनुवाद के लिए नोट्स****:**
 
-===== Translation Notes: =====
-
-
-  * **what David had done** - This refers to David's adultery with Bathsheba and his murder of her husband, Uriah.
-  
-
+  * **दाऊद की करतूत**  - इसका आशय दाऊद द्वारा बतशेबा के साथ किये व्यभिचार तथा उसके पति, उरिय्याह की हत्या से है।
 **[[:hi:obs:notes:frames:17-12|<<]] | [[:hi:obs:notes:17|Up]] | [[:hi:obs:notes:frames:17-14|>>]]**
