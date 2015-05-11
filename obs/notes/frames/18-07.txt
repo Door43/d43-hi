@@ -1,16 +1,19 @@
-====== Israel Rebelled against Judah [18-07] ======
+====== इस्राएल का यहूदा के विरोध में विद्रोह [18-07] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-07.jpg?nolink&}}
 
-Ten of the **tribes of the [[:en:key-terms:israel|nation of Israel]] [[:en:key-terms:rebel|rebelled]] against [[:en:key-terms:rehoboam|Rehoboam]]**. Only two tribes **remained [[:en:key-terms:faithful|faithful]] to him**. These two tribes became the **[[:en:key-terms:kingdom-of-judah|kingdom of Judah]]**.
+इस्राएल के दस गोत्रों ने रेहोबाम के विरोध में द्रोह कर दिया। केवल दो ही गोत्र उसके प्रति निष्ठावान बने रहे। यही दो गोत्र यहूदा राज्यबने।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:israel|इस्राएल देश]]__**
+  * **__[[:hi:obs:notes:key-terms:rebel|द्रोह किया]]__**
+  * **__[[:hi:obs:notes:key-terms:rehoboam|रेहोबाम]]__**
+  * **__[[:hi:obs:notes:key-terms:faithful|विश्वासयोग्य]]__**
+  * __**__**[[:hi:obs:notes:key-terms:kingdom-of-judah|यहूदाराज्य]]**__**__
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **tribes of the nation of Israel** - The descendants of each of Jacob's twelve sons had become a "tribe" or very large family group in the nation of Israel. Everyone in Israel belonged to one of the twelve tribes.
-  * **rebelled against Rehoboam** – That is, “refused to follow Rehoboam as their king.” It might help to start this sentence with, "So" or, "Because of that" or, "Because of what Rehoboam said.” 
-  * **remained faithful to him** – That is, “stayed loyal to him” or, “continued to support him as king.”
-  
-
+  * **इस्राएल देश के गोत्र**  -  - याकूब के बारहों बेटों के वंशज इस्राएल देश में एक "गोत्र" या कि एक बहुत बड़ा पारिवारिक समूह बन गए थे। इस्राएल का हर व्यक्ति इन्ही बारह गोत्रों में से किसी एक से जुड़ा है।
+  * **रेहोबाम के विरोध में द्रोह किया**  - अर्थात, "रेहोबाम को अपना राजा मानने से मना कर दिया।" इस वाक्य की शुरुआत "इसलिए" या फिर, "जिस कारण" या कि, "रेहोबाम ने जो कहा था, उसके कारण" भी लिख सकते हैं।
+  * **उसके प्रति निष्ठावान बने रहे**  - अर्थात, "उसके प्रति विश्वासयोग्य बने रहे" या फिर, "उसे राजा मानते रहे।"
 **[[:hi:obs:notes:frames:18-06|<<]] | [[:hi:obs:notes:18|Up]] | [[:hi:obs:notes:frames:18-08|>>]]**
