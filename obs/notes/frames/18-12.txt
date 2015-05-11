@@ -1,14 +1,17 @@
-====== Israel Worshiped Idols [18-12] ======
+====== इस्राएल ने मूर्तियों कि आराधना की [18-12] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-12.jpg?nolink&}}
 
-All of the **[[:en:key-terms:king|kings]]** and most of the people of the **[[:en:key-terms:kingdom-of-israel|kingdom of Israel]]** **[[:en:key-terms:worship|worshiped]]** **[[:en:key-terms:idol|idols]]**. Their idol worship often included sexual immorality and sometimes even **child [[:en:key-terms:sacrifice|sacrifice]]**.
+**इस्राएल राज्य के सभी राजाओं** और लगभाग पूरी जनता ने मूरतों के आराधना की। उनकी मूरत आराधना में अकसर व्यभिचार, व कई बार बच्चों की बलि का समावेश होता था।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:kings|राजाओं]]__**
+  * __**[[:hi:obs:notes:key-terms:kingdom-of-israel|इस्राएल राज्य]]**__
+  * **__[[:hi:obs:notes:key-terms:worship|आराधना की]]__**
+  * **__[[:hi:obs:notes:key-terms:idol|मूरतों]]__**
+  * **__[[:hi:obs:notes:key-terms:sacrifice|भेंट]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **child sacrifice** - They killed children as offerings to some of their idols. 
-  
-
+  * **बाल बलि**  - अपने मूरतों दे समक्ष वे बच्चो की हत्या कर, उन्हें बलि के रूप में भेंट करते थे।
 **[[:hi:obs:notes:frames:18-11|<<]] | [[:hi:obs:notes:18|Up]] | [[:hi:obs:notes:frames:18-13|>>]]**
