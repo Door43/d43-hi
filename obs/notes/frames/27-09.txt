@@ -1,16 +1,17 @@
-====== Help for the Victim [27-09] ======
+====== घायल की मदद [27-09] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-09.jpg?nolink&}}
 
-“The **[[:en:key-terms:samaria|Samaritan]]** then lifted the man onto **his own donkey** and took him to a **roadside inn** **where he took care of him**.”
+“उस **सामरी** ने तब उस घायल व्यक्ति को उठा कर **अपने गधे पर** लाद लिया, और उसे **मार्ग के किनारे बनी सराय** में ले जाकर **उसकी देखरेख की।**“
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[:hi:obs:notes:key-terms:samaria|सामरी]]**
+===== अनुवाद दे लिए नोट्स: =====
 
-  * (Jesus continues to tell the story.)
-  * **his own donkey** – Make sure it is clear that “his” refers to the Samaritan. 
-  * **roadside inn** – That is, “a lodging place.” This is a place where travelers could get food and stay overnight. 
-  * **where he took care of him** – This could also be translated as, “where he continued to take care of him.”  
-  
-
+  * (यीशु कहानी आगे बढ़ाते है।)
+  * **अपने गधे पर**  – ध्यान रहे कि “अपने” शब्द का आशय सामरी से है।
+  * **मार्ग के किनारे बनी सराय**  – अर्थात, “ठहरने की जगह।“ यहाँ पर यात्रियों को भोजन-पानी और रात में रुकने के लिए जगह मिलती थी।
+  * **उसकी देखरेख की**  – इसे हम ऐसे भी लिख सकते हैं, कि “जहाँ पर वह उसकी देखरेख जारी रखी।“
 **[[:hi:obs:notes:frames:27-08|<<]] | [[:hi:obs:notes:27|Up]] | [[:hi:obs:notes:frames:27-10|>>]]**
