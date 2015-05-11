@@ -1,15 +1,15 @@
-====== David's Sin [17-11] ======
+====== दाऊद का पाप [17-11] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-11.jpg?nolink&}}
 
-**Instead of looking away**, **[[:en:key-terms:david|David]]** sent someone to bring her to him. **He slept with her** and sent her back home. A short time later **[[:en:key-terms:bathsheba|Bathsheba]]** sent a message to David saying that she was pregnant.
+**नज़रें हटाने की जगह**, **दाऊद** ने किसी को उसे लाने भेज दिया। वह उसके साथ सोया और फिर उसे घर भेज दिया। कुछ समय बाद **बतशेबा** ने दाऊद को अपने गर्भवती होने की खबर भिजवाई।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:david|दाऊद]]__**
+  * **__[[:hi:obs:notes:key-terms:bathsheba|बतशेबा]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **Instead of looking away** - That is, David did not look away from the woman as she bathed, as he should have done. 
-  * **He slept with her** - This is a polite way to say that David had sexual relations with Bathsheba.
-  
-
+  * **नज़रें हटाने की जगह**  - अर्थात, दाऊद ने नहाती हुई स्त्री से अपनी नज़रे नहीं हटाई, जो कि उसे करना चाहिए था।
+  * **वह उसके साथ सोया**  - इस बात को कहने का अधिक शालीन तरीका कि दाऊद ने बतशेबा के साथ सहवास किया था।
 **[[:hi:obs:notes:frames:17-10|<<]] | [[:hi:obs:notes:17|Up]] | [[:hi:obs:notes:frames:17-12|>>]]**
