@@ -1,14 +1,24 @@
-====== David the Shepherd [17-02] ======
+====== चरवाहा दाऊद [17-02] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-02.jpg?nolink&}}
 
-**[[:en:key-terms:God|God]]** chose a young **[[:en:key-terms:israel|Israelite]]** named **[[:en:key-terms:david|David]]** to be **[[:en:key-terms:king|king]]** after **[[:en:key-terms:saul|Saul]]**. David was a **[[:en:key-terms:shepherd|shepherd]]** from the town of **[[:en:key-terms:bethlehem|Bethlehem]]**. At different times while he was **watching** his father's **[[:en:key-terms:sheep|sheep]]**, David had killed both a lion and a bear that had attacked the sheep. David was a **[[:en:key-terms:humble|humble]]** and **[[:en:key-terms:righteous|righteous]]** man who **[[:en:key-terms:trust|trusted]]** and **[[:en:key-terms:obey|obeyed]]** God.
+शाऊल के बाद राजा होने के लिए **परमेश्वर ** ने दाऊद नाम के एक का उम्र इस्राएली को चुना। दाऊद बतलेहम नगर का एक गडरिया था। एक बार, अपने पिता की भेड़ों की रखवाली करते समय उसने भेड़ों पर हमला करने वाले एक सिंह और एक भालू को अपने हाथों से मारा था। दाऊद एक दीन और धर्मी व्यक्ति था जो परमेश्वर पर भरोसा करता था और परमेश्वर की आज्ञाओं का पालन करता था।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएली]]__**
+  * **__[[:hi:obs:notes:key-terms:david|दाऊद]]__**
+  * **__[[:hi:obs:notes:key-terms:king|राजा]]__**
+  * **__[[:hi:obs:notes:key-terms:saul|शाऊल]]__**
+  * __**[[:hi:obs:notes:key-terms:shepherd|चरवाहा]]**__
+  * __**[[:hi:obs:notes:key-terms:bethlehem|बैतलहम]]**__
+  * **__[[:hi:obs:notes:key-terms:sheep|भेंडे]]__**
+  * **__[[:hi:obs:notes:key-terms:humble|दीन]]__**
+  * **__[[:hi:obs:notes:key-terms:righteous|धर्मी]]__**
+  * **__[[:hi:obs:notes:key-terms:trust|भरोसा]]__**
+  * **__[[:hi:obs:notes:key-terms:obey|आज्ञाओं का पालन किया]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **watching** - That is, “caring for” or, "protecting" or, “taking care of.” 
-  
-
+  * **रखवाली**  - अर्थात, "देखभाल" या, "रक्षा" या फिर, "देखरेख"।
 **[[:hi:obs:notes:frames:17-01|<<]] | [[:hi:obs:notes:17|Up]] | [[:hi:obs:notes:frames:17-03|>>]]**
