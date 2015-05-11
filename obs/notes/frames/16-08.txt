@@ -1,18 +1,22 @@
-====== Midian Attacked Israel Again [16-08] ======
+====== मिद्यानियों ने दोबारा इस्राएल पर आक्रमण किया [16-08] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-08.jpg?nolink&}}
 
-Then the **[[:en:key-terms:midian|Midianites]] came again to steal from the [[:en:key-terms:israel|Israelites]]**. There were so many of them that **they could not be counted**. **[[:en:key-terms:gideon|Gideon]]** called the Israelites together to fight them. Gideon asked **[[:en:key-terms:god|God]]** **for two signs** so he could be sure **that God would use him to [[:en:key-terms:save|save]] [[:en:key-terms:israel|Israel]]**.
+इसके बाद मिद्यानी फिर से **इस्राएलियों की चोरी करने लौटे** । वे संख्या में इतने अधिक थे कि उन्हें गिनना संभव नहीं था। उनका मिल कर सामना करने के लिए **गिदोन ** ने इस्राएलियों को साथ आने को कहा। गिदोन ने **परमेश्वर से दो चिन्ह मांगे ** ताकि उसे इस बात का निश्चय हो जाए कि **इस्राएल को बचाने में परमेश्वर उसका इस्तेमाल करेगा** ।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:midian|मिद्यानियों]]__**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएलियों]]__**
+  * **__[[:hi:obs:notes:key-terms:gideon|गिदोन ]]__**
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:save|बचा]]__**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएल]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **came again to steal from the Israelites** – This could be translated as, “came again to the Israelites' land to steal things from them.”
-  * **they could not be counted** - This could be translated as, "The number of the Midianites was too great to count" or, “it would be very difficult to count all of the Midianites.” 
-  * **for two signs** - This could be translated as, “to do two miracles” or, “to make two impossible things happen.”
-  * **that God would use him** – This could be translated as, “that God would enable him” or, “that God would help him” or, “that God was calling him.” 
-  * **to save Israel** - This could be translated as, “to rescue Israel from the Midianites.” 
-
-
+  * मिद्यानी फिर से **इस्राएलियों की चोरी करने लौटे**  - इसका अनुवाद ऐसे भी कर सकते हैं, : "वे फिर चोरी करने के इरादे से इस्राएलियों की भूमि पर लौटे।"
+  * **उन्हें गिनना संभव नहीं था**  - इसका अनुवाद ऐसे भी कर सकते हैं, : "मिद्यानियों की संख्या बहुत अधिक थी" या फिर, "मिद्यानियों की गिनती करना बहुत विकट था।"
+  * **दो चिन्ह**  - इसका अनुवाद ऐसे किया जा सकता है, : "दो आश्चर्यकर्म करने को कहा", या फिर, "दो असंभव कार्य करने को कहा।"
+  * **कि परमेश्वर****.....****उसका इस्तेमाल करेगा**  - इसका अनुवाद ऐसे भी किया जा सकता है, : "कि परमेश्वर उसे सक्षम बनाएगा", या फिर, "कि परमेश्वर उसे बुला रहा था।"
+  * **इस्राएल को बचाने**  - इसके अनुवाद करते समय "इस्राएल को मिद्यानियों से छुड़ाने" भी लिख सकते हैं।
 **[[:hi:obs:notes:frames:16-07|<<]] | [[:hi:obs:notes:16|Up]] | [[:hi:obs:notes:frames:16-09|>>]]**
