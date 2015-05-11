@@ -1,16 +1,16 @@
-====== Too Many Soldiers [16-10] ======
+====== बहुत सारे सैनिक [16-10] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-10.jpg?nolink&}}
 
-**32,000 [[:en:key-terms:israel|Israelite]] soldiers came to [[:en:key-terms:gideon|Gideon]]**, but **[[:en:key-terms:god|God]]** told him this was **too many**. So Gideon sent home 22,000 who were afraid to fight. God told Gideon that he still had too many men. So Gideon sent all of them home **except for 300 soldiers**.
+**गिदोन के पास ****32,000 ****इस्राएली सिपाही आये**, लेकिन **परमेश्वर** ने उसे कहा कि उनकी संख्या बहुत अधिक है। इसलिए लड़ाई से डरने वाले 22,000 लोगों को गिदोन ने घर वापिस भेज दिया। परमेश्वर ने गिदोन से कहा कि वे अब भी गिनती में बहुत अधिक हैं। इसलिए **300 ****सिपाहियों को छोड़** बाकी सभी को गिदोन ने वापिस भेज दिया।
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
+   * **__[[:hi:obs:notes:key-terms:israel|इस्राएल ]]__ **
+  * **__[[:hi:obs:notes:key-terms:gideon|गिदोन ]]__**
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+**अनुवाद के लिए नोट्स****:**
 
-===== Translation Notes: =====
-
-
-  * **32,000 Israelite soldiers came to Gideon** - Some languages might need to insert the following sentence at the beginning of the story: “Gideon called the Israelites to come fight against the Midianites.” See **[[:hi:obs:notes:frames:16-08|[16-08]]]**.
-  * **too many** - This was more soldiers than God wanted for this fight. If that many solders fought and won, they would think that they won the battle with their own strength, and they would not know that God did it.
-  * **except for 300 soldiers** - This sentence could be translated as, “So Gideon allowed only 300 men to stay, and the rest of the men went home.”  
-  
-
+  * **गिदोन के पास ****32,000 ****इस्राएली सिपाही आये**  - कुछ भाषाओं इस वाक्य से पहले निम्न वाक्य को लिखने की ज़रुरत हो सकती है: "गिदोन ने इस्राएलियों को मिद्यानियों के विरोध में लड़ने का आह्वाहन दिया।"  See **__[16__ ****__ - __ ****__08]__**.
+  * **बहुत अधिक**  -  - परमेश्वर जितने लोगो को इस युद्ध में इस्तेमाल करना चाहता था, भाग लेनेवालों की संख्या उससे कहीं अधिक थी। यदि उतने सिपाहियों ने युद्ध करके जीत हासिल की होती, तो उन्हें लगता की वे यह युद्ध अपनी सामर्थ से जीते हैं, और उन्हें इस बात का अहसास नहीं होता की वास्तव में परमेश्वर ने उन्हें यह जय दी है।
+  * **300 ****सिपाहियों को छोड़**  - इस वाक्यांश का अनुवाद हम यूँ भी कर सकते हैं, : "गिदोन ने तब केवल 300 लोगों को लड़ाई में हिस्सा लेने की अनुमति दी, और बाकी लोग घर चले गए।"
 **[[:hi:obs:notes:frames:16-09|<<]] | [[:hi:obs:notes:16|Up]] | [[:hi:obs:notes:frames:16-11|>>]]**
