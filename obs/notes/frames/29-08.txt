@@ -2,8 +2,24 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-08.jpg?nolink&}}
 
-“The **[[:en:key-terms:king|king]]****called the [[:en:key-terms:servant|servant]]** and said, ‘You wicked servant! I **[[:en:key-terms:forgive|forgave]]** your debt because you **[[:en:key-terms:beg|begged]] me**. **You should have done the same**.’ The king was so angry that he **threw** the **[[:en:key-terms:evil|wicked]]** servant into prison until he could pay back all of his debt.”
+“**राजा** ने **सेवक** **को बुलाया** और बोला, “**दुष्ट** सेवक कहीं के! I तेरे **गिड़गिड़ाने** पर मैंने तेरा ऋण **माफ़ कर दिया था।** **तुझे भी ऐसा ही करना चाहिए था।**“ राजा को उस पर इतना क्रोध आया कि उसने उस दुष्ट सेवक को तब तक के लिए जेल में **डलवा दिया**, जब तक कि वह उधार का एक-एक पैसा न चुका दे।“
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
+
+**[[:hi:obs:notes:key-terms:king|राजा]]**
+  *
+
+**[[:hi:obs:notes:key-terms:servant|सेवक ]]**
+  *
+
+**[[:hi:obs:notes:key-terms:forgive|माफ़ कर दिया ]]**
+  *
+
+**[[:hi:obs:notes:key-terms:beg|गिड़गिड़ाने]]**
+  *
+
+**[[:hi:obs:notes:key-terms:evil|दुष्ट]]**
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
