@@ -5,19 +5,13 @@
 **यीशु** **तब बोला** कि, “यदि तुम **अपने भाई** को **मन से** **क्षमा** नहीं करोगे, तो **मेरा** **स्वर्गिक पिता** तुम्हारे साथ **ऐसा ही** करेगा।“
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु बोला ]]**
+  * **[[:hi:obs:notes:key-terms:god-father|स्वर्गिक पिता ]]**
+  * **[[:hi:obs:notes:key-terms:forgive|क्षमा ]]**
+===== अनुवाद के लिए नोट्स: =====
 
-**[[:hi:obs:notes:key-terms:jesus|यीशु बोला ]]**
-  *
-
-**[[:hi:obs:notes:key-terms:god father|स्वर्गिक पिता ]]**
-  *
-
-**[[:hi:obs:notes:key-terms:forgive|क्षमा ]]**
-===== Translation Notes: =====
-
-  * **Then Jesus said**  – Some languages may add, “to his disciples.”
-  * **This**  - "This" refers back to the way the king punished the unforgiving servant in **[[:hi:obs:notes:frames:29-08|[29-08]]]**.
+  * **यीशु तब बोला कि**  – कुछ भाषाओं में स्पष्ट लाने के लिए “अपने चेलों से बोला” लिखना पड़ सकता है।
+  * **ऐसा ही**- "This" refers back to the way the king punished the unforgiving servant in **[[:hi:obs:notes:frames:29-08|[29-08]]]**.
   * **my heavenly Father**  - That is, “my Father in heaven.” Jesus is expressing his unique, personal relationship to God the Father.
   * **your brother**  - See how you translated this in **[[:hi:obs:notes:frames:29-01|[29-01]]]**.
   * **from your heart**  - That is, "with sincerity" or, "truly" or, "genuinely" or, "honestly."
