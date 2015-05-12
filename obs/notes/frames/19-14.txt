@@ -1,15 +1,20 @@
-====== Naaman Came to Elisha [19-14] ======
+====== एलिशा के पास नामन का आगमन [19-14] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-14.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-14.jpg?nolink&}}
 
-After the time of **[[:en:key-terms:elijah|Elijah]]**, **[[:en:key-terms:god|God]]** chose a man named Elisha to be his **[[:en:key-terms:prophet|prophet]]**. God did many **[[:en:key-terms:miracle|miracles]]** through Elisha. One of the miracles happened to **[[:en:key-terms:naaman|Naaman]]**, **an enemy commander**, who had a horrible skin disease. **He had heard of Elisha** so **he went and asked Elisha** to **[[:en:key-terms:heal|heal]]** him. Elisha told Naaman to dip himself seven times in the **[[:en:key-terms:jordan-river|Jordan River]]**.
+एलिय्याह के बाद, परमेश्वर ने एलिशा नाम के व्यक्ति को अपना नबी बनाया। एलिशा के द्वारा परमेश्वर ने बहुत से आश्चर्य कर्म किये। इनमे से एक आश्चर्य कर्म, शत्रुओं के सेनापति, नामन के साथ घटित हुआ, जिसे त्वचा का भयंकर रोग था। उसने **एलिशा के बारे में सुन रखा था**, इसलिए चंगाई माँगने के लिए वह **एलिशा के पास ****गया** । एलिशा ने नामन को **यरदन नदी** में साथ बार डुबकी लगाने को कहा।
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
+   * **__[[:hi:obs:notes:key-terms:elijah|एलिय्याह]]__**
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:prophet|नबी]]__**
+  * **__[[:hi:obs:notes:key-terms:miracle|आश्चर्यकर्म]]__**
+  * **__[[:hi:obs:notes:key-terms:naaman|नामन]]__**
+  * **__[[:hi:obs:notes:key-terms:heal|चंगाई]]__**
+  * **__[[:hi:obs:notes:key-terms:jordan-river|यरदन नदी]]__**
+**अनुवाद के लिए नोट्स****:**
 
-===== Translation Notes: =====
-
-  * **an enemy commander** - Naaman was a commander in the army of one of the countries that was Israel's enemy.
-  * **He had heard of Elisha** - This means that people had told Naaman that Elisha was able to perform miracles. 
-  * **he went and asked Elisha** - That is, “he went to see Elisha and asked him.” Naaman had to go into Israel to find Elisha and ask him to do this. 
-
-
+  * **शत्रुओं के एक सेनापति**  - नामन इस्राएल के शत्रु देशों में से एक का सेनापति था।
+  * **उसने एलिशा के बारे में सुन रखा था**  - अर्थात, लोगों ने नामन को एलिशा द्वारा आश्चर्यकर्म की सामर्थ के बारे में बता रखा था।
+  * **चंगाई माँगने के लिए वह एलिशा के पास गया**  - अर्थात, "वह एलिशा से भेंट करने और उससे चंगाई मांगने के लिए गया।" एलिशा से यह करने को कहने के लिए नामन को उसे खोजने इस्राएल जाना पड़ा।
 **[[:hi:obs:notes:frames:19-13|<<]] | [[:hi:obs:notes:19|Up]] | [[:hi:obs:notes:frames:19-15|>>]]**
