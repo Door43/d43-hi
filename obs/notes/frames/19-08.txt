@@ -1,17 +1,18 @@
-====== Baal Did Not Answer [19-08] ======
+====== बाल ने उत्तर न दिया [19-08] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-08.jpg?nolink&}}
 
-Then the **[[:en:key-terms:prophet|prophets]]** of **[[:en:key-terms:baal|Baal]]** **[[:en:key-terms:pray|prayed]] to Baal**, “Hear us, Baal!” All day long they prayed and **shouted** and even **cut themselves with knives**, but **there was no answer**.
+बाल के **नबियों** ने तब **बाल से यह प्रार्थना की****, "****हे बाल****, ****हमारी सुन****!"** वे सारा दिन प्रार्थना के साथ - साथ ऊंची आवाज़ में चिल्लाते रहे, यहाँ तक कि उन्होंने स्वयं को चाकूओं से भी काटा, लेकिन उन्हें कोई उत्तर न मिला।
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
+   * **__[[:hi:obs:notes:key-terms:prophet|नबियों]]__**
+  * **__[[:hi:obs:notes:key-terms:baal|बाल]]__**
+  * **__[[:hi:obs:notes:key-terms:pray|प्रार्थना]]__**
+**अनुवाद के लिए नोट्स****:**
 
-===== Translation Notes: =====
-
-
-  * **prayed to Baal** - the prophets of Baal asked Baal to send fire onto the bull they prepared as a sacrifice. 
-  * **shouted** - They yelled or called out loudly to Baal.
-  * **cut themselves with knives** - They injured themselves with knives as an extreme way to show their devotion to Baal, hoping that this would persuade him to listen to them.
-  * **there was no answer** - There was no response of any kind to their shouting, and no fire came to burn up the sacrifice.
-  
+  * **बाल से प्रार्थना की**  - बाल के नबियों ने भेंट स्वरुप जो बैल मारा था, वे बाल से उस पर आग भेजने की प्रार्थना करते रहे।
+  * **ऊंची आवाज़ से चिल्लाये**  - वे बाल के समक्ष ऊंची आवाज में उसे पुकारते या बुलाते रहे।
+  * **स्वयं को चाकूओं से काट लिए**  - बाल के प्रति अपनी भक्ति को एक बढ़ - चढ़ कर दिखाने के लिए, इस आशा में उन्होंने स्वयं को चाकूओं से घायल कर लिया कि ऐसा करने से बाल उनकी सुनेगा।
+  * उन्हें कोई उत्तर न मिला - उनके चीखने - चिल्लाने का कोई उत्तर न मिला, और भेंट को भस्म करने कहीं से कोई आग न उतरी।
 
 **[[:hi:obs:notes:frames:19-07|<<]] | [[:hi:obs:notes:19|Up]] | [[:hi:obs:notes:frames:19-09|>>]]**
