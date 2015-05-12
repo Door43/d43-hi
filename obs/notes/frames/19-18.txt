@@ -1,17 +1,21 @@
-====== The Message of the Prophets [19-18] ======
+====== **भविष्यद्वक्ताओं ** के सन्देश** ** [19-18] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-18.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-18.jpg?nolink&}}
 
-The **[[:en:key-terms:prophet|prophets]] continued to speak for [[:en:key-terms:god|God]]** even though the people hated them. They warned people that God would destroy them if they did not **[[:en:key-terms:repent|repent]]**. They also reminded people **of the [[:en:key-terms:promise|promise]] that God’s [[:en:key-terms:messiah|Messiah]] would come**.
+लोगों की घृणा के बावजूद नबी **परमेश्वर के सन्देश देते ****रहे** । उन्होंने लोगों को चेतावनी देता हुए कहा कि यदि उन्होंने पश्चातापन किया, तो परमेश्वर उनका नाश कर देगा। उन्होंने लोगों को परमेश्वर द्वारा मसीह को भेजने की प्रतिज्ञा भी याद दिलाई।
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-//A Bible story from: 1 Kings 16-18; 2 Kings 5; Jeremiah 38//
+   * **__[[:hi:obs:notes:key-terms:prophet|भविष्यद्वक्ताओं]]__**
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:repent|पश्चाताप]]__**
+  * **__[[:hi:obs:notes:key-terms:promise|प्रतिज्ञा]]__**
+  * **__[[:hi:obs:notes:key-terms:messiah|मसीह]]__**
+**अनुवाद के लिए नोट्स****:**
 
+  * नबी **परमेश्वर के सन्देश देते रहे**  - अर्थात, "लोगों को वह बताते रहे जो परमेश्वर उनके माध्यम से उन्हें बताना चाहता था।"
+  * परमेश्वर द्वारा मसीह को भेजने की प्रतिज्ञा - इसका अनुवाद यूँ भी किया जा सकता है, कि उनके लिए परमेश्वर ने एक मसीह को भेजने की प्रतिज्ञा की है।"
+  * बाइबिल की कहानी   -  बाइबिल के कुछ संस्करणों में इनका अनुवाद अलग तरह से किया हो सकता है।
 
-===== Translation Notes: =====
-
-  * **continued to speak for God** - That is, “continued to tell the people what God wanted to tell them.” 
-  * **of the promise that God's Messiah would come** – This could be translated as, “that God had promised that his Messiah would come to save his people.”
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-  
+  *
 
 **[[:hi:obs:notes:frames:19-17|<<]] | [[:hi:obs:notes:19|Up]] | [[:hi:obs:notes:frames:20-01|>>]]**
