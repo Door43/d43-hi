@@ -1,17 +1,25 @@
-====== The Prayer of Elijah [19-10] ======
+====== एलिय्याह की प्रार्थना [19-10] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-10.jpg?nolink&}}
 
-Then **[[:en:key-terms:elijah|Elijah]]** **[[:en:key-terms:pray|prayed]]**, “**[[:en:key-terms:yahweh|Yahweh]]**, **[[:en:key-terms:god|God]]** of **[[:en:key-terms:abraham|Abraham]]**, **[[:en:key-terms:isaac|Isaac]]**, and **[[:en:key-terms:jacob|Jacob]]**, **show us** today that you are the God of **[[:en:key-terms:israel|Israel]]** and that **I am your [[:en:key-terms:servant|servant]]**. **Answer me** so that **these people will know** that you are the **[[:en:key-terms:true|true]]** God.”
+**एलिय्याह ने प्रार्थना की** "**हे यहोवा**, **अब्राहम**, **इसहाक**, और **याकूब** के **परमेश्वर**, हमें आज य दिखा दे कि तू ही **इस्राएल** का परमेश्वर है, और मैं तेरा सेवक। मुझे उत्तर देता कि ये लोग जान लें कि तू ही सच्चा परमेश्वर है।"
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:elijah|एलिय्याह]]__**
+  * **__[[:hi:obs:notes:key-terms:pray|प्रार्थना]]__**
+  * **__[[:hi:obs:notes:key-terms:yahweh|यहोवा]]__**
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:abraham|अब्राहम]]__**
+  * **__[[:hi:obs:notes:key-terms:isaac|इसहाक]]__**
+  * **__[[:hi:obs:notes:key-terms:jacob|याकूब]]__**
+  * **__[[:hi:obs:notes:key-terms:israel|इस्राएल]]__**
+  * **__[[:hi:obs:notes:key-terms:servant|सेवक]]__**
+  * **__[[:hi:obs:notes:key-terms:true|सच्चा]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **show us** - That is, "prove to us" or, "demonstrate to us."
-  * **I am your servant** - This could be translated as, “You have given me authority to serve you and do these things.” 
-  * **Answer me** - That is, "respond to my prayer" or, "send the fire that I have asked you for."
-  * **these people will know** - This may be translated as, "these people will see and understand."
-  
-
+  * **दिखा दे**  - अर्थात,"यह सिद्ध कर" या कि, "हमारे सामने यह प्रकट कर कि।"
+  * **मैं तेरा सेवक**  - इसका अनुवाद ऐसे भी किया जा सकता है, "कि तूने मुझे अपनी सेवा का अधिकार दिया है।"
+  * **मुझे उत्तर दे**  - अर्थात, "मेरी विनती का उत्तर दे" या फिर, "मैंने जो आग मांगी है, तू उसे भेज।"
+  * **लोग जान लें**  - इसका अनुवाद करते समय यह भी लिख सकते हैं, "ताकि लोग यह देखें और जान लें कि...।"
 **[[:hi:obs:notes:frames:19-09|<<]] | [[:hi:obs:notes:19|Up]] | [[:hi:obs:notes:frames:19-11|>>]]**
