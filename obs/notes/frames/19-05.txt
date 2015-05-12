@@ -1,17 +1,22 @@
-====== Elijah Challenged Ahab [19-05] ======
+====== अहाब को एलिय्याह की चुनौती [19-05] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-05.jpg?nolink&}}
 
-After three and a half years, **[[:en:key-terms:god|God]]** told **[[:en:key-terms:elijah|Elijah]]** to return to the **[[:en:key-terms:kingdom-of-israel|kingdom of Israel]]** and **speak with [[:en:key-terms:ahab|Ahab]] because he was going to send** rain again. When Ahab saw Elijah he said, “There you are, **you troublemaker**!” Elijah replied to him, “You are the troublemaker! **You have abandoned [[:en:key-terms:yahweh|Yahweh]]**, the true God, and **[[:en:key-terms:worship|worshiped]]** **[[:en:key-terms:baal|Baal]]**. Bring all the people of the kingdom of Israel to **Mount Carmel**.”
+साढ़े तीन सालों के बाद, **परमेश्वर ** ने **एलिय्याह ** को **इस्राएल देश ** लौट कर **अहाब से कहने को बोला**, कि अब वह, फिर से बारिश को भेजने वाला था। एलिय्याह को देखा कर अहाब ने कहा, "तो यह रहा तू, सारी मुसीबत की जड़!" एलिय्याह ने उसे उत्तर देता हुए कहा, "मुसीबत की जड़ है तू! तूने ही एकमात्र सच्चे परमेश्वर, यहोवा को त्याग, बाल की आराधना की है। इस्राएल राज्य के सब लोगों को कार्मेल की पहाड़ी पर इकठ्ठा कर।"
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:elijah|एलिय्याह]]__**
+  * __**[[:hi:obs:notes:key-terms:kingdom-of-god|इस्राएल राज्य]]**__
+  * **__[[:hi:obs:notes:key-terms:ahab|अहाब]]__**
+  * **__[[:hi:obs:notes:key-terms:yahweh|यहोवा]]__**
+  * **__[[:hi:obs:notes:key-terms:worship|आराधना की]]__**
+  * **__[[:hi:obs:notes:key-terms:baal|बाल]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **speak with Ahab because he was going to send** – This could be translated as, "tell Ahab that God was going to send.” 
-  * **you troublemaker** - This means, "You are a troublemaker!" Ahab was accusing Elijah of causing trouble by telling the king that he was doing wrong and also by stopping the rain. 
-  * **You have abandoned Yahweh** - That is, Ahab had led Israel to stop worshiping and obeying Yahweh.
-  * **Mount Carmel** -  Mount Carmel is the name of a mountain located in northern Israel. It is over 500 meters high.  
-  
-
+  * **अहाब से यह कहने को बोला कि अब वह****....****भेजनेवाला है**  - इसका अनुवाद करते समय हम यह भी लिख सकते हैं, कि "अहाब को या बताने को कहा की परमेश्वर........भेजनेवाला है।"
+  * **मुसीबत की जड़**  - अर्थात, "तू मुसीबत पैदा करता है!" अहाब ने एलिय्याह पर यह दोष लगाया था कि राजा को उसकी गलती के बारे में चेतावनी देकर और बारिश रोक कर उसने मुसीबत पैदा की थी।
+  * **तूने****....****यहोवा को त्याग**  - अर्थात, अहाब ने इस्राएल द्वारा यहोवा की आराधना व आज्ञा पालन बंद करवा दिया था।
+  * **कार्मेल की पहाड़ी**  - उत्तर इस्राएल में स्थित एक पहाड़ी का नाम। इसकी ऊंचाई 500 मीटर से भी अधिक है।
 **[[:hi:obs:notes:frames:19-04|<<]] | [[:hi:obs:notes:19|Up]] | [[:hi:obs:notes:frames:19-06|>>]]**
