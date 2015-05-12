@@ -1,14 +1,18 @@
-====== What Is Our Reward? [28-09] ======
+====== हमारा प्रतिफल क्या है? [28-09] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-09.jpg?nolink&}}
 
-**[[:en:key-terms:peter|Peter]]** said to **[[:en:key-terms:jesus|Jesus]]**, “We have **left everything** and followed you. **What will be our reward?**”
+**पतरस** ने **यीशु** से कहा, “हम **सब कुछ त्याग कर** तेरे पीछे चलते हैं। **हमें क्या प्रतिफल मिलेगा?**
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[:hi:obs:notes:key-terms:peter|पतरस]]**
+  *
 
-  * **left everything** - That is, “left everything behind” or, “given up everything we owned.”
-  * **What will be our reward?** - Another way to say this is, “What reward will we receive” or, “How will we be rewarded?” or, “What will God give us as a reward?” It may also be necessary to add, "because we have done this?”
-  
+**[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+===== अनुवाद के लिए नोट्स: =====
 
+  * **सब कुछ त्याग कर**  - अर्थात, “सब कुछ पीछे छोड़ आये हैं” या फिर, “अपना सब कुछ त्याग दिया।“
+  * **हमें क्या प्रतिफल मिलेगा?**  - या फिर, “हम क्या प्रतिफल पाएंगे?” या फिर, “परमेश्वर हमें क्या प्रतिफल देगा?” ज़रुरत हो तो इससे पहले “क्योंकि हमने ऐसा किया है” लगा दें।
 **[[:hi:obs:notes:frames:28-08|<<]] | [[:hi:obs:notes:28|Up]] | [[:hi:obs:notes:frames:28-10|>>]]**
