@@ -1,15 +1,19 @@
-====== A Sacrifice without Fire [19-07] ======
+====== अग्नि के बिना भेंट [19-07] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-07.jpg?nolink&}}
 
-Then **[[:en:key-terms:elijah|Elijah]]** said to the **[[:en:key-terms:prophet|prophets]]** of **[[:en:key-terms:baal|Baal]]**, “Kill a bull and prepare it as a **[[:en:key-terms:sacrifice|sacrifice]]**, but do not light the fire. I will do the same. The **[[:en:key-terms:god|God]] who answers with fire** is **the real God**.” So the **[[:en:key-terms:priest|priests]]** of Baal prepared a sacrifice but did not light the fire.
+एलिय्याह तब बाल के **नबियों** से बोला, "एक बैल मार कर, उसे भेंट स्वरुप तैयार करों, लेकिन ऐसा करते समय आग न जलाना। मैं भी ऐसा ही करूंगा। जो भी **परमेश्वर आग भेज कर उत्तर देगा** वही सच्चा परमेश्वर है।" इसलिए बाल के याजकों ने एक भेंट तो तैयार की लेकिन आग न जलाई।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:elijah|एलिय्याह]]__**
+  * **__[[:hi:obs:notes:key-terms:prophets|नबियों]]__**
+  * **__[[:hi:obs:notes:key-terms:baal|बाल]]__**
+  * **__[[:hi:obs:notes:key-terms:sacrifice|भेंट]]__**
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:priest|याजकों]]__**
+**अनुवाद के लिए नोट्स****:**
 
-
-  * **who answers with fire** - That is, “who supernaturally sends fire to burn up the sacrifice.”   
-  * **the real God** - This means the one and only true God.
-  
-
+  * **जो आग के साथ उत्तर देगा**  - अर्थात, "जो अलोकिक रीति से भेंट को भस्म करेगा।"
+  * **सच्चा परमेश्वर**  - अर्थात, एकमात्र सच्चा परमेश्वर।
 **[[:hi:obs:notes:frames:19-06|<<]] | [[:hi:obs:notes:19|Up]] | [[:hi:obs:notes:frames:19-08|>>]]**
