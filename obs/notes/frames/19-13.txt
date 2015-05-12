@@ -1,14 +1,18 @@
-====== A Storm Ended the Drought [19-13] ======
+====== तूफान द्वारा अकाल का अंत [19-13] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-13.jpg?nolink&}}
 
-Then **[[:en:key-terms:elijah|Elijah]]** said to **[[:en:key-terms:king|King]]** **[[:en:key-terms:ahab|Ahab]]**, “Return immediately to the city, because the rain is coming.” Soon **the sky grew black**, and a heavy rain began. **[[:en:key-terms:yahweh|Yahweh]]** had ended the **drought** and proved that he is the true **[[:en:key-terms:god|God]]**.
+इसके बाद **एलिय्याह** ने **राजा अहाब** से कहा, "तुरंत नगर को लौट जा, क्योंकि बारिश होने को है।" जल्द ही आसमान में काले बादल गिर आये, और ज़ोरों की बारिश होने लगी। **यहोवा** ने अकाल का अंत कर दिया था और यह सिद्ध कर दिया कि वाही सच्चा **परमेश्वर** है।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:elijah|एलिय्याह]]__**
+  * **__[[:hi:obs:notes:key-terms:king|राजा]]__**
+  * **__[[:hi:obs:notes:key-terms:ahab|अहाब]]__**
+  * **__[[:hi:obs:notes:key-terms:yahweh|यहोवा]]__**
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+**अनुवाद के लिए नोट्स****:**
 
-  * **the sky grew black** -  That is, “the sky became very dark.” Heavy rainclouds covered the sky, making it look dark grey or black. 
-  * **drought** – That is, “long dry time with no rain.”  
-  
-
+  * **काले बादल घिर आये**  - अर्थात, "आसमान काला हो गया।" बारिश से भरे बादलों ने आसमान को भर दिया था, जिसके कारण आसमान काले - गहरे रंग का हो गया।
+  * **अकाल**  - अर्थात, "बहुत लम्बे समय तक बारिश का न होना।"
 **[[:hi:obs:notes:frames:19-12|<<]] | [[:hi:obs:notes:19|Up]] | [[:hi:obs:notes:frames:19-14|>>]]**
