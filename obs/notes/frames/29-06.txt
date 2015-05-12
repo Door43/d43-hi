@@ -1,17 +1,17 @@
-====== To Prison [29-06] ======
+====== जेल में [29-06] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-06.jpg?nolink&}}
 
-“The **fellow [[:en:key-terms:servant|servant]]** **fell on his knees** and said, ‘Please be patient with me, and I will pay the full amount that I owe you.’ But instead, the servant **threw his fellow servant into prison** until he could pay the debt.”
+“**साथी** **सेवक** **अपने घुटनों पर गिर कर** बोला, “मुझे थोडा समय दो; मैं तुम्हारा सारा उधार चुकता कर दूंगा।“ लेकिन उस सेवक ने **अपने साथी को जेल में डलवा ****दिया।**“
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[:hi:obs:notes:key-terms:servant|सेवक]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * (Jesus continues the story.)
-  * **fellow servant** - Translate this phrase in the same way as in **[[:hi:obs:notes:frames:29-05|[29-05]]]**.
-  * **fell on his knees** - This phrase has the same meaning as in **[[:hi:obs:notes:frames:29-04|[29-04]]]**.
-  * **threw his fellow servant into prison** - This could also be translated as, “had the man put into prison.” The word “threw” is figurative and means it was done in a forceful way. 
-
-  
-
+  * (यीशु कहानी को आगे बढाते हैं।)
+  * **साथी सेवक**  - Translate this phrase in the same way as in **[[:hi:obs:notes:frames:29-05|[29-05]]]**.
+  * **fell on his knees**  - This phrase has the same meaning as in **[[:hi:obs:notes:frames:29-04|[29-04]]]**.
+  * **threw his fellow servant into prison**  - This could also be translated as, “had the man put into prison.” The word “threw” is figurative and means it was done in a forceful way.
 **[[:hi:obs:notes:frames:29-05|<<]] | [[:hi:obs:notes:29|Up]] | [[:hi:obs:notes:frames:29-07|>>]]**
