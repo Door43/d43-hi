@@ -1,8 +1,25 @@
-====== How Many Times? [29-01] ======
+====== कितनी बार? [29-01] ======
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-01.jpg?nolink&}}
 
-**One day**, **[[:en:key-terms:peter|Peter]]** asked **[[:en:key-terms:jesus|Jesus]]**, “**[[:en:key-terms:lord|Master]]**, how many times should I **[[:en:key-terms:forgive|forgive]]****my brother** when he **[[:en:key-terms:sin|sins]] against me**? **Up to** seven times?” Jesus said, “**Not seven times, but seventy times seven!**” **By this, Jesus meant** that we should always forgive. Then Jesus told **this story**.
+**एक दिन** **पतरस** ने **यीशु** से पूछा, “हे **स्वामी**, **मेरे विरोध में** **पाप** **करनेवाले** **भाई** को मुझे कितनी बार **क्षमा** करना चाहिए?” क्या सात बार? यीशु बोले, “**सात बार नहीं, बल्कि सत्तर बार सात**!” **ऐसा कहने के द्वारा** यीशु कहना चाहते थे कि हमें हर बार उसे क्षमा करना चाहिए। यीशु ने तब **यह कहानी** सुनाई।
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
+
+  *
+
+**[[:hi:obs:notes:key-terms:peter|पतरस ]]**
+  *
+
+**[[:hi:obs:notes:key-terms:jesus|यीशु ]]**
+  *
+
+**[[:hi:obs:notes:key-terms:lord|स्वामी ]]**
+  *
+
+**[[:hi:obs:notes:key-terms:forgive|क्षमा ]]**
+  *
+
+**[[:hi:obs:notes:key-terms:sin|पाप ]]**
 ===== Translation Notes: =====
 
   * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
