@@ -1,17 +1,21 @@
-====== The Debt Is Canceled [29-04] ======
+====== ऋण माफ़ हुआ [29-04] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-04.jpg?nolink&}}
 
-“The **[[:en:key-terms:servant|servant]]** **fell on his knees** **before the [[:en:key-terms:king|king]]** and said, ‘Please be patient with me, and I will pay the full amount that I owe you.’ The king **felt pity** for the servant, so he **canceled all of his debt** and let him go.”
+“**राजा** **के सामने** **घुटनों पर गिर कर** वह **सेवक** बोला, “कृपा करके मुझे थोडा और समय दें; मैं आपकी पूरा ऋण चुका दूंगा।“ राजा को उस पर **दया आ गई**, और उसने **उसका सारा ऋण माफ** कर उसे जाने दिया।“
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[:hi:obs:notes:key-terms:servant|सेवक]]**
+  *
 
-  * (Jesus continues the story.)
-  * **fell on his knees** - That is, “quickly knelt down on the ground.” This was a way to show his humility and his desire for the king to help him. Make sure it doesn't sound like he fell down accidentally.
-  * **before the king** - This means, “in front of the king.”
-  * **felt pity** - That is, “felt compassion for” or, “felt sorry for.” The king knew that the servant and his family would suffer greatly if they were sold into slavery.
-  * **canceled all of his debt** - This can be translated as, “said that the servant did not need to pay back any of the money that he owed the king.”
-  
+**[[:hi:obs:notes:key-terms:king|राजा]]**
+===== अनुवाद के लिए नोट्स: =====
 
+  * (यीशु कहानी को आगे बढ़ाते हैं।)
+  * **घुटनो पर गिर कर**  - अर्थात, “तुरंत घुटने टेक कर।“ यह राजा के सामने अपनी दीनता दिखने और उससे मदद की गुहार लगाने का एक तरीका था। अनुवाद को पढ़ कर ऐसा न लगे कि वह गलती से गिर पड़ा था।
+  * **राजा के सामने**  - अर्थात, “राजा के आगे।“
+  * **दया आ गई**  - अर्थात, “करुणा जागी” अथवा, “उसकी दशा देख कर बुरा लगा।“ राजा को यह अच्छी तरह से ज्ञात था कि दास के रूप में बिकने पर सेवक और उसका परिवार बहुत कष्ट झेलेगा।
+  * **उसका सारा ऋण माफ़**  - इसका अनुवाद ऐसे भी कर सकते हैं, :”राजा ने कहा कि उससे लिए ऋण का भुगतान करने की उसे कोई ज़रुरत नहीं है।“
 **[[:hi:obs:notes:frames:29-03|<<]] | [[:hi:obs:notes:29|Up]] | [[:hi:obs:notes:frames:29-05|>>]]**
