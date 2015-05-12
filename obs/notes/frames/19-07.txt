@@ -6,12 +6,12 @@
 
 **महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-   * **__[[:hi:obs:notes:key-terms:elijah|एलिय्याह]]__**
-  * **__[[:hi:obs:notes:key-terms:prophets|नबियों]]__**
-  * **__[[:hi:obs:notes:key-terms:baal|बाल]]__**
-  * **__[[:hi:obs:notes:key-terms:sacrifice|भेंट]]__**
-  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
-  * **__[[:hi:obs:notes:key-terms:priest|याजकों]]__**
+   * **__[[:hi:obs:notes:key-terms:elijah|एलिय्याह]]__ **
+  * **__[[:hi:obs:notes:key-terms:prophet|नबियों]]__ **
+  * **__[[:hi:obs:notes:key-terms:baal|बाल]]__ **
+  * **__[[:hi:obs:notes:key-terms:sacrifice|भेंट]]__ **
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__ **
+  * **__[[:hi:obs:notes:key-terms:priest|याजकों]]__ **
 **अनुवाद के लिए नोट्स****:**
 
   * **जो आग के साथ उत्तर देगा**  - अर्थात, "जो अलोकिक रीति से भेंट को भस्म करेगा।"
