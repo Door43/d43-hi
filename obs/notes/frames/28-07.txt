@@ -2,18 +2,14 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-07.jpg?nolink&}}
 
-यीशु की बातें सुन कर **चेले** **अवाक्** रह गए और बोले,”तो फिर कौन **बचाया** जा सकता है?”
+यीशु की बातें सुन कर **चेले** **अवाक्** रह गए और बोले,”तो फिर **कौन** **बचाया** **जा सकता है?**”
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
-
-**[[:hi:obs:notes:key-terms:disciple|चेले ]]**
-  *
-
-**[[:hi:obs:notes:key-terms:save|बचाया ]]**
+  * **[[:hi:obs:notes:key-terms:disciple|चेले ]]**
+  * **[[:hi:obs:notes:key-terms:save|बचाया ]]**
 ===== अनुवाद के लिए नोट्स: =====
 
-  * **shocked**  - That is, “greatly astonished.”
-  * **who can be saved**  - This could also be translated as, “If even rich people cannot be saved, how can anyone else be saved?” Many people believed that being rich was a sign of God's favor.
-  * **saved**  - Here it refers to being saved from God's judgment and condemnation for sin and being allowed to be a citizen in God's kingdom.
+  * **अवाक्**  - अर्थात, “विस्मित।“
+  * **कौन बचाया जा सकता है**  - इसे हम यूँ भी लिख सकते हैं: “यदि धनी व्यक्तियों का बचाया जाना भी असंभव है, तो फिर कौन बचाया जा सकेगा?” बहुत से लोग धनी होने को परमेश्वर के अनुग्रह का चिन्ह मानते थे।
+  * **बचाया**  - यहाँ हमारे पापों के लिए परमेश्वर के न्याय व दंड से बचने व परमेश्वर के राज्य का नागरिक होने की बात हो रही है।
 **[[:hi:obs:notes:frames:28-06|<<]] | [[:hi:obs:notes:28|Up]] | [[:hi:obs:notes:frames:28-08|>>]]**
