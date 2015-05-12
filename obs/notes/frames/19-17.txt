@@ -1,14 +1,19 @@
-====== Jeremiah Suffered for God [19-17] ======
+====== परमेश्वर के लिए यिर्मयाह का कष्टों को झेलना [19-17] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-17.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-17.jpg?nolink&}}
 
-Most of the time, the people did not **[[:en:key-terms:obey|obey]]** **[[:en:key-terms:god|God]]**. They often mistreated the **[[:en:key-terms:prophet|prophets]]** and sometimes even killed them. Once, the prophet **[[:en:key-terms:jeremiah|Jeremiah]]** was put into a **dry well** and left there to die. He sank down into the mud that was in the bottom of the well, but then the **[[:en:key-terms:king|king]] had [[:en:key-terms:mercy|mercy]] on him** and ordered his servants to pull Jeremiah out of the well before he died.
+अधिकाँश समय लोगों ने **परमेश्वर की आज्ञाओं का पालन** न किया। वे अकसर **भविष्यद्वक्ताओं** के साथ बुरा बर्ताव करते और कई बार तो उनकी हत्या भी की। एक बार यिर्मयाह नबी को सूखे कुँएमें  डलवा कर, मरने के लिए वहीँ पर छोड़ दिया गया। कुँए की तली में मौजूद कीचड में यिर्मयाह गहरे तक धस गया, लेकिन तभी **राजा को उस पर दया आ गई** और कुँए में उसकी मृत्यु होने से पहले, उसने अपने सेवको को भेज कर बाहर निकलवा लिया।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:obey|आज्ञाओं का पालन]]__**
+  * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:prophet|भविष्यद्वक्ताओं]]__**
+  * **__[[:hi:obs:notes:key-terms:jeremiah|यिर्मयाह]]__**
+  * **__[[:hi:obs:notes:key-terms:king|राजा]]__**
+  * **__[[:hi:obs:notes:key-terms:mercy|दया]]__**
+**अनुवाद के लिए नोट्स****:**
 
-  * **dry well** - The well did not currently have any water in it, but it did still have mud in the bottom. This could be translated as, “empty well.”
-  * **had mercy on him** – This means he was kind to Jeremiah and helped him. 
-  
-
+  * **सूखे कुँए**  - उस समय कुँए में पानी मौजूद नहीं था, लेकिन उसकी तली में कीचड ज़रूर था। इसे "खाली कुँए" भी कह सकते हैं।
+  * **उस पर दया की**  - अर्थात, यिर्मयाह के प्रति दयालु था, और उसकी मदद की।
 **[[:hi:obs:notes:frames:19-16|<<]] | [[:hi:obs:notes:19|Up]] | [[:hi:obs:notes:frames:19-18|>>]]**
