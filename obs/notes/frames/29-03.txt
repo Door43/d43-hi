@@ -1,15 +1,22 @@
-====== Not Able to Repay [29-03] ======
+====== ऋण चुकाने में अक्षम [29-03] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-03.jpg?nolink&}}
 
-“Since the **[[:en:key-terms:servant|servant]]** could not **pay the debt**, the **[[:en:key-terms:king|king]]** said, ‘Sell this man and his family as **[[:en:key-terms:servant|slaves]]** **to make payment on his debt**.’”
+“चूंकि राजा से लिए **ऋण को चुकाने** में **सेवक** अक्षम था, इसलिए **राजा** ने आदेश देते हुए कहा, “**ऋण**** के भुगतान की राशि की उगाही के लिए** इस आदमी को इसके परिवार समेत **दास** बना कर बेच दो।“
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[:hi:obs:notes:key-terms:servant|सेवक]]**
+  *
 
-  * (Jesus continues the story.)
-  * **pay the debt** - That is, “pay back the money he owed to the king.”
-  * **to make payment on his debt** - This could be translated as, “and use the money received from selling them to pay part of what he owes me.”
-  
+**[[:hi:obs:notes:key-terms:king|राजा ]]**
+  *
 
+**[[:hi:obs:notes:key-terms:servant|दास]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * (यीशु कहानी को आगे बढ़ने हैं।)
+  * **ऋण चुकाने**  - अर्थात, “उधार लिए पैसे राजा को वापिस करने थे।“
+  * **ऋण की उगाही के लिए**  - इसका अनुवाद ऐसे भी किया जा सकता है: “और उनको बेचने से प्राप्त धन राशि से ऋण का भुगतान किया जाए।“
 **[[:hi:obs:notes:frames:29-02|<<]] | [[:hi:obs:notes:29|Up]] | [[:hi:obs:notes:frames:29-04|>>]]**
