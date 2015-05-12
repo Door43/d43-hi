@@ -1,14 +1,21 @@
-====== All Things Are Possible [28-08] ======
+====== सारी बातें संभव हैं [28-08] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-08.jpg?nolink&}}
 
-**[[:en:key-terms:jesus|Jesus]]** looked at the **[[:en:key-terms:disciple|disciples]]** and said, “**With people this is impossible**, but **with [[:en:key-terms:god|God]], all things are possible**.”
+**यीशु** ने **चेलों** को देखा और कहा, “**मनुष्यों**** के साथ या असंभव हैं** लेकिन **परमेश्वर के साथ सब कुछ संभव है।**“
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[:hi:obs:notes:key-terms:jesus|यीशु ]]**
+  *
 
-  * **With people this is impossible** - That is, “It is not possible for people to do this” or, “Mere humans cannot save themselves.”
-  * **with God, all things are possible** - This could also be translated as, “God is able to do anything, even save a rich person” or, “God is able to do impossible things, so he can save even a rich person.”
+**[[:hi:obs:notes:key-terms:disciple|चेलों ]]**
+  *
 
+**[[:hi:obs:notes:key-terms:god|परमेश्वर ]]**
+===== अनुवाद के लिए नोट्स: =====
 
+  * **मनुष्यों के साथ असंभव है**  - अर्थात, “मनुष्यों के लिए इसे करना संभव नहीं” या फिर, “मनुष्य इसे स्वयं नहीं कर सकता।“
+  * **परमेश्वर के साथ संभव है**  - इसे हम यूँ भी लिख सकते हैं, : “परमेश्वर कुछ भी करने में सक्षम है, वह धनी लोगों तक को बचा सकता है” या फिर, “परमेश्वर असंभव को भी संभव कर सकता है, इसलिए वह धनी को भी बचा सकता है।“
 **[[:hi:obs:notes:frames:28-07|<<]] | [[:hi:obs:notes:28|Up]] | [[:hi:obs:notes:frames:28-09|>>]]**
