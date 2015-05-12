@@ -1,14 +1,15 @@
-====== The Small Debt [29-05] ======
+====== छोटा सा ऋण [29-05] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-05.jpg?nolink&}}
 
-“But when the **[[:en:key-terms:servant|servant]]** went out from the king, he found a **fellow servant** who owed him a debt worth four months’ wages. The servant grabbed his fellow servant and said, ‘Pay me the money that you owe me!’”
+“लेकिन राजा के यहाँ से बाहर निकलने पर उस **सेवक** को अपना एक **साथी सेवक** मिला जिसने उससे चार महीने के वेतन बराबर उधार लिया हुआ था। सेवक ने अपने साथी सेवक को पकड़ा और बोला, “मेरी तरफ तेरा जो भी उधार बनता है, उसे चुकता कर!
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[:hi:obs:notes:key-terms:servant|सेवक]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * (Jesus continues the story.)
-  * **fellow servant** - This refers to another man who was also a servant of the king.
-
-  
+  * (यीशु कहानी आगे बढाते हैं।)
+  * **साथी सेवक**  - राजा का एक और सेवक।
 **[[:hi:obs:notes:frames:29-04|<<]] | [[:hi:obs:notes:29|Up]] | [[:hi:obs:notes:frames:29-06|>>]]**
