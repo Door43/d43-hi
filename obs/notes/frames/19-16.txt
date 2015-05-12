@@ -1,13 +1,23 @@
-====== The Prophets Warned the People [19-16] ======
+====== भविष्यद्वक्ताओं द्वारा लोगों को चेतावनी [19-16] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-16.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-16.jpg?nolink&}}
 
-**[[:en:key-terms:god|God]]** sent many other **[[:en:key-terms:prophet|prophets]]**. They all told the people to stop **[[:en:key-terms:worship|worshiping]]** **[[:en:key-terms:idol|idols]]** and to **start showing [[:en:key-terms:justice|justice]] and [[:en:key-terms:mercy|mercy]]** to others. The prophets warned the people that if they did not stop doing **[[:en:key-terms:evil|evil]]** and start **[[:en:key-terms:obey|obeying]]** God, then God would **[[:en:key-terms:judge|judge]]** them as **[[:en:key-terms:guilt|guilty]]**, and he would **[[:en:key-terms:punish|punish]]** them.
+**परमेश्वर** ने कई और **भविष्यद्वक्ताओं** को भी भेजा। सभी ने लोगों को मूरतों की **आराधना** बंद करने व दूसरे के प्रति न्याय व दया दिखाने को कहा। भविष्यद्वक्ताओं ने लोगों को चेतावनी दी कि यदि उन्होंने बुराई करना बंद करके परमेश्वर की आज्ञाओं का पालन करना शुरू नहीं किया, तो परमेश्वर उन्हें दोषी ठहराएगा, और उन पर दंड भेजेगा।
 
+**महत्वपूर्ण शब्द तथा वाक्यांश****:**
 
-===== Translation Notes: =====
+   * **__[[:hi:obs:notes:key-terms:god|परमेश्वर]]__**
+  * **__[[:hi:obs:notes:key-terms:prophet|भविष्यद्वक्ताओं]]__**
+  * **__[[:hi:obs:notes:key-terms:worship|आराधना करना]]__**
+  * **__[[:hi:obs:notes:key-terms:idol|मूरतों]]__**
+  * **__[[:hi:obs:notes:key-terms:justice|न्याय]]__**
+  * **__[[:hi:obs:notes:key-terms:mercy|दया]]__**
+  * **__[[:hi:obs:notes:key-terms:evil|बुराई]]__**
+  * **__[[:hi:obs:notes:key-terms:obey|आज्ञाओं का पालन]]__**
+  * **__[[:hi:obs:notes:key-terms:judge|न्याय करना]]__**
+  * **__[[:hi:obs:notes:key-terms:guilty|दोषी]]__**
+  * **__[[:hi:obs:notes:key-terms:punish|दंड]]__**
+**अनुवाद के लिए नोट्स****:**
 
-  * **start showing justice and mercy** - This can be translated as, “start being just and merciful” or, "begin to demonstrate justice and mercy."  
-
-
+  * **न्याय व दया दिखाना**  - इसका अनुवाद यूँ भी किया जा सकता है, :"न्यायसंगत व दयालु होना शुरू करना" भी लिख सकते हैं।
 **[[:hi:obs:notes:frames:19-15|<<]] | [[:hi:obs:notes:19|Up]] | [[:hi:obs:notes:frames:19-17|>>]]**
