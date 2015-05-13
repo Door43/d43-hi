@@ -6,33 +6,14 @@
 
 ===== Important Terms: =====
 
-  *
-
-**[[:hi:obs:notes:key-terms:jesus|यीशु]]**
-  *
-
-**[[:hi:obs:notes:key-terms:kingdom-of-god|राज्य]]**
-  *
-
-[[:hi:obs:notes:key-terms:kingdom|राज्य]]
-
-  *
-
-**[[:hi:obs:notes:key-terms:servant|सेविका]]**
-  *
-
-**[[:hi:obs:notes:key-terms:truth|सत्य]]**
-  *
-
-**[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
-  *
-
-****[[:hi:obs:notes:key-terms:love|प्रेम]]****
-  *
-
-  *
-
-**[[:hi:obs:notes:key-terms:pilate|पिलातुस]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:kingdom-of-god|राज्य]]**
+  * [[:hi:obs:notes:key-terms:kingdom|राज्य]]
+  * **[[:hi:obs:notes:key-terms:servant|सेविका]]**
+  * **[[:hi:obs:notes:key-terms:truth|सत्य]]**
+  * **[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
+  * [[:hi:obs:notes:key-terms:love|प्रेम]]
+  * **[[:hi:obs:notes:key-terms:pilate|पिलातुस]]**
 ===== अनुवाद के लिए नोट्स: =====
 
   * **तूने आप ही ऐसा कहा है **- अर्थात, "तूने बिलकुल सही कहा है।"
