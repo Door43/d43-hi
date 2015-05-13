@@ -2,27 +2,16 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-07.jpg?nolink&}}
 
-पतरस डर गया और डूबने लगा। उसने चिल्ला कर पुकारा, "हे स्वामी, मुझे बचा!" यीशु ने तब हाथ बड़ा कर उसे खींच लिया। फिर वह पतरस से बोला, "हे कम विश्वास करनेवाले,तूने संदेह क्यों किया?"
-
+**पतरस** डर गया और डूबने लगा। उसने चिल्ला कर पुकारा, "हे **स्वामी**, मुझे **बचा**!" **यीशु** ने तब हाथ बड़ा कर उसे खींच लिया। फिर वह पतरस से बोला, "**हे कम** **विश्वास** **करनेवाले**, तूने संदेह क्यों किया?"
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
+  * **[[:hi:obs:notes:key-terms:peter|पतरस]]**
+  * **[[:hi:obs:notes:key-terms:lord|स्वामी]]**
+  * **[[:hi:obs:notes:key-terms:save|बचा]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:faith|विश्वास ]]**
+===== अनुवाद के लिए नोट्स: =====
 
-**[[:hi:obs:notes:key-terms:peter|पतरस]]**
-  *
-
-**[[:hi:obs:notes:key-terms:lord|स्वामी]]**
-  *
-
-**[[:hi:obs:notes:key-terms:save|बचा]]**
-  *
-
-**[[:hi:obs:notes:key-terms:jesus|यीशु]]**
-  *
-
-**[[:hi:obs:notes:key-terms:faith|विश्वास ]]**
-===== Translation Notes: =====
-
-  * **You man of little faith**  - This may also be translated as, “You have so little faith in me!” or, “You do not trust me very much!”
-  * **why did you doubt?**  - That is, “You should not have doubted me!” or, “You should have trusted me completely.” This isn't a real question, but a way in this language to make a strong point. In many languages, it works better to express this as a statement.
+  * **हे कम विश्वास ****करनेवाले** --इसका अनुवाद करते समय हम लिख सकते हैं, : "तू मुझ पर कितना कम विश्वास रखता है", या फिर, "तूू मुझ पर पूरी तरह विश्वास नहीं रखता।"
+  * **तूने सन्देह क्यों किया?** --अर्थात, "तुझे मुझ पर सन्देश नहीं करना चाहिए था," या फिर, "तुझे मच पर पूरा विश्वास रखना चाहिए।" असल में यहाँ कोई प्रश्न नहीं पूछा गया, बल्कि बात पर बल दिया गया है। कई भाषाओं में इसे प्रश्न की तरह न लिख कर एक सरल कथन की तरह लिखना सही रहेगा।
 **[[:hi:obs:notes:frames:31-06|<<]] | [[:hi:obs:notes:31|Up]] | [[:hi:obs:notes:frames:31-08|>>]]**
