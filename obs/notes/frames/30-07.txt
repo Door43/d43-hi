@@ -1,10 +1,22 @@
-====== Jesus Blessed the Food [30-07] ======
+====== यीशु का भोजन को आशीष देना [30-07] ======
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-07.jpg?nolink&}}
 
-Then **[[:en:key-terms:jesus|Jesus]]** took the five loaves of bread and the two fish, looked up to **[[:en:key-terms:heaven|heaven]]**, and thanked **[[:en:key-terms:god|God]]** for the food.
+यीशु ने तब पांच रोटी और दो मछली को लेकर आकाश की और उठाया, और भोजन के लिए परमेश्वर को धन्यवाद दिया।
 
-===== Translation Notes: =====
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  * //(There are no notes for this frame.)//
+  *
+
+**[[:hi:obs:notes:key-terms:jesus|यीशु ]]**
+  *
+
+**[[:hi:obs:notes:key-terms:heaven|स्वर्ग ]]**
+  *
+
+**[[:hi:obs:notes:key-terms:god|परमेश्वर ]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * (अनुवाद के लिए कोई नोट्स नहीं हैं।)
+
 **[[:hi:obs:notes:frames:30-06|<<]] | [[:hi:obs:notes:30|Up]] | [[:hi:obs:notes:frames:30-08|>>]]**
