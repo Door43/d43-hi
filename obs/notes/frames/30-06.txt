@@ -1,14 +1,18 @@
-====== Preparation for the Meal [30-06] ======
+====== भोजन की तैयारी [30-06] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-06.jpg?nolink&}}
 
-**[[:en:key-terms:jesus|Jesus]]** told his **[[:en:key-terms:disciple|disciples]]** to tell the people in the crowd to sit down on the grass, in groups of fifty people each.
+**यीशु** ने अपने **चेलों** से कहा कि वे लोगों को पचास-पचास के समूह बना कर बैठने को कहें।
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[:hi:obs:notes:key-terms:jesus|यीशु ]]**
+  *
 
+**[[:hi:obs:notes:key-terms:disciple|चेलों]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * //(There are no notes for this frame.)//
-  
+  * (अनुवाद के लिए कोई नोट्स नहीं हैं।)
 
 **[[:hi:obs:notes:frames:30-05|<<]] | [[:hi:obs:notes:30|Up]] | [[:hi:obs:notes:frames:30-07|>>]]**
