@@ -2,32 +2,20 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-08.jpg?nolink&}}
 
-पतरस व यीशु के नाव में बैठते ही, हवा थम गयी और पानी की लहरें शांत हो गयीं। चेले हैरान हो गए। उन्होंने यीशु की आराधना की और बोले, "सचमुच, तू परमेश्वर का बेटा है।"
-
+**पतरस** व **यीशु** के नाव में बैठते ही, हवा थम गयी और पानी की लहरें शांत हो गयीं। **चेले** हैरान हो गए। उन्होंने यीशु की **आराधना की** और बोले, "**सचमुच**, तू **परमेश्वर का बेटा** है।"
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
+  * **[[:hi:obs:notes:key-terms:peter|पतरस ]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु ]]**
+  * **[[:hi:obs:notes:key-terms:disciple|चेले ]]**
+  * **[[:hi:obs:notes:key-terms:worship|आराधना की ]]**
+  * **[[:hi:obs:notes:key-terms:truth|सचमुच ]]**
+  * **[[:hi:obs:notes:key-terms:son-of-god|परमेश्वर का बेटा ]]**
+===== अनुवाद के लिए नोट्स: =====
 
-**[[:hi:obs:notes:key-terms:peter|पतरस ]]**
-  *
+  * **पतरस और यीशु के नाव में बैठते ही, हवा**  ---ऐसा कहना बेहतर होगा कि "यीशु और पतरस नाव में बैठ गए, और तब हवा..।"
+  * **यीशु की आराधना की**  --इसका अनुवाद ऐसे भी कर सकते हैं,: "झुक कर यीशु की आराधना की।" इन शब्दों में आदर व सम्मान के साथ किसी के आगे झुकने का भाव है।
+  * **सचमुच, तू परमेश्वर का बेटा ****है** --या फिर, "तू सचमुच परमेश्वर का बेटा है" या फिर, "यह सच ही है कि तू परमेश्वर का बेटा है।"
+  * बाइबिल की कहानी - बाइबिल के कुछ संस्करणों में इनका अनुवाद अलग तरह से किया हो सकता है।
 
-**[[:hi:obs:notes:key-terms:jesus|यीशु ]]**
-  *
-
-**[[:hi:obs:notes:key-terms:disciple|चेले ]]**
-  *
-
-**[[:hi:obs:notes:key-terms:worship|आराधना की ]]**
-  *
-
-**[[:hi:obs:notes:key-terms:truth|सचमुच ]]**
-  *
-
-**[[:hi:obs:notes:key-terms:son of god|परमेश्वर का बेटा ]]**
-===== Translation Notes: =====
-
-  * **When Peter and Jesus got into the boat, the wind**  – It may be better to say, “Peter and Jesus got into the boat, and then the wind.”
-  * **worshiped Jesus**  – This could be translated as, “bowed down and worshiped Jesus.” This word has the idea of physically bowing down in front of someone out of respect and reverence.
-  * **Truly you are the Son of God**  – Other ways to say this would be, “You really are the Son of God” or, “It really is true that you are the Son of God.”
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
 **[[:hi:obs:notes:frames:31-07|<<]] | [[:hi:obs:notes:31|Up]] | [[:hi:obs:notes:frames:32-01|>>]]**
