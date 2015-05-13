@@ -1,14 +1,18 @@
-====== The Country of the Gerasenes [32-01] ======
+====== गिरासेनियों का देश [32-01] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-01.jpg?nolink&}}
 
-**One day**, **[[:en:key-terms:jesus|Jesus]]** and his **[[:en:key-terms:disciple|disciples]]** went in a boat across the lake to the region where **the Gerasene people** lived.
+**एक दिन** **यीशु** और उसके **चेले** नाव में बैठ कर, झील के पार **गिरासेनियों के देश** गए।
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
+**[[:hi:obs:notes:key-terms:jesus|यीशु ]]**
+  *
+
+**[[:hi:obs:notes:key-terms:disciple|चेले ]]**
 ===== Translation Notes: =====
 
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **the Gerasene people** - The Gerasenes lived in an area along the eastern shore of the Sea of Galilee. They are descendants of the Jews, but we know few details about them. 
-
-
+  * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
+  * **the Gerasene people**  - The Gerasenes lived in an area along the eastern shore of the Sea of Galilee. They are descendants of the Jews, but we know few details about them.
 **[[:hi:obs:notes:frames:31-08|<<]] | [[:hi:obs:notes:32|Up]] | [[:hi:obs:notes:frames:32-02|>>]]**
