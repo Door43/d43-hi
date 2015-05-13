@@ -1,14 +1,28 @@
-====== He Is Not Guilty [39-11] ======
+====== यह निर्दोष है [39-11] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-11.jpg?nolink&}}
 
-After speaking with **[[:en:key-terms:jesus|Jesus]]**, **[[:en:key-terms:pilate|Pilate]]** went out to the crowd and said, “**I find no [[:en:key-terms:guilt|guilt]] in this man**.” But the **[[:en:key-terms:jewish-leaders|Jewish leaders]]** and the crowd shouted, “**[[:en:key-terms:crucify|Crucify]]** him!” Pilate replied, “**He is not guilty**.” But they shouted even louder. Then Pilate said a third time, “He is not guilty!”
+यीशु से बातें करने के बाद पिलातुस भीड़ के पास गया और बोला, "मुझे इस व्यक्ति में कोई दोष नहीं दिखता।" लेकिन यहूदी अगुए व भीड़ चिल्लाने लगी, "इसे क्रूस दो!" पिलातुस ने उत्तर दिया, "यह निर्दोष है।" लेकिन वे और जोर से चिल्लाने लगे। इस पर पिलातुस ने तीसरी बार कहा, "यह निर्दोष है!"
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  *
 
-  * **I find no guilt in this man** - That is, “I do not find this man to be guilty” or, “I have examined this man, and I do not see that he has done anything wrong.” 
-  * **He is not guilty** - That is, “He has done nothing wrong!” 
+**[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  *
 
+**[[:hi:obs:notes:key-terms:pilate|पिलातुस]]**
+  *
 
+**[[:hi:obs:notes:key-terms:guilt|दोष]]**
+  *
+
+**[[:hi:obs:notes:key-terms:jewish-leaders|यहूदी अगुवे]]**
+  *
+
+**[[:hi:obs:notes:key-terms:crucify|क्रूस दो]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **मुझे इस व्यक्ति में कोई दोष नहीं दिखता**  - अर्थात, "मुझे यह व्यक्ति दोषी नहीं मिला" अथवा, "मैंने इस व्यक्ति की पड़ताल की है, और मुझे कोई दोष नहीं दिखा।"
+  * **यह निर्दोष है**  - अर्थात, "इसने कोई गलत काम नहीं किया है!"
 **[[:hi:obs:notes:frames:39-10|<<]] | [[:hi:obs:notes:39|Up]] | [[:hi:obs:notes:frames:39-12|>>]]**
