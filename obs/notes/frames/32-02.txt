@@ -1,15 +1,18 @@
-====== A Man with Evil Spirits [32-02] ======
+====== दुष्टात्माओं से ग्रस्त व्यक्ति [32-02] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-02.jpg?nolink&}}
 
-When they reached the other side of the lake, **a [[:en:key-terms:demon-possessed|demon-possessed]] man** **came running up to** **[[:en:key-terms:jesus|Jesus]]**.
+जैसे ही वे गलील की झील के उस ओर उतरे, **दुष्टात्मा से ग्रस्त** एक आदमी **यीशु** की ओर दौड़ा चला आया।
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[:hi:obs:notes:key-terms:demon possessed|दुष्टात्मा से ग्रस्त]]**
+  *
 
+**[[:hi:obs:notes:key-terms:jesus|यीशु ]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **a demon-possessed man** - That is, “a man who had demons in him” or, “a man who was controlled by evil spirits.” 
-  * **came running up to** - That is, “ran to” or, “ran and stopped in front of.” 
-  
-
+  * **दुष्टात्मा से ग्रस्त एक व्यक्ति**  --अर्थात, "एक ऐसा व्यक्ति जिसके भीतर दुष्टात्मा का वास था" या कि, "एक व्यक्ति जो दुष्टात्मा के वश में था।"
+  * **दौड़ा चला आया**  --अर्थात, "की ओर दौड़ा" या कि, "दौड़ता हुआ उसके आगे आ खड़ा हुआ।"
 **[[:hi:obs:notes:frames:32-01|<<]] | [[:hi:obs:notes:32|Up]] | [[:hi:obs:notes:frames:32-03|>>]]**
