@@ -1,14 +1,22 @@
-====== Jesus Prayed Alone [31-01] ======
+====== यीशु की एकांत में प्रार्थना [31-01] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-01.jpg?nolink&}}
 
-Then **[[:en:key-terms:jesus|Jesus]]** told the **[[:en:key-terms:disciple|disciples]]** to get into the boat and sail to the other side of the lake while **he dismissed the crowd**. After Jesus had sent the crowd away, he went up on a **mountainside** to **[[:en:key-terms:pray|pray]]**. Jesus was there all alone, and he prayed until late at night.
+यीशु ने तब चेलों से कहा कि जबकि वह भीड़ को विदा कर रहा है, वे एक नाव में सवार होकर झील की दूसरी और चले जाएँ। भीड़ को विदा करने के बाद, यीशु प्रार्थना करने पहाडी कि ढाल पर चला गया। यीशु वहाँ बिलकुल अकेला था, और उसने देर रात तक प्रार्थना की।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  *
 
-  * **he dismissed the crowd** - This is another way of saying, “he sent the crowd on their way” or, “he told the crowd of people to go back to their homes.”
-  * **mountainside** - That is, "the side of a mountain."
-  
+**[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  *
 
+**[[:hi:obs:notes:key-terms:disciple|चेलों]]**
+  *
+
+**[[:hi:obs:notes:key-terms:pray|प्रार्थना]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **भीड़ को विदा कर रहा ****है** ---इस बात को कहने का दूसरा तरीका होगा, :  "वह भीड़ को भेज रहा है" या फिर, "उसने भीड़ को अपने घर लौट जाने को कहा।"
+  * **पहाड़ी की ****ढाल** --अर्थात, "पहाडी के ढलान पर।"
 **[[:hi:obs:notes:frames:30-09|<<]] | [[:hi:obs:notes:31|Up]] | [[:hi:obs:notes:frames:31-02|>>]]**
