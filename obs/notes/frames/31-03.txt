@@ -1,14 +1,21 @@
-====== Jesus Walked on the Water [31-03] ======
+====== यीशु का पानी पर चलना [31-03] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-03.jpg?nolink&}}
 
+**प्रार्थना** कर चुकने के बाद **यीशु** अपने **चेलों** के पास चला गया। वह पानी पर चलता हुआ अपने चेलों की नाव की ओर जाने लगा!
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-Then **[[:en:key-terms:jesus|Jesus]]** finished praying and went to the disciples. He walked on top of the water across the lake toward their boat!
+  *
 
+**[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  *
 
-===== Translation Notes: =====
+**[[:hi:obs:notes:key-terms:disciple|चेलों]]**
+  *
 
-  * //(There are no notes for this frame.)//
-  
+**[[:hi:obs:notes:key-terms:pray|प्रार्थना ]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * (अनुवाद के लिए कोई नोट्स नहीं हैं।)
 
 **[[:hi:obs:notes:frames:31-02|<<]] | [[:hi:obs:notes:31|Up]] | [[:hi:obs:notes:frames:31-04|>>]]**
