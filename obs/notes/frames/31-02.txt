@@ -1,17 +1,22 @@
-====== The Storm [31-02] ======
+====== तूफ़ान [31-02] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-02.jpg?nolink&}}
 
+इस बीच, **चेले** अब भी नाव पर जा रहे थे, और बीच रात होने तक बस झील के बीच तक ही पहुँच पाए थे। उन्हें नाव चलाने में बहुत मशक्कत करनी पड़ रही थी क्योंकि उलटी दिशा से हवा बहुत ज़ोरों की चल रही थी।
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-**Meanwhile**, the **[[:en:key-terms:disciple|disciples]]** were **rowing their boat**, but by late in the night they had only **reached** the middle of the lake. They were rowing with **great difficulty** because the wind was blowing hard against them. 
+  *
 
+**[[:hi:obs:notes:key-terms:disciple|चेले ]]**
+  *
 
-===== Translation Notes: =====
+**[[:hi:obs:notes:key-terms:disciple|चेले ]]**
+  *
 
-  * **Meanwhile** - That is, "while Jesus was praying on the mountainside."
-  * **rowing their boat** - The boat had a sail, but it would not have worked when the wind was against them.
-  * **reached** - This can also be translated as, "traveled as far as."
-  * **great difficulty** - That is, "much difficulty" or, "a lot of difficulty."
-  
+**[[:hi:obs:notes:key-terms:pray|प्रार्थना ]]**
+===== अनुवाद के लिए नोट्स: =====
 
+  * **इस बीच**  --अर्थात, "जिस समय यीशु पहाड़ी पर प्रार्थना कर रहा था।"
+  * **नाव चलाने में** --नाव में पाल थी लेकिन तेज़ हवा के चलते वो काम नहीं कर रहा था।
+  * **बहुत मशक्कत करनी पड़ रही ****थी** ---अर्थात, "बहुत कठिनाई हो रही थी" या फिर, "बहुत जोर लगाना पड़ रहा था।"
 **[[:hi:obs:notes:frames:31-01|<<]] | [[:hi:obs:notes:31|Up]] | [[:hi:obs:notes:frames:31-03|>>]]**
