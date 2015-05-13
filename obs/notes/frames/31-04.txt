@@ -1,15 +1,20 @@
-====== The Disciples Were Afraid [31-04] ======
+====== चेलों का भयभीत होना [31-04] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-04.jpg?nolink&}}
 
-The **[[:en:key-terms:disciple|disciples]]** were very afraid when they saw **[[:en:key-terms:jesus|Jesus]]**, because they thought they were seeing **a ghost**. Jesus knew that they were afraid, so he called out to them and said, “**Do not be afraid**. **It is I!**”
+यीशु को देख कर चेले भयभीत हो उठे, क्योंकि उन्हें लगा कि उन्होंने कोई भूत देख लिया है। यीशु जानते थे कि चेले डरे हुए थे, इसलिए उन्होंने उन्हें पुकारा और कहा, "डरो मत। यह मैं हूँ!!""
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  *
 
-  * **a ghost** - That is, “a spirit.” They thought Jesus was a spirit, since normally a human being cannot walk on water.
-  * **Do not be afraid** – For some languages it may be more natural to say here, “Stop being afraid.”
-  * **it is I!** - For some, it might be more natural to translate this as, “It is me, Jesus.”
-  
+**[[:hi:obs:notes:key-terms:disciple|चेले ]]**
+  *
 
+**[[:hi:obs:notes:key-terms:jesus|यीशु ]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **कोई भूत**  --अर्थात, "कोई आत्मा।" उन्होंने सोंचा कि यीशु कोई आत्मा है, क्योंकि मनुष्य तो पानी पर नहीं चल सकते हैं।
+  * **डरो ****मत** --कुछ भाषाओं में "डरना बंद करो" भी लिखना पड़ सकता है।
+  * **यह मैं हूँ!** --कुछ भाषाओं में "मैं हूँ, यीशु" लिखना अधिक सहज लग सकता है।
 **[[:hi:obs:notes:frames:31-03|<<]] | [[:hi:obs:notes:31|Up]] | [[:hi:obs:notes:frames:31-05|>>]]**
