@@ -1,15 +1,19 @@
-====== Everyone Ate [30-08] ======
+====== सबने खाया [30-08] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-08.jpg?nolink&}}
 
-Then **[[:en:key-terms:jesus|Jesus]]** **broke the bread and the fish** into pieces. He gave the pieces to his **[[:en:key-terms:disciple|disciples]]** to give to the people. The disciples kept passing out the food, and **it never ran out**! All the people ate and **were satisfied**.
+**यीशु** ने तब रोटी और मछली के हिस्से किये। फिर लोगों में बाँँटने के लिए उसने वे टुकड़े अपने **चेलों** को दे दिए। चेले भोजन को बाटते रहे और वह ख़त्म ही न हुआ! सब लोगों ने भरपूर भोजन किया।
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  *
 
-  * **broke the bread and the fish** - That is, “tore the bread and the fish.”
-  * **it never ran out** – Another way to say this would be, “there was always more left.”
-  * **were satisfied** – That is, “were no longer hungry” or, “were not hungry any more.”
+**[[:hi:obs:notes:key-terms:disciple|चेलों]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  
+  * **रोटी और मछली के हिस्से ****किये** --अर्थात, "रोटी और मछली के टुकड़े किये।"
+  * **भोजन...ख़त्म ही न ****हुआ** --या फिर, "भोजन तब शेष रहता।"
+  * **भरपूर भोजन ****किया** --अर्थात, "तृप्त हो गए" या कि, "भूखे न रहे।"
 **[[:hi:obs:notes:frames:30-07|<<]] | [[:hi:obs:notes:30|Up]] | [[:hi:obs:notes:frames:30-09|>>]]**
