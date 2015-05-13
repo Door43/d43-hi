@@ -6,21 +6,11 @@
 
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
-
-**[[:hi:obs:notes:key-terms:jesus|यीशु]]**
-  *
-
-**[[:hi:obs:notes:key-terms:pilate|पिलातुस]]**
-  *
-
-**[[:hi:obs:notes:key-terms:guilt|दोष]]**
-  *
-
-**[[:hi:obs:notes:key-terms:jewish-leaders|यहूदी अगुवे]]**
-  *
-
-**[[:hi:obs:notes:key-terms:crucify|क्रूस दो]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:pilate|पिलातुस]]**
+  * **[[:hi:obs:notes:key-terms:guilt|दोष]]**
+  * **[[:hi:obs:notes:key-terms:jewish-leaders|यहूदी अगुवे]]**
+  * **[[:hi:obs:notes:key-terms:crucify|क्रूस दो]]**
 ===== अनुवाद के लिए नोट्स: =====
 
   * **मुझे इस व्यक्ति में कोई दोष नहीं दिखता**  - अर्थात, "मुझे यह व्यक्ति दोषी नहीं मिला" अथवा, "मैंने इस व्यक्ति की पड़ताल की है, और मुझे कोई दोष नहीं दिखा।"
