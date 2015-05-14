@@ -1,18 +1,41 @@
-====== Peter Fought for Jesus [38-15] ======
+====== यीशु के लिए पतरस का लड़ाई करना [38-15] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-15.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-15.jpg?nolink&}}
 
-**As the soldiers arrested [[:en:key-terms:jesus|Jesus]]**, **[[:en:key-terms:peter|Peter]]** **pulled out his sword** and cut off the ear of a **[[:en:key-terms:servant|servant]]** of the **[[:en:key-terms:priest-high|high priest]]**. Jesus said, “Put the sword away! I could ask the **[[:en:key-terms:god-father|Father]]** for an army of **[[:en:key-terms:angel|angels]]** to defend me. But **I must [[:en:key-terms:obey|obey]] my Father**.” Then Jesus **[[:en:key-terms:heal|healed]]** the man’s ear. After Jesus was arrested, all the **[[:en:key-terms:disciple|disciples]]** ran away.
+जैसे ही सिपाहियों ने यीशु को गिरफ्तार किया, पतरस ने अपनी तलवार निकाली और महा याजक के एक सेवक का कान काट दिया। यीशु ने कहा, "तलवार हटा ले! मैं अपनी रक्षा के लिए दूतों की एक सेना मंगवा सकता था। लेकिन मुझे अपनी पिता की आज्ञा का पालन करना होगा।" यीशु ने तब उस व्यक्ति के कान को चंगा कर दिया। यीशु के गिरफ्तार होते ही, सारे चेले भाग गए।
 
 //A Bible story from: Matthew 26:14-56; Mark 14:10-50; Luke 22:1-53; John 12:6; 18:1-11//
+===== Important Terms: =====
 
+  *
 
-===== Translation Notes: =====
+**[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  *
 
-  * **As the soldiers arrested Jesus** - That is, "While the soldiers were arresting Jesus."
-  * **pulled out his sword** - That is, “pulled out his sword from the place where he was carrying it.” 
-  * **I must obey my Father** - That is, “I won't do that because I must obey my Father's will and allow myself to be arrested.” 
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-  
+**[[:hi:obs:notes:key-terms:peter|पतरस]]**
+  *
+
+**[[:hi:obs:notes:key-terms:servant|सेवक]]**
+  *
+
+**[[:hi:obs:notes:key-terms:priest-high|महा याजक]]**
+  *
+
+**[[:hi:obs:notes:key-terms:god-father|पिता]]**
+  *
+
+**[[:hi:obs:notes:key-terms:angel|दूतों]]**
+  *
+
+**[[:hi:obs:notes:key-terms:heal|चंगा कर दिया]]**
+  *
+
+**[[:hi:obs:notes:key-terms:disciple|चेले]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **जैसे ही सिपाहियों ने यीशु को गिरफ्तार ****किया** --अर्थात, "जिस समय सिपाही यीशु को गिरफ्त में ले रहे थे।"
+  * **तलवार ****निकाली** --अर्थात, "जहां तलवार रखी थी, वहां से निकाली।"
+  * **मुझे अपनी पिता की आज्ञा का पालन करना ****होगा** --अर्थात, "मैं ऐसा नहीं करूंगा क्योंकि मुझे अपने पिता की इच्छा पूरी करनी है और स्वयं को गिरफ्तार होने देना होगा।"
+  * बाइबिल की कहानी - बाइबिल के कुछ संस्करणों में इनका अनुवाद अलग तरह से किया हो सकता है।
 
 **[[:hi:obs:notes:frames:38-14|<<]] | [[:hi:obs:notes:38|Up]] | [[:hi:obs:notes:frames:39-01|>>]]**
