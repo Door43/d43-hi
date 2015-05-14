@@ -1,14 +1,18 @@
-====== The Man Was Healed [32-09] ======
+====== व्यक्ति चंगा हो गया [32-09] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-09.jpg?nolink&}}
 
-When the people who took care of the pigs saw **what happened**, they ran into the town and told everyone that they met what **[[:en:key-terms:jesus|Jesus]]** had done. The people from the town came and saw the man **who used to have the [[:en:key-terms:demon|demons]]**. He was sitting calmly, wearing clothes, and acting like a normal person.
+जब सूअरों की देखरेख करनेवालों ने यीशु के किये कार्य को देखा, तो वे दौड़ कर नगर में गए और मिलनेवाले हर व्यक्ति को **यीशु** के किये कार्य के बारे में बताया। जिस व्यक्ति में दुष्टात्मा हुआ करती थी, उसे देखने नगर से बहुत से लोग आये। वह आराम से बैठा था, और उसके शरीर पर कपडे भी थे, और उसका बर्ताव सामान्य व्यक्ति जैसा था।
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
+**[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  *
+
+**[[:hi:obs:notes:key-terms:demon|दुष्टात्मा ]]**
 ===== Translation Notes: =====
 
-  * **what happened** - That is, “how Jesus sent the demons out of the man and into the pigs.”
-  * **who used to have the demons** – That is, “in whom the demons had lived” or, “who had been controlled by the evil spirits.” 
-  
-
+  * **what happened**  - That is, “how Jesus sent the demons out of the man and into the pigs.”
+  * **who used to have the demons**  – That is, “in whom the demons had lived” or, “who had been controlled by the evil spirits.”
 **[[:hi:obs:notes:frames:32-08|<<]] | [[:hi:obs:notes:32|Up]] | [[:hi:obs:notes:frames:32-10|>>]]**
