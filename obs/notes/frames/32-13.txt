@@ -1,14 +1,18 @@
-====== The Sick Woman [32-13] ======
+====== बीमार स्त्री [32-13] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-13.jpg?nolink&}}
 
-**[[:en:key-terms:jesus|Jesus]]** returned to the other side of the lake. After he arrived there, a large crowd gathered around him and **pressed in on him**. In the crowd was a woman who had suffered from a bleeding problem for twelve years. She had paid all of her money to doctors so they would **[[:en:key-terms:heal|heal]]** her, but **she only got worse**.
+**यीशु** झील की दूसरी और लौट आया था। वहाँ पहुँचने पर लोगों की एक विशाल भीड़ उसके आस-पास इकट्ठी हो गयी, और चारो तरफ से उसे ठसाठस होकर घेरने लगी। बारह सालों से लहू बहने के रोग से पीड़ित एक स्त्री भी उस भीड़ में थी। चंगाई पाने के लिए वह अपना सारा धन डॉक्टरों पर खर्च कर चुकी थी, लेकिन उसकी हालत पहले से बदतर हो गयी थी।
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
+**[[:hi:obs:notes:key-terms:jesus|यीशु ]]**
+  *
+
+**[[:hi:obs:notes:key-terms:heal|चंगाई]]**
 ===== Translation Notes: =====
 
-  * **pressed in on him** - That is, “pushed tightly against him” or, “crowded in tightly around him.” 
-  * **she only got worse** - That is, “her condition only got worse” or, ” her health got worse instead of better” or, “instead she became more sick.” 
-  
-
+  * **pressed in on him**  - That is, “pushed tightly against him” or, “crowded in tightly around him.”
+  * **she only got worse**  - That is, “her condition only got worse” or, ” her health got worse instead of better” or, “instead she became more sick.”
 **[[:hi:obs:notes:frames:32-12|<<]] | [[:hi:obs:notes:32|Up]] | [[:hi:obs:notes:frames:32-14|>>]]**
