@@ -1,14 +1,24 @@
-====== Are You the Son of God? [39-03] ======
+====== क्या तू परमेश्वर का बेटा है? [39-03] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-03.jpg?nolink&}}
 
-Finally, the **[[:en:key-terms:priest-high|high priest]]** looked directly at **[[:en:key-terms:jesus|Jesus]]** and said, “Tell us, are you the **[[:en:key-terms:messiah|Messiah]]**, the **[[:en:key-terms:god-son|Son of the living God]]**?”
+अंत में, महा याजक ने सीधा यीशु की ओर देख कर कहा, "हमें बता, कि क्या तू जीवते परमेश्वर का बेटा और मसीह है?"
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  *
 
-  * **Finally** - That is, “After they were unable to find any evidence against him” or, “After they were unable to prove that he was guilty.” 
+**[[:hi:obs:notes:key-terms:priest-high|महा याजक]]**
+  *
 
-  
+**[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  *
 
+**[[:hi:obs:notes:key-terms:messiah|मसीह]]**
+  *
+
+**[[:hi:obs:notes:key-terms:god-son|जीवते परमेश्वर का बेटा]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **अंत ****में** --अर्थात, "आखिरकार जब वे उस पर कोई दोष न लगा सके" या फिर, "जब वे उस पर कोई दोष सिद्ध न कर सके।"
 **[[:hi:obs:notes:frames:39-02|<<]] | [[:hi:obs:notes:39|Up]] | [[:hi:obs:notes:frames:39-04|>>]]**
