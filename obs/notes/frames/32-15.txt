@@ -2,21 +2,14 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-15.jpg?nolink&}}
 
-उसके ऐसा करते ही, यीशु को तुरंत अपने भीतर से चंगाई की सामर्थ का निकलना महसूस हुआ। इसलिए, उसने मुड़ कर पूछा, "मुझे किसने छुआ?" चेलों ने कहा, "तेरे आसपास बहुत से लोग तुझ पर उमड़े जा रहे हैं। तो फिर तूने यह क्यों पूछा कि "मुझे किसने छुआ?"
-
+उसके ऐसा करते ही, **यीशु** को तुरंत अपने भीतर से चंगाई की **सामर्थ्य** का निकलना महसूस हुआ। इसलिए, उसने मुड़ कर पूछा, "मुझे किसने छुआ?" **चेलों** ने कहा, "तेरे आसपास बहुत से लोग तुझ पर उमड़े जा रहे हैं। तो फिर तूने यह क्यों पूछा कि "मुझे किसने छुआ?"
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:power|सामर्थ्य]]**
+  * **[[:hi:obs:notes:key-terms:disciple|चेलों]]**
+===== अनुवाद के लिए नोट्स: =====
 
-**[[:hi:obs:notes:key-terms:jesus|यीशु]]**
-  *
-
-**[[:hi:obs:notes:key-terms:power|सामर्थ्य]]**
-  *
-
-**[[:hi:obs:notes:key-terms:disciple|चेलों]]**
-===== Translation Notes: =====
-
-  * **power had gone out from him**  - This may be translated as, “healing power had flowed from him into someone else” or, “his power had healed someone.” Jesus did not lose any power because of this.
-  * **Why did you ask, ‘Who touched me?’**  - In some languages it may be better to use an indirect quote here such as, “Why did you ask who was touching you?” or, “Why you are wondering who touched you?”
+  * **भीतर से चंगाई की सामर्थ का ****निकलना** --या फिर, "कि उसकी सामर्थ से किसी को चंगाई मिली है।" सामर्थ के निकलने से यीशु की सामर्थ समाप्त नहीं हुई थी।
+  * **तूने यह क्यों पूछा कि "मुझे किसने छुआ?**"--कुछ भाषाओं में इसे परोक्ष रूप से कहना बेहतर होगा। जैसे कि "तू यह क्यों पूछता है कि तुझे किसने छुआ?" या फिर "तू क्यों सोंचता है कि तुझे किसने छुआ?"
 **[[:hi:obs:notes:frames:32-14|<<]] | [[:hi:obs:notes:32|Up]] | [[:hi:obs:notes:frames:32-16|>>]]**
