@@ -1,16 +1,30 @@
-====== Judas Betrayed Jesus [38-14] ======
+====== यहूदा का यीशु को धोखा देना [38-14] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-14.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-14.jpg?nolink&}}
 
-**[[:en:key-terms:judas|Judas]]** came with the **[[:en:key-terms:jewish-leaders|Jewish leaders]]**, soldiers, and a large crowd. They were carrying swords and clubs. Judas **came to** **[[:en:key-terms:jesus|Jesus]]** and said, “**Greetings**, **[[:en:key-terms:teacher|Teacher]]**,” and kissed him. This was **the sign** for the Jewish leaders to know whom to arrest. Then Jesus said, “Judas, **do you [[:en:key-terms:betray|betray]] me with a kiss**?”
+यहूदी अगुओं, सिपाहियों, और एक बड़ी भीड़ के साथ यहूदा वहाँ पहुँचा। उनके हांथो में तलवारें और लाठियां थीं। यीशु के पास आकर यहूदा बोला, "हे गुरु, अभिनन्दन," और उसे चूमा। यह यहूदी अगुओं के लिए एक चिन्ह था कि इसी व्यक्ति को पकड़ना है। इस पर यीशु ने कहा, "यहूदा,  तू मुझे चूम कर धोखा देता है?"
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  *
 
-  * **came to** - Some languages may prefer to say, "went to."
-  * **Greetings** - This can also be translated as, "Hello" or, "Peace" or, "Good evening." 
-  * **the sign** - That is, "the signal."
-  * **do you betray me with a kiss?** - That is, "are you really going to betray me with a kiss?" Jesus is not looking for an answer to this question. So some languages would translate it as a statement, such as, “you are betraying me by kissing me!” or, "you make your betrayal even worse by kissing me!"
-  
+**[[:hi:obs:notes:key-terms:judas|यहूदा]]**
+  *
 
+**[[:hi:obs:notes:key-terms:jewish-leaders|यहूदी अगुओं]]**
+  *
+
+**[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  *
+
+**[[:hi:obs:notes:key-terms:teacher|गुरु]]**
+  *
+
+**[[:hi:obs:notes:key-terms:betray|धोखा]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **आकर**  --कुछ भाषाओं में "गया" शब्द का प्रयोग हो सकता है।
+  * **अभिनन्दन** --इसके अनुवाद में हम "प्रणाम" या, "शुभ रात्रि" भी लिख सकते हैं।
+  * **चिन्ह** --अर्थात, "संकेत।"
+  * **तो तू मुझे चूम कर धोखा देता है?** --अर्थात, "क्या तू सचमुच चूम कर मुझे धोखा देनेवाला है?" यीशु यहाँ उससे कोई प्रश्न नहीं कर रहे। कुछ भाषाओं में इसे कथन के रूप में लिखना उचित होगा, जैसे कि, "तो तू मुझे चूम कर धोखा दे रहा है!"
 **[[:hi:obs:notes:frames:38-13|<<]] | [[:hi:obs:notes:38|Up]] | [[:hi:obs:notes:frames:38-15|>>]]**
