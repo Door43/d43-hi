@@ -1,13 +1,14 @@
-====== The Pigs Drowned [32-08] ======
+====== सूअरों का डूबना [32-08] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-08.jpg?nolink&}}
 
-The **[[:en:key-terms:demon|demons]]** came out of the man and entered the pigs. The pigs ran down a steep bank into the lake and drowned. There were about 2,000 pigs in the **herd**.
+उस व्यक्ति के शरीर से निकल कर वे **दुष्टात्माएँ** सूअरों के भीतर चली गयीं। सूअर तेज़ किनारे से लुड़कते हुए झील में जा गिरे और डूब मरे। **झुण्ड** में लगभग 2000 सूअर थे।
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[:hi:obs:notes:key-terms:demon|दुष्टात्माएँ]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **herd** - That is, “herd of pigs” or, “group of pigs.” Many languages have specific names for groups of animals, such as “flock of sheep,” “herd of cattle,” “pack of dogs,” and “school of fish.” Use a word that can appropriately be used for a large group of pigs. 
-  
-
+  * **झुण्ड**  -अंग्रेज़ी के सामान कई एसी भाषाओं में भी अलग-अलग जानवरों के झुण्डों के अपने विशिष्ट नाम होते हैं। यदि ऐसा है तो सूअरों के झुण्ड के लिए प्रयोग होनेवाले विशिष्ट शब्दों का प्रयोग करें।
 **[[:hi:obs:notes:frames:32-07|<<]] | [[:hi:obs:notes:32|Up]] | [[:hi:obs:notes:frames:32-09|>>]]**
