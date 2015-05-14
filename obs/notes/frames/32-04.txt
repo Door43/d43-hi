@@ -1,14 +1,15 @@
-====== Living among the Tombs [32-04] ======
+====== कब्रों के बीच रहना [32-04] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-04.jpg?nolink&}}
 
-The man lived **among the [[:en:key-terms:tomb|tombs]]** in the area. This man would scream all day and all night. He did not wear clothes and cut himself repeatedly with stones.
+वह व्यक्ति उस जगह की कब्रों के बीच रहता था। वह दिन-रात चिल्लाता रहता। वह कोई वस्त्र न पहनता था और स्वयं को पत्थर से बारम्बार काटता रहता।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  *
 
-  * **among the tombs** - That is “near the tombs” or, “around the tombs.” 
-  
+**[[:hi:obs:notes:key-terms:tomb|कब्रों]]**
+===== अनुवाद के लिए नोट्स: =====
 
+  * **कब्रों के बीच**  --अर्थात, "कब्रों के आस-पास" अथवा, "कब्रों के पास।"
 **[[:hi:obs:notes:frames:32-03|<<]] | [[:hi:obs:notes:32|Up]] | [[:hi:obs:notes:frames:32-05|>>]]**
-
