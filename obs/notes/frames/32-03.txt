@@ -1,14 +1,12 @@
-====== Breaking the Chains [32-03] ======
+====== कड़ियों का टूटना [32-03] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-03.jpg?nolink&}}
 
-This man was so strong that nobody could control him. People had even **fastened** his arms and legs with chains, but he **kept breaking them**.
+उस व्यक्ति में इतनी ताकत थी कि कोई भी उसे वश में नहीं कर सकता था। यहाँ तक कि लोगों ने **उसके हाथ-पैर कड़ियों से बाँध दिए थे**, लेकिन वह **उन्हें बार-बार तोड़ ****डालता** ।
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+===== अनुवाद के लिए नोट्स: =====
 
-===== Translation Notes: =====
-
-  * **fastened his arms and legs** - That is, "restrained" or, "bound."
-  * **kept breaking them** - Some languages may need to say, "kept breaking the chains."
-  
-
+  * **उसके हाथ-पैर कड़ियों से बाँध दिए थे**  --अर्थात,"जकड़ दिए थे।"
+  * **उन्हें बार-बार तोड़ ****डालता** --कुछ भाषाओं में "उन्हें" के स्थान पर "कड़ियाँ" लिखना ज़रूरी हो सकता है।
 **[[:hi:obs:notes:frames:32-02|<<]] | [[:hi:obs:notes:32|Up]] | [[:hi:obs:notes:frames:32-04|>>]]**
