@@ -2,27 +2,30 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-06.jpg?nolink&}}
 
-दुष्टात्मा से ग्रस्त वह व्यक्ति जोर से चिल्लाया, "हे परम प्रधान परमेश्वर के बेटे, यीशु, तू मुझसे क्या चाहता है? मुझे न सता!" यीशु ने तब दुष्टात्मा से पूछा, "तेरा नाम क्या है?" उसने कहा, "मेरा नाम सेना है, क्योंकि हम बहुत सारे हैं।" (रोमी सेना के कई हज़ार सिपाहियों के दस्ते को सेना कहा जाता था।)
-
+**दुष्टात्मा से ग्रस्त वह व्यक्ति** जोर से चिल्लाया, "हे **परम प्रधान परमेश्वर** के **बेटे**, **यीशु**, तू मुझसे क्या चाहता है? मुझे न सता!" यीशु ने तब दुष्टात्मा से पूछा, "तेरा नाम क्या है?" उसने कहा, "मेरा नाम सेना है, क्योंकि हम बहुत सारे हैं।" (रोमी सेना के कई हज़ार सिपाहियों के दस्ते को सेना कहा जाता था।)
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
+  * **[[:hi:obs:notes:key-terms:demon-possessed|दुष्टात्मा से ग्रस्त व्यक्ति ]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु ]]**
+  * **[[:hi:obs:notes:key-terms:son|बेटे ]]**
+  * **[[:hi:obs:notes:key-terms:god|परम प्रधान परमेश्वर ]]**
+===== अनुवाद के लिए नोट्स: =====
 
-**[[:hi:obs:notes:key-terms:demon possessed|दुष्टात्मा से ग्रस्त व्यक्ति ]]**
-  *
-
-**[[:hi:obs:notes:key-terms:jesus|यीशु ]]**
-  *
-
-**[[:hi:obs:notes:key-terms:son|बेटे ]]**
-  *
-
-**[[:hi:obs:notes:key-terms:god|परम प्रधान परमेश्वर ]]**
-===== Translation Notes: =====
-
-  * **cried out**  – That is, “shouted” or, “exclaimed.”
-  * **What do you want with me**  - This expression means, "What are you going to do to me?"
-  * **the Most High God**  - That is, “the Supreme God” or, “the Most Sovereign God” or, “the Most Powerful God.” The meaning of "high" here refers to God's greatness. It does not refer to altitude or being tall.
+  * **चिल्लाया**  --अर्थात, "ऊँँची आवाज़ में बोला" या फिर, "चीखा।"
+  * **तू मुझसे क्या चाहता ****है** --अर्थात, "तू मेरे साथ क्या करनेवाला है?"
+  * **परम प्रधान ****परमेश्वर** ---सर्वोपरि परमेश्वर, या फिर, "परम अधिपति परमेश्वर" या कि, "सबसे महान परमेश्वर।"
+"उच्च"
+का अर्थ
+यहाँ परमेश्वर
+की
+महानता
+को दर्शाता है।
+यह
+ऊँचाई या
+लंबा
+किया जा रहा है
+का उल्लेख नहीं है
+।
   * **Legion**  - This was the name of the group of demons, but it also describes that the evil spirits were very numerous. Use the name if the note that follows will make the meaning clear in your language. If not, you may need to translate the word as something like, “Army” or, “Crowd” or, “Thousands.”
   * **we are many**  - we are many - That is, “there are many of us” or, “we are many demons.”
 **[[:hi:obs:notes:frames:32-05|<<]] | [[:hi:obs:notes:32|Up]] | [[:hi:obs:notes:frames:32-07|>>]]**
