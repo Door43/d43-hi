@@ -1,16 +1,27 @@
-====== The False Witnesses [39-02] ======
+====== झूठे गवाह [39-02] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-02.jpg?nolink&}}
 
-Inside the house, the **[[:en:key-terms:jewish-leaders|Jewish leaders]]** **put [[:en:key-terms:jesus|Jesus]] on trial**. They brought many false **[[:en:key-terms:witness|witnesses]]** who **lied about him**. However, **their statements did not agree with each other**, so the Jewish leaders could not prove **he was [[:en:key-terms:guilt|guilty]] of anything**. Jesus did not say anything.
+घर के भीतर यहूदी अगुओ ने यीशु पर अभियोग चलाया। वे बहुत से झूठे गवाह लाये जिन्होंने उसके विरोध में झूठ बोला। लेकिन तब भी, उनकी बातें आपस में मेल न खाती थीं, इसलिए यहूदी अगुवे यीशु पर किसी बात का दोष न लगा सके। यीशु ने कुछ न कहा।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  *
 
-  * **put Jesus on trial** – This could be translated as, “had a formal meeting to accuse Jesus of doing something wrong.” Usually a trial is done to find out if someone is innocent or guilty of a certain crime. In this case, the leaders were determined to make Jesus seem guilty. 
-  * **lied about him** - That is, “told lies about him” or, “falsely accused him of doing something wrong.” 
-  * **their statements did not agree with each other** - This could be translated as, “they said things about Jesus that were very different from each other” or, “the witnesses said things about Jesus that contradicted each other.” 
-  * **he was guilty of anything** – That is, “that he had done anything wrong.” 
-  
+**[[:hi:obs:notes:key-terms:jewish-leaders|यहूदी अगुवे]]**
+  *
 
+**[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  *
+
+**[[:hi:obs:notes:key-terms:witness|गवाह]]**
+  *
+
+**[[:hi:obs:notes:key-terms:guilt|दोष]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **यीशु पर अभियोग चलाया**  --इसे आप यूँ भी लिख सकते हैं कि "यीशु पर दोष लगाने के लिए, उन्होंने एक औपचारिक सभा बुलाई।" आम तौर पर अभियोग चला कर पता लगाया जाता है कि व्यक्ति दोषी है या निर्दोष। इस मामले में, अगुवे किसी भी सूरत में यीशु को दोषी ठहराना चाहते थे।
+  * **उसके विषय में झूठ ****बोला** --अर्थात, "उस पर झूठे दोष लगाए।"
+  * **उनकी बातें आपस में मेल न खाती ****थीं** --इसके अनुवाद में हम यूँ लिख सकते हैं, कि "उनके कथन एक दुसरे से बिलकुल अलग थे" या फिर, "यीशु के बारे में गवाहों ने पारस्परिक विरोधी बातें कहीं।"
+  * **किसी बात का दोष न लगा ****सके** --अर्थात, "यीशु में कोई दोष न खोज सके।"
 **[[:hi:obs:notes:frames:39-01|<<]] | [[:hi:obs:notes:39|Up]] | [[:hi:obs:notes:frames:39-03|>>]]**
