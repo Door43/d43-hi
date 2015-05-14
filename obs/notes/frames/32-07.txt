@@ -1,16 +1,23 @@
-====== The Herd of Pigs [32-07] ======
+====== सूअरों का झुण्ड [32-07] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-07.jpg?nolink&}}
 
-The **[[:en:key-terms:demon|demons]]** **[[:en:key-terms:beg|begged]]** **[[:en:key-terms:jesus|Jesus]]**, “Please **do not send us** out of this region!” There was a herd of pigs feeding on a nearby hill. So, the demons begged Jesus, “**Please send us** into the pigs **instead**!” Jesus said, “**Go!**”
+**दुष्टात्माओं** ने **यीशु** से **गिड़गिड़ाते हुए विनती की**, "कृपा करों, हमें इस जगह से बाहर न भेज!" पास ही पहाडी पर सूअरों का एक झुण्ड चर रहा था। दुष्टात्माओं ने यीशु से विनती करते हुए कहा, "कृपा करके, और हमें बल्कि सूअरों के भीतर जाने दे!" यीशु बोला, "जाओ!"
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
+**[[:hi:obs:notes:key-terms:demon|दुष्टात्माओं ]]**
+  *
+
+**[[:hi:obs:notes:key-terms:beg|गिड़गिड़ाते हुए विनती की]]**
+  *
+
+**[[:hi:obs:notes:key-terms:jesus|यीशु]]**
 ===== Translation Notes: =====
 
-  * **do not send us** – That is, “do not make us go.”
-  * **Please send us** – That is, “Please let us go.”
-  * **instead** - That is, "instead of making us go away."
-  * **Go!** – This could be translated as, “Go into the pigs!” or, “You may go into the pigs!” 
-  
-
+  * **do not send us**  – That is, “do not make us go.”
+  * **Please send us**  – That is, “Please let us go.”
+  * **instead**  - That is, "instead of making us go away."
+  * **Go!**  – This could be translated as, “Go into the pigs!” or, “You may go into the pigs!”
 **[[:hi:obs:notes:frames:32-06|<<]] | [[:hi:obs:notes:32|Up]] | [[:hi:obs:notes:frames:32-08|>>]]**
