@@ -1,15 +1,21 @@
-====== Go Home [32-11] ======
+====== घर जा [32-11] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-11.jpg?nolink&}}
 
-But **[[:en:key-terms:jesus|Jesus]]** said to him, “No, I want you to go home and tell your friends and family about everything that **[[:en:key-terms:god|God]]** has done for you and **how he has had [[:en:key-terms:mercy|mercy]] on you**.”
+लेकिन यीशु उससे बोला, "नहीं,मैं चाहता हूँ कि तू अपने घर जाए और अपने मित्रों व परिवार के सदस्यों को बताए कि परमेश्वर ने तेरे लिए क्या किया है और कैसी दया उसने तुझ पर दिखाई है।"
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  *
 
+**[[:hi:obs:notes:key-terms:jesus|यीशु ]]**
+  *
 
-  * **how he has had mercy on you** - This can be translated as, “how he has shown mercy to you” or, “that he has been merciful to you.” 
-  
+**[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
+  *
 
+**[[:hi:obs:notes:key-terms:mercy|दया ]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **कैसी दया उसने तुझ पर दिखाई ****है** --हम यहाँ "कैसी दया उसने तुझ पर की है" या फिर, "उसने तुझ पर दया की है" भी लिख सकते हैं।
 **[[:hi:obs:notes:frames:32-10|<<]] | [[:hi:obs:notes:32|Up]] | [[:hi:obs:notes:frames:32-12|>>]]**
-
