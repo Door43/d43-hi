@@ -2,17 +2,13 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg?nolink&}}
 
-"फिर कुछ ऐसे बीज भी थे जो अच्छी भोमी पर गिरे। इन बीजों से 30, 60, से लेकर 100 गुना तक पैदावार हुई। जिसके कान हों वे सुन लें!"
-
+"फिर कुछ ऐसे बीज भी थे जो **अच्छी** भोमी पर गिरे। इन बीजों से 30, 60, से लेकर 100 गुना तक पैदावार हुई। जिसके कान हों वे सुन लें!"
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
+  * **[[:hi:obs:notes:key-terms:good|अच्छी]]**
+===== अनुवाद के लिए नोट्स: =====
 
-**[[https://door43.org/en/obe/kt/good|अच्छी]]**
-
-===== Translation Notes: =====
-
-  * (Jesus continues the story.)
-  * **good soil**  – That is, “fertile soil” or, “soil that was good for growing plants.”
-  * **He who has ears, let him hear!**  - This saying means, “Everyone who hears what I am saying should listen to me carefully” or, “If anyone hears what I have said, he should pay attention to what I mean.” This can also be translated as a command. “Since you have ears to hear, listen carefully to what I am saying.”
+  * (यीशु अपनी कहानी आगे बढाते हैं।)
+  * **अच्छी भूमि**  -अर्थात, "उपजाऊ भूमि" या कि "पेड़-पौधे लगाने के लिए बढ़िया भूमि।
+  * **जिसके कान हों वो सुन ले**! --यहाँ पर कहने का आशय है कि "जो भी मेरी बात सुन रहा है, वो इस पर पूरा ध्यान दे" या फिर,"मेरी बातों को सुननेवाला हर व्यक्ति, मेरी कही बातों के अर्थ पर ध्यान दे।" इसे एक आदेश की तरह भी लिखा जा सकता है। "क्योंकि तुम्हारे पास सुनने के लिए कान हैं, इसलिए ध्यान लगा कर मेरी बातें सुनो।"
 **[[:hi:obs:notes:frames:33-04|<<]] | [[:hi:obs:notes:33|Up]] | [[:hi:obs:notes:frames:33-06|>>]]**
