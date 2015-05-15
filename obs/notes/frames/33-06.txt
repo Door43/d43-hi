@@ -1,25 +1,18 @@
-====== The Seed Is the Word [33-06] ======
+====== वचन वे बीज हैं [33-06] ======
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-06.jpg?nolink&}}
 
-**This story confused the [[:en:key-terms:disciple|disciples]]**. So **[[:en:key-terms:jesus|Jesus]]** explained, “The seed is the **[[:en:key-terms:word-of-god|word of God]]**. The path **is a person** who hears God’s word, but does not understand it, and the **[[:en:key-terms:satan|devil]]****takes the word away from him**.”
-===== Important Terms: =====
+चेले इस कहानी का अर्थ नहीं जान सके। इसलिए यीशु ने उन्हें समझाते हुए कहा, "वे बीज, परमेश्वर का वचन हैं। मार्ग एक ऐसा व्यक्ति है जो परमेश्वर के वचन को सुनाता तो है लेकिन उसे गहराई से समझ नहीं पाता, इसलिए उसके वे वचन शैतान ले जाता है।
 
-  *
+===== महत्वपूर्ण शब्द तथा वाक्यांश:: =====
 
-**[[https://door43.org/en/obe/kt/disciple|disciples]]**
-  *
+  * **[[:hi:obs:notes:key-terms:disciple|चेले]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:word of god|परमेश्वर का वचन]]**
+  * **[[:hi:obs:notes:key-terms:satan|शैतान]]**
+===== अनुवाद के लिए नोट्स: =====
 
-**[[https://door43.org/en/obe/kt/jesus|Jesus]]**
-  *
-
-**[[https://door43.org/en/obe/kt/wordofgod|word of God]]**
-  *
-
-**[[https://door43.org/en/obe/kt/satan|devil]]**
-===== Translation Notes: =====
-
-  * **This story confused the disciples.**  - That is, "The disciples did not understand this story."
-  * **is a person**  - This comparison can also be translated as, "is like a person" or, "represents a person" or, "refers to a person" or, "is speaking about a person."
-  * **takes the word away from him**  - This may also be translated as, “takes God's word away, causing him to forget it” or, “steals the word from his heart so he won't believe it and be saved.” You may also add the following: “just as birds eat up the seeds that fall on a path.”
+  * चेले इस कहानी को समझ नहीं पाए --अर्थात, "वे इस कहानी का अर्थ नहीं समझ पाए।"
+  * **एक व्यक्ति**  --यहाँ पर तुलना का भाव पैदा करते हुए "एक ऐसे व्यक्ति के समान है जो...."  या फिर, "का आशय एक ऐसे व्यक्ति से है", अथवा, "एक ऐसे व्यक्ति के बारे मैं हैं" भी लिख सकते हैं।
+  * **उसके वे वचन शैतान ले जाता है**  ---इसको हम कुछ इस तरह भी लिख सकते हैं, : "शैतान परमेश्वर का वचन उससे ले जाता है, और व्यक्ति उन्हें भूल जाता है" या फिर, "उसके मन से उन वचनों को चुरा लेता है ताकि वह उन पर विश्वास करके उद्धार न पा सके। अनुवाद करते समय आप यह अतिरिक्त पंक्ति भी लिख सकते हैं,:"जिस प्रकार चिड़ियाँ मार्ग के बीज चुग जाती हैं, उसी प्रकार....।"
 **[[:hi:obs:notes:frames:33-05|<<]] | [[:hi:obs:notes:33|Up]] | [[:hi:obs:notes:frames:33-07|>>]]**
