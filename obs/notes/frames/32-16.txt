@@ -1,20 +1,29 @@
-====== Healed by Faith [32-16] ======
+====== विश्वास द्वारा चंगाई [32-16] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-16.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-16.jpg?nolink&}}
 
-The woman **fell on her knees** **before [[:en:key-terms:jesus|Jesus]]**, **shaking and very afraid**. Then she told him what she had done, and that she had been healed. Jesus said to her, “**Your [[:en:key-terms:faith|faith]] has [[:en:key-terms:heal|healed]] you**. Go in **[[:en:key-terms:peace|peace]]**.”
+भय से कांपते हुए उस स्त्री ने **यीशु** के आगे घुटनों के बल गिर पड़ी। स्त्री ने तब बताया कि उसने यीशु के वस्त्र को छुआ था और उसे चंगाई मिल गयी है। यीशु ने उससे कहा, "तेरे **विश्वास** ने तुझे **चंगा** किया है। **शान्ति** से जा।"
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-//A Bible story from: Matthew 8:28-34; 9:20-22; Mark 5:1-20; 5:24b-34; Luke 8:26-39; 8:42b-48//
+  *
 
+**[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  *
 
-===== Translation Notes: =====
+**[[:hi:obs:notes:key-terms:faith|विश्वास]]**
+  *
 
-  * **fell on her knees** – That is, “quickly knelt down.” 
-  * **before Jesus** – That is, “in front of Jesus.” 
-  * **shaking and very afraid** - That is, “shaking with fear” or, “trembling because she was afraid.” 
-  * **Your faith has healed you.** - This could also be translated as, “You have been healed because of your faith.” 
-  * **Go in peace.** - People spoke this traditional blessing when they left each other. Other languages may say something similar such as, “Go well”, “Go with God” or, “Peace.” Other ways of translating it could be, “May you have peace as you go” or, “Go and know that all is well between us.”
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-  
+**[[:hi:obs:notes:key-terms:heal|चंगा ]]**
+  *
+
+**[[:hi:obs:notes:key-terms:peace|शान्ति]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **घुटनों के बल गिर पड़ी** --अर्थात, "तुरंत घुटनों के बल हो गयी।"
+  * **यीशु के आगे**  --अर्थात, यीशु के सामने।
+  * **भय से कांपते हुए**  --अर्थात, "भय के कारण कांपते हुए" या फिर, "भयभीत होने के कारण कांपते हुए।"
+  * **तेरे विश्वास ने तुझे चंगा किया है**  --इसे हम यूँ भी लिख सकते हैं, कि "तेरे विश्वास के कारण तुझे चंगाई मिली है।'
+  * **शान्ति से ****जा** --यह एक दूसरे से विदा लेते समय अभिवादन का पारंपरिक तरीका था। कुछ भाषाओं में इसे अलग तरह से भी व्यक्त किया जाता है, जैसे कि "तेरा हित हो" या फिर, "शान्ति हो।" इसे हम ऐसे भी अनुवाद कर सकते हैं, "तुझे पथ में शान्ति मिले" या कि, "शान्ति से जा कि हमारे बीच सब भला है।"
+  * बाइबिल की कहानी - बाइबिल के कुछ संस्करणों में इनका अनुवाद अलग तरह से किया हो सकता है।
 
 **[[:hi:obs:notes:frames:32-15|<<]] | [[:hi:obs:notes:32|Up]] | [[:hi:obs:notes:frames:33-01|>>]]**
