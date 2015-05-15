@@ -1,17 +1,16 @@
-====== The Large Tree [34-02] ======
+====== विशाल पेड़ [34-02] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-02.jpg?nolink&}}
 
-“But when the **mustard seed** **grows**, it becomes the largest of all of the **garden plants**, big enough that even the birds come and **rest in** its branches.”
+"लेकिन पौधा बनने पर यह बगीचे का सबसे बड़ा पौधा बन जाता है, इतना बड़ा कि चिड़िया आकर उसकी शाखों पर विश्राम भी करती हैं।"
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+===== अनुवाद के लिए नोट्स: =====
 
-  * (Jesus continues the story.)
-  * **mustard seed** - See how you translated this term in **[[:hi:obs:notes:frames:34-01|[34-01]]]**.
-  * **grows** – You may want to add, “into a mature plant.” 
-  * **garden plants** – This can also be translated as, “plants that would be planted in a garden.”
-  * **rest in** - This may also be translated as, "sit on" or, "perch on."
-  
-
+  * (यीशु अपनी कहानी आगे बढ़ाते हैं।)
+  * **राई का दाना**  - See how you translated this term in **[[:hi:obs:notes:frames:34-01|[34-01]]]**.
+  * **grows**  – You may want to add, “into a mature plant.”
+  * **garden plants**  – This can also be translated as, “plants that would be planted in a garden.”
+  * **rest in**  - This may also be translated as, "sit on" or, "perch on."
 **[[:hi:obs:notes:frames:34-01|<<]] | [[:hi:obs:notes:34|Up]] | [[:hi:obs:notes:frames:34-03|>>]]**
