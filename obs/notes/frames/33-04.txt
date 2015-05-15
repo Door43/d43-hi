@@ -1,16 +1,15 @@
-====== The Seed in the Thorns [33-04] ======
+====== कांटो में गिरे बीज [33-04] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg?nolink&}}
 
-“Still other seeds fell among thorn bushes. Those seeds began to grow, but **the thorns** **choked them out**. So the plants that grew from the seeds in the **thorny ground** did not produce any grain.”
+"फिर और भी कुछ बीज थे जो झाड़ियों में गिरे थे। वे समय के साथ-साथ बढ़ने लगे, लेकिन कंटीली झाड़ियों ने उन्हें दबा दिया। इसलिए, इस झाड़ी-झंकारवाली भूमि पर उगनेवाले बीजों से बहुत ही कम अन्न उपजा।"
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+===== अनुवाद के लिए नोट्स: =====
 
-  * (Jesus continues the story.)
-  * **the thorns** – That is, “the thorn plants” or, “the thorn bushes.”
-  * **choked them out** - This can also be translated as, “overshadowed them” or, “crowded them out.”
-  * **thorny ground** - That is, "ground that was covered with thorny bushes."
-  
-
+  * (यीशु अपनी कहानी आगे बढाते हैं।)
+  * झाड़ियों--अर्थात, "काँँटेदार पौधे" या, "काँँटेदार झाड़ियाँ।"
+  * **choked them out**  - This can also be translated as, “overshadowed them” or, “crowded them out.”
+  * **thorny ground**  - That is, "ground that was covered with thorny bushes."
 **[[:hi:obs:notes:frames:33-03|<<]] | [[:hi:obs:notes:33|Up]] | [[:hi:obs:notes:frames:33-05|>>]]**
