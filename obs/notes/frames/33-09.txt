@@ -1,19 +1,25 @@
-====== Spiritual Fruit [33-09] ======
+====== आत्मिक फल [33-09] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg?nolink&}}
 
-“But the **[[:en:key-terms:good|good]] soil** **is a person** who hears the **[[:en:key-terms:word-of-god|word of God]]**, **[[:en:key-terms:believe|believes]]** it, and **produces fruit**.”
+"लेकिन अच्छी भूमि एक ऐसा व्यक्ति है जो परमेश्वर का वचन सुनता है, उस पर विश्वास करता है, और फल लाता है।"
 
-//A Bible story from: Matthew 13:1-8, 18-23; Mark 4:1-8, 13-20; Luke 8:4-15//
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[:hi:obs:notes:key-terms:good|अच्छी]]**
+  *
 
-  * (Jesus continues to explain the story.)
-  * **good soil** - See how you translated this term in **[[:hi:obs:notes:frames:33-05|[33-05]]]**.
-  * **is a person** - See how you translated this comparison in **[[:hi:obs:notes:frames:33-06|[33-06]]]**.
-  * **produce fruit** - See how you translated this phrase in **[[:hi:obs:notes:frames:33-08|[33-08]]]**.
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-  
+**[[:hi:obs:notes:key-terms:word of god|परमेश्वर का वचन]]**
+  *
 
+**[[:hi:obs:notes:key-terms:believe|विश्वास करता है]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * (यीशु अपनी कहानी आगे बढाते हैं।)
+  * **अच्छी भूमि**  - See how you translated this term in **[[:hi:obs:notes:frames:33-05|[33-05]]]**.
+  * **एक व्यक्ति**  - See how you translated this comparison in **[[:hi:obs:notes:frames:33-06|[33-06]]]**.
+  * **फल लाता है**  - See how you translated this phrase in **[[:hi:obs:notes:frames:33-08|[33-08]]]**.
+  * //A Bible story from//  - These references may be slightly different in some Bible translations.
 **[[:hi:obs:notes:frames:33-08|<<]] | [[:hi:obs:notes:33|Up]] | [[:hi:obs:notes:frames:34-01|>>]]**
