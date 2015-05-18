@@ -1,15 +1,16 @@
-====== I Am Good [34-08] ======
+====== मैं भला हूँ [34-08] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-08.jpg?nolink&}}
 
-“‘For example, **I [[:en:key-terms:fast|fast]]** two times every week and I give you **ten percent** of all the money and goods that I receive.’”
+"जैसे कि, मैं सप्ताह में दो दिन **उपवास** **करता हूँ** और प्राप्त होनेवाले धन व संपत्ति का **दशमांश** तुझे देता हूँ।"
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[:hi:obs:notes:key-terms:fast|उपवास]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * (Jesus continues to tell of the religious leader's prayer.)
-  * **I fast** - The religious ruler believed that doing this would earn favor with God.
-  * **ten percent** - That is, “one-tenth.” 
-  
-
+  * (यीशु अपनी कहानी आगे बढाते हैं।)
+  * **मैं ...उपवास करता हूँ**  --धार्मिक अगुवे को लगता था कि ऐसा करने से उसे परमेश्वर का अनुग्रह मिलता है।
+  * **दशमांश**  ---अर्थात, "दसवां भाग।"
 **[[:hi:obs:notes:frames:34-07|<<]] | [[:hi:obs:notes:34|Up]] | [[:hi:obs:notes:frames:34-09|>>]]**
