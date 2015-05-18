@@ -1,19 +1,25 @@
-====== The Two Robbers [40-04] ======
+====== दो डाकू [40-04] ======
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-04.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-04.jpg?nolink}}
+दो लुटेरों के बीच यीशु क्रूस पर चढ़ाया गया था। उनमें से एक डाकू ने यीशु का ठट्ठा उड़ाया, लेकिन दूसरा बोला, “क्या तुझे परमेश्वर का भय नहीं है?” हम तो दोषी हैं,लेकिन यह व्यक्ति पूरी तरह निर्दोष है ।“  इसके बाद वह यीशु से बोला, “मुझे अपने राज्य में याद करना ।“ यीशु ने उत्तर दिया, “आज ही तू मेरे साथ स्वर्ग में होगा ।”
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-**[[:en:key-terms:jesus|Jesus]]** was **[[:en:key-terms:crucify|crucified]]** between **two robbers**. One of them **[[:en:key-terms:mock|mocked]]** Jesus, but the other said, “Do you have no fear of **[[:en:key-terms:god|God]]**? **We are [[:en:key-terms:guilt|guilty]], but this man is [[:en:key-terms:innocent|innocent]]**." Then he said to Jesus, "**Please remember me** **in your [[:en:key-terms:kingdom-of-god|kingdom]]**.” Jesus answered him, “Today, you will be with me in **Paradise**.”
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:crucify|क्रूस पर चढ़ा दिया]]**
+  * **[[:hi:obs:notes:key-terms:mock|ठट्ठा उड़ाया]]**
+  * **[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
+  * **[[:hi:obs:notes:key-terms:guilt|दोषी]]**
+  * **[[:hi:obs:notes:key-terms:innocent|निर्दोष]]**
+  * **[[:hi:obs:notes:key-terms:kingdom-of-god|राज्य]]**
+===== अनुवाद के लिए नोट्स: =====
 
-
-    * **two robbers**  - This could also be translated as, “two bandits.” This refers to criminals who used force or violence to steal things.
-    * **Do you have no fear of God?** - The robber does not expect an answer to this question; it is a way that some languages use to make a strong statement. If your language does not use questions in this way, then translate this as, "You should fear God!"
-    * **We are guilty but this man is innocent**  – This could be translated as, “You and I have done evil things and deserve to die, but this man, Jesus, has done nothing wrong and does not deserve to die." "We" here includes both robbers, but does not include Jesus.
-    * **this man**  - This phrase refers to Jesus.
-    * **Please remember me**  - That is, “Please accept me” or, "Please welcome me" or, "Please allow me to be with you." "Remember" here does not mean to recall something after forgetting it. Translate this in a way that communicates a humble request.
-    * **in your kingdom**  – That is, “when you establish your kingdom” or, “when you are ruling as king.”
-    * **Paradise**  - This is another name for "heaven."
-
-**[[:hi:obs:notes:frames:40-03|<<]] | [[:hi:obs:notes:40|Up]] | [[:hi:obs:notes:frames:40-05|>>]]** 
+  * **दो डाकूओं**—यहाँ पर “दो डकैत” भी लिख सकते हैं । यहाँ दूसरो पर हिंसा या बल का प्रयोग करके उनकी चीज़ों को चुराने वाले व्यक्ति की बात हो रही है ।
+  * **क्या तुझे परमेश्वर का भय नहीं है?**—डाकू यहाँ कोई प्रश्न नहीं कर रहा; कुछ भाषाओँ में अपनी बात पर बल देते समय ऐसे बोला/लिखा जाता है । यदि आपकी भाषा में इस प्रकार प्रश्नात्मक रीती से बातचीत न होती हो, तो आप इसे सरल कथन के रूप में लिख लें, जैसे कि “परमेश्वर से डर!”
+  * **हम तो दोषी हैं लेकिन यह व्यकित बिलकुल निर्दोष है**—इसका अनुवाद करते समय हम यूँ लिख सकते हैं, कि “तूने और मैंने तो बुरे काम किये है और मृत्यु के योग्य हैं, लेकिन इसने, इस यीशु ने कोई गलत काम नहीं किया, इसलिए यह मृत्यु के योग्य नहीं है।“ यहाँ पर “हम” शब्द का आशय उन दोनों डाकूओं से है, इसमें यीशु शामिल नहीं है।
+  * **यह व्यक्ति**—अर्थात यीशु।
+  * **मुझे याद रखना**—अर्थात, “मुझे ग्रहण करना” या कि  , “मुझे अपने साथ होने देना।“ “याद करना” का आशय यहाँ यादों को सोंचने से नहीं है।  इसना अनुवाद इस प्रकार करे कि इसने विनती का भाव स्पष्ट रूप से दिखे।
+  * **अपने राज्य मं**—अर्थात, “जब तू अपने राज्य स्थापित करेगा” या फिर, “जब तू राजा होकर राज्य करेगा।“
+  * **स्वर्ग**—स्वर्ग
+**[[:hi:obs:notes:frames:40-03|<<]] | [[:hi:obs:notes:40|Up]] | [[:hi:obs:notes:frames:40-05|>>]]**
