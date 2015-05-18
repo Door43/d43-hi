@@ -1,13 +1,19 @@
-====== Come Down from the Cross [40-05] ======
+====== क्रूस से उतर आ [40-05] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-05.jpg?nolink&}}
 
-The **[[:en:key-terms:jewish-leaders|Jewish leaders]]** and the other people in the crowd **[[:en:key-terms:mock|mocked]]** **[[:en:key-terms:jesus|Jesus]]**. They said to him, “If you are the **[[:en:key-terms:god-son|Son of God]]**, come down from the **[[:en:key-terms:cross|cross]]** and **[[:en:key-terms:save|save]]** yourself! Then we will **[[:en:key-terms:believe|believe]]** you.”
+यहूदी अगुवो और भीड़ में मौजूद कुछ लोगों ने यीशु का ठट्ठा उड़ाया। वे बोले, “यदि तू परमेश्वर का बेटा है, तो क्रूस से उतर आ और स्वयं को बचा ले! फिर जाकर हम तेरा विश्वास करेंगे।”
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:jewish-leaders|यहूदी अगुओं]]**
+  * **[[:hi:obs:notes:key-terms:mock|ठट्ठा उड़ाया]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:god-son|परमेश्वर का बेटा]]**
+  * **[[:hi:obs:notes:key-terms:cross|क्रूस]]**
+  * **[[:hi:obs:notes:key-terms:save|उद्धार]]**
+  * **[[:hi:obs:notes:key-terms:believe|विश्वास]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **believe you** – That is, “believe in you” or, “believe that you are the Messiah.” 
-  
-
+  * **तेरा विश्वास करेंगे**—अर्थात, “तुझ पर विश्वास करेंगे” अथवा, “मानेंगे कि तू मसीह है।“
 **[[:hi:obs:notes:frames:40-04|<<]] | [[:hi:obs:notes:40|Up]] | [[:hi:obs:notes:frames:40-06|>>]]**
