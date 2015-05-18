@@ -1,14 +1,12 @@
-====== The Older Brother [35-10] ======
+====== बड़ा बेटा [35-10] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-10.jpg?nolink&}}
 
-“So the people began to celebrate. **Before long**, the older son came home from working in the field. He heard the music and dancing and wondered what was happening.”
+"इसलिए लोग उत्सव मनाने लगे। **अभी अधिक समय नहीं बीता था** कि बड़ा बेटा खेत से लौट आया। घर से आ रहे नाच-गाने के शोर को सुन कर सोंचने लगा कि आखिर घर में क्या चल रहा था।"
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+===== अनुवाद के लिए नोट्स: =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues the story.)
-  * **Before long** - This can also be translated as, “Soon” or, “After a little while.” 
-  
-
+  * (यीशु अपनी कहानी आगे बढाते हैं।)
+  * **अभी अधिक समय नहीं बीता ****था** --यहाँ हम "जल्द ही" अथवा "थोड़ी ही देर में" भी लिख सकते हैं।
 **[[:hi:obs:notes:frames:35-09|<<]] | [[:hi:obs:notes:35|Up]] | [[:hi:obs:notes:frames:35-11|>>]]**
