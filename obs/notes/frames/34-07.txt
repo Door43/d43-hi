@@ -1,16 +1,30 @@
-====== The Religious Leader's Prayer [34-07] ======
+====== धार्मिक अगुवे की प्रार्थना [34-07] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-07.jpg?nolink&}}
 
-“**The [[:en:key-terms:jewish-leaders|religious leader]] prayed like this**, ‘Thank you, **[[:en:key-terms:god|God]]**, that **I am not a [[:en:key-terms:sin|sinner]] like** other men—such as robbers, **unjust men**, **[[:en:key-terms:adultery|adulterers]]**, or even like that **[[:en:key-terms:tax-collector|tax collector]]**.’”
+"धार्मिक अगुवे ने कुछ इस तरह से प्रार्थना की, "हे परमेश्वर, तेरा धन्यवाद कि मैं डकैतों, अधर्मियों, व्यभिचारियों, और महसूल लेनेवालों के जैसा पापी नहीं हूँ।"
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
+
+**[[:hi:obs:notes:key-terms:jewish leaders|धार्मिक अगुवे ]]**
+  *
+
+**[[:hi:obs:notes:key-terms:god|परमेश्वर ]]**
+  *
+
+**[[:hi:obs:notes:key-terms:sin|पापी ]]**
+  *
+
+**[[:hi:obs:notes:key-terms:adultery|व्यभिचारी]]**
+  *
+
+**[[:hi:obs:notes:key-terms:tax collector|महसूल लेनेवाला ]]**
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
-  * **The religious leader prayed like this** - Another way to say this would be, “This is how the religious leader prayed” or, “The religious leader prayed in this way.” 
-  * **I am not a sinner like** - That is, “I am not sinful like” or, “I am righteous, not like.” 
-  * **unjust men** - That is, “men who are not righteous” or, “people who do evil things” or, “law breakers.” 
-  
-
+  * **The religious leader prayed like this**  - Another way to say this would be, “This is how the religious leader prayed” or, “The religious leader prayed in this way.”
+  * **I am not a sinner like**  - That is, “I am not sinful like” or, “I am righteous, not like.”
+  * **unjust men**  - That is, “men who are not righteous” or, “people who do evil things” or, “law breakers.”
 **[[:hi:obs:notes:frames:34-06|<<]] | [[:hi:obs:notes:34|Up]] | [[:hi:obs:notes:frames:34-08|>>]]**
