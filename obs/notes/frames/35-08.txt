@@ -1,15 +1,23 @@
-====== I Have Sinned [35-08] ======
+====== मैंने पाप किया है [35-08] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-08.jpg?nolink&}}
 
-“The **[[:en:key-terms:son|son]]** said, ‘Father, I have **[[:en:key-terms:sin|sinned]] against [[:en:key-terms:god|God]] and against you**. **I am not worthy** to be your son.’”
+"बेटा बोला, "हे पिता, मैंने परमेश्वर और आपके विरुद्ध पाप किया है। मैं तेरा बेटा होने योग्य नहीं हूँ।"
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
+
+**[[:hi:obs:notes:key-terms:son|बेटा]]**
+  *
+
+**[[:hi:obs:notes:key-terms:sin|पाप किया है]]**
+  *
+
+**[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
-  * **sinned against God and against you** - This could be translated as, “sinned against God, and I have also sinned against you.” 
-  * **I am not worthy** – It is also possible to say, “So I am not worthy” or, "As a result, I am not worthy.” 
-  
-
+  * **sinned against God and against you**  - This could be translated as, “sinned against God, and I have also sinned against you.”
+  * **I am not worthy**  – It is also possible to say, “So I am not worthy” or, "As a result, I am not worthy.”
 **[[:hi:obs:notes:frames:35-07|<<]] | [[:hi:obs:notes:35|Up]] | [[:hi:obs:notes:frames:35-09|>>]]**
