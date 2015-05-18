@@ -1,14 +1,22 @@
-====== Jesus Taught Sinners [35-01] ======
+====== पापियों को यीशु का उपदेश [35-01] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-01.jpg?nolink&}}
 
-**One day**, **[[:en:key-terms:jesus|Jesus]]** was teaching many **[[:en:key-terms:tax-collector|tax collectors]]** and other **[[:en:key-terms:sin|sinners]]** who had gathered to hear him.
+एक दिन, यीशु महसूल लेनेवालों और दुसरे कई पापियों को उपदेश सुना रहा था जो उसे सुनने के लिए वहाँ पर जमा थे।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  *
 
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **tax collectors** – Tax collectors were considered to be the worst of sinners because often they stole money from people by collecting a higher tax than the government required.
-  
+**[[https://door43.org/en/obe/kt/jesus|यीशु]]**
+  *
 
+**[[https://door43.org/en/obe/other/taxcollector|महसूल लेनेवालों]]**
+  *
+
+**[[https://door43.org/en/obe/kt/sin|पापियों]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **एक दिन**—ये शब्द घटना के होने के सटीक समय का भान नहीं कराते।
+  * **महसूल ****लेनेवालों** --महसूल लेनेवालों को सबसे बुरे पापियों में गिना जाता था, क्योंकि वे सरकार द्वारा तय दर से अधिक दर पर लोगों से महसूल लेकर, बीच के धन की चोरी कर लेते थे।
 **[[:hi:obs:notes:frames:34-10|<<]] | [[:hi:obs:notes:35|Up]] | [[:hi:obs:notes:frames:35-02|>>]]**
