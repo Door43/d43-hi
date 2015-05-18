@@ -1,15 +1,31 @@
-====== Two Men at the Temple [34-06] ======
+====== मन्दिर में दो लोग [34-06] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-06.jpg?nolink&}}
 
-Then **[[:en:key-terms:jesus|Jesus]]** told a **story** to some people who **[[:en:key-terms:trust|trusted]] in their own good deeds** and **despised other people**. He said, “Two men went to the **[[:en:key-terms:temple|Temple]]** to **[[:en:key-terms:pray|pray]]**. One of them was a **[[:en:key-terms:tax-collector|tax collector]]**, and the other was a **[[:en:key-terms:jewish-leaders|religious leader]]**.”
+यीशु ने तब कुछ ऐसे लोगों को एक कहानी सुनाई जिन्हें अपने भले कामों पर बहुत भरोसा था और दूसरों को धिक्कार की दृष्टि से देखते थे। उसने कहा, "मंदिर में प्रार्थना के लिए दो लोग जाते हैं। उनमें से एक महसूल लेनेवाला व्यक्ति था और दूसरा एक धार्मिक अगुआ।"
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
+
+**[[:hi:obs:notes:key-terms:jesus|यीशु ]]**
+  *
+
+**[[:hi:obs:notes:key-terms:trust|भरोसा था]]**
+  *
+
+**[[:hi:obs:notes:key-terms:temple|मन्दिर]]**
+  *
+
+[[:hi:obs:notes:key-terms:temple|[[:hi:obs:notes:key-terms:pray|प्रार्थना]]**]]
+
+  * **[[:hi:obs:notes:key-terms:tax collector|महसूल लेनेवाला ]]**
+  *
+
+**[[:hi:obs:notes:key-terms:jewish leaders|धार्मिक अगुआ ]]**
 ===== Translation Notes: =====
 
-  * **story** - See how you translated this term in **[[:hi:obs:notes:frames:34-01|[34-01]]]**.
-  * **trusted in their own good deeds** - That is, “believed that their good deeds made them righteous” or, “were proud of how perfectly they kept God's law" or, “believed that their good deeds caused God to be completely pleased with them.” 
-  * **despised other people** - That is, “considered other people to be inferior to them” or, “looked down on other people.” 
-  
-
+  * **story**  - See how you translated this term in **[[:hi:obs:notes:frames:34-01|[34-01]]]**.
+  * **trusted in their own good deeds**  - That is, “believed that their good deeds made them righteous” or, “were proud of how perfectly they kept God's law" or, “believed that their good deeds caused God to be completely pleased with them.”
+  * **despised other people**  - That is, “considered other people to be inferior to them” or, “looked down on other people.”
 **[[:hi:obs:notes:frames:34-05|<<]] | [[:hi:obs:notes:34|Up]] | [[:hi:obs:notes:frames:34-07|>>]]**
