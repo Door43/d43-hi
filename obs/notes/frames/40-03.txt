@@ -1,16 +1,16 @@
-====== Gambling for His Clothes [40-03] ======
+====== उसके वस्त्रों पर दाव लगा [40-03] ======
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-03.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-03.jpg?nolink}}
+यीशु के वस्त्रों को बांटने के लिए सिपाहियों ने दाव लगाया। उनके ऐसा करने से एक भविष्यदवाणी पूरी हुई, जो कहती थी कि “उन्होंने मेरे कपडे आपस में बाँट लिए और मेरे वस्त्र पर चिट्ठी डाली (दाव लगाया) ।”
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-The soldiers **gambled for [[:en:key-terms:jesus|Jesus']] clothing**. When they did this, **they fulfilled a [[:en:key-terms:prophet|prophecy]] that said**, “They divided my garments among them, and gambled for my clothing.”
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु के]]**
+  * **[[:hi:obs:notes:key-terms:fulfill|पूरा होना]]**
+  * **[[:hi:obs:notes:key-terms:prophet|भविष्यदवाणी]]**
+===== अनुवाद के लिए नोट्स: =====
 
-
-===== Translation Notes: =====
-
-
-    * **gambled for Jesus' clothing**  - That is, “played a game of chance to win Jesus' clothes.” We do not know how they did this, but in some cultures it could be translated as, “tossed stones on the ground to win Jesus' clothing” or, “chose sticks to decide who could take Jesus' clothes.”
-    * **they fulfilled a prophecy that said**  - That is, “they did what the scriptures had long ago predicted would happen to the Messiah” or, “they did what a prophet wrote long ago.”
-
-**[[:hi:obs:notes:frames:40-02|<<]] | [[:hi:obs:notes:40|Up]] | [[:hi:obs:notes:frames:40-04|>>]]** 
+  * **यीशु के वस्त्रों पर दाव लगाया**—अर्थात, “यीशु के कपडे जीतने के लिए उस पर दाव लगाया । इस बात की जानकारी नहीं है कि उन्होंने यह किस प्रकार किया था, लेकिन कुछ संस्कृति सन्दर्भ में अनुवाद करते समय आप “गिट्टियां लुड़का कर” या फिर, “चिट्ठियां डाल कर” लिख सकते हैं ।
+  * **एक भविष्यदवाणी पूरी हुई**—अर्थात, “उन्होंने जो किया वह पवित्र शास्त्र में बहुत पहले से लिखा “, या कि, “उन्होंने सदियों पहले एक नबी की कही बात पूरी की ।“
+**[[:hi:obs:notes:frames:40-02|<<]] | [[:hi:obs:notes:40|Up]] | [[:hi:obs:notes:frames:40-04|>>]]**
