@@ -1,14 +1,18 @@
-====== The Brother Is Angry [35-11] ======
+====== बड़े बेटे का क्रोध [35-11] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-11.jpg?nolink&}}
 
-“When the older **[[:en:key-terms:son|son]]** found out that they were celebrating because his brother had come home, he was very angry and would not go into the house. His father came out and **[[:en:key-terms:beg|begged]]** him to come and celebrate with them, but he refused.”
+"बड़े** बेटे** को जब पता चला कि वे उसके छोटे भाई के लौटने की खुशी में उत्सव कर रहे थे, तो वह बहुत क्रोधित हुआ और घर में न घुसा। उसके पिता ने बाहर आकर उसे घर के भीतर आ कर उत्सवे में शामिल होने की विनती की, लेकिन वह न माना।"
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[:hi:obs:notes:key-terms:son|बेटे]]**
+  *
 
-  * (Jesus continues the story.)
+**[[:hi:obs:notes:key-terms:beg|विनती की]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  
+  * (यीशु अपनी कहानी आगे बढ़ाते हैं।)
 
 **[[:hi:obs:notes:frames:35-10|<<]] | [[:hi:obs:notes:35|Up]] | [[:hi:obs:notes:frames:35-12|>>]]**
