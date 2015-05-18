@@ -2,42 +2,23 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-10.jpg?nolink&}}
 
-यीशु तब बोला, "मैं तुमसे सच कहता हूँ, परमेश्वर ने उस महसूल लेनेवाले की प्रार्थना सूनी और उसे धर्मी ठहराया है। लेकिन उस धार्मिक अगुवे की प्रार्थना से वह बिलकुल प्रसन्न नहीं था। परमेश्वर हर दम्भी को दीन बनाएगा, और जो भी स्वयं को दीं बनाएगा, परमेश्वर उसे ऊँँचा उठाएगा।"
-
+**यीशु** तब बोला, "मैं तुमसे **सच** कहता हूँ, **परमेश्वर** ने उस **महसूल लेनेवाले** की **प्रार्थना** सूनी और उसे **धर्मी** ठहराया है। लेकिन उस **धार्मिक अगुवे** की प्रार्थना से वह बिलकुल प्रसन्न नहीं था। परमेश्वर हर **दम्भी** को **दीन** बनाएगा, और जो भी स्वयं को दीं बनाएगा, परमेश्वर उसे ऊँँचा उठाएगा।"
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:truth|सच]]**
+  * **[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
+  * **[[:hi:obs:notes:key-terms:tax-collector|महसूल लेनेवाले]]**
+  * **[[:hi:obs:notes:key-terms:pray|प्रार्थना ]]**
+  * **[[:hi:obs:notes:key-terms:righteous|धर्मी]]**
+  * **[[:hi:obs:notes:key-terms:jewish-leaders|धार्मिक अगुवे]]**
+  * **[[:hi:obs:notes:key-terms:humble|दीन]]**
+  * **[[:hi:obs:notes:key-terms:proud|दम्भी ]]**
+===== अनुवाद के लिए नोट्स: =====
 
-**[[:hi:obs:notes:key-terms:jesus|यीशु]]**
-  *
-
-**[[:hi:obs:notes:key-terms:truth|सच]]**
-  *
-
-**[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
-  *
-
-**[[:hi:obs:notes:key-terms:tax collector|महसूल लेनेवाले]]**
-  *
-
-**[[:hi:obs:notes:key-terms:pray|प्रार्थना ]]**
-  *
-
-**[[:hi:obs:notes:key-terms:righteous|धर्मी]]**
-  *
-
-**[[:hi:obs:notes:key-terms:jewish leaders|धार्मिक अगुवे]]**
-  *
-
-**[[:hi:obs:notes:key-terms:humble|दीन]]**
-  *
-
-**[[:hi:obs:notes:key-terms:proud|दम्भी ]]**
-===== Translation Notes: =====
-
-  * **declared him to be righteous**  - That is, "considered him to be a righteous person." Even though the tax collector was a sinner, God was merciful to him because of his humility and repentance.
-  * **will humble**  - This could also be translated as, “will give a lower status to” or, “will cause to not be important.” It could be translated figuratively as, “will bring down.”
-  * **will lift up**  - That is, “will give a higher position to” or, “will honor.”
+  * **उसे धर्मी ****ठहराया** --अर्थात, "उसे एक धर्मी व्यक्ति जाना।" हालाकिं महसूल लेनेवाला पापी था, लेकिन उसकी दीनता के कारण परमेश्वर ने उस पर दया की।
+  * **दीन बनाएगा**  --इस हम "निचला स्थान देगा" या फिर, "उसके महत्त्व को समाप्त कर देगा" भी लिख सकते हैं। यहाँ अलंकृत भाषा का प्रयोग करते हुए "सिर नीचा करेगा" भी लिख सकते हैं।
+  * **ऊँँचा ****करेगा** --अर्थात, "ऊँचे स्थान पर बैठाएगा" या फिर, "आदर का स्थान देगा।"
   * **humbles himself**  - That is, “chooses to behave in a humble way” or, “has a humble attitude about himself.”
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
 **[[:hi:obs:notes:frames:34-09|<<]] | [[:hi:obs:notes:34|Up]] | [[:hi:obs:notes:frames:35-01|>>]]**
