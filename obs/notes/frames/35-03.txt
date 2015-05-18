@@ -1,15 +1,19 @@
-====== The Two Sons [35-03] ======
+====== दो बेटे [35-03] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-03.jpg?nolink&}}
 
-“There was a man who had two **[[:en:key-terms:son|sons]]**. The younger son told his father, ‘Father, I want **my [[:en:key-terms:inherit|inheritance]]** now!’ So the father divided his **property** between his two sons.”
+"एक व्यक्ति दे दो **बेटे** थे। छोटे बेटे ने अपने पिता से कहा, "पिताजी, मुझे **अपने हिस्से की** **विरासत** अभी चाहिए!" इस पर पिता ने अपनी **संपत्ति** के दो हिस्से किये और दोनों बेटों में बाँट दिया।"
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[:hi:obs:notes:key-terms:son|बेटे]]**
+  *
 
-  * (Jesus tells the story.)
-  * **my inheritance** – This could be translated as, “the part of your wealth that will be rightfully mine when you die.” 
-  * **property** – That is, “wealth” or, “possessions.” This property would probably have included land, animals, and money. 
-  
+**[[:hi:obs:notes:key-terms:inherit|विरासत ]]**
+===== अनुवाद के लिए नोट्स: =====
 
+  * (यीशु अपनी कहानी आगे बढ़ाते हैं।)
+  * **अपने हिस्से की विरासत**  --इसे हम ऐसे भी लिख सकते हैं, : "पिताजी, संपत्ति का जो हिस्सा आपके मरने पर मुझे मिलेगा, मुझे वह हिस्सा अभी चाहिए।"
+  * **संपत्ति**  --अर्थात, "धन-दौलत"। इस संपत्ति में संभवतः भूमि, जानवर, और धन शामिल था।
 **[[:hi:obs:notes:frames:35-02|<<]] | [[:hi:obs:notes:35|Up]] | [[:hi:obs:notes:frames:35-04|>>]]**
