@@ -6,23 +6,13 @@
 
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:disciple|चेलों ]]**
+  * **[[:hi:obs:notes:key-terms:peter|पतरस ]]**
+  * **[[:hi:obs:notes:key-terms:john-the-apostle|यूहन्ना ]]**
+  * **[[:hi:obs:notes:key-terms:baptize|बपतिस्मा]]**
+===== अनुवाद के लिए नोट्स: =====
 
-**[[:hi:obs:notes:key-terms:jesus|यीशु]]**
-  *
-
-**[[:hi:obs:notes:key-terms:disciple|चेलों ]]**
-  *
-
-**[[:hi:obs:notes:key-terms:peter|पतरस ]]**
-  *
-
-**[[:hi:obs:notes:key-terms:john the apostle|यूहन्ना ]]**
-  *
-
-**[[:hi:obs:notes:key-terms:baptize|बपतिस्मा]]**
-===== Translation Notes: =====
-
-  * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **James**  - This is a different James than the one who wrote the Book of James in the Bible. To make this clear, some languages may need to use two slightly different names or to spell them differently.
+  * **एक दिन**, यीशु ने पतरस, याकूब और यूहन्ना नामे के चेलों को अपने साथ लिया। (यह यूहन्ना यीशु को बप्तिस्मा देनेवाला यूहन्ना नहीं था।) एकांत में प्रार्थना करने के लिए वे पहाड़ी के ऊपर चले गए।
+  * **याकूब**  --यह याकूब की पत्री लिखनेवाला याकूब नहीं था। इस अंतर को बताने के लिए कुछ भाषाओँ में इनके नामो को थोड़ा अलग तरह से लिखा जा सकता है।
 **[[:hi:obs:notes:frames:35-13|<<]] | [[:hi:obs:notes:36|Up]] | [[:hi:obs:notes:frames:36-02|>>]]**
