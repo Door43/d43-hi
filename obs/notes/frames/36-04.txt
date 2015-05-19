@@ -1,15 +1,28 @@
-====== Peter's Comments [36-04] ======
+====== पतरस के कथन [36-04] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-04.jpg?nolink&}}
 
-As **[[:en:key-terms:moses|Moses]]** and **[[:en:key-terms:elijah|Elijah]]** were talking with **[[:en:key-terms:jesus|Jesus]]**, **[[:en:key-terms:peter|Peter]]** said to Jesus, "It is **[[:en:key-terms:good|good]]** for us to be here. Let us make three **shelters**, one for you, one for Moses, and one for Elijah.” Peter **did not know what he was saying**.
+जब मूसा और एलिय्याह यीशु से बाते कर रहे थे, पतरस ने यीशु से कहा,"हमारे लिए यहाँ पर रहना ही अच्छा है। हमें तू तीन मंडप बनाने दे, एक तेरे लिए, एक मूसा के लिए, और एक एलिय्याह के लिए।"  पतरस को समझ नहीं थी कि वह क्या बोल रहा था।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
+
+**[[:hi:obs:notes:key-terms:moses|मूसा ]]**
+  *
+
+**[[:hi:obs:notes:key-terms:elijah|एलिय्याह]]**
+  *
+
+**[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  *
+
+**[[:hi:obs:notes:key-terms:peter|पतरस]]**
+  *
+
+**[[:hi:obs:notes:key-terms:good|भला]]**
 ===== Translation Notes: =====
 
-
-  * **shelters** - This can also be translated as, “lean-tos” or, “garden huts” or, “tents.” It refers to small, individual, temporary shelters, like the Jews made from tree branches during an annual Jewish holiday. 
-  * **did not know what he was saying** -  That is, “was speaking without understanding what was happening” or, “spoke without thinking clearly because he was so excited.” 
-  
-
+  * **shelters**  - This can also be translated as, “lean-tos” or, “garden huts” or, “tents.” It refers to small, individual, temporary shelters, like the Jews made from tree branches during an annual Jewish holiday.
+  * **did not know what he was saying**  - That is, “was speaking without understanding what was happening” or, “spoke without thinking clearly because he was so excited.”
 **[[:hi:obs:notes:frames:36-03|<<]] | [[:hi:obs:notes:36|Up]] | [[:hi:obs:notes:frames:36-05|>>]]**
