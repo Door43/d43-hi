@@ -2,31 +2,19 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-04.jpg?nolink&}}
 
-**यीशु** जब **लाज़र के** नगर पहुँचा, तब लाज़र को **मरे** चार दिन हो चुके थे। **मारथा**, यीशु से भेंट करने के लिए गई और बोली, "हे **स्वामी**, यदि तू यहाँ पर होता, तो मेरा भाई न मरता। लेकिन मेरा **विश्वास** है कि तू जो भी परमेश्वर से मांगेगा, वह **परमेश्वर** तुझे अवश्य देगा।"
+**यीशु** जब **लाज़र के** नगर पहुँचा, तब लाज़र को **मरे** चार दिन हो चुके थे। **मार्था**, **यीशु से भेंट करने के लिए गई** और बोली, "हे **स्वामी**, यदि तू यहाँ पर होता, तो **मेरा भाई न ****मरता** । लेकिन मेरा **विश्वास** है कि **तू जो भी परमेश्वर से मांगेगा, वह** **परमेश्वर** **तुझे अवश्य ****देगा** ।"
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
-
-**[[:hi:obs:notes:key-terms:jesus|यीशु]]**
-  *
-
-**[[:hi:obs:notes:key-terms:lazarus|लाज़र के ]]**
-  *
-
-**[[:hi:obs:notes:key-terms:death|मर]]**
-  *
-
-**[[:hi:obs:notes:key-terms:lord|स्वामी ]]**
-  *
-
-**[[:hi:obs:notes:key-terms:believe|विश्वास]]**
-  *
-
-**[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:lazarus|लाज़र के ]]**
+  * **[[:hi:obs:notes:key-terms:death|मर]]**
+  * **[[:hi:obs:notes:key-terms:lord|स्वामी ]]**
+  * **[[:hi:obs:notes:key-terms:believe|विश्वास]]**
+  * **[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
 ===== अनुवाद के लिए नोट्स: =====
 
-  * **मारथा**  - Martha was the sister of Lazarus and Mary. See **[[:hi:obs:notes:frames:37-01|[37-01]]]**.
-  * **went out to meet Jesus**  – That is, “went to meet Jesus as he was coming into the town.”
-  * **my brother would not have died.**  - That is, “you would have healed my brother and he would not have died” or, “you could have prevented my brother from dying.”
-  * **will give you whatever you ask from him**  – That is, “will do whatever you ask him to do.”
+  * **मार्था**  - मार्था लाज़र और मरियम की बहन थी। देखे **[[:hi:obs:notes:frames:37-01|[37-01]]]**.
+  * **यीशु से भेंट करने के लिए ****गई** --अर्थात, "यीशु जब नगर में प्रवेश कर रहा था, वह उससे भेंट करने गई।"
+  * **मेरा भाई न मरता**  --अर्थात, "तू मेरे भाई को चंगाई दे देता, और उसकी मृत्यु न होती" या फिर, "मेरे भाई को मरने से रोक लेता।"
+  * **तू जो भी परमेश्वर से मांगेगा, वह परमेश्वर तुझे ****देगा** --अर्थात, "तू जो मांगेगा, परमेश्वर वैसा ही करेगा।"
 **[[:hi:obs:notes:frames:37-03|<<]] | [[:hi:obs:notes:37|Up]] | [[:hi:obs:notes:frames:37-05|>>]]**
