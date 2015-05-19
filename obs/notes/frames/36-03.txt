@@ -1,15 +1,31 @@
-====== Moses and Elijah [36-03] ======
+====== मूसा और एलिय्याह [36-03] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-03.jpg?nolink&}}
 
-Then **[[:en:key-terms:moses|Moses]]** and the prophet **[[:en:key-terms:elijah|Elijah]]** **appeared**. These men had lived on the earth hundreds of years before this. They talked with **[[:en:key-terms:jesus|Jesus]]** about **his [[:en:key-terms:death|death]], which would soon happen** **in [[:en:key-terms:jerusalem|Jerusalem]]**.
+इसके बाद **मूसा** और **एलिय्याह** नबी प्रकट हुए। ये लोग बहुत पहले धरती पर हुए थे। उन्होंने यीशु से यरूशलेम में जल्द ही होनेवाली उसकी मृत्यु के बारे में बातें की।
+===== Important Terms: =====
 
+  *
 
-===== Translation Notes: =====
+**[[:hi:obs:notes:key-terms:moses|मूसा ]]**
+  *
 
-  * **appeared** – It is also possible to say, “appeared out of nowhere.” They suddenly were there. 
-  * **his death, which would soon happen** - This could be translated as, “how he would soon die” or, “how he would soon be killed.” 
-  * **in Jerusalem** – Some languages may prefer to say, “in the city of Jerusalem.” 
-  
+**[[:hi:obs:notes:key-terms:prophet|नबी ]]**
+  *
 
+**[[:hi:obs:notes:key-terms:elijah|एलिय्याह ]]**
+  *
+
+**[[:hi:obs:notes:key-terms:jesus|यीशु ]]**
+  *
+
+**[[:hi:obs:notes:key-terms:death|मृत्यु ]]**
+  *
+
+**[[:hi:obs:notes:key-terms:jerusalem|यरूशलेम]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **प्रकट हुए**  --इसे ऐसे भी कह सकते है कि, "अचानक से प्रकट हुए" भी लिखा जा सकता है।
+  * **his death, which would soon happen**  - This could be translated as, “how he would soon die” or, “how he would soon be killed.”
+  * **in Jerusalem**  – Some languages may prefer to say, “in the city of Jerusalem.”
 **[[:hi:obs:notes:frames:36-02|<<]] | [[:hi:obs:notes:36|Up]] | [[:hi:obs:notes:frames:36-04|>>]]**
