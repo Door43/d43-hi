@@ -1,16 +1,17 @@
-====== Alone with Jesus [36-06] ======
+====== केवल यीशु के साथ [36-06] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-06.jpg?nolink&}}
 
-Then **[[:en:key-terms:jesus|Jesus]] touched them** and said, “**Do not be afraid**. **Get up**.” When they looked around, **the only one still there was Jesus**.
+**यीशु** ने तब उन्हें **स्पर्श किया** और कहा, "डरो मत। उठो।" उन्होंने आसपास देखा तो **केवल यीशु वहाँ पर खड़ा दिखाई ****दिया** ।
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **touched them** – That is, “put his hand on them.” Some languages may prefer to specify where he touched them. If so, this could be translated as, “he touched them on the shoulder” or, “he put his hand on each one's shoulder.” 
-  * **Do not be afraid** – This could also be translated as, “Stop being afraid.” 
-  * **Get up** - This could also be translated as, “Stand up” or, “Please get up.” Make sure that it sounds like Jesus spoke this with kindness. 
-  * **the only one still there was Jesus** - It is also possible to add, “Moses and Elijah had left.” 
-  
-
+  * **स्पर्श किया**  --अर्थात,"उन पर अपना हाथ रखा।" कुछ भाषाओं में हाथ रखने की जगह बताना ज़रूरी हो सकता है। यदि ऐसा है तो इसका अनुवाद हम यूँ कर सकते हैं, "उसने उनके कंधो पर हाथ रखा" अथवा, "उसने उन सबके कंधो पर हाथ रखा।" अनुवाद करते समय ध्यान रहे कि यीशु ने यह पूरी नम्रता के साथ कही थी।
+  * **Do not be afraid**  – This could also be translated as, “Stop being afraid.”
+  * **Get up**  - This could also be translated as, “Stand up” or, “Please get up.” Make sure that it sounds like Jesus spoke this with kindness.
+  * **केवल यीशु वहाँ पर खड़ा दिखाई ****दिया** --इसमे "मूसा और एलिय्याह जा चुके थे" भी जोड़ सकते हैं।
 **[[:hi:obs:notes:frames:36-05|<<]] | [[:hi:obs:notes:36|Up]] | [[:hi:obs:notes:frames:36-07|>>]]**
