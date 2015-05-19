@@ -1,16 +1,24 @@
-====== Keep the Secret [36-07] ======
+====== भेद बनाए रख [36-07] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-07.jpg?nolink&}}
 
-**[[:en:key-terms:jesus|Jesus]]** and the three **[[:en:key-terms:disciple|disciples]]** went back down the mountain. Then Jesus said to them, “Do not tell anyone yet about what happened here. I will soon **[[:en:key-terms:death|die]]** and then come back to **[[:en:key-terms:life|life]]**. After that, you may tell people.”
+**यीशु** और उसके तीन चेले पहाड़े से नीचे उतरे। यीशु ने तब उनसे कहा, कि "यहाँ जो भी हुआ, उसके विषय में अभी किसी को कुछ न बताना। जल्द ही मेरी मृत्यु होगी और फिर मैं दोबारा से जी उठूँगा। इसके बाद, तुम ये बातें लोगो को बता सकते हों।"
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-//A Bible story from: Matthew 17:1-9; Mark 9:2-8; Luke 9:28-36//
+  *
 
+**[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  *
 
-===== Translation Notes: =====
+**[[:hi:obs:notes:key-terms:disciple|चेले ]]**
+  *
 
+**[[:hi:obs:notes:key-terms:death|मृत्यु ]]**
+  *
 
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-  
+**[[:hi:obs:notes:key-terms:life|जी उठूँगा ]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * बाइबिल की कहानी - बाइबिल के कुछ संस्करणों में इनका अनुवाद अलग तरह से किया हो सकता है।
 
 **[[:hi:obs:notes:frames:36-06|<<]] | [[:hi:obs:notes:36|Up]] | [[:hi:obs:notes:frames:37-01|>>]]**
