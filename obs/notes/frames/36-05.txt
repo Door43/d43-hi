@@ -1,16 +1,27 @@
-====== This Is My Son [36-05] ======
+====== यह मेरा बेटा है [36-05] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-05.jpg?nolink&}}
 
-As **[[:en:key-terms:peter|Peter]]** was talking, a bright cloud came down and surrounded them and **a voice from the cloud said**, “This is my **[[:en:key-terms:god-son|Son]]** whom I **[[:en:key-terms:love|love]]**. I am pleased with him. **Listen to him**.” The three **[[:en:key-terms:disciple|disciples]]** were **terrified** and **fell on the ground**.
+पतरस बोल ही रहा था कि एक उजले बादल ने यीशु को ढांप लिया, और उसमे से एक आवाज़ सुनाई दी, "यह मेरा प्रिय बेटा है, जिससें मैं प्रसन्न हूँ। इसकी सुनो।" तीनो चेले बहुत अधिक डर गए और भूमि पर गिर पड़े।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  *
 
-  * **a voice from the cloud said** – This can also be translated as, “a voice spoke from the cloud saying” or, “God spoke from the cloud and said.” 
-  * **Listen to him** – This could be translated as, “He is the one you must listen to.”
-  * **terrified**–That is, “extremely scared.” 
-  * **fell on the ground** – That is, “quickly bowed to the ground” or, “immediately got down on the ground.” Make sure the translation of “fell” does not sound like an accident. They probably did this intentionally out of awe and fear. 
-  
+**[[:hi:obs:notes:key-terms:peter|पतरस]]**
+  *
 
+**[[:hi:obs:notes:key-terms:son|बेटा]]**
+  *
+
+**[[:hi:obs:notes:key-terms:love|प्रिय]]**
+  *
+
+**[[:hi:obs:notes:key-terms:disciple|चेले]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **a voice from the cloud said**  – This can also be translated as, “a voice spoke from the cloud saying” or, “God spoke from the cloud and said.”
+  * **Listen to him**  – This could be translated as, “He is the one you must listen to.”
+  * **terrified**–That is, “extremely scared.”
+  * **fell on the ground**  – That is, “quickly bowed to the ground” or, “immediately got down on the ground.” Make sure the translation of “fell” does not sound like an accident. They probably did this intentionally out of awe and fear.
 **[[:hi:obs:notes:frames:36-04|<<]] | [[:hi:obs:notes:36|Up]] | [[:hi:obs:notes:frames:36-06|>>]]**
