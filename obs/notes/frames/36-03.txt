@@ -2,30 +2,18 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-03.jpg?nolink&}}
 
-इसके बाद **मूसा** और **एलिय्याह** नबी प्रकट हुए। ये लोग बहुत पहले धरती पर हुए थे। उन्होंने यीशु से यरूशलेम में जल्द ही होनेवाली उसकी मृत्यु के बारे में बातें की।
-===== Important Terms: =====
+इसके बाद **मूसा** और **एलिय्याह** नबी **प्रकट ****हुए** । ये लोग बहुत पहले धरती पर हुए थे। उन्होंने **यीशु** से **यरूशलेम** **में जल्द ही होनेवाली उसकी** **मृत्यु** के बारे में बातें की।
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
-
-**[[:hi:obs:notes:key-terms:moses|मूसा ]]**
-  *
-
-**[[:hi:obs:notes:key-terms:prophet|नबी ]]**
-  *
-
-**[[:hi:obs:notes:key-terms:elijah|एलिय्याह ]]**
-  *
-
-**[[:hi:obs:notes:key-terms:jesus|यीशु ]]**
-  *
-
-**[[:hi:obs:notes:key-terms:death|मृत्यु ]]**
-  *
-
-**[[:hi:obs:notes:key-terms:jerusalem|यरूशलेम]]**
+  * **[[:hi:obs:notes:key-terms:moses|मूसा ]]**
+  * **[[:hi:obs:notes:key-terms:prophet|नबी ]]**
+  * **[[:hi:obs:notes:key-terms:elijah|एलिय्याह ]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु ]]**
+  * **[[:hi:obs:notes:key-terms:death|मृत्यु ]]**
+  * **[[:hi:obs:notes:key-terms:jerusalem|यरूशलेम]]**
 ===== अनुवाद के लिए नोट्स: =====
 
-  * **प्रकट हुए**  --इसे ऐसे भी कह सकते है कि, "अचानक से प्रकट हुए" भी लिखा जा सकता है।
-  * **his death, which would soon happen**  - This could be translated as, “how he would soon die” or, “how he would soon be killed.”
-  * **in Jerusalem**  – Some languages may prefer to say, “in the city of Jerusalem.”
+  * **प्रकट हुए**  –इसे ऐसे भी कह सकते है कि, "अचानक से प्रकट हुए" भी लिखा जा सकता है।
+  * **यरूशलेम में जल्द ही होनेवाली उसकी ****मृत्यु** --इसे "जल्द ही वह कैसे मारा जानेवाला है" भी लिख सकते हैं।
+  * **यरूशलेम में** --कुछ भाषाओं में "यरूशलेम नगर" लिखना भी आवश्यक हो सकता है।
 **[[:hi:obs:notes:frames:36-02|<<]] | [[:hi:obs:notes:36|Up]] | [[:hi:obs:notes:frames:36-04|>>]]**
