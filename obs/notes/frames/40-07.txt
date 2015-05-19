@@ -1,19 +1,22 @@
-====== Jesus Died [40-07] ======
+====== यीशु की मृत्यु [40-07] ======
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-07.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-07.jpg?nolink}}
+यीशु तब ऊंची आवाज़ में कहा, “पूरा हुआ!”हे पिता, मैं अपनी आत्मा तेरे हाथों में सौंपता हूँ।“ तब वह उसके सिर झुका और उसकी आत्मा को दे दिया। उसके मरते ही वहाँ एक भूचाल आया, और मंदिर के बीच लगा बड़ा पर्दा, जो लोगों को परमेश्वर की उपस्थिति से अलग रखता था, वह ऊपर से लेकर नीचे तक फट कर दो हिस्सों में बंट गया।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-Then **[[:en:key-terms:jesus|Jesus]]** cried out, “**It is finished!** **[[:en:key-terms:god-father|Father]]**, I give my **[[:en:key-terms:spirit|spirit]]** **into your hands**.” Then he **bowed his head** and **gave up his spirit**. When he **[[:en:key-terms:death|died]]**, there was an earthquake and the **large curtain** that separated the people from the presence of **[[:en:key-terms:god|God]]** in the **[[:en:key-terms:temple|Temple]]** was torn in two, from the top to the bottom.
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:god-father|पिता]]**
+  * [[:hi:obs:notes:key-terms:spirit|आत्मा]]
+  * **[[:hi:obs:notes:key-terms:death|मर गया]]**
+  * **[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
+  * **[[:hi:obs:notes:key-terms:temple|मंदिर]]**
+===== अनुवाद के लिए नोट्स: =====
 
-
-===== Translation Notes: =====
-
-
-    * **It is finished!**  - This could also be translated as, “It is completed” or, “I have finished it” or, “I have completed the work.” This means that Jesus' work of salvation was complete.
-    * **into your hands**  - That is, "into your care."
-    * **bowed his head**  – That is, “lowered his head.”
-    * **gave up his spirit**  - That is, “gave up his spirit to God” or, “released his spirit to God and died.”
-    * **large curtain**  - This was a large, strong fabric hung in the temple. It was like a wall separating one room from another. It can also be translated as "thick curtain" or, "hanging fabric" or, "screen."
-
-**[[:hi:obs:notes:frames:40-06|<<]] | [[:hi:obs:notes:40|Up]] | [[:hi:obs:notes:frames:40-08|>>]]** 
+  * **पूरा हुआ!**—इसे “सम्पूर्ण हुआ” अथवा, “मैंने इसे पूरा कर दिया” या फिर, “मैने कार्य पूरा कर दिया है” भी लिख सकते हैं। इसका आशय है कि यीशु ने उद्धार का कार्य कर दिया है।
+  * **तेरे हाथों में**—अर्थात, “तेरे आश्रय में।“
+  * **अपना सिर झुकाया**  –अर्थात, “अपने सिर को नीचे किया।“
+  * **अपने प्रांत छोड़ दिए**—अर्थात, “परमेश्वर के हाथों में अपनी आत्मा सोंप दी” अथवा, “अपनी आत्मा परमेश्वर को दे दी और मर गया।“
+  * **बड़ा पर्दा**—यह मज़बूत कपडे से बना एक बड़ा सा पर्दा था जो मंदिर के बीच में लटका रहता था। यह दो कमरों को अलग करनेवाली दीवार के समान था। अनुवाद करते समय आप इसे “मोटा पर्दा” भी लिख सकते हैं।
+**[[:hi:obs:notes:frames:40-06|<<]] | [[:hi:obs:notes:40|Up]] | [[:hi:obs:notes:frames:40-08|>>]]**
