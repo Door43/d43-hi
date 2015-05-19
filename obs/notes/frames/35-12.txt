@@ -1,17 +1,24 @@
-====== Working for Nothing [35-12] ======
+====== व्यर्थ ही सब किया [35-12] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-12.jpg?nolink&}}
 
-“The older son said to his father, ‘All these years I have worked **[[:en:key-terms:faithful|faithfully]]** for you! I never **[[:en:key-terms:disobey|disobeyed]]** you, and still you did not even give me **one small goat** so I could celebrate with my friends. But when **this son of yours** who **consumed your money** in **[[:en:key-terms:sin|sinful]]** behavior came home, you **killed the best calf** for him!’”
+"बड़े बेटे ने पिता से कहा, "इतने सालों से मैंने आपके लिए इतनी **निष्ठा से** कार्य किया! मैंने कभी आपकी **अवज्ञा** नहीं की, और तब भी आपने मुझे कभी एक छोटी सी बकरी तक न दी कि मैं अपने दोस्तों के साथ जश्न मना सकूं! लेकिन जब आपका यह उड़ाऊ बेटा, आपके सारे धन को फूँक कर लौटा, तो आपने उसके लिए सबसे बढ़िया बछड़ा मरवा डाला!"
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[:hi:obs:notes:key-terms:faithful|निष्ठा से ]]**
+  *
 
-  * (Jesus continues the story.)
-  * **one small goat** - A small goat would have fed fewer people than the best calf, and would not be valued as much. The older brother is complaining that his father was treating the sinful younger son better than him. 
-  * **this son of yours** - This expression shows that the older son was angry. It shows his rejection of his younger brother and his disapproval of his father for welcoming back this wayward son. Other languages may also have an indirect way of communicating these things.
-  * **consumed your money** - That is, “squandered the money that you gave him” or, "devoured your wealth." If possible, use an expression that shows the brother's anger. 
-  * **killed the best calf** - That is, “killed the best calf to eat at a feast.” 
-  
+**[[:hi:obs:notes:key-terms:disobey|अवज्ञा ]]**
+  *
 
+**[[:hi:obs:notes:key-terms:sin|बुरे कामों ]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * (यीशु अपनी कहानी आगे बढ़ाते हैं।)
+  * **एक छोटी सी बकरी**  --बछड़े की तुलना में एक छोटी से बकरी से अधिक लोगों का पेट नहीं भरता,और इसकी कीमत भी कम होती है। बड़ा बेटा यहाँ पर अपने पिता से शिकायत कर रहा है कि वह अपने अधर्मी बेटे के साथ बेहतर बर्ताव कर रहा था।
+  * आपका यह उड़ाऊ बेटा --इन शब्दों से पता चलता है कि बड़ा बेटा अपने पिता से बहुत नाराज़ था। ये शब्द उसका अपने भाई को भाई मानने से इनकार करना व अपने पिता द्वारा उसके स्वागत में दिए भोज की अस्वीकृति को दर्शाते हैं। अन्य भाषाओं में भी इस भावों को व्यक्त करने के अपने तरीके होंगे।
+  * **आपके सारे धन को फूँक कर लौटा**  --अर्थात, "सारा धन बेकार में खर्च करके" या कि, "आपकी संपत्ति हज़म करके लौटा।" यहाँ पर ऐसे शब्दों कर प्रयोग करें जिससे बड़े बेटे के गुस्से का अंदाज़ा हो जाए।
+  * **सबसे बढ़िया बछड़ा मरवा डाला** --अर्थात, "भोज में परोसने के लिए सबसे बढ़िया बछड़ा मरवा डाला!"
 **[[:hi:obs:notes:frames:35-11|<<]] | [[:hi:obs:notes:35|Up]] | [[:hi:obs:notes:frames:35-13|>>]]**
