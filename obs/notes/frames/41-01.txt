@@ -1,15 +1,22 @@
-====== Guards for the Tomb [41-01] ======
+====== कब्र के लिए पहरेदार [41-01] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-01.jpg?nolink&}}
 
-After the soldiers **[[:en:key-terms:crucify|crucified]]** **[[:en:key-terms:jesus|Jesus]]**, **the unbelieving [[:en:key-terms:jewish-leaders|Jewish leaders]]** said to **[[:en:key-terms:pilate|Pilate]]**, “**That liar, Jesus, said** he would **[[:en:key-terms:raise|rise]] from the [[:en:key-terms:death|dead]]** after three days. Someone must guard the **[[:en:key-terms:tomb|tomb]]** to make sure that his **[[:en:key-terms:disciple|disciples]]** do not steal the body and then say he has risen from the dead.”
+सिपाहियों द्वारा यीशु को क्रूस पर चढाने के बाद, अविशासी यहूदी अगुओं ने पीलातुस से कहा, “उस झूठे यीशु ने कहा था कि वह तीन दिन के बाद मरे हुओं में से जी उठेगा। किसी को उसकी कब्र की पहरेदारी करनी चाहिए ताकि उसके चेले उसकी देह को चुरा कर यूँ न कहें कि यह मुर्दों में से जी उठा है।”
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:crucify|क्रूस पर चढ़ा दिया]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:jewish-leaders|यहूदी अगुओं]]**
+  * **[[:hi:obs:notes:key-terms:pilate|पिलातुस]]**
+  * **[[:hi:obs:notes:key-terms:raise|जीवित होगा]]**
+  * **[[:hi:obs:notes:key-terms:death|मुर्दों]]**
+  * **[[:hi:obs:notes:key-terms:tomb|कब्र]]**
+  * **[[:hi:obs:notes:key-terms:disciple|चेले]]**
+===== **अनुवाद के लिए नोट्स:**  =====
 
-  * **the unbelieving Jewish leaders** - That is, "the Jewish leaders who did not believe in Jesus."
-  * **That liar, Jesus, said** – This could also be translated as, “That man, Jesus, lied and said." They refused to believe that Jesus told the truth about being the Son of God.
-  * **rise from the dead** - That is, “come back to life” or, “become alive again.” 
-  
-
+  * **अविश्वासी यहूदी अगुओं**—अर्थात, “यीशु पर विश्वास न रखनेवाले यहूदी अगुए।“
+  * **उस झूठे यीशु न कहा**—अर्थात, “यह जो आदमी है, यीशु, उसने झूठ बोला था, कहता था कि वह.... ।“ यीशु ने परमेश्वर का बेटा होने की जो बात उन्हें बताई थी, वे उसे नहीं मानते थे।
+  * **मरे हुओं में से जी उठेगा**—अर्थात, “फिर से जीवित हो जायेगा” या कि, “फिर जी उठेगा।“
 **[[:hi:obs:notes:frames:40-09|<<]] | [[:hi:obs:notes:41|Up]] | [[:hi:obs:notes:frames:41-02|>>]]**
