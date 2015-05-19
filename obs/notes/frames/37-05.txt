@@ -1,16 +1,38 @@
-====== I Am the Resurrection [37-05] ======
+====== मैं ही पुनरुत्थान हूँ [37-05] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-05.jpg?nolink&}}
 
-**[[:en:key-terms:jesus|Jesus]]** replied, “**I am the [[:en:key-terms:resurrection|Resurrection]] and the [[:en:key-terms:life|Life]]**. Whoever **[[:en:key-terms:believe|believes]]** in me **will live, even though he [[:en:key-terms:death|dies]]**. Everyone who believes in me **will never die**. Do you believe this?” **Martha** answered, “Yes, **[[:en:key-terms:lord|Master]]**! I believe you are the **[[:en:key-terms:messiah|Messiah]]**, the **[[:en:key-terms:god-son|Son of God]]**.”
+**यीशु** ने उत्तर दिया, "**मैं ही** **पुनरुत्थान** **व जीवन** हूँ। जो भी मुझ में विश्वास रखता है, यदि वह **मर भी जाए तो भी जीवित रहता है** । मुझ पर विश्वास रखनेवाला हर व्यक्ति **कभी न ****मरेगा** । क्या तुम्हे इस बात पर विश्वास है?" मार्था ने कहा, "हाँ,स्वामी! मैं विश्वास करती हों कि तू ही परमेश्वर का बेटा, और हमारा मसीह है।"
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  *
 
-  * **I am the Resurrection and the Life** - This is one of several very powerful “I am” statements in which Jesus says something about his essential nature. In this one, Jesus indicated that he is the “provider” or, “source” of resurrection and life. If possible, translate this phrase in a way that makes it clear that this is his essential nature. This can also be translated as, “I am the one who resurrects people and causes them to live.” 
-  * **will live, even though he dies.** -  That is, “will live forever, even if he dies.” The English word, "he" does not only refer to men. Women who believe in Jesus will also live forever. 
-  * **Martha** - Martha was the sister of Lazarus and Mary. See **[[:hi:obs:notes:frames:37-01|[37-01]]]**.
-  * **will never die** - This can also be translated as, "will live forever."
-  
+**[[:hi:obs:notes:key-terms:resurrection|पुनरुत्थान]]**
+  *
 
+**[[:hi:obs:notes:key-terms:life|जीवन]]**
+  *
+
+**[[:hi:obs:notes:key-terms:believe|विश्वास रखता है]]**
+  *
+
+**[[:hi:obs:notes:key-terms:death|मर भी जाए ]]**
+  *
+
+**[[:hi:obs:notes:key-terms:lord|स्वामी ]]**
+  *
+
+**[[:hi:obs:notes:key-terms:messiah|मसीह ]]**
+  *
+
+**[[:hi:obs:notes:key-terms:son of god|परमेश्वर का बेटा ]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **मैं ही पुनरुत्थान और जीवन ****हूँ** ---यह उन प्रभावशाली कथनों में से है जिनमे यीशु "मैं" का प्रयोग करते हुए अपनी सारभूत प्रकृति को उद्घाटित करते हैं। इस कथन विशेष में यीशु स्वयं के जीवन व पुनरुत्थान का "स्रोत" होने की बात प्रकट कर रहे हैं। इसके अनुवाद में इन यूँ भी लिख सकते हैं कि "लोगों को जिलानेवला और उन्हें जीवन देनेवला मैं ही तो हूँ।"
+  * **मर भी जाए तो भी जीवित रहता ****है** --अर्थात, "वह मर कर भी अनंतकाल का जीवन जीएगा।" "जो भी" जा आशय स्त्री-पुरुष दोनों से है।
+  * **मार्था**  - मार्था लाज़र और मरियम की बहन थी। देखे **[[:hi:obs:notes:frames:37-01|[37-01]]]**.
+  * **कभी न ****मरेगा-**-इसे "सदा के लिए जीएगा" भी लिख सकते हैं।
 **[[:hi:obs:notes:frames:37-04|<<]] | [[:hi:obs:notes:37|Up]] | [[:hi:obs:notes:frames:37-06|>>]]**
