@@ -1,20 +1,26 @@
-====== We Must Celebrate [35-13] ======
+====== हमें उत्सव करना चाहिए [35-13] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-13.jpg?nolink&}}
 
-“The father answered, ‘My **[[:en:key-terms:son|son]]**, you are always with me, and everything I have is yours. But **it is right for us** to celebrate, because **your brother was [[:en:key-terms:death|dead]], but now is [[:en:key-terms:life|alive]]**. **He was lost, but now is found!**’”
+"पिता ने उत्तर दिया, "मेरे बेटे, तू तो सदा मेरे साथ है; और जो कुछ भी मेरा है, वो सब तेरा ही तो है। लेकिन हमारा यूँ उत्सव मनाना बिलकुल सही है, क्योंकि तेरा भाई जो मर गया था, अब जीवता है। वह खो गया था, लेकिन अब मिल गया है!"
 
-//A Bible story from: Luke 15:11-32//
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[https://door43.org/en/obe/kt/son|बेटे]]**
+  *
 
-  * (Jesus continues the story.)
-  * **it is right for us** - That is, "it is the right thing for us to do" or, "it is proper for us."
-  * **your brother** - The father refers to his younger son as, "your brother" to remind the older son of his relationship to the younger son and of how he should love his younger brother.
-  * **was dead, but now is alive** - See how you translated this in **[[:hi:obs:notes:frames:35-09|[35-09]]]**.
-  * **He was lost, but now is found!** - See how you translated this in **[[:hi:obs:notes:frames:35-09|[35-09]]]**.
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-  
+**[[https://door43.org/en/obe/kt/death|मर]]**
+  *
 
+**[[https://door43.org/en/obe/kt/life|जीवता]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * (यीशु अपनी कहानी आगे बढाते हैं।)
+  * **हमारा यूँ उत्सव मनाना बिलकुल सही ****है** --अर्थात, "हमारा उत्सव मनाना बिलकुल उचित है।"
+  * **तेरा ****भाई** --इन शब्दों के द्वारा पिता अपने बड़े बेटे को यह याद दिला रहा है कि छोटा बेटा उसका अपना छोटा भाई है और उसके मन में उसके लिए स्नेह होना चाहिए।
+  * **मर गया था, अब जीवता है**  - See how you translated this in **[[:hi:obs:notes:frames:35-09|[35-09]]]**.
+  * **He was lost, but now is found!**  - See how you translated this in **[[:hi:obs:notes:frames:35-09|[35-09]]]**.
+  * //A Bible story from//  - These references may be slightly different in some Bible translations.
 **[[:hi:obs:notes:frames:35-12|<<]] | [[:hi:obs:notes:35|Up]] | [[:hi:obs:notes:frames:36-01|>>]]**
