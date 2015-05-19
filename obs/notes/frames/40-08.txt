@@ -1,15 +1,18 @@
-====== The Soldier's Testimony [40-08] ======
+====== सिपाही की गवाही [40-08] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-08.jpg?nolink&}}
 
-**Through his [[:en:key-terms:death|death]]**, **[[:en:key-terms:jesus|Jesus]]** **opened a way** for people to **come to [[:en:key-terms:god|God]]**. When the soldier guarding Jesus saw everything that had happened, he said, “Certainly, this man was **[[:en:key-terms:innocent|innocent]]**. He was the **[[:en:key-terms:god-son|Son of God]]**.”
+अपनी मृत्यु के द्वारा यीशु ने लोगों के लिए परमेश्वर के पास आने का मार्ग खोल दिया। इन सारी घटनाओं को देख कर, यीशु की पहरेदारी कर रहे सिपाहियों ने कहा, “निश्चय ही, यह आदमी निर्दोष था। यह परमेश्वर का बेटा था।
 
+===== **महत्वपूर्ण शब्द तथा वाक्यांश:**  =====
+   * **[[:hi:obs:notes:key-terms:death|मृत्यु]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
+  * **[[:hi:obs:notes:key-terms:innocent|निर्दोष]]**
+  * **[[:hi:obs:notes:key-terms:god-son|परमेश्वर का बेटा]]**
+===== अनुवाद के लिए नोट्स: =====
 
-===== Translation Notes: =====
-
-  * **Through his death** - That is, “By means of his death” or, “By dying.” 
-  * **opened a way** - That is, "made it possible."
-  * **come to God** - That is, “come near to God” or, “go near to God” or, “approach God” or, “know God personally.” The tearing of the curtain showed that the barrier between God and people had been removed. 
-  
-
+  * **अपनी मृत्यु के द्वारा**—अर्थात, “अपनी मृत्यु के माध्यम से” या फिर, “मर कर।“
+  * **एक मार्ग खोल दिया**—अर्थात, “संभव बना दिया।“
+  * **परमेश्वर के पास आने**—अर्थात “परमेश्वर के निकट आने” या फिर, ”व्यक्तिगत रूप से परमेश्वर को जानने।“ परदे के फटना दिखता है कि परमेश्वर और लोगों के बीच की बाधा हटा दी गई है।
 **[[:hi:obs:notes:frames:40-07|<<]] | [[:hi:obs:notes:40|Up]] | [[:hi:obs:notes:frames:40-09|>>]]**
