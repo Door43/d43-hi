@@ -1,15 +1,18 @@
-====== The Angel Appeared [41-04] ======
+====== स्वर्गदूतों का प्रकट होना [41-04] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-04.jpg?nolink&}}
 
-Suddenly, there was a **great earthquake**. An **[[:en:key-terms:angel|angel]]** **that shone as bright as lightning** appeared from **[[:en:key-terms:heaven|heaven]]**. He rolled away the stone that was covering the entrance to the **[[:en:key-terms:tomb|tomb]]** and sat on it. The soldiers guarding the tomb were terrified and **fell to the ground like [[:en:key-terms:death|dead]] men**.
+अचानक, एक बड़ा भूचाल हुआ। प्रकाश के जैसे उजला स्वर्गदूत प्रकट हुआ। उसने कब्र का पत्थर हटाया और उस पर बैठ गया। कब्र की पहरेदारी कर रहे सिपाही डर गए और भूमि पर ऐसे गिर पड़े मानो मर गए हों।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:angel|स्वर्गदूत]]**
+  * **[[:hi:obs:notes:key-terms:heaven|स्वर्ग]]**
+  * **[[:hi:obs:notes:key-terms:tomb|कब्र]]**
+  * **[[:hi:obs:notes:key-terms:death|मुर्दों]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **great earthquake** – This could also be translated as, “violent earthquake” or, “forceful shaking of the ground.” Some languages may prefer to reword this as, “the ground began to shake violently.” 
-  * **that shone as bright as lightning** - That is, "whose appearance was as bright as lightning."
-  * **fell to the ground like dead men** - They were not dead, but they did not move, just like dead men do not move. They probably had fainted from fright. To make this clear, this could be translated as, “suddenly fell to the ground and did not move.” 
-  
-
+  * **बड़ा भूचाल**—इसे हम “भयंकर भूचाल” अथवा, “धरती बुरी तरह डोल गयी” भी लिख सकते हैं। स्पष्टता के लिए कुछ भाषाओं में “धरती बुरी तरह डोलने लगी” लिखना बेहतर होगा।
+  * **प्रकाश के समान उजला स्वर्गदूत**—अर्थात, “जो प्रकाश के समान तेजोमय था।“
+  * **भूमि पर गिर पड़े मानो मर गए हों**—वे मरे नहीं थे, बल्कि डर के कारण हिल-डुल नहीं रहे थे जैसे कि उनमे प्राण न हों। वे शायद डर के कारण मूर्छित हो गए थे। स्पष्ट लाने के लिए आप इसे “अचानक भूमि पर निश्चल पड़े रहे” भी लिख सकते हैं।
 **[[:hi:obs:notes:frames:41-03|<<]] | [[:hi:obs:notes:41|Up]] | [[:hi:obs:notes:frames:41-05|>>]]**
