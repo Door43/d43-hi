@@ -1,17 +1,21 @@
-====== God's Spirit Was Poured Out [43-05] ======
+====== परमेश्वर का आत्मा उंडेला गया [43-05] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-05.jpg?nolink&}}
 
-Some of the people **accused the [[:en:key-terms:disciple|disciples]] of being drunk**. But **[[:en:key-terms:peter|Peter]]** stood up and said to them, “Listen to me! These people are not drunk! This **[[:en:key-terms:fulfill|fulfills]]** the **[[:en:key-terms:prophet|prophecy]]** made by the prophet **Joel** in which God said, ‘In **the last days**, I will **pour out my [[:en:key-terms:holy-spirit|Spirit]]**.’”
+कुछ लोगों ने चेलों पर मतवाल होने का दोष लगाया। लेकिन पतरस ने खड़े होकर उनसे कहा, “मेरी बात सुनो! ये लोग मतवाल नहीं हैं!  यह तो योएल नबी की उस भविष्यदवाणी का पूरा होना है, जो कहती है कि “अंत के दिनों में मैं अपना आत्मा उंडेलूँगा।’”
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:disciple|चेले]]**
+  * **[[:hi:obs:notes:key-terms:peter|पतरस]]**
+  * **[[:hi:obs:notes:key-terms:fulfill|पूरी होती है]]**
+  * **[[:hi:obs:notes:key-terms:prophet|भविष्यदवाणी]]**
+  * **[[:hi:obs:notes:key-terms:holy-spirit|आत्मा]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **accused the disciples of being drunk** - This could also be translated as, “said that the disciples were drunk.” 
-  * **Joel** - Joel was a prophet in Israel who lived hundreds of years before this happened. 
-  * **the last days** - This refers to, "the final days before the end of the world."
-  * **pour out my Spirit** - This can be understood in the sense of, “give my Spirit generously to people” or, “cause my Spirit to completely empower people.” 
-  * **my Spirit** - That is, "my Holy Spirit."
-  
-
+  * **मतवाल होने का दोष लगाया**—इसे हम “कहा कि चेले नशे में थे” भी कह सकते हैं।
+  * **योएल**—इस घटना के होने से कई सैकड़ो साल पहले यरूशलेम में हुए एक नबी।
+  * **अंत के दिनों में**-–इसका आशय “जगत के अंत से पूर्व के अंतिम दिनों से है।“
+  * **अपना आत्मा उंडेलूँगा**—अनुवाद करते समय हम इस वाक्यांश को इस प्रकार भी लिख सकते हैं, कि “मैं अपना आत्मा लोगों को बहुतायत से दूंगा” या कि, “अपने आत्मा द्वारा लोगों को सामर्थ दूंगा।“
+  * **अपना आत्मा**  –अर्थात, “मेरा पवित्र आत्मा।“
 **[[:hi:obs:notes:frames:43-04|<<]] | [[:hi:obs:notes:43|Up]] | [[:hi:obs:notes:frames:43-06|>>]]**
