@@ -1,17 +1,24 @@
-====== You Are Witnesses [42-08] ======
+====== तुम गवाह हो [42-08] ======
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-08.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-08.jpg?nolink}}
+“वचन में यह लिखा है कि मेरे चेले यह उद्घोषणा करेंगे कि अपने पापों की क्षमा पाने के लिए सब अपना मन फिराएं। वे इस काम का आरम्भ यरूशलेम से करेंगे, और फिर हर जगह के सभी लोगों के पास जायेंगे।इन बातों के निमित्त तुम मेरे गवाह हो।“
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-"It was also written in the **[[:en:key-terms:word-of-god|scriptures]]** that my **[[:en:key-terms:disciple|disciples]]** will **proclaim** that everyone should **[[:en:key-terms:repent|repent]]** in order to **[[:en:key-terms:receive|receive]]** **[[:en:key-terms:forgive|forgiveness]]** for their **[[:en:key-terms:sin|sins]]**. **They will do this starting in [[:en:key-terms:jerusalem|Jerusalem]]**, and then go to all **[[:en:key-terms:people-group|people groups]]** everywhere. **You are [[:en:key-terms:witness|witnesses]] of these things**.”
+  * वचनों
+  * चेले
+  * मन फिराओ
+  * ग्रहण
+  * क्षमा
+  * पापों
+  * यरूशलेम
+  * **__समुदायों__ **
+  * गवाह
 
+===== अनुवाद के लिए नोट्स: =====
 
-===== Translation Notes: =====
-
-    * **proclaim**  - That is, “announce” or, “preach.”
-    * **They will do this starting in Jerusalem**  - That is, "They will begin doing this in Jerusalem" or, "They will begin to proclaim these things in Jerusalem."
-    * **You are witnesses of these things** - That is, "You have seen these things happen" or, "You will tell other people the things that you have seen happen."
-
-
-**[[:hi:obs:notes:frames:42-07|<<]] | [[:hi:obs:notes:42|Up]] | [[:hi:obs:notes:frames:42-09|>>]]** 
+  * **उद्घोषणा**—अर्थात, “घोषणा” या फिर, “प्रचार” करेंगे।
+  * **वे इस काम का आरम्भ यरूशलेम से करेंगे**—अर्थात, “वे इस काम को करने की शुरुआत यरूशलेम से करेंगे” अथवा, “वे इस बातों की उदघोषणा का आरम्भ यरूशलेम में करेंगे।“
+  * **इन बातों के निमित्त तुम मेरे गवाह हो**—अर्थात, “तुमने इन बातो को होते देखा है” या फिर, “तुमने जो बातें होती देखी हैं, उनके बारे में तुम लोगों को बताओगे।“
+**[[:hi:obs:notes:frames:42-07|<<]] | [[:hi:obs:notes:42|Up]] | [[:hi:obs:notes:frames:42-09|>>]]**
