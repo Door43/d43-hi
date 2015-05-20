@@ -1,17 +1,19 @@
-====== Jesus Appeared to the Disciples [42-06] ======
+====== चेलों के समक्ष यीशु का प्रकट होना [42-06] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-06.jpg?nolink&}}
 
-As the **[[:en:key-terms:disciple|disciples]]** were talking, **[[:en:key-terms:jesus|Jesus]]** suddenly appeared in the room with them and said, “**[[:en:key-terms:peace|Peace]] to you**!" The **[[:en:key-terms:disciple|disciples]]** thought he was a **ghost**, but Jesus said, "Why are you afraid and **doubting**? Look at my hands and feet. Ghosts do not have bodies like I do.” **To prove** that he was not a ghost, he asked for something to eat. They gave him a piece of cooked fish, and he ate it.
+चेले बातचीत कर ही रहे थे कि कमरे में अचानक यीशु ने प्रकट होकर कहा, “तुम्हे शांति मिले!” चेलों ने सोचा कि उन्होंने कोई भूत देख लिया है, लेकिन यीशु ने कहा, “तुम क्यों डरते और संदेह करते हो? मेरे हाथों और पैरों को देखो। भूतों के पास मेरी तरह देह नहीं होती।“यह सिद्ध करने के लिए को वह कोई भूत नहीं था, उसने खाने के लिए कुछ माँगा। उन्होंने उसे पकी हुई मछली का एक टुकड़ा दिया, और उसने उसे खा लिया।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:disciple|चेले]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:peace|शान्ति]]**
+  * **[[:hi:obs:notes:key-terms:disciple|चेले]]**
+===== अनुवाद के लिए नोट्स: =====
 
-
-  * **Peace to you** - This may also be translated as, "May you have peace" or, "Be at peace."
-  * **ghost** - This refers to the spirit of a dead person.
-  * **doubting** – That is, “doubting that I am alive and here with you.”
-  * **To prove** - That is, "to demonstrate to them."
-  
-
+  * **तुम्हे शांति मिले**—अनुवाद करे समय आप “तुमको शांति मिले” या फिर, “शांति तुम्हारे साथ हो” लिख सकते हैं।
+  * **भूत**—इसका आशय मृत व्यक्ति कि आत्मा से है।
+  * **संदेह**—अर्थात, “संदेह क्यों करते हों कि मैं जीवित हूँ और यहाँ तुम्हारे साथ हूँ।“
+  * **सिद्ध करने**—अर्थात, “यह दिखाने के लिए।“
 **[[:hi:obs:notes:frames:42-05|<<]] | [[:hi:obs:notes:42|Up]] | [[:hi:obs:notes:frames:42-07|>>]]**
