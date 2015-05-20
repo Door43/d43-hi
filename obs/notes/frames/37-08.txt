@@ -1,15 +1,25 @@
-====== Rolling the Stone Away [37-08] ======
+====== कब्र का पत्थर लुड़का [37-08] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-08.jpg?nolink&}}
 
-**[[:en:key-terms:jesus|Jesus]]** responded, “**Did I not tell you** that you would **see [[:en:key-terms:god|God's]] [[:en:key-terms:glory|glory]]** if you **[[:en:key-terms:believe|believe]]** in me?” So they **rolled the stone away**.
+यीशु ने उत्तर दिया, "**क्या मैंने तुम्हे नहीं कहा था** कि यदि तुम मुझ पर विश्वास रखोगे, तो परमेश्वर की महिमा देखोगे?" इस पर उन्होंने कब्र का पत्थर लुड़का दिया।
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  *
 
-  * **Did I not tell you?** - That is, “Remember that I told you.” Jesus is not asking this question in order to get an answer, so some languages should translate this as a command. 
-  * **see God's glory** - That is, “see the glory of God displayed” or, “see God show how great he is.” 
-  * **rolled the stone away** - Some languages should say, "rolled the stone away from the opening of the tomb."
-  
+**[[:hi:obs:notes:key-terms:god|परमेश्वर की]]**
+  *
 
+**[[:hi:obs:notes:key-terms:glory|महिमा ]]**
+  *
+
+**[[:hi:obs:notes:key-terms:believe|विश्वास ]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **क्या मैंने तुम्हे नहीं कहा ****था** --अर्थात, "याद है, मैंने तुमसे कहा था कि..।" यीशु यहाँ पर उनसे कोई प्रश्न नहीं कर रहे हैं, इसलिए कुछ भाषाओं में इसे एक आज्ञा की तरह लिखना बेहतर होगा।
+  * **परमेश्वर की महिमा ****देखोगे** --अर्थात, "परमेश्वर की महिमा का प्रदर्शन देखोगे" या फिर, "देखोगे कि परमेश्वर कितना महान है।"
+  * **पत्थर लुड़का ****दिया** --अधिक स्पष्ट लाने के लिए कुछ भाषाओँ में ऐसे लिखना बेहतर होगा, "कब्र के मूह पर लगा पत्थर दूर हटा दिया।"
 **[[:hi:obs:notes:frames:37-07|<<]] | [[:hi:obs:notes:37|Up]] | [[:hi:obs:notes:frames:37-09|>>]]**
