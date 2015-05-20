@@ -1,14 +1,18 @@
-====== Jesus Is Risen [41-05] ======
+====== यीशु फिर से जी उठा है [41-05] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-05.jpg?nolink&}}
 
-When the women arrived at the tomb, the **[[:en:key-terms:angel|angel]]** told them, “**Do not be afraid**. **[[:en:key-terms:jesus|Jesus]]** is not here. **He has [[:en:key-terms:raise|risen]] from the [[:en:key-terms:death|dead]]**, just like he said he would! Look in the **[[:en:key-terms:tomb|tomb]]** and see.” The women looked into the tomb and saw where Jesus' body had been laid. His body was not there!
+कब्र पर पहुँचने पर एक स्वर्गदूत उन स्त्रियों से बोला, “डरो मत।यीशु यहाँ नहीं है।वह मुर्दों में से जी उठा है, जैसा कि उसने कहा था कि वह करेगा! कब्र के भीतर देखो और जान लो।“ स्त्रियों ने तब कब्र के भीतर जाकर उस जगह को देखा जहाँ पर यीशु की देह को रखा गया था। उसकी देह वहाँ पर नहीं थी।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:angel|स्वर्गदूत]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:raise|जी उठा]]**
+  * **[[:hi:obs:notes:key-terms:death|मुर्दों]]**
+  * **[[:hi:obs:notes:key-terms:tomb|कब्र]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **Do not be afraid** - That is, “Stop being afraid.” An angel shining like lightning was a frightening sight! 
-  * **He has risen from the dead** – This could be translated as, “He has come back to life.” 
-  
-
+  * **डरो मत**—अर्थात, “डरना बंद करो।“ प्रकाश जैसे उज्जवल स्वर्गदूत को देखना एक भयावह अनुभव था!
+  * **वह मुर्दों में से जी उठा ****है** --इसके स्थात पर हम “वह फिर जीवित हो गया है” भी लिख सकते हैं।
 **[[:hi:obs:notes:frames:41-04|<<]] | [[:hi:obs:notes:41|Up]] | [[:hi:obs:notes:frames:41-06|>>]]**
