@@ -2,41 +2,20 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-01.jpg?nolink&}}
 
-यहूदी लोग हर साल फसह का पर्व मनाते थे। यह सदियों पहले परमेश्वर द्वारा उनके पूर्वजो को मिस्र की बन्धुआइ से मिली मुक्ति का उत्सव था। लोगों के बीच सार्वजनिक रूप से उपदेश सुनाने और सिखाने की शुरुआत के तीन साल बाद, यीशु ने अपने चेलों से कहा कि वह यरूशलेम में उनके साथ फसह का पर्व मनाना चाहता है, और यह भी कि वहां पर उसकी हत्या की जाएगी।
-
+**यहूदी लोग** हर साल **फसह का पर्व** मनाते थे। यह **सदियों पहले** **परमेश्वर** द्वारा उनके पूर्वजो को **मिस्र** की **बन्धुआई** से मिली **मुक्ति** का उत्सव था। लोगों के बीच सार्वजनिक रूप से **उपदेश सुनाने** और सिखाने की शुरुआत के तीन साल बाद, **यीशु** ने अपने **चेलों** से कहा कि वह **यरूशलेम** में उनके साथ फसह का पर्व मनाना चाहता है, और यह भी कि वहाँ पर उसकी हत्या की जाएगी।
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
+  * **[[:hi:obs:notes:key-terms:jew|यहूदी लोग ]]**
+  * **[[:hi:obs:notes:key-terms:passover|फसह का पर्व ]]**
+  * **[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
+  * **[[:hi:obs:notes:key-terms:save|मुक्ति ]]**
+  * **[[:hi:obs:notes:key-terms:servant|बन्धुआई ]]**
+  * **[[:hi:obs:notes:key-terms:egypt|मिस्र ]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:preach|उपदेश सुनाने ]]**
+  * **[[:hi:obs:notes:key-terms:disciple|चेलों]]**
+  * **[[:hi:obs:notes:key-terms:jerusalem|यरूशलेम]]**
+===== अनुवाद के लिए नोट्स: =====
 
-**[[:hi:obs:notes:key-terms:jew|यहूदी लोग ]]**
-  *
-
-**[[:hi:obs:notes:key-terms:passover|फसह का पर्व ]]**
-  *
-
-**[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
-  *
-
-**[[:hi:obs:notes:key-terms:save|मुक्ति ]]**
-  *
-
-**[[:hi:obs:notes:key-terms:servant|बन्धुआई ]]**
-  *
-
-**[[:hi:obs:notes:key-terms:egypt|मिस्र ]]**
-  *
-
-**[[:hi:obs:notes:key-terms:jesus|यीशु]]**
-  *
-
-**[[:hi:obs:notes:key-terms:preach|उपदेश सुनाने ]]**
-  *
-
-**[[:hi:obs:notes:key-terms:disciple|चेलों]]**
-  *
-
-**[[:hi:obs:notes:key-terms:jerusalem|यरूशलेम]]**
-===== Translation Notes: =====
-
-  * **many centuries earlier**  - That is, “hundreds of years earlier” or, “a very long time before.”
+  * **सदियों पहले**  --अर्थात, "सैकड़ों साल पहले" या कि, "बहुत समय पहले।"
 **[[:hi:obs:notes:frames:37-11|<<]] | [[:hi:obs:notes:38|Up]] | [[:hi:obs:notes:frames:38-02|>>]]**
