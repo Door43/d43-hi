@@ -1,15 +1,23 @@
-====== Make Disciples [42-10] ======
+====== चेले बनाओ [42-10] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-10.jpg?nolink&}}
 
-**[[:en:key-terms:jesus|Jesus]]** said to his **[[:en:key-terms:disciple|disciples]]**, “**All authority in [[:en:key-terms:heaven|heaven]] and on earth has been given to me**. So go, **make disciples of all [[:en:key-terms:people-group|people groups]]** by **[[:en:key-terms:baptize|baptizing]]** them **in the name of** the **[[:en:key-terms:god-father|Father]]**, the **[[:en:key-terms:god-son|Son]]**, and the **[[:en:key-terms:holy-spirit|Holy Spirit]]**, and by teaching them to **[[:en:key-terms:obey|obey]]** everything I have commanded you. Remember, I will be with you always.”
+यीशु ने अपने चेलों से कहा, “स्वर्ग और धरती का सब अधिकार मुझे दिया गया है। इसलिए जाओ और सभी समुदाय के लोगो को पिता, पुत्र, व पवित्र आत्मा के नाम से बप्तिस्मा देकर, व मैं जो आज्ञाएँ तुम्हे देता हूँ, उनका पालन करने की शिक्षा देकर उन्हें मेरा चेला बनाओ। याद रहे, मैं सदा तुम्हारे साथ रहूँगा।“
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:disciple|चेले]]**
+  * **[[:hi:obs:notes:key-terms:heaven|स्वर्ग]]**
+  * **__[[:hi:obs:notes:key-terms:people-group|समुदायों]]__**
+  * **[[:hi:obs:notes:key-terms:baptize|बप्तिस्मा देकर]]**
+  * **[[:hi:obs:notes:key-terms:god-father|पिता]]**
+  * **[[:hi:obs:notes:key-terms:god-son|बेटा]]**
+  * **__[[:hi:obs:notes:key-terms:holy-spirit|पवित्र आत्मा]]__**
+  * **[[:hi:obs:notes:key-terms:obey|आज्ञाओं का पालन]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **All authority in heaven and on earth has been given to me** - This can also be translated as, “God has given me all authority in heaven and on earth” or, “God has given me complete authority over everyone in heaven and on earth” or, "I have all authority in heaven an on earth." 
-  * **make disciples of all people groups** - That is, "help people from every people group become my disciples."
-  * **in the name of** - This phrase means both, “by the authority of” and, "under the authority of." Consider translating the word “name” literally if it will be understood in this way in your language. This phrase can also be repeated as in, “in the name of the Father, in the name of the Son, and in the name of the Holy Spirit.”
-  
-
+  * **स्वर्ग और धरती का सब अधिकार मुझे दिया गया है**—इसका अनुवाद करते समय यूँ भी लिख सकते हैं, “परमेश्वर ने स्वर्ग और धरती का सब अधिकार मुझे दिया है” या फिर, “स्वर्ग और धरती के हर बाशिंदे पर परमेश्वर ने मुझे पूरा अधिकार दिया है” अथवा, “स्वर्ग और धरती का सारा अधिकार मेरा है।“
+  * **सभी समुदाय के लोगों को .....मेरा चेला बनाओ**—अर्थात, “मेरा चेला बनने में सभी समुदाय के लोगों की मदद करों।“
+  * **के नाम में**—इसका आशय “के अधिकार से” व “के अधिकार द्वारा”, दोनों ही है। यहाँ पर “नाम” के लिए प्रयुक्त होनेवाले शब्द का जस का तस प्रयोग करें। इस वाक्यांश को दोहरा कर भी प्रयोग किया जा सकता है, जैसे कि “पिता के नामे में, पुत्र के नामे में, और पवित्र आत्मा के नाम में।“
 **[[:hi:obs:notes:frames:42-09|<<]] | [[:hi:obs:notes:42|Up]] | [[:hi:obs:notes:frames:42-11|>>]]**
