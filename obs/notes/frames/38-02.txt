@@ -1,14 +1,37 @@
-====== Judas Made a Deal [38-02] ======
+====== यहूदा का सौदा 38-02] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-02.jpg?nolink&}}
 
-One of **[[:en:key-terms:jesus|Jesus']]** **[[:en:key-terms:disciple|disciples]]** was a man named **[[:en:key-terms:judas|Judas]]**. Judas was **in charge of the [[:en:key-terms:apostle|apostles']] moneybag**, but he **loved money** and often stole money out of the bag. After Jesus and the disciples arrived in **[[:en:key-terms:jerusalem|Jerusalem]]**, Judas went to the **[[:en:key-terms:jewish-leaders|Jewish leaders]]** and offered to **[[:en:key-terms:betray|betray]]** Jesus to them in exchange for money. He knew that the Jewish leaders denied that Jesus was the **[[:en:key-terms:messiah|Messiah]]** and that they were plotting to kill him.  
+यीशु के चेलों में एक यहूदा नाम का चेला था। उस पर प्रेरितों के धन की थैलियों का प्रभार था, लेकिन उसे धन से बहुत प्रेम था और अकसर किसी न किसी की थैले से चुरा लेता था। यीशु और चेलों के यरूशलेम में पहुँचने पर, वह यहूदी अगुओं के पास गया और धन के एवज़ में यीशु से धोखा करने को तैयार हो गया। उसे मालूम था कि यहूदी अगुओं ने यीशु को मसीह मानने से इंकार कर दिया था, और वे उसकी हत्या का षड्यंत्र रच रहे थे।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
+
+**[[:hi:obs:notes:key-terms:jesus|यीशु के ]]**
+  *
+
+**[[:hi:obs:notes:key-terms:disciple|चेलों ]]**
+  *
+
+**[[:hi:obs:notes:key-terms:judas|यहूदा ]]**
+  *
+
+**[[:hi:obs:notes:key-terms:apostle|'प्रेरितों]]**
+  *
+
+**[[:hi:obs:notes:key-terms:jerusalem|यरूशलेम]]**
+  *
+
+**[[:hi:obs:notes:key-terms:jewish leaders|यहूदी अगुओं]]**
+  *
+
+**[[:hi:obs:notes:key-terms:betray|धोखा करने ]]**
+  *
+
+**[[:hi:obs:notes:key-terms:messiah|मसीह]]**
 ===== Translation Notes: =====
 
-  * **in charge of the apostles’ moneybag** - That is, “responsible to hold the apostles' money” or, “responsible to hold the bag that had the disciples' money in it and to distribute funds from it.” 
-  * **loved money** – That is, “highly valued money” or, “wanted money.” Some languages would not use the same word that can be used for “loved people.” 
-  
-
+  * **in charge of the apostles’ moneybag**  - That is, “responsible to hold the apostles' money” or, “responsible to hold the bag that had the disciples' money in it and to distribute funds from it.”
+  * **loved money**  – That is, “highly valued money” or, “wanted money.” Some languages would not use the same word that can be used for “loved people.”
 **[[:hi:obs:notes:frames:38-01|<<]] | [[:hi:obs:notes:38|Up]] | [[:hi:obs:notes:frames:38-03|>>]]**
