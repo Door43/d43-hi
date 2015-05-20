@@ -1,16 +1,21 @@
-====== Jesus Appeared to the Women [41-08] ======
+====== यीशु का स्त्रियों के समक्ष प्रकट होना [41-08] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-08.jpg?nolink&}}
 
-As the women were on their way to tell the **[[:en:key-terms:disciple|disciples]]** the good news, **[[:en:key-terms:jesus|Jesus]]** appeared to them, and they **[[:en:key-terms:worship|worshiped]]** him. Jesus said, “Do not be afraid. Go and tell my disciples to go to **[[:en:key-terms:galilee|Galilee]]**. They **will see me** there.”
+जब स्त्रियाँ चेलों को यह सुसमाचार बताने ही जा रही थीं कि मार्ग में उन्हें यीशु ने दर्शन दिया, और उन्होंने उसकी आराधना की। यीशु ने कहा, “डरो मत। जाओ और जाकर मेरे चेलों से कहो कि वे गलील को जाएँ। वे मुझे वहाँ पर देखेंगे।“
 
 //A Bible story from: Matthew 27:62-28:15; Mark 16:1-11; Luke 24:1-12; John 20:1-18//
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  * चेले
+  * यीशु
+  * आराधना करती थी
+  * गलील
 
-===== Translation Notes: =====
+===== अनुवाद के लिए नोट्स: =====
 
-  * **will see me** - That is, "will meet me" or, "can meet with me."
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-  
+  * **मुझे वहाँ पर देखेंगे**—अर्थात, “वे मुझसे वहाँ पर मिलेंगे” या कि, “मुझसे वहाँ पर मिल सकते हैं।
+  * **बाइबिल की कहानी **
+  - बाइबिल के कुछ संस्करणों में इनका अनुवाद अलग तरह से किया हो सकता है।
 
 **[[:hi:obs:notes:frames:41-07|<<]] | [[:hi:obs:notes:41|Up]] | [[:hi:obs:notes:frames:42-01|>>]]**
