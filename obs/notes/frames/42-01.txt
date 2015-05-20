@@ -1,13 +1,20 @@
-====== The Two Disciples [42-01] ======
+====== दो चेले [42-01] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-01.jpg?nolink&}}
 
-On the day that **[[:en:key-terms:jesus|Jesus]]** was **[[:en:key-terms:raise|raised]]** from the dead, two of his **[[:en:key-terms:disciple|disciples]]** were going to a nearby town. As they walked, they talked about what had happened to Jesus. They had hoped that he was the **[[:en:key-terms:messiah|Messiah]]**, but then he was killed. Now the women said he was **[[:en:key-terms:life|alive]]** again. They did not know what to **[[:en:key-terms:believe|believe]]**.
+जिस दिन यीशु मुर्दों में से जी उठा था, उस दिन उसके दो चेले पास ही के एक नगर जा रहे थे। रास्ते में वे यीशु के साथ हुई बातों पर चर्चा कर रहे थे। उन्हें आशा था कि वह मसीह था, लेकिन फिर उसकी हत्या कर दी गई। लेकिन अब स्त्रियाँ कह रही थीं कि वह जीवित हो उठा है। उन्हें समझ नहीं आ रहा था कि वे किस पर विश्वास करें और किस पर नहीं।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:raise|जिलाया]]**
+  * **[[:hi:obs:notes:key-terms:disciple|चेले]]**
+  * [[:hi:obs:notes:key-terms:messiah|मसीह]]
+  * **[[:hi:obs:notes:key-terms:life|जीवित होंगे]]**
+  * **[[:hi:obs:notes:key-terms:believe|विश्वास]]**
 
-  * //(There are no notes for this frame.)//
-  
+===== अनुवाद के लिए नोट्स: =====
+
+  * (अनुवाद के लिए कोई नोट्स नहीं हैं।)
 
 **[[:hi:obs:notes:frames:41-08|<<]] | [[:hi:obs:notes:42|Up]] | [[:hi:obs:notes:frames:42-02|>>]]**
