@@ -1,15 +1,15 @@
-====== The Joyful News [41-07] ======
+====== आनंद का समाचार [41-07] ======
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-07.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-07.jpg?nolink}}
+स्त्रियों को भय व परम आनंद, दोनों का अनुभव हो रहा था। वे दौड़ कर चेलों के पास गयीं और उन्हें यह सुसमाचार दिया।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-The women were **full of fear and great [[:en:key-terms:joy|joy]]**. They ran to tell the **[[:en:key-terms:disciple|disciples]]** the **good news**.
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:joy|आनंद]]**
+  * **[[:hi:obs:notes:key-terms:disciple|चेले]]**
+===== **अनुवाद के लिए नोट्स:**  =====
 
-
-    * **full of fear and great joy**  – That is, “experiencing emotions of fear and also great joy.”
-    * **good news**  - This can also be translated as, “the good news that Jesus was alive again.” This good news refers to the fact that Jesus had risen from the dead.
-
-
-**[[:hi:obs:notes:frames:41-06|<<]] | [[:hi:obs:notes:41|Up]] | [[:hi:obs:notes:frames:41-08|>>]]** 
+  * **भय व परम आनंद, दोनों का ****अनुभव** ---अर्थात, “वे भय के साथ आनंदित भी थीं।“
+  * **सुसमाचार**—अनुवाद के समय इसे “यह सुसमाचार दिया कि यीशु फिर जी उठा है।“ सुसमाचार का आशय यीशु के फिर से जी उठने से है।
+**[[:hi:obs:notes:frames:41-06|<<]] | [[:hi:obs:notes:41|Up]] | [[:hi:obs:notes:frames:41-08|>>]]**
