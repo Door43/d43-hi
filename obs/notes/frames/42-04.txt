@@ -1,13 +1,15 @@
-====== Breaking the Bread [42-04] ======
+====== रोटी तोडना [42-04] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-04.jpg?nolink&}}
 
-The two men invited **[[:en:key-terms:jesus|Jesus]]** to stay with them, so he did. When they were ready to eat the evening meal, Jesus picked up a loaf of bread, thanked **[[:en:key-terms:god|God]]** for it, and then broke it. Suddenly, they recognized that he was Jesus. But at that moment, **he disappeared from their sight**.
+उन दोनों व्यक्तियों ने यीशु को साथ ठहरने को कहा, और उसने उनका आग्रह मान लिया। जब वे रात का भोजन करने को थे, यीशु ने एक रोटी उठायी, परमेश्वर को धन्यवाद दिया, और फिर उसे टुकड़े किये। इस पर उन लोगो ने अचानक उसे पहचान लिया। लेकिन उसी पल वह उनकी नज़रों से ओझल हो गया।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * यीशु
+  * परमेश्वर
 
-  * **he disappeared from their sight** - This could also be translated as, "he was gone" or, "he was no longer there."
-  
+===== अनुवाद के लीयते नोट्स: =====
 
+  * **वह उनकी नज़रों से ओझल हो गया**—इसकी जगह आप “वह चला गया” या फिर, “अब वह वहाँ न था” भी लिख सकते हैं।
 **[[:hi:obs:notes:frames:42-03|<<]] | [[:hi:obs:notes:42|Up]] | [[:hi:obs:notes:frames:42-05|>>]]**
