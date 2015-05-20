@@ -1,16 +1,23 @@
-====== Open the Tomb [37-07] ======
+====== कब्र का द्वार खोलो [37-07] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-07.jpg?nolink&}}
 
-The **[[:en:key-terms:tomb|tomb]]** was a cave with a stone rolled in front of its opening. When **[[:en:key-terms:jesus|Jesus]]** arrived at the tomb, **he told them**, “**Roll the stone away**.” But **Martha** said, “**He has been [[:en:key-terms:death|dead]] for four days**. There will be a bad smell.”
+**कब्र** एक गुफा में थी जिसके मुह को बड़े से पत्थर से बंद किया गया था। कब्र पर पहुँचने पर **यीशु** ने कहा, "कब्र का पत्थर हटा दो।" लेकिन मारथा ने कहा, "इसे **मरे** चार दिन बीत चुके हैं। इसमें से दुर्गन्ध आती होगी।"
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[:hi:obs:notes:key-terms:tomb|कब्र]]**
+  *
 
-  * **he told them** - That is, “he told the men there.” He was probably not telling Mary and Martha to roll the stone away.
-  * **Roll the stone away** - Some languages may prefer to say, “Roll the stone away from the opening of the tomb.”
-  * **Martha** - Martha was the sister of Lazarus and Mary. See **[[:hi:obs:notes:frames:37-01|[37-01]]]**.
-  * **He has been dead for four days** - This could also be translated as, “He died four days ago and his body is lying there.” 
-  
+**[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  *
 
-**[[:hi:obs:notes:frames:37-06|<<]] | [[:hi:obs:notes:37|Up]] | [[:hi:obs:notes:frames:37-08|>>]]**
+**[[:hi:obs:notes:key-terms:death|मरे]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **यीशु ने ****कहा** --अर्थात, "वहां मौजूद लोगों से कहा।" उसने मरियम और मारथा से यह करने के लिए नहीं कहा होगा।
+  * **Roll the stone away**  - Some languages may prefer to say, “Roll the stone away from the opening of the tomb.”
+  * **मार्था**  - मार्था लाज़र और मरियम की बहन थी। देखे **[[:hi:obs:notes:frames:37-01|[37-01]]]**.
+  * **He has been dead for four days**  - This could also be translated as, “He died four days ago and his body is lying there.”
+**[[:hi:obs:notes:frames:37-06|<<]] | [[:hi:obs:notes:37|Up]] | [[:hi:obs:notes:frames:37-08|>> ]]**
