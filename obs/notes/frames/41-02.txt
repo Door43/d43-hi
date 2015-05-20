@@ -1,14 +1,16 @@
-====== The Tomb Was Sealed [41-02] ======
+====== कब्र मुहरबंद थी [41-02] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-02.jpg?nolink&}}
 
-**[[:en:key-terms:pilate|Pilate]]** said, “Take some soldiers and make the **[[:en:key-terms:tomb|tomb]]** as secure as you can.” So **they placed a seal on the stone** at the entrance of the tomb and put the soldiers there to make sure no one could steal the body.
+पीलातुस बोला, “अपने साथ कुछ पहरेदार ले लो, और जितना हो सके कब्र को उतना सुरक्षित कर दो।“ इसलिए उन्होंने कब्र के द्वार पर लगे पत्थर पर मुहर लगा दी और कुछ सिपाहियों को वहाँ पर तैनात कर दिया ताकि कोई भी देह को चुरा न सके।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:pilate|पिलातुस]]**
+  * **[[:hi:obs:notes:key-terms:tomb|कब्र]]**
 
-  * **they placed** - That is, "the religious leaders and the soldiers placed."
-  * **a seal on the stone** - They put a soft material like clay or wax between the stone and the tomb and marked it with an official seal. If anyone moved the stone, the material would break and show that someone had entered the tomb. This could also be translated as, "a mark on the stone to forbid people from moving it." 
-  
+===== अनुवाद के लिए नोट्स: =====
 
+  * **उन्होंने मुहर लगा दी**—अर्थात, “धार्मिक अगुओं व सिपाहियों ने मुहर लगा दी।“
+  * **पत्थर पर मुहर लगा दी** --कब्र के द्वार पर लगे पत्थर तथा कब्र की दीवार के बीचवाली जगह पर मिटटी या मोम जैसी कोई मुलायम चीज़ लगा दी, और फिर उस पर आधिकारिक मुहर से चिन्हित कर दिया। पत्थर हिलाने पर लगाई हुई सामग्री टूट जाती और पता चल जाता कि किसी ने कब्र में प्रवेश किया था। इसके अनुवाद में हम यूँ भी लिख सकते हैं कि “पत्थर पर एक चिन्ह लगा दिया ताकि लोग उसे न हटायें।“
 **[[:hi:obs:notes:frames:41-01|<<]] | [[:hi:obs:notes:41|Up]] | [[:hi:obs:notes:frames:41-03|>>]]**
