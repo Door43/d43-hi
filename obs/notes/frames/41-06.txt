@@ -1,15 +1,18 @@
-====== Tell the Disciples [41-06] ======
+====== चेलों को बताओ [41-06] ======
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-06.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-06.jpg?nolink}}
+स्वर्गदूत ने तब स्त्रियों से कहा, “ जाओ और सारे चेलों को बता दो कि यीशु मुर्दों में से जी उठा है और वह तुम्हारे आगे-आगे गलील को जाएगा।“
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-Then the **[[:en:key-terms:angel|angel]]** told the women, “Go and tell the **[[:en:key-terms:disciple|disciples]]**, '**[[:en:key-terms:jesus|Jesus]]** has **[[:en:key-terms:raise|risen]]** from the **[[:en:key-terms:death|dead]]** and **he will go to [[:en:key-terms:galilee|Galilee]] ahead of you**.'”
+  * **[[:hi:obs:notes:key-terms:angel|स्वर्गदूत]]**
+  * **[[:hi:obs:notes:key-terms:disciple|चेले]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:raise|जी उठा ]]**
+  * **[[:hi:obs:notes:key-terms:death|मुर्दों]]**
+  * **[[:hi:obs:notes:key-terms:galilee|गलील]]**
+===== **अनुवाद के लिए नोट्स:**  =====
 
-
-===== Translation Notes: =====
-
-    * **he will go to Galilee ahead of you **- That is, "he will meet you in Galilee" or, "he will be in Galilee when you get there." "You" here is plural, including the apostles and other disciples.
-
-
-**[[:hi:obs:notes:frames:41-05|<<]] | [[:hi:obs:notes:41|Up]] | [[:hi:obs:notes:frames:41-07|>>]]** 
+  * **वह तुम्हारे आगे-आगे गलील को जाएगा**—अर्थात, “वह तुमसे गलील में मिलेगा” या फिर, “गलील पहुँचने पर वह तुम्हे वहां मिलेगा।“ यहाँ पर “तुमसे” में बहुवचन का भाव है। इसमें प्रेरित व अन्य चेले शामिल हैं।
+**[[:hi:obs:notes:frames:41-05|<<]] | [[:hi:obs:notes:41|Up]] | [[:hi:obs:notes:frames:41-07|>>]]**
