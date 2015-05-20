@@ -6,16 +6,15 @@
 
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  * वचनों
-  * चेले
-  * मन फिराओ
-  * ग्रहण
-  * क्षमा
-  * पापों
-  * यरूशलेम
-  * **__समुदायों__ **
-  * गवाह
-
+  * **[[:hi:obs:notes:key-terms:word-of-god|वचनों]]**
+  * **[[:hi:obs:notes:key-terms:disciple|चेले]]**
+  * **[[:hi:obs:notes:key-terms:repent|मन फिराओ]]**
+  * **[[:hi:obs:notes:key-terms:receive|ग्रहण]]**
+  * **[[:hi:obs:notes:key-terms:forgive|क्षमा]]**
+  * **[[:hi:obs:notes:key-terms:sin|पापों]]**
+  * **[[:hi:obs:notes:key-terms:jerusalem|यरूशलेम]]**
+  * **__[[:hi:obs:notes:key-terms:people-group|समुदायों]]__**
+  * **[[:hi:obs:notes:key-terms:witness|गवाह]]**
 ===== अनुवाद के लिए नोट्स: =====
 
   * **उद्घोषणा**—अर्थात, “घोषणा” या फिर, “प्रचार” करेंगे।
