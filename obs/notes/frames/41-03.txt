@@ -1,14 +1,17 @@
-====== The Women [41-03] ======
+====== स्त्रियाँ [41-03] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-03.jpg?nolink&}}
 
-The day after **[[:en:key-terms:jesus|Jesus]]** was buried was a **[[:en:key-terms:sabbath|Sabbath]]** day, and **the [[:en:key-terms:jew|Jews]] were not permitted** to go to a **[[:en:key-terms:tomb|tomb]]** on that day. So very early on the morning after the Sabbath day, several women prepared to go to Jesus’ **[[:en:key-terms:tomb|tomb]]** to put more **burial spices** on his body.
+यीशु को दफनाने के अगले दिन बाद सब्त का दिन था, और यहूदी उस दिन यहूदियों को कब्र पर जाने की अनुमति नहीं थी। इसलिए सब्त के बाद वाली सुबह, यीशु की देह पर सुगन्धित पदार्थ लगाने के लिए कुछ स्त्रियाँ उसके कब्र पर आईं।
 
+===== **महत्वपूर्ण** **शब्द तथा वाक्यांश**: =====
+   * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:sabbath|सब्त]]**
+  * **[[:hi:obs:notes:key-terms:jew|यहूदियों]]**
+  * **[[:hi:obs:notes:key-terms:tomb|कब्र]]**
+  * **[[:hi:obs:notes:key-terms:tomb|कब्र]]**
+===== अनुवाद के लिए नोट्स: =====
 
-===== Translation Notes: =====
-
-  * **the Jews were not permitted** – The Sabbath day rules did not permit a Jew to walk very far or to do any other kind of work. 
-  * **burial spices** - This refers to sweet-smelling spices that were placed on a dead body to cover the bad smell. This can also be translated as, "sweet-smelling spices" or, "sweet-smelling oils" or, "sweet-smelling plants."
-  
-
+  * **यहूदियों को कब्र पर जाने की अनुमति नहीं थी**—सब्त के दिन किसी भी यहूदी को अधिक दूर चलने या किसी प्रकार का काम करने के अनुमति नहीं थी।
+  * **सुगन्धित पदार्थ**—इस आशय उन खुशबूदार सामग्रियों से है जिन्हें लाश की बदबू को दबाने के लिए उस पर मला जाता है। अनुवाद में हौं “खुशबूदार सामग्री” या, “खुशबूदार तेल” अथवा, “खुशबूदार औषधियां” भी लिख सकते हैं।
 **[[:hi:obs:notes:frames:41-02|<<]] | [[:hi:obs:notes:41|Up]] | [[:hi:obs:notes:frames:41-04|>>]]**
