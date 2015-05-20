@@ -2,28 +2,17 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-06.jpg?nolink&}}
 
-तब मरियम भी वहाँ पहुँच गयी। यीशु के पैरों पर गिर कर उसने कहा, "हे स्वामी, यदि तू यहाँ पर होता, तो मेरा भाई लाज़र न मरता।" यीशु ने उनसे पूछा, "तुम लोगो ने लाज़र को कहाँ रखा है?" उन्होंने बताया, "कब्र में। आकर देख लो।" यीशु तब रो पड़ा।
-
+तब **मरियम** भी वहाँ पहुँच गयी। **यीशु** **के पैरों पर गिर कर** उसने कहा, "हे **स्वामी**, यदि तू यहाँ पर होता, तो **मेरा भाई लाज़र न** **मरता** ।" यीशु ने उनसे पूछा, "तुम लोगो ने **लाज़र** को कहाँ रखा है?" उन्होंने बताया, "**कब्र** में। आकर देख लो।" यीशु तब रो पड़ा।
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
-
-**[[:hi:obs:notes:key-terms:jesus|यीशु]]**
-  *
-
-**[[:hi:obs:notes:key-terms:lord|स्वामी]]**
-  *
-
-**[[:hi:obs:notes:key-terms:death|मरता]]**
-  *
-
-**[[:hi:obs:notes:key-terms:lazarus|लाज़र]]**
-  *
-
-**[[:hi:obs:notes:key-terms:tomb|कब्र]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:lord|स्वामी]]**
+  * **[[:hi:obs:notes:key-terms:death|मरता]]**
+  * **[[:hi:obs:notes:key-terms:lazarus|लाज़र]]**
+  * **[[:hi:obs:notes:key-terms:tomb|कब्र]]**
 ===== अनुवाद के लिए नोट्स: =====
 
-  * **मरियम**  - This was the same woman as in **[[:hi:obs:notes:frames:37-01|[37-01]]]**, not the mother of Jesus.
-  * **fell at the feet of Jesus**  - That is, "knelt down at Jesus' feet" as a sign of respect.
-  * **my brother would not have died.**  - That is, “you could have kept my brother from dying” or, “you could have prevented my brother's death” or, “my brother would still be alive.”
+  * **मरियम**  - यीशु की माता का नाम भी मरियम था। लेकिन यह मरियम कोई और थी। **[[:hi:obs:notes:frames:37-01|[37-01]]]**
+  * **यीशु के पैरो पर गिर ****कर** --अर्थात, आदर व सम्मान के साथ "यीशु के समक्ष घुटने टेक कर।"
+  * **मेरा भाई न मरता**  --अर्थात, "तू मेरे भाई को चंगाई दे देता, और उसकी मृत्यु न होती" या फिर, "मेरे भाई को मरने से रोक लेता।"
 **[[:hi:obs:notes:frames:37-05|<<]] | [[:hi:obs:notes:37|Up]] | [[:hi:obs:notes:frames:37-07|>>]]**
