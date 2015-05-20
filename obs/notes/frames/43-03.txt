@@ -1,15 +1,16 @@
-====== Speaking Other Languages [43-03] ======
+====== अन्य भाषाओं में बोलना [43-03] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-03.jpg?nolink&}}
 
-While the **[[:en:key-terms:believer|believers]]** were all together, suddenly the house where they were was filled with **a sound like a strong wind**. Then something that looked like flames of fire appeared over the heads of all the believers. They were all **filled with the [[:en:key-terms:holy-spirit|Holy Spirit]]** and they began to speak **in other languages**.
+सारे विश्वासी साथ ही में थे कि अचानक जिस घर में वे थे, वहाँ तेज़ आंधी की सनसनाहट जैसी आवाज़ हुई। इसके बाद सभी विश्वासियों के सिरों पर आग की लपटें सी दिखाई दीं।  वे पवित्र आत्मा से भर गए और अन्य-अन्य भाषाओँ में बात करने लगे।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:believer|विश्वासियों]]**
+  * **__[[:hi:obs:notes:key-terms:holy-spirit|पवित्र आत्मा]]__**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **a sound like a strong wind** - That is, "a noise that a strong wind makes" or, "the sound that the wind makes when it blows hard."
-  * **filled with the Holy Spirit** - That is, “given ability by the Holy Spirit” or, “given power by the Holy Spirit.”
-  * **in other languages** - This could be translated as, “in languages other than their own language” or, “in foreign languages” or, “as people from other places speak.” The believers did not know these languages until the Holy Spirit gave them the power to speak them. Make sure the word used to translate “languages” refers to languages people actually speak and understand. 
-  
-
+  * **आंधी की सनसनाहट जैसे आवाज़ हुई**—अर्थात, “तेज़ आंधी की आवाज़” या कि, “आंधी चलने की आवाज़ हुई।“
+  * **पवित्र आत्मा से भर गए**—अर्थात, “पवित्र आत्मा ने उन्हें सामर्थ दी” या कि, “पवित्र आत्मा ने उन्हें योग्यता दी।“
+  * **अन्य-अन्य भाषाओं में**—अनुवाद करते समय हम यूँ भी लिख सकते हैं, “मूल भाषा की जगह कोई और भाषा बोलने लगे” या फिर, “विदेशियों की सी अनजान भाषाओं में बोलने लगे।“ पवित्र आत्मा द्वारा सामर्थ मिलने पर ही विश्वासियों को अन्य भाषाओँ में बोलने की योग्यता मिली थी। ध्यान रहे कि “भाषाओँ” शब्द का आशय लोगों द्वारा बोली जानेवाली भाषाओँ से है।
 **[[:hi:obs:notes:frames:43-02|<<]] | [[:hi:obs:notes:43|Up]] | [[:hi:obs:notes:frames:43-04|>>]]**
