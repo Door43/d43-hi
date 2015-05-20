@@ -1,16 +1,21 @@
-====== Jesus Opened their Minds [42-07] ======
+====== यीशु का उनकी बुद्धि से पर्दा हटाना [42-07] ======
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-07.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-07.jpg?nolink}}
+यीशु न कहा, “मैंने तुम्हे बताया था कि मेरे निमित्त जो भी परमेश्वर के वचन में लिखा है, उसे पूरा होना होगा।“ इसके बाद उसने उनकी बुद्धि पर से हटा पर्दा दिया ताकि वे परमेश्वर के वचन को समझ सकें। उसने कहा, “बहुत समय पहले से ही यह लिखा है कि मसीह कष्ट भोगेगा, मारा जाएगा, और फिर तीसरे दिन मुदों में से जी उठेगा।“
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-**[[:en:key-terms:jesus|Jesus]]** said, “I told you that everything written about me in **[[:en:key-terms:word-of-god|God’s word]]** must be **[[:en:key-terms:fulfill|fulfilled]]**.” Then he **opened their minds so that they could understand** God’s word. He said, “It was written long ago that the **[[:en:key-terms:messiah|Messiah]]** would **[[:en:key-terms:suffer|suffer]]**, **[[:en:key-terms:death|die]]**, and **[[:en:key-terms:raise|rise]]** from the dead **on the third day**.”
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **__[[:hi:obs:notes:key-terms:word-of-god|परमेश्वर के वचन]]__**
+  * **[[:hi:obs:notes:key-terms:fulfill|पूरा होना]]**
+  * **[[:hi:obs:notes:key-terms:messiah|मसीह]]**
+  * **[[:hi:obs:notes:key-terms:suffer|कष्ट तो पाओगे]]**
+  * **[[:hi:obs:notes:key-terms:death|मृत्यु]]**
+  * **[[:hi:obs:notes:key-terms:raise|जीवित होगा]]**
+===== अनुवाद के लिए नोट्स: =====
 
-
-    * **must be fulfilled**  - This can be translated as, “must happen.”
-    * **opened their minds so that they could understand**  - This could also be translated as, "caused them to be able to understand" or, "made them able to comprehend."
-    * **on the third day**  - That is, "after three days" or, "three days later."
-
-
-**[[:hi:obs:notes:frames:42-06|<<]] | [[:hi:obs:notes:42|Up]] | [[:hi:obs:notes:frames:42-08|>>]]** 
+  * **पूरा होना होगा**—अर्थात, “होकर रहेगा।“
+  * **उनकी बुद्धि से पर्दा हटा दिया ताकि वे परमेश्वर के वचन को समझ सकें**—अनुवाद करे समय हम ऐसे भी लिख सकते हैं, कि “उन्हें समझ दी” या कि, “समझने के बुद्धि दी।“
+  * **तीसरे दिन**—अर्थात, “तीन दिन बाद।“
+**[[:hi:obs:notes:frames:42-06|<<]] | [[:hi:obs:notes:42|Up]] | [[:hi:obs:notes:frames:42-08|>>]]**
