@@ -2,27 +2,19 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-08.jpg?nolink&}}
 
-भोजन के बाद **यीशु** अपने **चेलों** के साथ जैतून की पहाड़ी पर चला गया। यीशु ने कहा, "आज रात, तुम सब मुझे छोड़ जाओगे। यह लिखा है कि "मैं **गड़रिये** को घात करूँगा, और सारी **भेड़ें** तितर-बितर हो जायेंगी।"
+भोजन के बाद **यीशु** अपने **चेलों** के साथ **जैतून की पहाड़ी** पर चला गया। यीशु ने कहा, "आज रात, तुम सब **मुझे छोड़ ****जाओगे** । **यह लिखा है** कि "**मैं** **गड़रिये** **को घात करूँगा**, **और सारी** **भेड़ें** **तितर-बितर हो ****जायेंगी** ।"
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:disciple|चेलों]]**
+  * **[[:hi:obs:notes:key-terms:shepherd|गड़रिये]]**
+  * **[[:hi:obs:notes:key-terms:sheep|भेड़े]]**
+===== अनुवाद के लिए नोट्स: =====
 
-**[[:hi:obs:notes:key-terms:jesus|यीशु]]**
-  *
-
-**[[:hi:obs:notes:key-terms:disciple|चेलों]]**
-  *
-
-**[[:hi:obs:notes:key-terms:shepherd|गड़रिये]]**
-  *
-
-**[[:hi:obs:notes:key-terms:sheep|भेड़े]]**
-===== Translation Notes: =====
-
-  * **Mount of Olives**  - This is the name of a hill covered with olive trees, just outside the walls of the city of Jerusalem. It can also be translated as, "Olive Tree Hill."
-  * **abandon me**  – That is, “desert me” or, “leave me.”
-  * **It is written**  - That is, “It is written in God's word” or, “It is written in the scriptures” or, “One of God's prophets wrote.” It is also possible to say, “What is written will happen” or, “It will be like what is written.” This prophecy refers to Jesus' death and his followers running away.
-  * **I will strike**  - That is, “I will kill.”
-  * **the shepherd and all the sheep**  - Do not use Jesus' name in this quote because the prophet who first wrote it would not have known the shepherd's name. Also, do not refer to the sheep being the disciples. It is best to use words that mean “shepherd” and “sheep” in your translation.
-  * **will be scattered**  - That is, “will go away in different directions.”
+  * **जैतून की ****पहाड़ी** --यरूशलेम नगर की दीवार के बाहर स्थिर एक पहाड़ी का नाम जिस पर जैतून के पेड़ ही पेड़ लगे थे। अनुवाद करते समय हम इसे "जैतूनवाली पहाड़ी" भी लिख सकते हैं।
+  * **मुझे छोड़ ****जाओगे** --अर्थात, "अकेला छोड़ दोगे" या कि, "मुझे त्याग दोगे।"
+  * **यह लिखा ****है** --अर्थात, "परमेश्वर के वचन में यह लिखा है" या कि, "वचन में लिखा है", अथवा, "परमेश्वर के नबियो ने लिखा है कि।" यहाँ पर "जो लिखा है, सो होगा ही" भी लिख सकते है। यह भविष्यदवाणी यीशु की मृत्यु और उसके चेलों के भाग जाने के विषय में थी।
+  * **मैं गड़रिये को घात ****करूँगा** --अर्थात, "मैं गड़रिये को मार दूँगा।"
+  * **गड़रिये को घात करूँगा और सारी ****भेड़ें** --यहाँ पर "गड़रिये" की जगह "यीशु" शब्द का प्रयोग न करें क्योंकि भविष्यदवाणी करनेवाले नबी को संभवतः गड़रिये का नाम नहीं पता होगा। साथ ही "भेड़ें" की जगह "चेले" शब्द का प्रयोग भी न करें। बेहतर यही होगा कि अनुवाद करनेवाला इनके लिए अपनी भाषा में मौजूद उन्ही शब्दों का प्रयोग करें जो इनके शाब्दिक अर्थ को बताते हैं।
+  * **तितर-बितर हो ****जायेंगी** --अर्थात, "इधर-उधर भाग जायेंगी।"
 **[[:hi:obs:notes:frames:38-07|<<]] | [[:hi:obs:notes:38|Up]] | [[:hi:obs:notes:frames:38-09|>>]]**
