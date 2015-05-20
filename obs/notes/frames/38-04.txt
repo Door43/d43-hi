@@ -1,17 +1,30 @@
-====== This Is My Body [38-04] ======
+====== यह मेरी देह है [38-04] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-04.jpg?nolink&}}
 
-In Jerusalem, **[[:en:key-terms:jesus|Jesus]]** **celebrated** the **[[:en:key-terms:passover|Passover]]** with his **[[:en:key-terms:disciple|disciples]]**. During the Passover meal, Jesus **took some bread** and **broke it**. He said, “Take and eat this. **This is my body**, which is **given for you.** **Do this to remember me.**” In this way, Jesus said that his body would be **[[:en:key-terms:sacrifice|sacrificed]]** for them.
+**यीशु ** ने अपने **चेलों** के साथ **यरूशलेम** में **फसह** का पर्व **मनाया** । फसह के भोजन के दौरान, यीशु ने **रोटी के कुछ हिस्से** लेकर उन्हें **तोड़ा** । उसने कहा, "इसे लो और खाओ। यह मेरी देह है, जो **तुम्हारे लिए दी गयी है** । **ऐसा मेरी याद में किया ****करो** ।"  ऐसा करके यीशु ने कहा कि उसकी देह को उनके लिए **बलिदान** किया जाएगा।
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[:hi:obs:notes:key-terms:jerusalem|यरूशलेम ]]**
+  *
 
-  * **celebrated** – That is, “was celebrating.”  
-  * **took some bread** – This could be translated as, “picked up a piece of bread” or, “picked up a flat loaf of bread.”
-  * **broke it** – Some languages should say, “tore it in pieces” or, “tore it in half” or, “tore off part of it.” 
-  * **given for you** - This can also be translated as, “which I give for you.”
-  * **Do this to remember me** - That is, “Do this as a way to remind yourselves of what I am doing for you.” Jesus was referring to his death, which would happen soon. 
-  
+**[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  *
 
+**[[:hi:obs:notes:key-terms:passover|फसह]]**
+  *
+
+**[[:hi:obs:notes:key-terms:disciple|चेलों]]**
+  *
+
+**[[:hi:obs:notes:key-terms:sacrifice|बलिदान]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **मनाया** --अर्थात, "उत्सव मनाया।"
+  * **रोटी के हिस्से**  --इसे "रोटी के टुकड़े उठाये" या फिर, "रोटी का एक टुकडा लिया" भी लिख सकते हैं।
+  * **तोड़ा** --कुछ भाषाओँ में "टुकड़ों में बाँँटा" या कि, "आधा किया" भी लिखा जा सकता है।
+  * **तुम्हारे लिए दे गयी ****है** --इसे "जो मैं तुम्हे देता हूँ" भी लिख सकते हैं।
+  * **ऐसा मेरी याद में किया ****करो** --अर्थात, "मैं जो तुम्हारे लिए कर रहा हूँ, उसे याद करने के लिए ऐसा करना।" यीशु, जल्द होनेवाली अपनी मृत्यु के विषय में कह रहे थे।
 **[[:hi:obs:notes:frames:38-03|<<]] | [[:hi:obs:notes:38|Up]] | [[:hi:obs:notes:frames:38-05|>>]]**
