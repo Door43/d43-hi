@@ -1,19 +1,26 @@
-====== Jesus Went to Heaven [42-11] ======
+====== यीशु का स्वर्गारोहण [42-11] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-11.jpg?nolink&}}
 
-Forty days after **[[:en:key-terms:jesus|Jesus]]** rose from the dead, he told his **[[:en:key-terms:disciple|disciples]]**, “Stay in **[[:en:key-terms:jerusalem|Jerusalem]]** until my **[[:en:key-terms:god-father|Father]]** gives you **[[:en:key-terms:power|power]]** when the **[[:en:key-terms:holy-spirit|Holy Spirit]]** **comes on you**.” Then Jesus went up to **[[:en:key-terms:heaven|heaven]]**, and **a cloud hid him from their sight**. Jesus sat down **at the right hand of [[:en:key-terms:god|God]]** to rule **over all things**.
+मुर्दों में से जी उठने के चालीस दिन बाद यीशु ने अपने चेलों से कहा, “जब तक पवित्र आत्मा तुम लोगों पर न आये और मेरे पिता से तुम सामर्थ न पाओ, तब तक तुम यरूशलेम में ही बने रहो।“ यीशु तब स्वर्ग चला गया, और एक बादल ने उसे ओझल कर दिया। सभी चीज़ों पर राज्य करने हेतु यीशु ठीक परमेश्वर की दायीं ओर बैठ गया।
 
 //A Bible story from: Matthew 28:16-20; Mark 16:12-20; Luke 24:13-53; John 20:19-23; Acts 1:1-11//
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:disciple|चेले]]**
+  * **[[:hi:obs:notes:key-terms:jerusalem|यरूशलेम]]**
+  * **[[:hi:obs:notes:key-terms:god-father|पिता]]**
+  * **[[:hi:obs:notes:key-terms:power|सामर्थ]]**
+  * **__[[:hi:obs:notes:key-terms:holy-spirit|पवित्र आत्मा]]__**
+  * **[[:hi:obs:notes:key-terms:heaven|स्वर्ग]]**
+  * **[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
+===== अनुवाद के लिए नोट्स: =====
 
-===== Translation Notes: =====
-
-  * **comes on you** - That is, "comes down upon you" or, "comes onto you."
-  * **a cloud hid him from their sight** - This could also be translated as, "he disappeared into a cloud."
-  * **at the right hand of God** - This could also be translated as, "at the right side of God."
-  * **over all things** - That is, "over everything."
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-  
+  * **जब तक पवित्र आत्मा तुम पर न आये**—अर्थात, “तुम पर न उतरे।“
+  *  **एक बादल ने उसे ओझल कर दिया**—इसे “वह बादल में अदृश्य हो गया” भी लिख सकते हैं।
+  * **परमेश्वर की दायी ओर**—इसे “परमेश्वर की दायीं तरफ” भी लिख सकते हैं।
+  * **सभी चीज़ों पर**—अर्थात, “सभी पर।“
+  * बाइबिल की कहानी  - बाइबिल के कुछ संस्करणों में इनका अनुवाद अलग तरह से किया हो सकता है।
 
 **[[:hi:obs:notes:frames:42-10|<<]] | [[:hi:obs:notes:42|Up]] | [[:hi:obs:notes:frames:43-01|>>]]**
