@@ -1,13 +1,17 @@
-====== Jesus Is Alive [42-05] ======
+====== यीशु जीवित है [42-05] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-05.jpg?nolink&}}
 
-The two men said to each other, “That was **[[:en:key-terms:jesus|Jesus]]**! That is why **our hearts were burning** when he explained **[[:en:key-terms:word-of-god|God’s word]]** to us!” Immediately, they went back to **[[:en:key-terms:jerusalem|Jerusalem]]**. When they arrived, they told the **[[:en:key-terms:disciple|disciples]]**, “Jesus is **[[:en:key-terms:life|alive]]**! We have seen him!”
+दोनों व्यक्तियों ने एक दूसरे से कहा, “वह यीशु था! इसीलिए जब वह हमें परमेश्वर का वचन समझा रहा था तब हमारे मन में उत्तेजना हो रही थी!” वे तुरंत ही यरूशलेम को लौट गए। वहाँ पहुँच कर उन्होंने चेलो को बताया, “यीशु जीवित है! हम उसे देख चुके हैं!”
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:word-of-god|परमेश्वर के वचन]]**
+  * **[[:hi:obs:notes:key-terms:jerusalem|यरूशलेम]]**
+  * **[[:hi:obs:notes:key-terms:disciple|चेले]]**
+  * **[[:hi:obs:notes:key-terms:life|जीवित होंगे]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **our hearts were burning** - That is, “we were getting excited” or, “we were beginning to hope” or, “we felt joy.” Some languages have ways of expressing it such as, “our hearts were stirred” or, “our hearts were warmed.” If you use an expression that refers to the heart burning, make sure it does not indicate that they were upset or angry. 
-
-  
+  * **हमारे मन में उत्तेजना हो रही थी**—अर्थात, “हम उत्साहित हो रहे थे” या कि, “हमारे भीतर आशा जाग रही थी” अथवा, “हमें आनंद हो रहा था।“ कुछ भाषाओँ में इसे व्यक्त करने के लिए विशिष्ट अभिव्यक्तियाँ हो सकती हैं, जैसे कि, “हमारे मन पिघल रहे थे” या कि, “हमारे मन में हलचल हो रही थी।“ यदि आपकी भाषा में मन की ऐसे उत्तेजना के लिए कोई विशिष्ट शब्द या अभिव्यक्ति हो तो उसीका प्रयोग करे, लेकिन ध्यान रहें यहाँ पर उत्तेजना या हलचल का आशय क्रोध से नहीं है।
 **[[:hi:obs:notes:frames:42-04|<<]] | [[:hi:obs:notes:42|Up]] | [[:hi:obs:notes:frames:42-06|>>]]**
