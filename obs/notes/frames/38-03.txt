@@ -1,13 +1,30 @@
-====== Thirty Pieces of Silver [38-03] ======
+====== चाँदी के तीस सिक्के [38-03] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-03.jpg?nolink&}}
 
-The **[[:en:key-terms:jewish-leaders|Jewish leaders]]**, led by the **[[:en:key-terms:priest-high|high priest]]**, paid **[[:en:key-terms:judas|Judas]]** **thirty silver coins** to **[[:en:key-terms:betray|betray]]** **[[:en:key-terms:jesus|Jesus]]**. This happened just as the **[[:en:key-terms:prophet|prophets]]** had predicted. Judas agreed, took the money, and went away. He began looking for an opportunity to help them arrest Jesus.
+महा याजक की अगुआई में, यहूदी अगुओं न यीशु से धोखा करने के एवज़ में यहूदा को चाँदी के तीस सिक्के दिये। ऐसा ठीक नबियों की भविष्यदवाणी के अनुसार हुआ। यहूदा मान गया, और पैसे लेकर चला गया। वह अब यीशु को पकड़वाने के अवसर की ताक में रहने लगा।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
+
+**[[:hi:obs:notes:key-terms:jewish leaders|यहूदी अगुओं]]**
+  *
+
+**[[:hi:obs:notes:key-terms:high priest|महा याजक ]]**
+  *
+
+**[[:hi:obs:notes:key-terms:judas|यहूदा ]]**
+  *
+
+**[[:hi:obs:notes:key-terms:betray|धोखा करने ]]**
+  *
+
+**[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  *
+
+**[[:hi:obs:notes:key-terms:prophet|नबियों]]**
 ===== Translation Notes: =====
 
-  * **thirty silver coins** - Each of these coins were worth about four days' wages. 
-  
-
+  * **thirty silver coins**  - Each of these coins were worth about four days' wages.
 **[[:hi:obs:notes:frames:38-02|<<]] | [[:hi:obs:notes:38|Up]] | [[:hi:obs:notes:frames:38-04|>>]]**
