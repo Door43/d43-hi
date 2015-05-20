@@ -1,14 +1,15 @@
-====== Jesus Walked with the Disciples [42-02] ======
+====== यीशु का चेलों के साथ चलना [42-02] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-02.jpg?nolink&}}
 
-**[[:en:key-terms:jesus|Jesus]]** approached them and started walking with them, but they **did not recognize him**. He asked what they were talking about, and they told him about **all the remarkable things that had happened** concerning Jesus during the previous few days. They thought they were talking to a visitor who did not know what had happened in **[[:en:key-terms:jerusalem|Jerusalem]]**.
+यीशु उनके पास आया और उनके साथ-साथ चलने लगा, लेकिन वे उसे पहचान न सके। उसने उनकी बातचीत का विषय पूछा, और उन्होंने पिछले कुछ दिनों में यीशु के साथ घटित हुई अद्भुत घटनाओं के बारे में उसे बताया। उन्होंने सोचा कि वे किसी आगंतुक से बातें कर रहे हैं जिसे यरूशलेम में हुई घटना की जानकारी नहीं है।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:jerusalem|यरूशलेम]]**
+===== **अनुवाद के लिए नोट्स:**  =====
 
-  * ** did not recognize him** - That is, "did not know that it was Jesus."
-  * **all the remarkable things that had happened** - This refers to the teaching and miracles of Jesus, his death, and the reports of his resurrection.
-  
-
+  * **उसे पहचान न सकते**—अर्थात, “उन्हें पता नहीं चला कि वह स्वयं यीशु था।“
+  * **अद्भुत घटनाओं के बारे में** ---इसका आशय यीशु के आश्चर्यकर्मों, उसकी मृत्यु व जी उठने की खबरों से है।
 **[[:hi:obs:notes:frames:42-01|<<]] | [[:hi:obs:notes:42|Up]] | [[:hi:obs:notes:frames:42-03|>>]]**
