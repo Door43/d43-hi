@@ -1,14 +1,27 @@
-====== Jesus' Prayer [37-09] ======
+====== यीशु की प्रार्थना [37-09] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-09.jpg?nolink&}}
 
-Then **[[:en:key-terms:jesus|Jesus]]** looked up to **[[:en:key-terms:heaven|heaven]]** and said, “**[[:en:key-terms:god-father|Father]]**, thank you for **hearing me**. I know you always listen to me, but I say this for the sake of all these people standing here, so that they will **[[:en:key-terms:believe|believe]]** you sent me.” Then Jesus shouted, “**[[:en:key-terms:lazarus|Lazarus]]**, **come out**!”
+**यीशु** ने तब **स्वर्ग** की ओर देखा और कहा, "हे **पिता**, मैं तेरा धन्यवाद देता हूँ कि **तूने मेरी सुन ली है** । मैं जानता हूँ कि तू सदा मेरी सुनता है, लेकिन जो भीड़ मेरे आसपास खड़ी है, उनके कारण मैंने ऐसा कहा, जिससे कि वे **विश्वास** करें कि तूने मुझे भेजा है।" यह कह कर यीशु ने जोर से कहा, "हे **लाज़र**, **बाहर निकल ****आ** ।"
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  *
 
-  * **hearing me** – That is, “listening to me.” It may be helpful to add, “as I pray to you” or, “when I talk to you.” 
-  * **come out** - Some languages may prefer to say, "come out of the tomb."
-  
+**[[:hi:obs:notes:key-terms:heaven|स्वर्ग]]**
+  *
 
+**[[:hi:obs:notes:key-terms:god father|पिता]]**
+  *
+
+**[[:hi:obs:notes:key-terms:believe|विश्वास]]**
+  *
+
+**[[:hi:obs:notes:key-terms:lazarus|लाज़र]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **तूने मेरी सुन ली ****है** --अर्थात, "तू मुझे सुन रहा है।" यहाँ पर "जब मैं प्रार्थना करता हूँ, तब तू...." अथवा, "जब मैं तुझसे बातचीत करता हूँ, तब तू...."जोड़ना बेहतर होगा।
+  * **बाहर निकल आ** --कुछ भाषाओं में "कब्र से बाहर निकल आ" कहना बेहतर होगा।
 **[[:hi:obs:notes:frames:37-08|<<]] | [[:hi:obs:notes:37|Up]] | [[:hi:obs:notes:frames:37-10|>>]]**
