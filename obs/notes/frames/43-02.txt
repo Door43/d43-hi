@@ -1,15 +1,18 @@
-====== The Feast of Pentecost [43-02] ======
+====== पिन्तेकुस्त का भोज [43-02] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-02.jpg?nolink&}}
 
-Every year, 50 days after the **[[:en:key-terms:passover|Passover]]**, the **[[:en:key-terms:jew|Jews]]** celebrated an important day called **Pentecost**. Pentecost was a time when the Jews **celebrated the harvest**. Jews came from all over the world to **[[:en:key-terms:jerusalem|Jerusalem]]** to celebrate Pentecost together. **This year**, the time for Pentecost came about a week after **[[:en:key-terms:jesus|Jesus]]** had gone back to **[[:en:key-terms:heaven|heaven]]**.
+फसह के ५० दिन बाद, यहूदी लोग सालाना रूप से पिन्तेकुस्त नाम का एक महत्वपूर्ण दिवस मनाते थे। पिन्तेकुस्त के समय यहूदी कटनी का उत्सव मनाते थे। पिन्तेकुस्त को मनाने के लिए विश्व भर से यहूदी यरूशलेम में जमा होते थे।इस साल, पिन्तेकुस्त का दिन यीशु के स्वर्गारोहण के लगभग एक सप्ताह बाद पड़ा था।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:passover|फसह]]**
+  * **[[:hi:obs:notes:key-terms:jew|यहूदियों]]**
+  * **[[:hi:obs:notes:key-terms:jerusalem|यरूशलेम]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:heaven|स्वर्ग]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **Pentecost** - "Pentecost" means "fiftieth (day)." You could use the word "Pentecost" in your translation and let the text explain the meaning. Or you could use a term that means, "50th day."
-  * **celebrated the harvest** - The Jews would thank God for the harvest by bringing offerings and celebrate by having special meals.
-  * **This year** - That is, "In the year that Jesus died."
-  
-
-**[[:hi:obs:notes:frames:43-01|<<]] | [[:hi:obs:notes:43|Up]] | [[:hi:obs:notes:frames:43-03|>>]]**
+  * **पिन्तेकुस्त**—“पिन्तेकुस्त” का शाब्दिक अर्थ “पचासवाँ (दिवस)” है। आप यहाँ पर “पिन्तेकुस्त” शब्द का प्रयोग कर सकते हैं और लेखन सामग्री से आशय को स्वयं स्पष्ट होने दें। नहीं तो आप अपने भाषा में “५०वें दिन” के लिए प्रयुक्त होनेवाले विशिष्ट शब्द का भी प्रयोग कर सकते हैं।
+  * **कटनी का उत्सव मनाते थे**—परमेश्वर को भेंट व उपहार समर्पित करने के द्वारा यहूदी अच्छी फसल के लिए परमेश्वर का धन्यवाद करते थे और विशेष भोजन का सेवन करके उत्सव मनाते थे।
+  * **इस साल**—अर्थात, “जिस साल यीशु की मृत्यु हुई थी।“
