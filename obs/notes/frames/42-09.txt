@@ -1,13 +1,18 @@
-====== Jesus Taught for Forty Days [42-09] ======
+====== यीशु ने चालीस दिनों तक उपदेश दिया [42-09] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-09.jpg?nolink&}}
 
-During the next forty days, **[[:en:key-terms:jesus|Jesus]]** appeared to his **[[:en:key-terms:disciple|disciples]]** many times. Once, he even appeared to more than 500 people at the same time! He proved to his disciples in many ways that he was **[[:en:key-terms:life|alive]]**, and he taught them about the **[[:en:key-terms:kingdom-of-god|kingdom of God]]**.
+अगले चालीस दिनों के दौरान, यीशु कई बार अपने चेलों को दिखाई दिए। एक बार, वह ५०० लोगों को एक साथ दिखाई दिया! उसने कई रीतियों से अपने चेलों को अपने जीवित होने की बात सिद्ध की और परमेश्वर के राज्य के बारे में सिखाया।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:disciple|चेले]]**
+  * **[[:hi:obs:notes:key-terms:life|जीवित होंगे]]**
+  * **[[:hi:obs:notes:key-terms:kingdom-of-god|परमेश्वर के राज्य]]**
 
-  * //(There are no notes for this frame.)//
-  
+===== अनुवाद के लिए नोट्स: =====
+
+  * (अनुवाद के लिए कोई नोट्स नहीं हैं।)
 
 **[[:hi:obs:notes:frames:42-08|<<]] | [[:hi:obs:notes:42|Up]] | [[:hi:obs:notes:frames:42-10|>>]]**
