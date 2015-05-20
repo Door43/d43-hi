@@ -1,17 +1,26 @@
-====== The Leaders Were Jealous [37-11] ======
+====== अगुओ की इर्ष्या [37-11] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-11.jpg?nolink&}}
 
-But the **[[:en:key-terms:jewish-leaders|religious leaders]]** of the **[[:en:key-terms:jew|Jews]]** were **jealous**, so they **gathered together** to plan how they could kill **[[:en:key-terms:jesus|Jesus]]** and **[[:en:key-terms:lazarus|Lazarus]]**.
+लेकिन **यहूदियों** के **धार्मिक अगुए** **इर्ष्या** करने लगे, इस कारण वे **जमा होकर** **यीशु** व **लाज़र** की हत्या की योजना बनाने लगे।
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-//A Bible story from: John 11:1-46//
+  *
 
+**[[:hi:obs:notes:key-terms:jewish leaders|धार्मिक अगुवे]]**
+  *
 
-===== Translation Notes: =====
+**[[:hi:obs:notes:key-terms:jew|यहूदियों]]**
+  *
 
-  * **jealous** - That is, "jealous of Jesus' power and popularity" or, "jealous that so many Jews were believing in Jesus."
-  * **gathered together** - That is, "met together" or, "joined together." This was a not a casual meeting, but a meeting for a specific purpose--to plan how to kill Jesus.
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-  
+**[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  *
+
+**[[:hi:obs:notes:key-terms:lazarus|लाज़र]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **इर्ष्या**  --अर्थात, "यीशु की सामर्थ और लोकप्रियता से जलने लगे" अथवा, "इतने यहूदियों को उस पर विश्वास करते देख उससे इर्ष्या करने लगे।"
+  * **जमा होकर**  --अर्थात,"एकजुट होकर" या कि, "साथ मिल कर।" उनकी बैठके मिलने-जुलने के लिए नहीं, वरन यीशु व लाज़र की हत्या का षड्यंत्र रचने के लिए होती थीं।
+  * बाइबिल की कहानी - बाइबिल के कुछ संस्करणों में इनका अनुवाद अलग तरह से किया हो सकता है।
 
 **[[:hi:obs:notes:frames:37-10|<<]] | [[:hi:obs:notes:37|Up]] | [[:hi:obs:notes:frames:38-01|>>]]**
