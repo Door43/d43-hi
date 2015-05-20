@@ -1,14 +1,19 @@
-====== The Disciples in Jerusalem [43-01] ======
+====== यरूशलेम में चेले [43-01] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-01.jpg?nolink&}}
 
-After **[[:en:key-terms:jesus|Jesus]] returned to [[:en:key-terms:heaven|heaven]]**, the **[[:en:key-terms:disciple|disciples]]** **stayed in [[:en:key-terms:jerusalem|Jerusalem]]** as Jesus had commanded them to do. The **[[:en:key-terms:believer|believers]]** there constantly gathered together to **[[:en:key-terms:pray|pray]]**.
+यीशु के स्वर्ग लौटने के बाद, यीशु की आज्ञा के अनुसार चेले यरूशलेम में  रहे। विश्वासी नियमित रूप प्रार्थना के लिए जमा होते रहे।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:heaven|स्वर्ग]]**
+  * **[[:hi:obs:notes:key-terms:disciple|चेले]]**
+  * **[[:hi:obs:notes:key-terms:jerusalem|यरूशलेम]]**
+  * **[[:hi:obs:notes:key-terms:believer|विश्वासियों]]**
+  * **[[:hi:obs:notes:key-terms:pray|प्रार्थना]]**
+===== अनुवाद के लिये नोट्स: =====
 
-  * **returned to heaven** - That is, "went back to heaven."
-  * **stayed in Jerusalem** – That is, “stayed in Jerusalem for awhile.” They didn't stay there permanently. 
-  
-
+  * **स्वर्ग लौटने के बाद**—अर्थात, “स्वर्ग में वापिस जाने के बाद।“
+  * **यरूशलेम में रहे**—अर्थात, “कुछ और समय यरूशलेम में ठहरे रहे।“ वे वहाँ पर स्थायी रूप से बस नहीं गए थे।
 **[[:hi:obs:notes:frames:42-11|<<]] | [[:hi:obs:notes:43|Up]] | [[:hi:obs:notes:frames:43-02|>>]]**
