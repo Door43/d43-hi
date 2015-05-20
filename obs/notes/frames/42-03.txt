@@ -1,14 +1,19 @@
-====== Jesus Explained the Prophets [42-03] ======
+====== यीशु ने नबियों के विषय में समझाया [42-03] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-03.jpg?nolink&}}
 
-Then **[[:en:key-terms:jesus|Jesus]]** explained to them what **[[:en:key-terms:word-of-god|God’s word]]** said about the **[[:en:key-terms:messiah|Messiah]]**. He reminded them that the **[[:en:key-terms:prophet|prophets]]** said the Messiah would **[[:en:key-terms:suffer|suffer]]** and be killed, but would **[[:en:key-terms:raise|rise]]** again **on the third day**. When they arrived at the town where the two men planned to stay, **it was almost evening**.
+इसके बाद यीशु ने उन्हें समझाया कि परमेश्वर के वचन में मसीह के विषय में क्या लिखा है। उसने बताया कि नबियों ने कहा था कि मसीह कष्ट भोगेगा और मारा जाएगा, लेकिन तीसरे दिन वह फिर जी उठेगा। जिस नगर में उन दोनों को ठहरना था, जब वे वहाँ पहुंचे तब तक शाम लगभग हो चुकी थी।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:word-of-god|परमेश्वर के वचन]]**
+  * **[[:hi:obs:notes:key-terms:messiah|मसीह]]**
+  * **[[:hi:obs:notes:key-terms:prophet|नबियों]]**
+  * **[[:hi:obs:notes:key-terms:suffer|कष्ट तो पाओगे]]**
+  * **[[:hi:obs:notes:key-terms:raise|जीवित होगा]]**
+===== **अनुवाद के लिए नोट्स:**  =====
 
-  * **on the third day** - Some languages may prefer to say, "on the third day after his death."
-  * **it was almost evening** - This can also be translated as, “the day was ending” or, “the sun was going down” or, “it was starting to get dark.” 
-  
-
+  * **तीसरे ****दिन** --अधिक स्पष्ट के लिए कुछ भाषाओं में “मृत्यु के तीसरे दिन” कहना बेहतर होगा।
+  * **लगभग शाम हो चुकी थी**—अनुवाद करते समय हम इसे “दिन ढलने को था” या फिर, “सूरज ढलने को था” अथवा, “अँधेरा होने को था” भी लिख सकते है।
 **[[:hi:obs:notes:frames:42-02|<<]] | [[:hi:obs:notes:42|Up]] | [[:hi:obs:notes:frames:42-04|>>]]**
