@@ -1,15 +1,25 @@
-====== At Gethsemane [38-11] ======
+====== गतसमनी पर [38-11] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-11.jpg?nolink&}}
 
-Then **[[:en:key-terms:jesus|Jesus]]** went with his **[[:en:key-terms:disciple|disciples]]** to **a place called Gethsemane**. Jesus told his disciples to **[[:en:key-terms:pray|pray]]** that they would not **enter into [[:en:key-terms:tempt|temptation]]**. Then Jesus went to pray **by himself**.
+इसके बाद, अपने **चेलों** के साथ **यीशु** **गतसमनी नाम की जगह** पर चला गया। यीशु ने अपने चेलों से कहा कि वे **प्रार्थना** करें कि **परीक्षा** **में न ****पड़ें** । इसके बाद यीशु **एकांत में** प्रार्थना करने चला गया।
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  *
 
-===== Translation Notes: =====
+**[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  *
 
-  * **a place called Gethsemane** - This could be translated as, “a nearby place called Gethsemane” or, “a place called Gethsemane at the foot of the Mount of Olives.” 
-  * **enter into temptation** -  That is, “would not sin when they were tempted” or, “would not give in to the temptation they were about to experience.” 
-  * **by himself** – This could be translated as, “alone.” 
-  
+**[[:hi:obs:notes:key-terms:disciple|चेलों]]**
+  *
 
+**[[:hi:obs:notes:key-terms:pray|प्रार्थना]]**
+  *
+
+**[[:hi:obs:notes:key-terms:tempt|परीक्षा]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **गतसमनी नाम की ****जगह** --अनुवाद के समय आप "पास ही स्थित गतसमनी नाम की जगह" या फिर, "जैतून की पहाड़ी के नीचे स्थित गतसमनी नाम की जगह" भी लिख सकते हैं।
+  * **परीक्षा में न ****पड़ें** --अर्थात, "परीक्षा में पड़ने पर पाप न करें" या कि, "आनेवाली परीक्षा से बच सकें।"
+  * **एकांत ****में** --अर्थात, "अकेले में।"
 **[[:hi:obs:notes:frames:38-10|<<]] | [[:hi:obs:notes:38|Up]] | [[:hi:obs:notes:frames:38-12|>>]]**
