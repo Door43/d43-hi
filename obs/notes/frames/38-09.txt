@@ -6,22 +6,12 @@
 
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
-
-**[[:hi:obs:notes:key-terms:peter|पतरस ]]**
-  *
-
-**[[:hi:obs:notes:key-terms:jesus|यीशु ]]**
-  *
-
-**[[:hi:obs:notes:key-terms:satan|शैतान ]]**
-  *
-
-**[[:hi:obs:notes:key-terms:pray|प्रार्थना की]]**
-  *
-
-**[[:hi:obs:notes:key-terms:faith|विश्वास]]**
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:peter|पतरस ]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु ]]**
+  * **[[:hi:obs:notes:key-terms:satan|शैतान ]]**
+  * **[[:hi:obs:notes:key-terms:pray|प्रार्थना की]]**
+  * **[[:hi:obs:notes:key-terms:faith|विश्वास]]**
+===== अनुवाद के लिए नोट्स: =====
 
   * **abandon you**  – Check to see how you translated this in **[[:hi:obs:notes:frames:38-08|[38-08]]]**.
   * **to have all of you**  - That is, "to completely control you" or, "to get you to serve him completely." The word "you" is plural in this phrase. All of the words "you" and "your" that follow are singular.
