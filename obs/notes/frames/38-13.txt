@@ -2,23 +2,14 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-13.jpg?nolink&}}
 
-अपनी हर प्रार्थना के बाद यीशु अपने चेलों के पास लौटता, लेकिन वे सो रहे होते। तीसरी बार प्रार्थना करके लौटने पर यीशु ने कहा, "उठो, मुझे धोखा देनेवाला आ पहुँचा है।"
+अपनी हर** प्रार्थना ** के बाद **यीशु** अपने **चेलों** के पास लौटता, लेकिन वे सो रहे होते। तीसरी बार प्रार्थना करके लौटने पर यीशु ने कहा, "उठो, मुझे **धोखा देनेवाला** आ पहुँचा है।"
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Important Terms: =====
-
-  *
-
-**[[https://door43.org/en/obe/other/pray|prayer]]**
-  *
-
-**[[https://door43.org/en/obe/kt/jesus|Jesus]]**
-  *
-
-**[[https://door43.org/en/obe/kt/disciple|disciples]]**
-  *
-
-**[[https://door43.org/en/obe/kt/betray|betrayer]]**
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:pray|प्रार्थना]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:disciple|चेलों]]**
+  * **[[:hi:obs:notes:key-terms:betray|धोखा देनेवाला]]**
+===== अनुवाद के लिए नोट्स: =====
 
   * **After each time of prayer**  - That is, “Every time Jesus prayed that prayer.” This refers to the three times he prayed, as mentioned in **[[:hi:obs:notes:frames:38-12|[38-12]]]**.
 **[[:hi:obs:notes:frames:38-12|<<]] | [[:hi:obs:notes:38|Up]] | [[:hi:obs:notes:frames:38-14|>>]]**
