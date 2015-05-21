@@ -1,17 +1,26 @@
-====== God Raised Jesus [43-07] ======
+====== परमेश्वर ने यीशु को जिलाया [43-07] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-07.jpg?nolink&}}
 
-“Although **[[:en:key-terms:jesus|Jesus]]** died, **[[:en:key-terms:god|God]]** **[[:en:key-terms:raise|raised]]** him from the **[[:en:key-terms:death|dead]]**. **This [[:en:key-terms:fulfill|fulfills]] the [[:en:key-terms:prophet|prophecy]] which says**, ‘**You will not let your** **[[:en:key-terms:messiah|Holy One]]** **rot in the grave**.’ We are **[[:en:key-terms:witness|witnesses]]** to the fact that God **raised Jesus to [[:en:key-terms:life|life]] again**."
+यीशु का पुनरुत्थानइससे वह भविष्यदवाणी पूरी होती है जो कहती है कि, “तू अपने पवित्र जन को कब्र में सड़ने न देगा।“ हम इस बात के गवाह हैं कि परमेश्वर ने यीशु को फिर से जीवित किया है।“
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
+  * **[[:hi:obs:notes:key-terms:raise|जिलाया]]**
+  * **[[:hi:obs:notes:key-terms:death|मुर्दों]]**
+  * **[[:hi:obs:notes:key-terms:fulfill|पूरी होती है]]**
+  * **[[:hi:obs:notes:key-terms:prophet|भविष्यदवाणी]]**
+  * **[[:hi:obs:notes:key-terms:christ|पवित्र जन]]**
+  * **[[:hi:obs:notes:key-terms:witness|गवाह]]**
+  * **[[:hi:obs:notes:key-terms:life|जिलाया]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * (Peter continues preaching to the crowd.)
-  * **This fulfills the prophecy which says** – Another way to translate this would be, “This caused to come true what one of the prophets said long ago.” 
-  * **You will not let your** - “You” and “your” refer to God the Father. To make that clear, this could be translated as, “You, God, will not let your.” Some languages may have a special way of addressing someone, such as, “You, O God.” 
-  * **rot in the grave** - That is, “decay in the tomb” or, “decompose in the grave.” This refers to the fact that Jesus did not remain in the tomb very long and is another way of saying that he did not stay dead, but rather came back to life again.
-  * **raised Jesus to life again** - That is, "made Jesus alive again."  
-
+  * (पतरस अपना संबोधन जारी रखता है।)
+  * **इससे वह भविष्यदवाणी पूरी होती है जो कहती है कि**—अनुवाद करते समय हम इस बात को यूँ भी लिख सकते हैं, कि “इसने एक नबी की सदियों पहले कही बात को सच किया है कि.. ।“
+  * **तू अपने**  ---यहाँ पर “तू” और “अपने” का आशय पिता परमेश्वर से है। बात को स्पष्ट करने के लिए आप “हे परमेश्वर, तू अपने” भी लिख सकते हैं। कुछ भाषाओं में परमेश्वर को संबोधित करते समय विशेष शब्दों का प्रयोग किया जाता है।
+  * **कब्र में सड़ने न दूँँगा**—अर्थात, “कब्र में क्षय होने न दूँगा।“ इसका आशय इस तथ्य से है कि यीशु अधिक समय के लिए कब्र में नहीं रहा; यह इस बात को कहने का एक और तरीका है कि वह अधिक समय के लिए मृत नहीं था, बल्कि जल्द ही जीवन में लौट आया था।
+  * यीशु को फिर से जीवित किया है—अर्थात, “यीशु को फिर से जीवन दिया है।“
 
 **[[:hi:obs:notes:frames:43-06|<<]] | [[:hi:obs:notes:43|Up]] | [[:hi:obs:notes:frames:43-08|>>]]**
