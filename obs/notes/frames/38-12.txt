@@ -6,33 +6,15 @@
 
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
-
-**[[https://door43.org/en/obe/kt/jesus|यीशु]]**
-  *
-
-**[[https://door43.org/en/obe/other/pray|प्रार्थना]]**
-  *
-
-**[[https://door43.org/en/obe/kt/godthefather|मेरे पिता]]**
-  *
-
-**[[https://door43.org/en/obe/kt/suffer|कष्ट]]**
-  *
-
-**[[https://door43.org/en/obe/kt/sin|पापों]]**
-  *
-
-**[[https://door43.org/en/obe/kt/forgive|क्षमा]]**
-  *
-
-**[[https://door43.org/en/obe/kt/blood|लहू]]**
-  *
-
-**[[https://door43.org/en/obe/kt/god|परमेश्वर]]**
-  *
-
-**[[https://door43.org/en/obe/kt/angel|स्वर्गदूत]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:pray|प्रार्थना]]**
+  * **[[:hi:obs:notes:key-terms:god father|मेरे पिता]]**
+  * **[[:hi:obs:notes:key-terms:suffer|कष्ट]]**
+  * **[[:hi:obs:notes:key-terms:sin|पापों]]**
+  * **[[:hi:obs:notes:key-terms:forgive|क्षमा]]**
+  * **[[:hi:obs:notes:key-terms:blood|लहू]]**
+  * **[[https://door43.org/en/obe/kt/god|परमेश्वर]]**
+  * **[[https://door43.org/en/obe/kt/angel|स्वर्गदूत]]**
 ===== Translation Notes: =====
 
   * **drink this cup of suffering**  - That is, "go through this suffering" or, "suffer what is about to happen" or, "endure this suffering."
