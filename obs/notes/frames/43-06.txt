@@ -1,15 +1,20 @@
-====== You Crucified Jesus [43-06] ======
+====== तुमने यीशु को क्रूस दिया [43-06] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-06.jpg?nolink&}}
 
-“**Men of [[:en:key-terms:israel|Israel]]**, **[[:en:key-terms:jesus|Jesus]]** was a man who did many mighty **[[:en:key-terms:miracle|signs and wonders]]** by the **[[:en:key-terms:power|power]]** of **[[:en:key-terms:god|God]]**, as you have seen and already know. But **you [[:en:key-terms:crucify|crucified]] him!**”
+“हे इस्राएल के लोगों, यीशु एक व्यक्ति था जिसने परमेश्वर की सामर्थ से बहुत से सामर्थी चिन्ह व अद्भुत कार्य किये, जैसा कि तुम पहले ही देख चुके हो और जानते भी हो। परन्तु तुमने उसे **क्रूस पर मार दिया**!”
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  * **[[:hi:obs:notes:key-terms:israel|इस्राएल]]**
+  * यीशु
+  * चिन्ह व अद्भुत कार्य
+  * सामर्थ
+  * परमेश्वर
+  * क्रूस पर चढ़ा दिया
 
-===== Translation Notes: =====
+===== अनुवाद के लिए नोट्स: =====
 
-  * (Peter continues preaching to the crowd.)
-  * **Men of Israel** – For some languages it is better to say, “People of Israel” for it to be clear that this included men and women. This could also be translated as, “My fellow people of Israel” or, “My fellow Jews” to make it clear that Peter was also a Jew and belonged to the “people of Israel.” 
-  * **you crucified him!** - This could also be translated as, “you caused him to be crucified” or, “because of you, he was crucified.” The Jews did not actually nail Jesus to the cross. However, the Jewish leaders caused him to be condemned and many of the people in the crowd had shouted for him to be crucified. 
-  
-
+  * (पतरस अपना संबोधन जारी रखता है।)
+  * **इस्राएल के लोगों**—कुछ भाषाओं में “इस्राएल के लोगों” का प्रयोग ही उचित होगा ताकि स्पष्ट हो जाए कि पतरस पुरुष व स्त्री, दोनों को संबोधित कर रहा है। अनुवाद करते समय आप “हे मेरे संगी इस्राएलियों” या कि, “हे मेरे संगी यहूदियों” भी लिख सकते हैं ताकि स्पष्ट हो जाए कि पतरस भी यहूदी था और “यरूशलेम के लोगों” का हिस्सा था।
+  * **तुमने उसे क्रूस पर मार दिया**!---अनुवाद करते समय आप “तुमसे उसे क्रूस पर चढ़ा दिया” या कि, “तुम्हारे कारण वह क्रूस पर मारा गया” भी लिख सकते हैं। असल में यहूदियों ने यीशु को क्रूस पर नहीं टांगा था। लेकिन, तब भी, ये यहूदी अगुवे ही थे जिन्होंने यीशु को क्रूस पर चढाने के नारे लगाए थे।
 **[[:hi:obs:notes:frames:43-05|<<]] | [[:hi:obs:notes:43|Up]] | [[:hi:obs:notes:frames:43-07|>>]]**
