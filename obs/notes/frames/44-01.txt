@@ -1,14 +1,19 @@
-====== The Crippled Man [44-01] ======
+====== लंगड़ा व्यक्ति [44-01] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-01.jpg?nolink&}}
 
-**One day**, **[[:en:key-terms:peter|Peter]]** and **[[:en:key-terms:john|John]]** were going to the **[[:en:key-terms:temple|Temple]]**. As they approached the Temple gate, they saw **a crippled man** who was **[[:en:key-terms:beg|begging]]** for money.
+एक दिन पतरस और  यूहन्ना मन्दिर में जा रहे थे | भवन के द्वार के पास पहुँचने पर उन्हें भीख मांगता हुआ, एक लंगड़ा व्यक्ति दिखाई दिया।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:peter|पतरस]]**
+  * **[[:hi:obs:notes:key-terms:john the apostle|यूहन्ना]]**
+  * **[[:hi:obs:notes:key-terms:temple|मंदिर]]**
+  * **[[:hi:obs:notes:key-terms:beg|भीख मांगता हुआ]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **a crippled man** - This could also be translated as, "a lame man." This refers to a man who did not have full use of his legs, and could not stand or walk. 
-  
+  * **एक दिन**
+  -ये शब्द घटना के अतीत में होने का संकेत तो देते हैं, लेकिन किसी विशिष्ट तिथि का उल्लेख नहीं करते। कई भाषाओ में कहानियों की शुरुआत अकसर इन्ही शब्दों के साथ की जाती है।
 
+  * **एक लंगड़ा व्यक्ति**—अनुवाद करते समय आप “पंगु” या “अपंग” भी लिख सकते हैं। यहाँ पर एक ऐसे व्यक्ति की बात हो रही है जो अपने पैरो का अच्छी तरह से प्रयोग नहीं कर सकते थे, और जो खड़ा हो या चल नहीं सकता।
 **[[:hi:obs:notes:frames:43-13|<<]] | [[:hi:obs:notes:44|Up]] | [[:hi:obs:notes:frames:44-02|>>]]**
