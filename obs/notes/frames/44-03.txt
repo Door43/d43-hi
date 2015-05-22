@@ -1,13 +1,16 @@
-====== The Crippled Man Was Healed [44-03] ======
+====== लंगड़े व्यक्ति का चंगाई पाना [44-03] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-03.jpg?nolink&}}
 
-Immediately, **[[:en:key-terms:god|God]]** **[[:en:key-terms:heal|healed]]** the lame man, and he began to walk and jump around, and to **[[:en:key-terms:praise|praise]]** God. The people in the **courtyard of the [[:en:key-terms:temple|Temple]]** were amazed.
+परमेश्वर ने तुरंत ही उस लंगड़े व्यक्ति को चंगा कर दिया, और वह चलने-फिरने, व कूदने लगा और परमेश्वर की स्तुति करने लगा। यह देख, परमेश्वर के भवन के आँगन में उपस्थित लोग अचंभित हो गए।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
+  * **[[:hi:obs:notes:key-terms:heal|चंगाई दी]]**
+  * **[[:hi:obs:notes:key-terms:praise|स्तुति]]**
+  * **[[:hi:obs:notes:key-terms:temple|मंदिर]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **courtyard of the Temple** - Only priests could enter the Temple, but ordinary Jews were allowed to come into this area that surrounded the Temple.
-  
-
+  * **परमेश्वर के भवन के आँगन ****में** ---परमेश्वर के भवन में केवल याजक जा सकते थे, लेकिन उसके चारो और के प्रांगण में साधारण यहूदी भी जा सकते थे।
 **[[:hi:obs:notes:frames:44-02|<<]] | [[:hi:obs:notes:44|Up]] | [[:hi:obs:notes:frames:44-04|>>]]**
