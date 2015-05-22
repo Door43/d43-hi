@@ -1,16 +1,25 @@
-====== No Other Way but Jesus [44-08] ======
+====== मात्र यीशु ही एक मार्ग है [44-08] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-08.jpg?nolink&}}
 
-**[[:en:key-terms:peter|Peter]]** answered them, “This man stands before you **[[:en:key-terms:heal|healed]]** by the **[[:en:key-terms:power|power]]** of **[[:en:key-terms:jesus|Jesus]]** the **[[:en:key-terms:messiah|Messiah]]**. You **[[:en:key-terms:crucify|crucified]]** Jesus, but **[[:en:key-terms:god|God]]** **[[:en:key-terms:raise|raised]]** him to **[[:en:key-terms:life|life]]** again! You **rejected him**, **but there is no other way to be [[:en:key-terms:save|saved]] except through the power of Jesus**!”
+पतरस ने उत्तर दिया, “यह व्यक्ति यीशु मसीह कि सामर्थ द्वारा चंगा होकर तुम्हारे सामने खड़ा है। तुमने यीशु को क्रूस पर चढ़ा दिया, लेकिन परमेश्वर ने उसे फिर से जीवित किया है! तुमने इसे नकार दिया, लेकिन उद्धार पाने का यीशु की सामर्थ के आलावा और कोई मार्ग नहीं है।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:peter|पतरस]]**
+  * **[[:hi:obs:notes:key-terms:heal|चंगाई दी]]**
+  * **[[:hi:obs:notes:key-terms:power|सामर्थ्य]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:messiah|मसीह]]**
+  * **[[:hi:obs:notes:key-terms:crucify|क्रूस पर चढ़ा दिया]]**
+  * **[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
+  * **[[:hi:obs:notes:key-terms:raise|जिलाया]]**
+  * **[[:hi:obs:notes:key-terms:life|जीवन]]**
+  * **[[:hi:obs:notes:key-terms:save|उद्धार पाना]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **healed** - That is, "well" or, "whole" or, "strong."
-  * **rejected him** - That is, "refused to accept him" or, “refused to believe in Jesus” or, “refused to believe that Jesus is the Savior.” 
-  * **but there is no other way to be saved except through the power of Jesus** – This could also be translated as, “but the only way to be saved is through the power of Jesus” or, “but only Jesus can save us, by his power.”
-  * **to be saved** - This can also be translated as, "to be saved from our sins" or, "that we can be saved from our sins."  
-
-
+  * **चंगा**—अर्थात, “स्वस्थ” या कि, “बलवान।“
+  * **नकार दिया**—अर्थात, “उसे ग्रहण करने से मना कर दिया” या कि, “यीशु में विश्वास रखने से मना किया” अथवा, “यीशु को उद्धारकर्ता मानने से इंकार कर दिया।“
+  * **लेकिन उद्धार पाने का यीशु की सामर्थ के आलावा और कोई मार्ग नहीं है**—अनुवाद करते समय आप इस बात को इस प्रकार भी लिख सकते हैं, कि “लेकिन उद्धार पाने का केवल एक ही मार्ग है, और वह हो यीशु की सामर्थ” अथवा, “लेकिन केवल यीशु ही, अपनी सामर्थ द्वारा हमें बचा सकता है।“
+  * **उद्धार पाने का**—अनुवाद करते समय आप “पापों से बचाए जाने का” अथवा, “कि हम अपने पापों से उद्धार पा सकें” भी लिख सकते हैं।
 **[[:hi:obs:notes:frames:44-07|<<]] | [[:hi:obs:notes:44|Up]] | [[:hi:obs:notes:frames:44-09|>>]]**
