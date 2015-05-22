@@ -1,14 +1,15 @@
-====== What Should We Do? [43-10] ======
+====== हमें क्या करना चाहिए? [43-10] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-10.jpg?nolink&}}
 
-The people listening to **[[:en:key-terms:peter|Peter]]** were **deeply moved by** the things that he said. So they asked Peter and the **[[:en:key-terms:disciple|disciples]]**, “**Brothers**, what should we do?”
+पतरस की बातें सुन कर लोग व्याकुल हो गए। इसलिए उन्होंने पतरस व अन्य चेलों से पूछा, “हे भाइयों, हमें क्या करना चाहिए?”
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:peter|पतरस]]**
+  * **[[:hi:obs:notes:key-terms:disciple|चेले]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **deeply moved by** - That is, “very troubled by” or, “felt very sad when they heard.” To be “moved” is to feel strong emotions. 
-  * **Brothers** - This was a normal way for a Jew to address fellow Jews. It could also be translated as, “Friends.” 
-  
-
+  * **व्याकुल हो ****गए** ---अर्थात, “चिंतित हुए” अथवा, “बहुत दुखी हो गए।“ “व्याकुल” होने का आशय है कि उनके मन में उसकी कही बातें लग गयीं थीं।
+  * **भाइयों**—संगी यहूदी को संबोधित करने की सामान्य रीती। अनुवाद करते समय आप “हे मित्रों” भी लिख सकते हैं।
 **[[:hi:obs:notes:frames:43-09|<<]] | [[:hi:obs:notes:43|Up]] | [[:hi:obs:notes:frames:43-11|>>]]**
