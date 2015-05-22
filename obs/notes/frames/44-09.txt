@@ -1,24 +1,24 @@
 ====== The Disciples Were Released [44-09] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-09.jpg?nolink&}}
 
-The **[[:en:key-terms:jewish-leaders|leaders]]** **were shocked** that **[[:en:key-terms:peter|Peter]]** and **[[:en:key-terms:john|John]]** spoke so boldly because they could see that these men were **ordinary** men **who were uneducated**. But **then they remembered** that these men **had been with [[:en:key-terms:jesus|Jesus]]**. **After they threatened** Peter and John, they **let them go**.
+पतरस व यूहन्ना के हियाव को देख कर अगुए हैरान हो गए, क्योंकि वे देख सकते थें कि ये दोनों साधारण व अशिक्षित लोग थे। लेकिन तब उन्हें याद आया कि वे लोग यीशु के साथ थे।उन्होंने पतरस व यूहन्ना को चेतावनी देकर छोड़ दिया।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-//A Bible story from: Acts 3:1-4:22//
+  * **[[:hi:obs:notes:key-terms:jewish leaders|अगुए]]**
+  * **[[:hi:obs:notes:key-terms:peter|पतरस]]**
+  * **[[:hi:obs:notes:key-terms:john the apostle|यूहन्ना]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+===== अनुवाद के लिए नोट्स: =====
 
-
-===== Translation Notes: =====
-
-
-  * **were shocked** - That is, “were very surprised” or, "were amazed." 
-  * ** ordinary** - That is, "common" or, "lower-class." Peter and John were simple fishermen.
-  * **who were uneducated** - That is, “who did not have a formal education.” This could also be translated as, “who had not gone to religious school.” 
-  * **then they remembered** - This could also be translated as, “But then they thought about the fact that.”
-  * **had been with Jesus** - This could also be translated as, "had spend time with Jesus" or, "had been taught by Jesus."
-  * **After they threatened** - The leaders said that they would punish Peter and John if they continued to teach people about Jesus. 
-  * **let them go** - That is, "allowed them to leave."
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-  
+  * **हैरान हो गए**—अर्थात, “बहुत अचम्भे में आ अगये” या कि, “आश्चर्य हुआ।”
+  * **साधारण**  –अर्थात, “आम लोग” या कि, “निचले वर्ग।“ पतरस व यूहन्ना साधारण से मछुए थे।
+  * **अशिक्षित थें**—अर्थात, “औपचारिक शिक्षा नहीं हुई थी।“ अनुवाद करते समय “जो धार्मिक विद्यालय नहीं गए थे” लिख सकते हैं।
+  * **तब उन्हें याद आया**—आप इसे “लेकिन तब उन्होंने इस बात पर ध्यान दिया कि” भी लिख सकते हैं।
+  * **यीशु के साथ थे**—अनुवाद करते समय आप “यीशु के साथ समय बिताया था” अथवा, “यीशु द्वारा सिखाये गए थे” भी लिख सकते हैं।
+  * **चेतावनी ****देकर** ---अगुओं ने पतरस व यूहन्ना से कहा कि यदि उन्होंने लोगों को यीशु के बारे में बताना जारी रखा तो वे उन्हें दंड देंगे।
+  * **छोड़ दिया**—अर्थात,”उन्हें जाने दिया।“
+  * बाइबिल की कहानी  - बाइबिल के कुछ संस्करणों में इनका अनुवाद अलग तरह से किया हो सकता है।
 
 **[[:hi:obs:notes:frames:44-08|<<]] | [[:hi:obs:notes:44|Up]] | [[:hi:obs:notes:frames:45-01|>>]]**
