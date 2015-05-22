@@ -1,16 +1,21 @@
-====== The Miracles of Stephen [45-01] ======
+====== स्तिफनुस के आश्चर्य भरे काम [45-01] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-01.jpg?nolink&}}
 
-One of the leaders in **the early [[:en:key-terms:church|Church]]** was a man named Stephen. He **had a good reputation** and **was full of the [[:en:key-terms:holy-spirit|Holy Spirit]] and of [[:en:key-terms:wise|wisdom]]**. Stephen did many **[[:en:key-terms:miracle|miracles]]** and **reasoned persuasively that** people should **[[:en:key-terms:believe|believe]]** in **[[:en:key-terms:jesus|Jesus]]**.
+प्रारम्भिक कलीसिया के अगुओं में एक था स्तिफनुस नाम का व्यक्ति था। वह बहुत सुनामी था और पवित्र आत्मा व बुद्धि से भरा था। स्तिफनुस ने बहुत से आश्चर्यकर्म किये और वाद-विवाद करते हुए लोगों को यीशु पर विश्वास करने को कहता था।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:church|कलीसिया]]**
+  * **[[:hi:obs:notes:key-terms:holy spirit|पवित्र आत्मा]]**
+  * **[[:hi:obs:notes:key-terms:wise|बुद्धि]]**
+  * **[[:hi:obs:notes:key-terms:miracle|आश्चर्यकर्म]]**
+  * **[[:hi:obs:notes:key-terms:believe|विश्वास]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **the early Church** - That is, “the Church when it first began.” 
-  * **had a good reputation** - This could be translated as, “was thought well of by the people.” Some languages might translate this as, “had a good name.” 
-  * **was full of the Holy Spirit and of wisdom** - This could also be translated as, “had power and ability from the Holy Spirit and had much wisdom” or, “was full of the Holy Spirit and was very wise.” 
-  * **reasoned persuasively that** - That is, “gave convincing reasons why.” 
-  
-
+  * **प्रारंभिक कलीसिया**—अर्थात, “शुरूआती कलीसिया।“
+  * **सुनामी**—अर्थात, “उसके प्रति लोगों के अच्छे विचार थे।“ कुछ भाषाओ में इसे, “अच्छा नाम था“ लिखना होगा।
+  * **पवित्र आत्मा तथा बुद्धि से भरा था**—अनुवाद करते समय आप यूँ भी लिख सकते हैं, कि “पवित्र आत्मा से सामर्थ व अधिकार मिला था, और बहुत बुद्धिमान भी था” अथवा, “पवित्र आत्मा से परिपूर्ण व बहुत बुद्धिमान था।“
+  * **वाद-विवाद**  –अर्थात, “ठोस तर्क करते हुए।“
 **[[:hi:obs:notes:frames:44-09|<<]] | [[:hi:obs:notes:45|Up]] | [[:hi:obs:notes:frames:45-02|>>]]**
