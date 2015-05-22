@@ -1,14 +1,17 @@
-====== Jesus Is the Messiah [43-09] ======
+====== यीशु ही मसीह है [43-09] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-09.jpg?nolink&}}
 
-“You **[[:en:key-terms:crucify|crucified]]** this man, **[[:en:key-terms:jesus|Jesus]]**. **But know for certain that** **[[:en:key-terms:god|God]]** has caused Jesus to become both **[[:en:key-terms:lord|Lord]]** and **[[:en:key-terms:messiah|Messiah]]**!”
+तुमने उस व्यक्ति यीशु को, **क्रूस पर चढ़ा दिया** **| ** लेकिन निश्चय ही जान लो कि परमेश्वर ने यीशु को प्रभु व मसीह, दोनों ही ठहराया है!”
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  * **[[:hi:obs:notes:key-terms:crucify|क्रूस पर चढ़ा दिया]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
+  * **[[:hi:obs:notes:key-terms:lord|प्रभु]]**
+  * **[[:hi:obs:notes:key-terms:messiah|मसीह]]**
+===== अनुवाद के लिए नोट्स: =====
 
-===== Translation Notes: =====
-
-  * (Peter continues preaching to the crowd.)
-  * **But know for certain that** – This could also be translated as, “But you can know that it is true that” or, “But you can be sure that.” 
-  
-
+  * (पतरस अपना संबोधन जारी रखता है।)
+  * **लेकिन निश्चय ही जान लो**—अनुवाद करते समय यूँ भी लिख सकते हैं, कि “लेकिन तुम यह जान लो कि या सत्य है कि” अथवा, “लेकिन इस बात कर भरोसा रखो कि..... ।“
 **[[:hi:obs:notes:frames:43-08|<<]] | [[:hi:obs:notes:43|Up]] | [[:hi:obs:notes:frames:43-10|>>]]**
