@@ -1,17 +1,28 @@
-====== Peter Preached [44-05] ======
+====== पतरस द्वारा प्रचार[44-05] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-05.jpg?nolink&}}
 
-“You are the ones who told the **[[:en:key-terms:rome|Roman]]** governor to kill **[[:en:key-terms:jesus|Jesus]]**. You killed the **author of [[:en:key-terms:life|life]]**, but **[[:en:key-terms:god|God]]** **[[:en:key-terms:raise|raised]]** him from the **[[:en:key-terms:death|dead]]**. Although you did not understand what you were doing, God used **your actions** to **[[:en:key-terms:fulfill|fulfill]]** the **[[:en:key-terms:prophet|prophecies]]** that the **[[:en:key-terms:messiah|Messiah]]** would **[[:en:key-terms:suffer|suffer]]** and die. So now, **[[:en:key-terms:repent|repent]]** and **turn to God** so that **your [[:en:key-terms:sin|sins]] will be washed away**.”
+“तुम्ही लोग हो जिन्होंने रोमी अधिकारी को यीशु को मार डालने को कहा था। तुमने जीवन के कर्ता को मार डाला, लेकिन परमेश्वर ने उसे मुर्दों में से जिला दिया। हालाकि तुम नहीं जानते थे कि तुम क्या कर रहे हो, लेकिन तुम्हारे कार्य को परमेश्वर ने उन भविष्यदवाणियों को पूरा करने में इस्तेमाल किया जो कहती हैं कि मसीह कष्ट भोगेगा और मारा जायेगा। इसलिए, अब पाप से मन फिराओ और परमेश्वर की ओर लौट आओ ताकि तुम्हारे पाप धुल जाएँ।“
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:rome|रोमी]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:life|जीवन]]**
+  * **[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
+  * **[[:hi:obs:notes:key-terms:raise|जिलाया]]**
+  * **[[:hi:obs:notes:key-terms:death|मुर्दों]]**
+  * **[[:hi:obs:notes:key-terms:fulfill|पूरा करने]]**
+  * **[[:hi:obs:notes:key-terms:prophet|भविष्यदवाणियों]]**
+  * **[[:hi:obs:notes:key-terms:messiah|मसीह]]**
+  * **[[:hi:obs:notes:key-terms:suffer|कष्ट तो पाओगे]]**
+  * **[[:hi:obs:notes:key-terms:repent|मन फिराओ]]**
+  * **[[:hi:obs:notes:key-terms:sin|पापों]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * (Peter continues to preach to the crowd.)
-  * **author of life** - That is, “the one who created life” or, “the one who gives us life” or, “the one who causes people to live.” This refers to Jesus.
-  * **your actions ** - This can also be translated as, "the things you did." This refers to their asking Pilate to kill Jesus.
-  * **turn to God** - That is, "decide to obey God."
-  * **your sin will be washed away** - This could be translated as, “God will wash away your sins” or, “God will take away your sins and make you clean.” This is talking about God purifying people in their spirit by completely removing their sins. It does not mean physical washing.
-
-
+  * (पतरस अपना संबोधन जारी रखता है।)
+  * **जीवन का कर्ता**—अर्थात, “जीवन के रचयिता” या कि, “हमारे जीवनदाता” अथवा, “लोगों को जीवन देनेवाले।“ यहाँ पर यीशु की बात हो रही है।
+  * **तुम्हारे कार्य**—अनुवाद करते समय आप “तुम्हारे किये को” भी लिख सकते हैं। यहाँ पर पीलातुस द्वारा यीशु को मरवाने की बात हो रही है।
+  * **परमेश्वर की ओर लौट ****आओ** ---अर्थात, “परमेश्वर की आज्ञाओं का पालन करने का निर्णय कर लो।
+  * **तुम्हारे पाप धुल ****जाएँ** ---अनुवाद करते समय आप “परमेश्वर तुम्हारे पाप धो दे” अथवा, “परमेश्वर तुम्हारे पाप लेकर तुम्हे निर्मल बना सके” भी लिख सकते हैं। यहाँ परमेश्वर द्वारा लोगों के पाप दूर कर उनकी आत्मा को निर्मल बनाए जाने की बात हो रही है। इसका आशय किसी भी रीती से शारीरिक स्वच्छता से नहीं है।
 **[[:hi:obs:notes:frames:44-04|<<]] | [[:hi:obs:notes:44|Up]] | [[:hi:obs:notes:frames:44-06|>>]]**
