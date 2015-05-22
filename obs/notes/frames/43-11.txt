@@ -1,15 +1,22 @@
-====== Repent and Be Baptized [43-11] ======
+====== मन फिराव और बप्तिस्मा लो [43-11] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-11.jpg?nolink&}}
 
-**[[:en:key-terms:peter|Peter]]** answered them, “Every one of you should **[[:en:key-terms:repent|repent]]** and be **[[:en:key-terms:baptize|baptized]]** **in the name of** **[[:en:key-terms:jesus|Jesus]] [[:en:key-terms:messiah|Christ]]** so that **[[:en:key-terms:god|God]]** will **[[:en:key-terms:forgive|forgive]]** your **[[:en:key-terms:sin|sins]]**. Then he will also give you the **gift of the [[:en:key-terms:holy-spirit|Holy Spirit]]**.”
+पतरस ने उत्तर देते हुए कहा, “तुम में से हरेक अपना मन फिराए और यीशु मसीह के नाम में बप्तिस्मा ले ताकि परमेश्वर तुम्हारे पापो की क्षमा तुम्हे दे। फिर वह तुम्हे पवित्र आत्मा के वरदान भी देगा।“
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:peter|पतरस]]**
+  * **[[:hi:obs:notes:key-terms:repent|मन फिराओ]]**
+  * **[[:hi:obs:notes:key-terms:baptize|बपतिस्मा ]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु मसीह]]**
+  * **[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
+  * **[[:hi:obs:notes:key-terms:forgive|क्षमा]]**
+  * **[[:hi:obs:notes:key-terms:sin|पापों]]**
+  * **[[:hi:obs:notes:key-terms:holy spirit|पवित्र आत्मा]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **in the name of** - This phrase means both, “by the authority of” and, “under the authority of.” Consider translating the word “name” literally if it will be understood in this way in your language. 
-  * **Christ** – This is the same meaning as “Messiah.” It could be translated as “Anointed One” or, “Chosen One.” Instead of translating the meaning, some translators may choose to keep the word “Christ” and spell it using the sounds in their own language.
-  * **Jesus Christ** – Since “Christ” is a title here, some translators may choose to change the order and say, “Christ Jesus.” Both orders are used in the Bible. 
-  
-
+  * **के नाम में**—इसका आशय “के अधिकार से” व “के अधिकार द्वारा”, दोनों ही है। यहाँ पर “नाम” के लिए प्रयुक्त होनेवाले शब्द का जैसा का तैसा प्रयोग करें।
+  * **मसीह**—“मसीह” व “ख्रीस्त” दोनों का अर्थ एक ही है। अनुवाद करते समय आप “अभिषिक्त हुआ” या कि “चुना हुआ” भी लिख सकते हैं। अनुवाद करने की बजाय आप “ख्रीस्त” शब्द का सीधा प्रयोग भी कर सकते हैं।
+  * **यीशु मसीह**—चूंकि “मसीह” एक उपाधि है, इसलिए भाषा की माँग के अनुसार आप “मसीह यीशु” भी लिख सकते हैं। ये दोनों तरीका बाइबिल में इस्तेमाल किया गया है।
 **[[:hi:obs:notes:frames:43-10|<<]] | [[:hi:obs:notes:43|Up]] | [[:hi:obs:notes:frames:43-12|>>]]**
