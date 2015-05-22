@@ -1,14 +1,17 @@
-====== Before the Jewish Leaders [44-07] ======
+====== यहूदी अगुओं के समक्ष [44-07] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-07.jpg?nolink&}}
 
-The next day, the **[[:en:key-terms:jewish-leaders|Jewish leaders]]** brought **[[:en:key-terms:peter|Peter]]** and **[[:en:key-terms:john|John]]** to the **[[:en:key-terms:priest-high|high priest]]** and the other religious leaders. They asked Peter and John, “By what **[[:en:key-terms:power|power]]** did you heal this crippled man?”
+अगले दिन यहूदी अगुओं ने पतरस व यूहन्ना को महा याजक व अन्य धार्मिक अगुओं के समक्ष पेश किया। उन्होंने पतरस व यूहन्ना से प्रश्न किया, “तुमने किसकी सामर्थ से इस लंगड़े व्यक्ति को चंगा किया है?”
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:jewish leaders|यहूदी अगुओं]]**
+  * **[[:hi:obs:notes:key-terms:peter|पतरस]]**
+  * **[[:hi:obs:notes:key-terms:john the apostle|यूहन्ना]]**
+  * **[[:hi:obs:notes:key-terms:priest high|महा याजक]]**
+  * **[[:hi:obs:notes:key-terms:power|सामर्थ्य]]**
+===== अनुवाद के लिए नोट्स: =====
 
-
-  * //(There are no notes for this frame.)//
-  
-
+  * //(अनुवाद के लिए कोई नोट्स नहीं हैं।)//
 **[[:hi:obs:notes:frames:44-06|<<]] | [[:hi:obs:notes:44|Up]] | [[:hi:obs:notes:frames:44-08|>>]]**
