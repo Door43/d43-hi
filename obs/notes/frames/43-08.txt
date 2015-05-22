@@ -1,16 +1,19 @@
-====== The Holy Spirit [43-08] ======
+====== पवित्र आत्मा [43-08] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-08.jpg?nolink&}}
 
-“**[[:en:key-terms:jesus|Jesus]] is now exalted** to **the right hand of** **[[:en:key-terms:god-father|God the Father]]**. And Jesus has sent the **[[:en:key-terms:holy-spirit|Holy Spirit]]** just as he **[[:en:key-terms:promise|promised]]** he would do.  The Holy Spirit is **causing** the things that you are now seeing and hearing.”
+“यीशु अब सर्वोच्च पद पाकर पिता परमेश्वर की दाहिनी ओर विराजमान है। अपनी प्रतिज्ञा के अनुसार यीशु ने पवित्र आत्मा को भेज दिया है। जो कुछ भी तुम देख और सुन रहे हो, वो पवित्र आत्मा ने किया है।“
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:god father|पिता परमेश्वर]]**
+  * **[[:hi:obs:notes:key-terms:holy spirit|पवित्र आत्मा]]**
+  * **[[:hi:obs:notes:key-terms:promise|प्रतिज्ञा की है]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * (Peter continues preaching to the crowd.)
-  * **Jesus is now exalted** - This could also be translated as, “Jesus is now lifted up” or, “Jesus is now raised up” or, “God has exalted Jesus.” 
-  * **the right hand of** - This could also be translated as, "the most important position with" or, "the place of highest honor next to."
-  * **causing** - That is, "enabling the believers to do" or, "giving these people the power to do."
-  
-
+  * (पतरस अपना संबोधन जारी रखता है।)
+  * **यीशु अब सर्वोच्च पद पाकर**—अनुवाद करते समय हम “सर्वोच्च पद” के स्थान पर “उन्नत किया गया” अथवा, “उठाया गया” भी लिख सकते हैं।
+  * **दायीं ओर**—अनुवाद करते समय “सबसे महत्वपूर्ण पद” या कि, “आदर का उच्चतम स्थान दिया।
+  * **किया है**—अर्थात, “विश्वासियों को सक्षम बनाया है” या कि, “ऐसा करने की सामर्थ्य उन्हें पवित्र आत्मा ने दिया है।“
 **[[:hi:obs:notes:frames:43-07|<<]] | [[:hi:obs:notes:43|Up]] | [[:hi:obs:notes:frames:43-09|>>]]**
