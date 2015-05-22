@@ -1,14 +1,22 @@
-====== Stephen's Arrest [45-02] ======
+====== स्तिफनुस को बंदी बनाया जाना [45-02] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-02.jpg?nolink&}}
 
+एक दिन, जब स्तिफनुस यीशु के विषय में सिखा रहा था, कुछ यहूदियों ने यीशु पर विश्वास नहीं किया और स्तिफनुस से वाद-विवाद करने लगे। वे बहुत क्रोधित थे और धार्मिक अगुओं से स्तिफनुस की झूठी शिकायत की। उन्होंने कहा, “हमने इसे मूसा व परमेश्वर के विरोध में बुरी बातें कहते सुना है!” यह सुन कर धार्मिक अगुओ ने स्तिफनुस को बंदी बना लिया और महा याजक व अन्य यहूदी अगुओं के समक्ष पेश किया, जहां झूठे गवाहों ने स्तिफनुस के विरोध में झूठी बातें कही।
 
-**One day**, when Stephen was teaching about **[[:en:key-terms:jesus|Jesus]]**, some **[[:en:key-terms:jew|Jews]]** who did not believe in Jesus began to argue with Stephen. They became very angry and lied about Stephen to the **[[:en:key-terms:jewish-leaders|religious leaders]]**. They said, “We heard him speak **[[:en:key-terms:evil|evil]]** things about **[[:en:key-terms:moses|Moses]]** and **[[:en:key-terms:god|God]]**!” So the religious leaders arrested Stephen and brought him to the **[[:en:key-terms:priest-high|high priest]]** and the other leaders of the Jews, where more false **[[:en:key-terms:witness|witnesses]]** lied about Stephen.
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:jew|यहूदियों]]**
+  * **[[:hi:obs:notes:key-terms:jewish leaders|धार्मिक अगुओं]]**
+  * **[[:hi:obs:notes:key-terms:satan|शैतान]]**
+  * **[[:hi:obs:notes:key-terms:moses|मूसा]]**
+  * **[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
+  * **[[:hi:obs:notes:key-terms:priest high|महा याजक]]**
+  * **[[:hi:obs:notes:key-terms:witness|गवाह]]**
+===== अनुवाद के लिए नोट्स: =====
 
-===== Translation Notes: =====
-
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  
+  * **एक दिन**
+  -ये शब्द घटना के अतीत में होने का संकेत तो देते हैं, लेकिन किसी विशिष्ट तिथि का उल्लेख नहीं करते। कई भाषाओ में कहानियों की शुरुआत अकसर इन्ही शब्दों के साथ की जाती है।
 
 **[[:hi:obs:notes:frames:45-01|<<]] | [[:hi:obs:notes:45|Up]] | [[:hi:obs:notes:frames:45-03|>>]]**
