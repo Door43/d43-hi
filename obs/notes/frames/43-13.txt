@@ -1,17 +1,21 @@
-====== The Disciples Met Together [43-13] ======
+====== चेलों का आपस में मिलना [43-13] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-13.jpg?nolink&}}
 
-The **[[:en:key-terms:disciple|disciples]]** continually listened to the teaching of the **[[:en:key-terms:apostle|apostles]]**, spent time together, ate together, and **[[:en:key-terms:pray|prayed]]** with each other. They enjoyed **[[:en:key-terms:praise|praising]]** **[[:en:key-terms:god|God]]** together and they shared everything they had with each other. Everyone **thought well of them**. Every day, more people became **[[:en:key-terms:believer|believers]]**.
+चेलों को प्रेरितों से शिक्षा सुनने, संगति करने, और मिल कर भोजन करने व एक दूसरे के साथ प्रार्थना करते रहें। उन्हें साथ मिल कर परमेश्वर की स्तुति करने में आनंद आता था और वे एक दूसरे के साथ अपनी वस्तुएँ साँझी करते थे। सब लोग उनके विषय में भला सोचते थे। हर दिन अधिकाधिक लोग विश्वास में आ रहे थे।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-//A Bible story from: Acts 2//
+  * **[[:hi:obs:notes:key-terms:disciple|चेले]]**
+  * **[[:hi:obs:notes:key-terms:apostle|प्रेरितों]]**
+  * **[[:hi:obs:notes:key-terms:pray|प्रार्थना की]]**
+  * **[[:hi:obs:notes:key-terms:praise|स्तुति करने]]**
+  * **[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
+  * **[[:hi:obs:notes:key-terms:believer|विश्वासियों]]**
+===== अनुवाद के लिए नोट्स: =====
 
+  * **उनके विषय में भला सोचते थे**—अर्थात, “उनके प्रति लोगों के विचार अच्छे थे।“
+  * **बाइबिल की कहानी**
+  - बाइबिल के कुछ संस्करणों में इनका अनुवाद अलग तरह से किया हो सकता है।
 
-===== Translation Notes: =====
-
-  * **thought well of them** - That is, "had a positive opinion of them."
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-
-  
 **[[:hi:obs:notes:frames:43-12|<<]] | [[:hi:obs:notes:43|Up]] | [[:hi:obs:notes:frames:44-01|>>]]**
