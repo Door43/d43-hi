@@ -1,17 +1,21 @@
-====== Saul Arrested the Believers [46-01] ======
+====== शाऊल द्वारा विश्वासियों को बंदी बनाना [46-01] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-01.jpg?nolink&}}
 
+स्तिफनुस की हत्या करनेवालों के अंगरखों की रखवाली करनेवाला युवक शाऊल था। उसे यीशु में विश्वास नहीं था, और इसलिए वह विश्वासियों को सताता था। वह यरूशलेम के घर-घर जाकर स्त्री व पुरुष, दोनों को बंदी बना कर उन्हें बंदीगृह में डालता था। महा याजक ने शाऊल को दमिश्क जाकर मसीहियों को बंदी बनाकर यरूशलेम वापिस लाने की अनुमति दी थी।
 
-**[[:en:key-terms:paul|Saul]]** was the young man who **guarded the robes of the men who killed Stephen**. He did not **[[:en:key-terms:believe|believe]]** in **[[:en:key-terms:jesus|Jesus]]**, and so he **[[:en:key-terms:persecute|persecuted]]** the **[[:en:key-terms:believer|believers]]**. He went **from house to house** in **[[:en:key-terms:jerusalem|Jerusalem]]** to arrest both men and women and to put them in prison. The **[[:en:key-terms:priest-high|high priest]]** gave Saul permission to go to the city of **Damascus** to arrest Christians there and to bring them back to Jerusalem.
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  * **[[:hi:obs:notes:key-terms:saul|शाऊल]]**
+  * **[[:hi:obs:notes:key-terms:believe|विश्वास]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:persecute|सताता था]]**
+  * **[[:hi:obs:notes:key-terms:believer|विश्वासियों]]**
+  * **[[:hi:obs:notes:key-terms:jerusalem|यरूशलेम]]**
+  * **[[:hi:obs:notes:key-terms:priest high|महा याजक]]**
+===== अनुवाद के लिए नोट्स: =====
 
-===== Translation Notes: =====
-
-
-  * **guarded the robes of the men who killed Stephen** - See **[[:hi:obs:notes:frames:45-06|[45-06]]]**.
-  * **from house to house** - That is, "into many houses."
-  * **Damascus** - Damascus is now the capital of the country of Syria. During Saul's time, it was a city belonging to the Roman Empire. Most of the people there were not Jewish, but there were some Jews and also some Christians living there. 
-  
-
+  * **स्तिफनुस की हत्या करनेवाले के अंगरखों की रखवाली ****करने** ---जाकर [४५-०६] देखें।
+  * **घर-घर**  ---अर्थात, “बहुत से घरों में जाकर।“
+  * **दमिश्क**—आजकल यह नगर सीरिया की राजधानी है। शाऊल के समय यह नगर रोमी साम्राज्य के अधीन था। वहाँ के अधिकांश निवासी गैर-यहूदी थे, लेकिन वहाँ कुछ यहूदी व मसीही भी रहते थे।
 **[[:hi:obs:notes:frames:45-13|<<]] | [[:hi:obs:notes:46|Up]] | [[:hi:obs:notes:frames:46-02|>>]]**
