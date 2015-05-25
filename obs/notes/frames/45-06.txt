@@ -1,15 +1,19 @@
-====== The People Attacked the Believers [45-06] ======
+====== विश्वासियों पर लोगों ने हमला किया [45-06] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-06.jpg?nolink&}}
 
+शाऊल नाम का एक युवा स्तिफनुस के हत्यारों से सहमत था और जब वे उस पर पथराव कर रहे थे, तब वह उनके कपड़े की रखवाली कर रहा था। उस दिन, यरूशलेम में बहुत से लोगों ने यीशु के अनुयायियों को सताव भेजने लगे, इसलिए विश्वासी अन्य जगहों पर भाग गए।लेकिन तब भी, वे जहां भी गए, वहाँ यीशु का प्रचार किया।
 
-A young man named **[[:en:key-terms:paul|Saul]]** agreed with the people who killed Stephen and **guarded their robes** while they threw stones at him. That day, many people in **[[:en:key-terms:jerusalem|Jerusalem]]** started **[[:en:key-terms:persecute|persecuting]]** the followers of **[[:en:key-terms:jesus|Jesus]]**, so the **[[:en:key-terms:believer|believers]]** fled to other places. **But in spite of this**, they **[[:en:key-terms:preach|preached]]** about Jesus everywhere they went.
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  * **[[:hi:obs:notes:key-terms:saul|शाऊल]]**
+  * **[[:hi:obs:notes:key-terms:jerusalem|यरूशलेम]]**
+  * **[[:hi:obs:notes:key-terms:persecute|सताव]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:believer|विश्वासियों]]**
+  * **[[:hi:obs:notes:key-terms:preach|प्रचार]]**
+===== अनुवाद के लिए नोट्स: =====
 
-===== Translation Notes: =====
-
-  * **guarded their robes** - This could be translated as, “watched over their coats.” He was probably making sure they didn't get stolen or damaged. 
-  * **But in spite of this** – The Jewish leaders thought they could stop the spread of Jesus' teaching by persecuting his followers. Instead, this caused them to scatter and spread the message even more widely. 
-  
-
+  * **उनके कपड़ो की ****रखवाली** ---अनवाद करे समय आप “उनके अंगरखों की निगरानी की” भी लिख सकते हैं। वह शायद उनके कपड़ों को चोरी होने से बचाने के लिए उनकी देखरेख कर रहा था।
+  * **लेकिन तब भी**, यहूदी अगुओं को लगता था कि यीशु के अनुयायियों पर सताव भेजने  के द्वारा वे उसके उपदेशों को फैलने से रोक सकेंगे। लेकिन ऐसा न होकर, उसकी शिक्षा का और अधिक विस्तार होता चला गया।
 **[[:hi:obs:notes:frames:45-05|<<]] | [[:hi:obs:notes:45|Up]] | [[:hi:obs:notes:frames:45-07|>>]]**
