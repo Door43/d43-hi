@@ -1,15 +1,20 @@
-====== Stephen's Prayer [45-05] ======
+====== **स्तिफनुस की प्रार्थना** [45-05] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-05.jpg?nolink&}}
 
-**As Stephen was dying**, he **cried out**, “**[[:en:key-terms:jesus|Jesus]]**, **[[:en:key-terms:receive|receive]]** my **[[:en:key-terms:spirit|spirit]]**.” Then he fell to his knees and cried out again, “**[[:en:key-terms:lord|Master]]**, **do not count this [[:en:key-terms:sin|sin]] against them**.” Then he **[[:en:key-terms:death|died]]**.
+मरते समय स्तिफनुस ने ऊँँची आवाज़ में कहा, “हे यीशु, मेरी आत्मा को ग्रहण कर।“ इस पर वह अपने घुटनों पर गिर पड़ा और एक बार फिर ऊँँची आवाज़ में बोला, “हे स्वामी, इस पाप को इनके विरुद्ध मत लेना।“ फिर उसने प्राण त्याग दिए।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:receive|ग्रहण]]**
+  * **[[:hi:obs:notes:key-terms:spirit|आत्मा]]**
+  * **[[:hi:obs:notes:key-terms:lord|मालिक]]**
+  * **[[:hi:obs:notes:key-terms:sin|पाप]]**
+  * **[[:hi:obs:notes:key-terms:death|मर गया]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **As Stephen was dying** - That is, "Just before Stephen died."
-  * **cried out** – That is, “called out in a loud voice” or, “said very loudly.” 
-  * **do no count this sin against them** - That is, "do not consider them guilty of the sin of killing me."
-
-  
+  * **मरते समय स्तिफनुस ****ने** ---अर्थात, “मरने से पहले।“
+  * **ऊँची आवाज़ में ****बोला** ---अर्थात, “जोर से कहा” या फिर, “ऊंची आवाज़ में कहा।“
+  * **इस पाप को इनके विरुद्ध मत ****लेना** ---अर्थात, “मेरी हत्या का दोष उन पर न लगाना।“
 **[[:hi:obs:notes:frames:45-04|<<]] | [[:hi:obs:notes:45|Up]] | [[:hi:obs:notes:frames:45-06|>>]]**
