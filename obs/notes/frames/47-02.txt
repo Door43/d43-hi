@@ -1,16 +1,20 @@
-====== Lydia Was Baptized [47-02] ======
+====== लुदिया का बपतिस्मा पाना [47-02] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-02.jpg?nolink&}}
 
-**[[:en:key-terms:god|God]]** **opened Lydia's heart to understand** the message about **[[:en:key-terms:jesus|Jesus]]**, and **she and her family were [[:en:key-terms:baptize|baptized]]**. She invited **[[:en:key-terms:paul|Paul]]** and **[[:en:key-terms:silas|Silas]]** to stay at her house, **so they stayed with her and her family**.
+परमेश्वर ने लुदिया के मन में यीशु के सन्देश पर विश्वास जगाया, और उसने अपने परिवार सहित बपतिस्मा लिया। उसने पौलुस व सीलास को अपने घर में ठहरने का आग्रह किया, इसलिए वे उसके व उसके परिवार के साथ ठहर गए।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
+  * **[[:hi:obs:notes:key-terms:believe|विश्वास]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:baptize|बपतिस्मा]]**
+  * **[[:hi:obs:notes:key-terms:paul|पौलुस]]**
+  * **[[:hi:obs:notes:key-terms:silas|सीलास]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **opened Lydia's heart** - That is, "enabled Lydia."
-  * **to understand** - That is, "to understand and believe."
-  * **she and her family were baptized** - This can also be translated as, “they baptized Lydia and her family.”
-  * **so they stayed with her and her family** - This was the normal custom of the day for people to provide hospitality to visitors in their homes. There were no immoral motives in this arrangement.
-  
-
+  * **लुदिया के मन में विश्वास जगाया**—अर्थात, “लुदिया को विश्वास करने में समर्थ बनाया।“
+  * **उसने अपने परिवार सहित बप्तिस्मा लिया**—अर्थात, “उन्होंने लुदिया व उसके परिव्वा को बप्तिस्मा दिया।“
+  * **इसलिए वे उसके व उसके परिवार के साथ ठहर गए**—अतिथियों को अपने घर ठहराना उन दिनों लोगों के आतिथ्य की सामान्य रीती हुआ करती थी। इसके पीछे कोई अनैतिक उद्देश्य या मंशा नहीं थी।
 **[[:hi:obs:notes:frames:47-01|<<]] | [[:hi:obs:notes:47|Up]] | [[:hi:obs:notes:frames:47-03|>>]]**
