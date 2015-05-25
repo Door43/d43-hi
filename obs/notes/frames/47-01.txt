@@ -1,14 +1,22 @@
-====== Paul and Silas in Philippi [47-01] ======
+====== फिलिप्पी में पौलुस व सीलास[47-01] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-01.jpg?nolink&}}
 
-As Saul traveled throughout the **[[:en:key-terms:rome|Roman Empire]]**, **he began to use his Roman name, "[[:en:key-terms:paul|Paul]]."** One day, Paul and his friend **[[:en:key-terms:silas|Silas]]** went to the town of **[[:en:key-terms:philippi|Philippi]]** to **proclaim** the **[[:en:key-terms:good-news|good news]]** about **[[:en:key-terms:jesus|Jesus]]**. They went to a place by the river outside the city where people gathered to pray. There they met a woman named Lydia who was a **merchant**. She **[[:en:key-terms:love|loved]]** and **[[:en:key-terms:worship|worshiped]]** **[[:en:key-terms:god|God]]**.
+रोमी साम्राज्य में यात्रा के दौरान शाऊल अपने रोमी नाम, “पौलुस” का प्रयोग करने लगा। एक दिन, पौलुस और उसका मित्र सीलास यीशु के सुसमाचार का प्रचार करने फिलिप्पी नगर में गए। वे नगर के बाहर स्थित नदी के किनारे एक ऐसी जगह पर गए जहाँ लोग प्रार्थना के लिए जमा हुए थे। वहाँ पर उनकी भेंट लुदिया नाम की एक स्त्री से हुई जो व्यपारिन थी। वह प्रेम करते थी और परमेश्वर की आराधना करती थी।
 
-===== Translation Notes: =====
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  * **[[:hi:obs:notes:key-terms:rome|रोमी साम्राज्य]]**
+  * **[[:hi:obs:notes:key-terms:paul|पौलुस]]**
+  * **[[:hi:obs:notes:key-terms:silas|सीलास]]**
+  * **[[:hi:obs:notes:key-terms:philippi|फिलिप्पी]]**
+  * **[[:hi:obs:notes:key-terms:good news|सुसमाचार]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:love|प्रेम रखा]]**
+  * **[[:hi:obs:notes:key-terms:worship|आराधना करती थी]]**
+  * **[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **proclaim** - That is, "teach" or, "preach."
-  * **merchant** - This could also be translated as, "seller" or, "business owner."
-  
-
+  * **प्रचार करने** ---अर्थात, “शिक्षा देने” या, “उपदेश देने।“
+  * **व्यपारिन**—आप यहाँ “व्यवसाय करनेवाली स्त्री” अथवा, “कारोबारिन” भी लिख सकते हैं।
 **[[:hi:obs:notes:frames:46-10|<<]] | [[:hi:obs:notes:47|Up]] | [[:hi:obs:notes:frames:47-02|>>]]**
