@@ -1,14 +1,15 @@
-====== Saul Saw Jesus [46-02] ======
+====== शाऊल को यीशु का दर्शन [46-02] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-02.jpg?nolink&}}
 
+दमिश्क के मार्ग में शाऊल के आसपास आकाश से निकलता एक तेज़ प्रकाश छा गया, और वह भूमि पर गिर गया। शाऊल ने किसी को यह कहते सूना, कि “शाऊल! शाऊल! तू मुझे क्यों सताता है?” शाऊल ने पूछ, “हे स्वामी, तू कौन है?” यीशु ने उसे उत्तर दिया, “मैं यीशु हूँ। तू मुझे सता रहा है!”
 
-While **[[:en:key-terms:paul|Saul]]** was **on his way** to Damascus, a bright light from heaven shone all around him, and he fell to the ground. Saul heard someone say, “Saul! Saul! Why do you **[[:en:key-terms:persecute|persecute]]** me?” Saul asked, “Who are you, **[[:en:key-terms:lord|Master]]**?” Jesus replied to him, “I am Jesus. You are persecuting me!”
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  * **[[:hi:obs:notes:key-terms:saul|शाऊल]]**
+  * **[[:hi:obs:notes:key-terms:persecute|सताता]]**
+  * **[[:hi:obs:notes:key-terms:lord|मालिक]]**
+===== अनुवाद के लिए नोट्स: =====
 
-===== Translation Notes: =====
-
-  * **on his way** - That is, "on his journey."
-
-
+  * **के मार्ग में** ---अर्थात, “की यात्रा के दौरान।“
 **[[:hi:obs:notes:frames:46-01|<<]] | [[:hi:obs:notes:46|Up]] | [[:hi:obs:notes:frames:46-03|>>]]**
