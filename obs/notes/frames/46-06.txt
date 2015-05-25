@@ -1,15 +1,20 @@
-====== Saul Preached about Jesus [46-06] ======
+====== शाऊल द्वारा यीशु का प्रचार [46-06] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-06.jpg?nolink&}}
 
+यह कहते हुए शाऊल तुरंत ही दमिश्क में रहनेवाले यहूदियों में प्रचार करने लगा, कि “यीशु परमेश्वर का बेटा है!” यह हैरान हो गए कि जिस व्यक्ति ने विश्वासियों का नाश करने का प्रयास किया था, अब वह भी यीशु में विश्वास रखता है! शाऊल ने यहूदियों के साथ वाद-विवाद किया और सिद्ध किया कि यीशु ही मसीह था।
 
-**Right away**, **[[:en:key-terms:paul|Saul]]** began **[[:en:key-terms:preach|preaching]]** to the **[[:en:key-terms:jew|Jews]]** in Damascus, saying, “**[[:en:key-terms:jesus|Jesus]]** is the **[[:en:key-terms:god-son|Son of God]]**!” The Jews were amazed that the man who had tried to destroy the **[[:en:key-terms:believer|believers]]** now also believed in Jesus! Saul **reasoned with the Jews**, proving that Jesus was the **[[:en:key-terms:messiah|Messiah]]**. 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  * **[[:hi:obs:notes:key-terms:saul|शाऊल]]**
+  * **[[:hi:obs:notes:key-terms:preach|प्रचार]]**
+  * **[[:hi:obs:notes:key-terms:jew|यहूदियों]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:god son|परमेश्वर का बेटा]]**
+  * **[[:hi:obs:notes:key-terms:believer|विश्वासियों]]**
+  * **[[:hi:obs:notes:key-terms:messiah|मसीह]]**
+===== अनुवाद के लिए नोट्स: =====
 
-===== Translation Notes: =====
-
-  * **Right away** - This can also be translated as, “Immediately” or, “Then.”
-  * **reasoned with the Jews** - This could also be translated as, “gave the Jews good reasons for believing in Jesus” or, “spoke persuasively with the Jews.”
-
-  
+  * **तुरंत**—अर्थात, “तभी के तभी।“
+  * **यहूदियों से वाद-विवाद किया** ---अनुवाद करते समय आप ऐसे भी लिख सकते हैं, कि “यहूदियों को यीशु में विश्वास करने के भले तर्क दिए” अथवा, “यहूदियों को विश्वास दिलाते हुए कहा।“
 **[[:hi:obs:notes:frames:46-05|<<]] | [[:hi:obs:notes:46|Up]] | [[:hi:obs:notes:frames:46-07|>>]]**
