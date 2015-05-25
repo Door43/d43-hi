@@ -1,15 +1,15 @@
-====== The Ethiopian Went Home [45-13] ======
+====== इथियोपियावासी का घर जाना [45-13] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-13.jpg?nolink&}}
 
-The Ethiopian continued traveling toward his home, happy that he knew **[[:en:key-terms:jesus|Jesus]]**.
+इथियोपियावासी ने अपनी आगे की यात्रा शुरू की और इस बात से आनंदित हुआ कि उसने यीशु को जान  लिया था।
 
-//A Bible story from: Acts 6:8-8:5; 8:26-40//
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+===== अनुवाद के लिए नोट्स: =====
 
-===== Translation Notes: =====
-
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-  
+  * **बाइबिल की कहानी**
+  - बाइबिल के कुछ संस्करणों में इनका अनुवाद अलग तरह से किया हो सकता है।
 
 **[[:hi:obs:notes:frames:45-12|<<]] | [[:hi:obs:notes:45|Up]] | [[:hi:obs:notes:frames:46-01|>>]]**
