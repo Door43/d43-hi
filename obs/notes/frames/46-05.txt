@@ -1,16 +1,18 @@
-====== Ananias Baptized Saul [46-05] ======
+====== हनन्याह द्वारा शाऊल को बपतिस्मा [46-05] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-05.jpg?nolink&}}
 
+इसलिए हनन्याह शाऊल के पास गया, उस पर अपना हाथ रखा, और कहा, “यहाँ आने के मार्ग में जो यीशु तेरे सम्मुख प्रकट हुआ था, उसने मुझे तुम्हारे पास भेजा है ताकि तुम्हे अपनी दृष्टि वापिस मिल जाए और तुम पवित्र आत्मा से भर जाओ। शाऊल की दृष्टि तब तुरंत लौट आई, और हनन्याह ने उसे बपतिस्मा दिया। इसके बाद शाऊल ने कुछ भोजन खाया और उसकी सामर्थ लौट आयी।
 
-So Ananias went to **[[:en:key-terms:paul|Saul]]**, placed his hands on him, and said, “**[[:en:key-terms:jesus|Jesus]]**, who appeared to you on your way **here**, sent me to you so that you can **regain your sight** and be filled with the **[[:en:key-terms:holy-spirit|Holy Spirit]]**.” Saul immediately was able to see again, and Ananias **[[:en:key-terms:baptize|baptized]]** him. Then Saul ate some food and **his strength returned**.
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  * **[[:hi:obs:notes:key-terms:saul|शाऊल]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:holy spirit|पवित्र आत्मा]]**
+  * **[[:hi:obs:notes:key-terms:baptize|बपतिस्मा]]**
+===== अनुवाद के लिए नोट्स: =====
 
-===== Translation Notes: =====
-
-  * **here** - That is, "to Damascus."
-  * **regain your sight** - This could also be translated as, "be able to see again."
-  * **his strength returned** - This could also be translated as, “he became strong again” or, “he felt better.” 
-  
-
+  * **यहाँ** ---अर्थात “दमिश्क।“
+  * **तुम्हे अपनी दृष्टि वापिस मिल जाए**—अर्थात, “तुम दोबारा से देखने लगो।“
+  * **उसकी दृष्टि तब तुरंत लौट ****आई** ---अर्थात, “वह फिर से बलवंत हो गया” या कि, “उसने बेहतर महसूस किया।"
 **[[:hi:obs:notes:frames:46-04|<<]] | [[:hi:obs:notes:46|Up]] | [[:hi:obs:notes:frames:46-06|>>]]**
