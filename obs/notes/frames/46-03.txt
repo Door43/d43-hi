@@ -1,15 +1,13 @@
-====== Saul Became Blind [46-03] ======
+====== शाऊल का अँधा होना [46-03] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-03.jpg?nolink&}}
 
+शाऊल जब खड़ा हुआ, उसे कुछ दिखाई न दे सका। उसके मित्रों को उसे दमिश्क ले जाना पड़ा। तीन दिनों तक शाऊल ने न कुछ खाया और न कुछ पिया।
 
-When **[[:en:key-terms:paul|Saul]]** got up, he could not see. His friends had to lead him into Damascus. Saul did not eat or drink anything for three days.
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  * **[[:hi:obs:notes:key-terms:saul|शाऊल]]**
+===== अनुवाद के लिए नोट्स: =====
 
-===== Translation Notes: =====
-
-  * //(There are no notes for this frame.)//
-
-  
-
+  * //(अनुवाद के लिए कोई नोट्स नहीं हैं।)//
 **[[:hi:obs:notes:frames:46-02|<<]] | [[:hi:obs:notes:46|Up]] | [[:hi:obs:notes:frames:46-04|>>]]**
