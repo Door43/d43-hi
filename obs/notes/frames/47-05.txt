@@ -1,16 +1,19 @@
-====== Paul Healed the Slave Girl [47-05] ======
+====== पौलुस द्वारा दासी की चंगाई [47-05] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-05.jpg?nolink&}}
 
-Finally **one day** when the **[[:en:key-terms:servant| slave girl]]** started yelling, **[[:en:key-terms:paul|Paul]]** **turned to her** and said to the **[[:en:key-terms:demon|demon]]** that was in her, “**In the name of [[:en:key-terms:jesus|Jesus]]**, **come out of her**.” Right away the demon left her.
+आखिरकार एक दिन जब वह दासी लड़की पीछे-पीछे चिल्ला रही रही, पौलुस उसकी ओर पलट कर बोला, “यीशु के नाम से, इसमें से बाहर निकल आ।“ ऐसा कहते ही, दुष्टात्मा ने तुरंत उसे छोड़ दिया।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:servant|दासी]]**
+  * **[[:hi:obs:notes:key-terms:paul|पौलुस]]**
+  * **[[:hi:obs:notes:key-terms:demon|दुष्टात्मा]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **one day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **turned to her** – That is, “turned around and looked at her.”
-  * **In the name of Jesus** - That is, “by the authority of Jesus.” Because of Jesus' authority, Paul could command the demon to leave.
-  * **come out of her** - That is, "leave her" or, "go away from her."
-  
-
+  * **एक दिन**—ये शब्द घटना के होने के सटीक समय का भान नहीं कराते।  कई भाषाओ में कहानियों की शुरुआत अकसर इन्ही शब्दों के साथ की जाती है।
+  * **उसकी ओर पलट कर**  –अर्थात, “उसे मुड़ कर देखा।“
+  * **यीशु के नाम ****में** ---अर्थात, “यीशु के अधिकार से।“ यीशु के अधिकार के कारण ही पौलुस उस दुष्टात्मा को छोड़ने का आदेश दे सका था।
+  * **इसमें से बाहर निकल ****आ** ---अर्थात, “इसे छोड़ दे” या कि, “इससे दूर हो जा।“
 **[[:hi:obs:notes:frames:47-04|<<]] | [[:hi:obs:notes:47|Up]] | [[:hi:obs:notes:frames:47-06|>>]]**
