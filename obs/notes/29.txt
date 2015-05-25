@@ -1,45 +1,40 @@
-====== 29. The Story of the Unmerciful Servant ======
+====== 29. निर्दयी सेवक की कहानी ======
 
+===== अवलोकन**:**  =====
 
-===== Overview: =====
+पतरस ने यीशु से पूछा कितनी बार उसे अपने भाई को क्षमा करना चाहिए। तब यीशु ने एक नौकर की कहानी बताई जो राजा के एक बहुत बड़े ऋण का बकाया था। राजा ने उस पर दया की और ऋण रद्द कर दिया। लेकिन एक और आदमी है जो उसे जेल के लिए एक छोटा सा राशि बकाया नौकर भेजा। यह राजा बहुत क्रोधित हुआ। यीशु ने पतरस से कहा कि हम दूसरों को क्षमा करना चाहिए में एक ही तरीका है कि हमको माफ करना चाहिए।
 
+===== कहानी का अनुवाद कीजिए =====
 
-Peter asked Jesus how many times he should forgive a brother. So Jesus told the story of a servant who owed a huge debt to the king. The king took pity on him and cancelled the debt. But the servant sent another man who owed him a small amount to prison. This made the king very angry. Jesus told Peter that we should forgive others in the same way that we are forgiven.
+कहानी का अनुवाद करने के लिए नीचे दिए गए प्रत्येक चित्र पर क्लिक करें।
 
+[[:hi:obs:notes:frames:29-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-01.jpg?nolink&200}}]]\\
+कितनी बार? [29-01]
 
-====== Translate the Story ======
+[[:hi:obs:notes:frames:29-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-02.jpg?nolink&200}}]]\\
+बड़ा ऋण [29-02]
 
+[[:hi:obs:notes:frames:29-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-03.jpg?nolink&200}}]]\\
+ऋण चुकाने में अक्षम [29-03]
 
-Click on the links below to translate each frame of the story.
+[[:hi:obs:notes:frames:29-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-04.jpg?nolink&200}}]]\\
+ऋण माफ़ हुआ [29-04]
 
+[[:hi:obs:notes:frames:29-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-05.jpg?nolink&200}}]]\\
+छोटा सा ऋण [29-05]
 
-[[:hi:obs:notes:frames:29-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-01.jpg?200|Frame 29-01}}]]\\ 
-How Many Times? [29-01]\\ 
+[[:hi:obs:notes:frames:29-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-06.jpg?nolink&200}}]]\\
+जेल में [29-06]
 
-[[:hi:obs:notes:frames:29-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-02.jpg?200|Frame 29-02}}]]\\ 
-The Huge Debt [29-02]\\ 
+[[:hi:obs:notes:frames:29-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-07.jpg?nolink&200}}]]\\
+बात राजा तक पहुँची [29-07]
 
-[[:hi:obs:notes:frames:29-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-03.jpg?200|Frame 29-03}}]]\\ 
-Not Able to Repay [29-03]\\ 
+[[:hi:obs:notes:frames:29-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-08.jpg?nolink&200}}]]\\
+दुष्ट सेवक [29-08]
 
-[[:hi:obs:notes:frames:29-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-04.jpg?200|Frame 29-04}}]]\\ 
-The Debt Is Canceled [29-04]\\ 
+[[:hi:obs:notes:frames:29-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-09.jpg?nolink&200}}]]\\
+अपने भाई को क्षमा करो [29-09]
 
-[[:hi:obs:notes:frames:29-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-05.jpg?200|Frame 29-05}}]]\\ 
-The Small Debt [29-05]\\ 
-
-[[:hi:obs:notes:frames:29-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-06.jpg?200|Frame 29-06}}]]\\ 
-To Prison [29-06]\\ 
-
-[[:hi:obs:notes:frames:29-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-07.jpg?200|Frame 29-07}}]]\\ 
-The King Heard [29-07]\\ 
-
-[[:hi:obs:notes:frames:29-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-08.jpg?200|Frame 29-08}}]]\\ 
-The Wicked Servant [29-08]\\ 
-
-[[:hi:obs:notes:frames:29-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-09.jpg?200|Frame 29-09}}]]\\ 
-Forgive Your Brother [29-09]\\ 
-
-//A Bible story from: Matthew 18:21-35//
+बाइबिल की यह कहानी ली गई है:  मती 18 : 21-35
 
 **[[:hi:obs:notes:28|<<Previous]] | [[:hi:obs:notes:30|Next>>]]**
