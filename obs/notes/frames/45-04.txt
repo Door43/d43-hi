@@ -1,16 +1,14 @@
-====== Stephen Was Stoned [45-04] ======
+====== स्तिफनुस पर पथराव [45-04] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-04.jpg?nolink&}}
 
+यह सुन कर धार्मिक अगुओं को बहुत क्रोध आया और उन्होंने अपने कान बंद कर लिए और ऊंची आवाज़ में चिल्लाये। उन्होंने स्तिफनुस को घसीट कर नगर के बाहर कर दिया और उसे मार डालने के लिए उन्होंने उस पर पत्थर बरसाए।
 
-When the **[[:en:key-terms:jewish-leaders|religious leaders]]** heard this, they were so angry that they **covered their ears** and **yelled loudly**. They dragged Stephen out of the city and threw stones at him in order to kill him.
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  * **[[:hi:obs:notes:key-terms:jewish leaders|धार्मिक अगुओं]]**
+===== अनुवाद के लिए नोट्स: =====
 
-===== Translation Notes: =====
-
-  * **covered their ears** - This could also be translated as, “They put their hands over their ears.” This was to show that they did not want to hear what Stephen said.  
-  * **yelled loudly** - They were yelling in anger. Translate this in a way that communicates that they were very upset. 
-
-  
-
+  * **अपने कान बंद कर लिए**—अनुवाद करते समय आप “कान पर हाथ रख लिए” भी लिख सकते हैं। यह इस बात को दर्शाता है कि वे स्तिफनुस की बातों को नहीं सुनना चाहते थे।
+  * **ऊँची आवाज़ में चिल्लाये**—-वे गुस्से में चिल्ला रहे थे। अनुवाद करते समय उन शब्दों का प्रयोग करे जो उनकी खिन्नता को दर्शाते हों।
 **[[:hi:obs:notes:frames:45-03|<<]] | [[:hi:obs:notes:45|Up]] | [[:hi:obs:notes:frames:45-05|>>]]**
