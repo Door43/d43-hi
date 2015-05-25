@@ -1,16 +1,24 @@
-====== You Killed the Messiah [45-03] ======
+====== तुमने मसीह की हत्या की है [45-03] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-03.jpg?nolink&}}
 
+महा याजक ने स्तिफनुस से पूछा, “क्या ये बातें सही हैं?” स्तिफनुस ने उत्तर में उन्हें परमेश्वर द्वारा की गई बहुत सी महान बातों का स्मरण कराया जो उसने अब्राहम के समय से लेकर यीशु के समय तक की थी, और यह भी कि कैसे परमेश्वर के लोगों ने लगातार उसकी अवज्ञा की थी। इसके बाद उसने कहा, “तुम ढीठ और द्रोही लोगों, तुम सदा ही पवित्र आत्मा को नकारते हो, जैसा कि तुम्हारे पूर्वजों ने सदा ही परमेश्वर को नकारा और उसके नबियों की हत्या की थी। लेकिन तुमने तो उनसे भी बुरा काम किया है। तुमने मसीह की हत्या की है।
 
-The **[[:en:key-terms:priest-high|high priest]]** asked Stephen, “**Are these things [[:en:key-terms:true|true]]**?” Stephen replied by reminding them of many of the great things **[[:en:key-terms:god|God]]** had done from the time of **[[:en:key-terms:abraham|Abraham]]** to the time of **[[:en:key-terms:jesus|Jesus]]**, and how God's people continually **[[:en:key-terms:disobey|disobeyed]]** him. Then he said, “You stubborn and **[[:en:key-terms:rebel|rebellious]]** people **always reject the [[:en:key-terms:holy-spirit|Holy Spirit]]**, just as **your ancestors** always rejected God and killed his **[[:en:key-terms:prophet|prophets]]**. But you did something worse than they did! You killed the **[[:en:key-terms:messiah|Messiah]]**!”
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  * **[[:hi:obs:notes:key-terms:priest high|महा याजक]]**
+  * **[[:hi:obs:notes:key-terms:truth|सही]]**
+  * **[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
+  * **[[:hi:obs:notes:key-terms:abraham|अब्राहम]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:disobey|अवज्ञा]]**
+  * **[[:hi:obs:notes:key-terms:rebel|द्रोही]]**
+  * **पवित्र आत्मा**
+  * **नबियों**
+  * **मसीह**
+===== अनुवाद के लिए नोट्स: =====
 
-===== Translation Notes: =====
-
-  * **Are these things true?** - That is, “Are these accusations against you true?” or, “Are the things these people are saying about you true?” or, “Is it true that you said evil things about Moses and God?” 
-  * **always reject the Holy Spirit** - That is, "never obey the Holy Spirit" or, "always refuse to listen to the Holy Spirit."
-  * **your ancestors** - This could be translated as, “your ancestors, the Israelites.”  
-  
-
+  * **क्या ये बातें सही हैं?**—अर्थात, “क्या तुम पर लगाए सारे दोष सही हैं?” या कि, “तुम्हारे विषय में जो ये लोग कह रहे हैं, क्या वे बातें सही हैं?” अथवा, “क्या यह सही है कि तुमने मूसा और परमेश्वर के विरोध में बुरी बातें कही हैं?”
+  * **सदा ही पवित्र आत्मा को नकारते हो** ---अर्थात, “कभी भी पवित्र आत्मा का आज्ञापालन नहीं करते” अथवा, “पवित्र आत्मा की बात सुनने से सदा इंकार करते हो।“
+  * **तुम्हारे पूर्वज**—आप इसे “इसरायली लोग, जो कि तुम्हारे पूर्वज थे” भी लिख सकते हैं।
 **[[:hi:obs:notes:frames:45-02|<<]] | [[:hi:obs:notes:45|Up]] | [[:hi:obs:notes:frames:45-04|>>]]**
