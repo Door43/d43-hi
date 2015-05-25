@@ -1,17 +1,18 @@
-====== The Ethiopian Read Isaiah [45-08] ======
+====== इथियोपियावासी यशायाह की पुस्तक पढ़ रहा था [45-08] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-08.jpg?nolink&}}
 
+रथ के पास पहुँचने पर फिलिप्पुस ने उस इथियोपियावासी को यशायाह नबी की पुस्तक में से पढ़ते सुना। वह पढ़ रहा था, कि “वह भेड़ की नाई वध होने के लिए पहुँचाया गया, और जैसे मेमना चुपचाप रहता है, वेसे ही उसने भी कुछ न कहा। उन्होंने उसके साथ दुर्व्यवहार किया और उसका सम्मान न किया। उन्होंने उसके प्राण ले लिए।“
 
-When Philip **approached the [[:en:key-terms:chariot|chariot]]**, he heard the **Ethiopian** reading from what the **[[:en:key-terms:isaiah|prophet Isaiah]]** wrote. The man read, “They led him like a **[[:en:key-terms:lamb|lamb]]** to be killed, and **as a lamb is silent**, he did not say a word. They treated him unfairly and did not respect him. **They took his [[:en:key-terms:life|life]] away from him**.”
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  * **[[:hi:obs:notes:key-terms:chariot|रथ]]**
+  * **[[:hi:obs:notes:key-terms:isaiah|यशायाह नबी]]**
+  * **[[:hi:obs:notes:key-terms:lamb|मेमना]]**
+  * **[[:hi:obs:notes:key-terms:life|जिलाया]]**
+===== अनुवाद के लिए नोट्स: =====
 
-===== Translation Notes: =====
-
-
-  * **Ethiopian** - That is, a person from the country of Ethiopia. See note on **[[:hi:obs:notes:frames:45-07|[45-07]]]**.
-  * **approached the chariot** - That is, “got close to the chariot” or, "came near to the chariot.” 
-  * **as a lamb is silent** - This could also be translated as, “like a lamb that is silent even when it is about to be killed.” 
-  
-
+  * **एथियोपियावासी**—अर्थात, इथियोपिया देश का निवासी। नोट देखने के लिए [४५-०७] पर जाएँ।
+  * **रथ के पास पहुँचने पर**—अर्थात, “रथ के निकट पहुँचने पर” अथवा, “जब वह रथ के पास आया।“
+  * **जैसे मेमना चुपचाप रहता है**—बात को स्पष्ट करने के लिए अनुवाद करते समय आप ऐसे भी लिख सकते हैं, कि “जैसे मारे जाने से पहले भी, मेमना चुपचाप रहता है।“
 **[[:hi:obs:notes:frames:45-07|<<]] | [[:hi:obs:notes:45|Up]] | [[:hi:obs:notes:frames:45-09|>>]]**
