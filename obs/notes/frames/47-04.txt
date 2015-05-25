@@ -1,13 +1,17 @@
-====== The Testimony of the Demon [47-04] ======
+====== दुष्टात्मा की गवाही [47-04] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-04.jpg?nolink&}}
 
-The **[[:en:key-terms:servant| slave girl]]** kept yelling as they walked, “These men are **[[:en:key-terms:servant|servants]]** of the **[[:en:key-terms:god|Most High God]]**. They are telling you **the way to be [[:en:key-terms:save|saved]]**!” She did this so often that **[[:en:key-terms:paul|Paul]]** became annoyed.
+दासी उनके पीछे-पीछे चिल्लाती रही, “ये लोग परम प्रधान परमेश्वर के दास हैं। वे तुम्हे उद्धार का मार्ग बता रहे हैं!” वह इतना अधिक बोलने लगी कि पौलुस बहुत दुखित हो गया।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:servant|दासी]]**
+  * **[[:hi:obs:notes:key-terms:servant|सेवकों]]**
+  * **[[:hi:obs:notes:key-terms:god|परम प्रधान परमेश्वर]]**
+  * **[[:hi:obs:notes:key-terms:save|उद्धार पाना]]**
+  * **[[:hi:obs:notes:key-terms:paul|पौलुस]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **the way to be saved** - That is, “how you can be saved” or, “how God saves people” or, “God's plan for saving people.”
-  
-
+  * **उद्धार का ****मार्ग** ---अर्थात, “बचने का मार्ग” अथवा, “परमेश्वर द्वारा लोगों को बचाने का मार्ग” या फिर “लोगों को बचाने की परमेश्वर की योजना।“
 **[[:hi:obs:notes:frames:47-03|<<]] | [[:hi:obs:notes:47|Up]] | [[:hi:obs:notes:frames:47-05|>>]]**
