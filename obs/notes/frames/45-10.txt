@@ -1,15 +1,16 @@
-====== Philip Preached about Jesus [45-10] ======
+====== फिलिप्पुस द्वारा यीशु का प्रचार [45-10] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-10.jpg?nolink&}}
 
+फिलिप्पुस ने इथियोपिया के उस निवासी को समझाया कि यशायाह ने यह बात यीशु के विषय में लिखी थी। फिलिप्पुस ने अन्य वचनों का भी सन्दर्भ देते हुए यीशु का सुसमाचार उसे बताया।
 
-Philip explained to the Ethiopian man that **[[:en:key-terms:isaiah|Isaiah]]** was writing about **[[:en:key-terms:jesus|Jesus]]**. Philip also used other **[[:en:key-terms:word-of-god|scriptures]]** to tell him the **[[:en:key-terms:good-news|good news]]** about Jesus.
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  * **[[:hi:obs:notes:key-terms:isaiah|यशायाह]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:word of god|वचनों]]**
+  * **[[:hi:obs:notes:key-terms:good news|सुसमाचार]]**
+===== अनुवाद के लिए नोट्स: =====
 
-===== Translation Notes: =====
-
-  * //(There are no notes for this frame.)//
-
-  
-
+  * //(अनुवाद के लिए कोई नोट्स नहीं हैं।)//
 **[[:hi:obs:notes:frames:45-09|<<]] | [[:hi:obs:notes:45|Up]] | [[:hi:obs:notes:frames:45-11|>>]]**
