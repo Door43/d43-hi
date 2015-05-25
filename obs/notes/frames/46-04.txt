@@ -1,17 +1,21 @@
-====== God Sent Ananias to Saul [46-04] ======
+====== परमेश्वर ने हनन्याह को शाऊल के पास भेजा [46-04] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-04.jpg?nolink&}}
 
+दमिश्क में हनन्याह नाम का एक चेला था।परमेश्वर ने उससे कहा, “शाऊल जिस घर में ठहरा है, वहाँ जा। उस पर अपने हाथ रख ताकि वह फिर से देख सके।“लेकिन हनन्याह बोला, “हे स्वामी, मैंने इस व्यक्ति के बारे में सुन रखा है कि इसने विश्वासियों को कैसे सताया था।“परमेश्वर ने उत्तर में कहा, “जा! यहूदियों व गैर-यहूदियों के बीच अपने नाम की उदघोषणा के लिए मैंने इसे चुना है। वह मेरे नाम के निमित्त वह बहुत कष्ट भोगेगा।“
 
-There was a **[[:en:key-terms:disciple|disciple]]** in Damascus named Ananias. **[[:en:key-terms:god|God]]** said to him, "Go to the house where **[[:en:key-terms:paul|Saul]]** is staying. Place your hands on him so that he can see again.” **But Ananias said**, “**[[:en:key-terms:lord|Master]]**, I have heard how this man has **[[:en:key-terms:persecute|persecuted]]** the believers.” **God answered him**, “Go! I have chosen him **to declare my name** to the Jews and to people from other people groups. He will **[[:en:key-terms:suffer|suffer]]** many things **for my name**."
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  * **[[:hi:obs:notes:key-terms:disciple|चेला]]**
+  * **[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
+  * **[[:hi:obs:notes:key-terms:saul|शाऊल]]**
+  * **[[:hi:obs:notes:key-terms:lord|मालिक]]**
+  * **[[:hi:obs:notes:key-terms:persecute|सताता था]]**
+  * **[[:hi:obs:notes:key-terms:suffer|कष्ट तो पाओगे]]**
+===== अनुवाद के लिए नोट्स: =====
 
-===== Translation Notes: =====
-
-  * **But Ananias said** – If it is not clear why the word “But” is used here, this could be translated as, “But Ananias was afraid, so he said.” 
-  * **God answered him** – This could be translated as, “To reassure Ananias, God said” to make clear why God said this. 
-  * **to declare my name** - That is, “to teach about me” or, “to make me known.” 
-  * **for my name** - That is, “for me” or, “because of me” or, “because he serves me” or, “because he teaches others about me.” 
-
-
+  * **लेकिन हनन्याह बोला** ---यदि वाक्य में “लेकिन” शब्द का प्रयोग स्पष्ट न हो रहा हो तो आप वाक्य को इस प्रकार भी लिख सकते हैं, “लेकिन हनन्याह डर गया, इसलिए वह बोला कि।“
+  * **परमेश्वर ने उत्तर में कहा**—इसे यूँ भी लिख सकते हैं, कि “हनन्याह को आश्वस्त करने के लिए परमेश्वर ने कहा।“
+  * **मेरे नाम की ****उदघोषणा** ---अर्थात, “मेरे विषय में उपदेश देने” या कि, “मेरे नाम को फैलाने।“
+  * **मेरे नाम के निमित्त**—अर्थात, “मेरे लिए” या कि, “मेरे कारण” अथवा, “क्योंकि वह मेरी सेवा करता है” अथवा, “क्योंकि वह मेरे बारे में लोगों को सिखाता है।“
 **[[:hi:obs:notes:frames:46-03|<<]] | [[:hi:obs:notes:46|Up]] | [[:hi:obs:notes:frames:46-05|>>]]**
