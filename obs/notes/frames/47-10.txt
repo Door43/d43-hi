@@ -1,14 +1,15 @@
-====== The Jailer [47-10] ======
+====== दरोगा [47-10] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-10.jpg?nolink&}}
 
-**The jailer** woke up, and when he saw that the prison doors were open, he was terrified! He thought all the prisoners had escaped, so he planned to kill himself. (He knew the **[[:en:key-terms:rome|Roman authorities]]** would kill him if he allowed the prisoners to escape.) But **[[:en:key-terms:paul|Paul]]** saw him and yelled, “Stop! Do not hurt yourself. **We** are all here.”
+दरोगा की नींद टूटी, और बंदीगृह का द्वार खुला देख कर वह सक्ते में आ गया! उसने सोचन कि सभी बंदी भाग गए हैं, और इसलिए वह आत्महत्या करने की सोचने लगा। (क्योंकि वह जानता था कि बंदियों के भागने देने के दंड स्वरुप रोमी अधिकारी उसे मार डालेंगे।) लेकिन उसे देख कर पौलुस चिल्लाया, “रुक जाओ! स्वयं को कुछ न करो!हम सब यहीं पर हैं।“
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:rome|रोमी अधिकारीयों]]**
+  * **[[:hi:obs:notes:key-terms:paul|पौलुस]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **The jailer** - That is, "the official in charge of the jail."
-  * **We** - Some languages have a special form of the word “we” which does not include the person being talked to. Here the “we” does not include the jailer, only Paul and the rest of the prisoners.
-  
-
+  * **दरोगा** ---अर्थात, “बंदीगृह का अधिकारी।“
+  * **हम**  ---कुछ भाषाओं में “हम” के लिए एक ऐसा विशिष्ट शब्द होता है जिसमे संबोधित व्यक्ति शामिल नहीं होता है। यहाँ पर भी “हम” में दरोगा शामिल नहीं है। इसमें केवल पौलुस व एनी बंदियों के सन्दर्भ में प्रयुक्त हुआ है।
 **[[:hi:obs:notes:frames:47-09|<<]] | [[:hi:obs:notes:47|Up]] | [[:hi:obs:notes:frames:47-11|>>]]**
