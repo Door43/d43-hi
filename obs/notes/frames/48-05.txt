@@ -1,13 +1,18 @@
-====== A Way of Salvation [48-05] ======
+====== उद्धार का मार्ग [48-05] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-05.jpg?nolink&}}
 
-When **[[:en:key-terms:god|God]]** destroyed the whole earth by the flood, he provided the boat to **[[:en:key-terms:save|save]]** the people who **[[:en:key-terms:believe|believed]]** in him. In the same way, everyone deserves to be **destroyed because of their [[:en:key-terms:sin|sins]]**, but God provided **[[:en:key-terms:jesus|Jesus]]** to save everyone who believes in him.
+परमेश्वर ने जब बाढ़ के द्वारा पूरे संसार का ध्वंस किया था, तब भी उसने अपने विश्वासी जनों को बचाने के लिए नाव प्रदान की थी। इसी तरह, अपने पापों के कारण हर कोई नाश होने योग्य है, लेकिन परमेश्वर ने अपने विश्वासियों को बचाने के लिए यीशु को दिया है।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **परमेश्वर**
+  * उद्धार
+  * विश्वासियों
+  * पापों
+  * यीशु
 
-  * **destroyed because of their sins** - This could also be translated as, “everyone should be punished eternally by God because they have sinned.”
-  
+===== अनुवाद के लिए नोट्स: =====
 
+  * **अपने पापों के कारण हर कोई नाश होने योग्य ****है** ---अनुवाद करते समय आप यूँ भी लिख सकते हैं, कि “अपने पापों के कारण हर किसी को परमेश्वर से अनंत दंड मिलना चाहिए।“
 **[[:hi:obs:notes:frames:48-04|<<]] | [[:hi:obs:notes:48|Up]] | [[:hi:obs:notes:frames:48-06|>>]]**
