@@ -6,19 +6,11 @@
 
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  *
-
-**[[:hi:obs:notes:key-terms:servant|दासी]]**
-  *
-
-**[[:hi:obs:notes:key-terms:paul|पौलुस]]**
-  *
-
-**[[:hi:obs:notes:key-terms:silas|सिलास]]**
-  *
-
-**[[:hi:obs:notes:key-terms:rome|रोमी अधिकारीयों]]**
+  * **[[:hi:obs:notes:key-terms:servant|दासी]]**
+  * **[[:hi:obs:notes:key-terms:paul|पौलुस]]**
+  * **[[:hi:obs:notes:key-terms:silas|सिलास]]**
+  * **[[:hi:obs:notes:key-terms:rome|रोमी अधिकारीयों]]**
 ===== अनुवाद के लिए नोट्स: =====
 
-  * **फिंकवा दिया** ---अर्थात, “डाल दिया।“
+  * **फिंकवा दिया**  —अर्थात, “डाल दिया।“
 **[[:hi:obs:notes:frames:47-06|<<]] | [[:hi:obs:notes:47|Up]] | [[:hi:obs:notes:frames:47-08|>>]]**
