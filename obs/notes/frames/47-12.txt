@@ -1,13 +1,20 @@
-====== The Jailer Was Baptized [47-12] ======
+====== दरोगा का बपतिस्मा [47-12] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-12.jpg?nolink&}}
 
-The jailer and his whole family **[[:en:key-terms:believe|believed]]** in **[[:en:key-terms:jesus|Jesus]]**  and were **[[:en:key-terms:baptize|baptized]]**. Then the jailer gave **[[:en:key-terms:paul|Paul]]** and **[[:en:key-terms:silas|Silas]]** a meal and they **[[:en:key-terms:joy|rejoiced]]** together.
+दरोगा और उसके पूरे घराने ने यीशु में विश्वास किया और बप्तिस्मा पाया। इसके बाद दरोगा ने पौलुस व सिलास को भोजन खिलाया और साथ में आनंद मनाया।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:believe|विश्वासियों]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:baptize|बपतिस्मा]]**
+  * **[[:hi:obs:notes:key-terms:paul|पौलुस]]**
+  * **[[:hi:obs:notes:key-terms:silas|सिलास]]**
+  * **[[:hi:obs:notes:key-terms:joy|आनंद मनाया]]**
 
-  * //(There are no notes for this frame.)//
+===== **अनुवाद के लिए नोट्स:**  =====
 
-  
+  * (अनुवाद के लिए कोई नोट्स नहीं हैं।)
+
 **[[:hi:obs:notes:frames:47-11|<<]] | [[:hi:obs:notes:47|Up]] | [[:hi:obs:notes:frames:47-13|>>]]**
