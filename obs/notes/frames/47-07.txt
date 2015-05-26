@@ -1,14 +1,24 @@
-====== Paul and Silas Were Arrested [47-07] ======
+====== पौलुस व सिलास का बंदी बनाया जाना [47-07] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-07.jpg?nolink&}}
 
-So the owners of the **[[:en:key-terms:servant|slave girl]]** took **[[:en:key-terms:paul|Paul]]** and **[[:en:key-terms:silas|Silas]]** to the **[[:en:key-terms:rome|Roman authorities]]**, who beat them and **threw them** into jail.
+इसलिए दासी के मालिक पौलुस व सिलास को रूमी अधिकारियों के पास ले गए, जिन्होंने उन्हें मार-पीट कर कैदखाने में फिंकवा दिया।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  *
 
+**[[:hi:obs:notes:key-terms:servant|दासी]]**
+  *
 
-  * **threw them** - That is, "put them."
-  
+**[[:hi:obs:notes:key-terms:paul|पौलुस]]**
+  *
 
+**[[:hi:obs:notes:key-terms:silas|सिलास]]**
+  *
+
+**[[:hi:obs:notes:key-terms:rome|रोमी अधिकारीयों]]**
+===== अनुवाद के लिए नोट्स: =====
+
+  * **फिंकवा दिया** ---अर्थात, “डाल दिया।“
 **[[:hi:obs:notes:frames:47-06|<<]] | [[:hi:obs:notes:47|Up]] | [[:hi:obs:notes:frames:47-08|>>]]**
