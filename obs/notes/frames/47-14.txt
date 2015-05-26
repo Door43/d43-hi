@@ -1,15 +1,22 @@
-====== Letters to the Churches [47-14] ======
+====== कलीसियाओं को पत्र [47-14] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-14.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-14.jpg?nolink&}}
 
-**[[:en:key-terms:paul|Paul]]** and other **[[:en:key-terms:christian|Christian]]** leaders traveled to many cities, **[[:en:key-terms:preach|preaching]]** and teaching people the **[[:en:key-terms:good-news|good news]]** about **[[:en:key-terms:jesus|Jesus]]**. They also wrote **many letters** to encourage and teach the **[[:en:key-terms:believer|believers]]** in the **[[:en:key-terms:church|churches]]**. Some of these letters became books of the Bible.
-
+यीशु का प्रचार व उसका सुसमाचार सिखाने के लिए पौलुस व अन्य मसीही अगुवों ने कई नगरों की यात्रा की। कलीसियाओं के विश्वासियों को प्रोत्साहन व शिक्षा देने के लिए उन्होंने कई पत्र भी लिखे। इनमे से कुछ पत्र बाइबिल की पुस्तकें बन गयीं।
 
 //A Bible story from: Acts 16:11-40//
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
+  * **[[:hi:obs:notes:key-terms:paul|पौलुस]]**
+  * **[[:hi:obs:notes:key-terms:christian|मसीही]]**
+  * **[[:hi:obs:notes:key-terms:preach|प्रचार]]**
+  * **[[:hi:obs:notes:key-terms:good-news|सुसमाचार]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:believe|विश्वासियों]]**
+  * **[[:hi:obs:notes:key-terms:church|कलीसियाओं]]**
 
-===== Translation Notes: =====
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-  
+===== अनुवाद के लिए नोट्स: =====
+
+  * बाइबिल की कहानी - बाइबिल के कुछ संस्करणों में इनका अनुवाद अलग तरह से किया हो सकता है।
 
 **[[:hi:obs:notes:frames:47-13|<<]] | [[:hi:obs:notes:47|Up]] | [[:hi:obs:notes:frames:48-01|>>]]**
