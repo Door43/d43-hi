@@ -1,13 +1,13 @@
-====== The Earthquake [47-09] ======
+====== भूकंप [47-09] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-09.jpg?nolink&}}
 
-Suddenly, there was a violent earthquake! All the prison doors **flew open**, and the chains of all the prisoners **fell off**.
+अचानक, वहाँ एक जोर का भूकंप आया! इस कारण बंदीगृह के सारे द्वार खुल गए, और सभी बंदियों की कड़ियाँ निकल का गिर गयीं।
 
-===== Translation Notes: =====
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  * **flew open** - That is, “became unlocked and suddenly opened wide.”
-  * **fell off** - That is, “suddenly came off” or, “suddenly came apart so that the prisoners were released.”
-  
+===== **अनुवाद के लिए नोट्स:**  =====
 
+  * **खुल ****गए** ---अर्थात, “द्वार के ताले खुल गए और वे पूरी तरह से खुल गए।“
+  * **गिर ****गयीं** ---अर्थात, “अचानक बाहर निकल आयीं” या कि, “अचानक से खुल गयी और बंदी रिहा हो गए।“
 **[[:hi:obs:notes:frames:47-08|<<]] | [[:hi:obs:notes:47|Up]] | [[:hi:obs:notes:frames:47-10|>>]]**
