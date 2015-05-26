@@ -1,14 +1,19 @@
-====== Adam and Eve Sinned [48-02] ======
+====== आदम व हव्वा का पाप [48-02] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-02.jpg?nolink&}}
 
-**[[:en:key-terms:satan|Satan]]** spoke through the snake in **the garden** in order to **deceive [[:en:key-terms:eve|Eve]]**. Then she and **[[:en:key-terms:adam|Adam]]** **[[:en:key-terms:sin|sinned]]** against **[[:en:key-terms:god|God]]**. Because they sinned, everyone on earth gets sick and everyone **[[:en:key-terms:death|dies]]**.
+हव्वा को छलने के लिए शैतान बगीचे में सर्प के रूप में बोला। तब उसने व आदम ने परमेश्वर के विरोध में पाप किया। उनके पाप के कारण धरती के सब लोग बीमार होते हैं और मरते हैं।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:satan|शैतान]]**
+  * **[[:hi:obs:notes:key-terms:eve|हव्वा]]**
+  * **[[:hi:obs:notes:key-terms:adam|आदम]]**
+  * **[[:hi:obs:notes:key-terms:sin|पाप]]**
+  * **[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
+  * **[[:hi:obs:notes:key-terms:death|मरते हैं]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **the garden** - This refers to the garden created by God where he placed the first man and woman.
-  * **deceive Eve** - That is, “lie to Eve.” Satan lied by leading Eve to doubt what God had said. By doing this, he tricked her into disobeying God.
-  
-
+  * **बगीचे में**—यहाँ पर बगीचे का आशय अदन के बगीचे से हैं जहां परमेश्वर ने पहले नर व पहली नारी की रचना की थी।
+  * **हव्वा को छलने**—अर्थात, “हव्वा से झूठ बोला।“ परमेश्वर की कही बातों पर हव्वा के मन में संदेह पैदा कर शैतान ने उसे झूठ बोला था। ऐसा कर, उसने छल से उससे परमेश्वर की अवज्ञा करवाई।
 **[[:hi:obs:notes:frames:48-01|<<]] | [[:hi:obs:notes:48|Up]] | [[:hi:obs:notes:frames:48-03|>>]]**
