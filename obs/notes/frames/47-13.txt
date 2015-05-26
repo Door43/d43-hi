@@ -1,15 +1,20 @@
-====== The Good News Spreads [47-13] ======
+====== सुसमाचार का विस्तार [47-13] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-13.jpg?nolink&}}
 
-The next day **the leaders of the city** released **[[:en:key-terms:paul|Paul]]** and **[[:en:key-terms:silas|Silas]]** from prison and asked them to leave **[[:en:key-terms:philippi|Philippi]]**. Paul and Silas visited **Lydia** and some other friends and then left the city. **The [[:en:key-terms:good-news|good news]] about [[:en:key-terms:jesus|Jesus]] kept spreading**, and **the [[:en:key-terms:church|Church]] kept growing**.
+अगले दी नगर के अधिकारीयों ने पौलुस व सिलास को बंदीगृह से मुक्त कर दिया और उन्हें फिलिप्पी से चले जाने को कहा। लुदिया व अन्य मित्रों से भेंट करने के पश्चात पौलुस व सिलास नगर छोड़ कर चले गए।यीशु का सुसमाचार फैलता गया और कलीसिया विस्तार पाती रही।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:paul|पौलुस]]**
+  * **[[:hi:obs:notes:key-terms:silas|सिलास]]**
+  * **[[:hi:obs:notes:key-terms:philippi|फिलिप्पी]]**
+  * **[[:hi:obs:notes:key-terms:good-news|सुसमाचार]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:church|कलीसिया]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **the leaders of the city** - This refers to, "the officials of the city" or, "the authorities of the city."
-  * **The good news about Jesus kept spreading** - That is, “People in more and more places were hearing the good news about Jesus.”
-  * **the Church kept growing** - That is, “more and more people were becoming part of the Church” or, “more and more people were believing in Jesus.”
-  
-
+  * **नगर के अधिकारीयों**—यहाँ पर “नगर के शासकीय अधिकारियों” से है।
+  * **यीशु का सुसमाचार फैलता ****गया** ---अर्थात, “जगह-जगह के लोग यीशु का सुसमाचार सुन रहे थे।“
+  * **कलीसिया विस्तार पाती रही**—अर्थात, “अधिकाधिक संख्या में लोग कलीसिया से जुड़ते जा रहे थे” या कि, “अधिकाधिक संख्या में लोग यीशु पर विश्वास कर रहे थे।“
 **[[:hi:obs:notes:frames:47-12|<<]] | [[:hi:obs:notes:47|Up]] | [[:hi:obs:notes:frames:47-14|>>]]**
