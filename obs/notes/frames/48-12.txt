@@ -1,14 +1,19 @@
-====== The Word of God [48-12] ======
+====== परमेश्वर का वचन [48-12] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-12.jpg?nolink&}}
 
-**[[:en:key-terms:moses|Moses]]** was **a great [[:en:key-terms:prophet|prophet]]** who proclaimed the **[[:en:key-terms:word-of-god|word of God]]**. But **[[:en:key-terms:jesus|Jesus]]** is **the greatest prophet** of all. He is the Word of God.
+मूसा एक महान नबी था जिसने परमेश्वर के वचन की उदघोषणा की थी। लेकिन सभी नबियों में सबसे महान है यीशु। वह परमेश्वर है, इसलिए जो कुछ भी उसने किया वह स्वयं परमेश्वर के कार्य और वचन थे। यही कारण है कि यीशु को परमेश्वर का वचन कहा जाता है।
 
-===== Translation Notes: =====
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  * **a great prophet** - That is, "a very important prophet."
-  * **the greatest prophet** - That is, "the most important prophet."
-  * **He is the Word of God** - That is, “He is called the Word of God” because he reveals God's character. The other prophets preached the message God gave them, but Jesus revealed God in his preaching and his actions.
-  
+  * **[[:hi:obs:notes:key-terms:moses|मूसा]]**
+  * **[[:hi:obs:notes:key-terms:prophet|नबी]]**
+  * **[[:hi:obs:notes:key-terms:word-of-god|परमेश्वर के वचन]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
+===== अनुवाद के लिए नोट्स: =====
 
+  * **a great prophet**  - That is, "a very important prophet."
+  * **the greatest prophet**  - That is, "the most important prophet."
+  * **He is the Word of God**  - That is, “He is called the Word of God” because he reveals God's character. The other prophets preached the message God gave them, but Jesus revealed God in his preaching and his actions.
 **[[:hi:obs:notes:frames:48-11|<<]] | [[:hi:obs:notes:48|Up]] | [[:hi:obs:notes:frames:48-13|>>]]**
