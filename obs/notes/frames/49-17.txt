@@ -1,16 +1,25 @@
-====== Follow Jesus' Teachings [49-17] ======
+====== यीशु की शिक्षाओं का पालन करें [49-17] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-17.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-17.jpg?nolink&}}
 
-If you are a friend of **[[:en:key-terms:god|God]]** and a **[[:en:key-terms:servant|servant]]** of **[[:en:key-terms:jesus|Jesus]]** the **[[:en:key-terms:lord|Master]]**, you will want to **[[:en:key-terms:obey|obey]]** what Jesus teaches you. Even though you are a **[[:en:key-terms:christian|Christian]]**, you will still **be [[:en:key-terms:tempt|tempted]] to [[:en:key-terms:sin|sin]]**. But God **is [[:en:key-terms:faithful|faithful]]** and says that if you **confess your sins**, he  will **[[:en:key-terms:forgive|forgive]]** you. **He will give you strength to fight against sin**.
+यदि आप परमेश्वर के मित्र व प्रभु यीशु के दास हैं, तो आप यीशु की शिक्षाओं का पालन करना चाहेंगे। मसीही होने के बावजूद भी आप पाप की परीक्षा में पड़ेंगे। लेकिन परमेश्वर विश्वासयोग्य है और कहता है कि यदि तुम अपने पापों का अंगीकार करोगे, तो वह तुम्हे क्षमा करेगा।वह आपको पाप से लड़ने की सामर्थ देगा।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
+  * **[[:hi:obs:notes:key-terms:servant|दास]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:lord|मालिक]]**
+  * **[[:hi:obs:notes:key-terms:obey|आज्ञाओं का पालन]]**
+  * **[[:hi:obs:notes:key-terms:christian|मसीही]]**
+  * **[[:hi:obs:notes:key-terms:tempt|परीक्षा]]**
+  * **[[:hi:obs:notes:key-terms:sin|पाप]]**
+  * **[[:hi:obs:notes:key-terms:faithful|विश्वासयोग्य]]**
+  * **[[:hi:obs:notes:key-terms:forgive|क्षमा]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **be tempted to sin** - That is, "“be tempted to sin even though you know sin is wrong."
-  * **is faithful** - In this context this means that God, “keeps his promises.”
-  * **confess your sins** - This could be translated as, “admit to God what you have done wrong.” 
-  * **He will give you strength to fight against sin** - That is, “He will give you spiritual strength to refuse to sin.” 
-  
-
+  * **पाप की परीक्षा में पड़ेंगे**—अर्थात, “यह जानते हुए भी कि पाप एक बुराई है, आप उसे करने को लालायित हो सकते हैं।“
+  * **विश्वासयोग्य है**—अर्थात,”परमेश्वर अपनी प्रतिज्ञाएँ पूरी करता है।“
+  * **तुम अपने पापों का अंगीकार ****करोगे** ---अर्थात, “परमेश्वर के आगे मानोगे कि तुमने बुरा काम किया है।“
+  * **वह आपको पाप से लड़ने की सामर्थ ****देगा** ---अर्थात, “पाप को नकारने की आत्मिक सामर्थ देगा।“
 **[[:hi:obs:notes:frames:49-16|<<]] | [[:hi:obs:notes:49|Up]] | [[:hi:obs:notes:frames:49-18|>>]]**
