@@ -1,13 +1,16 @@
-====== The Value of Salvation [49-05] ======
+====== उद्धार का मूल्य [49-05] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-05.jpg?nolink&}}
 
-**[[:en:key-terms:jesus|Jesus]]** said that the **[[:en:key-terms:kingdom-of-god|kingdom of God]]** is more valuable than anything else in the world. The most important thing that you should seek is **to be [[:en:key-terms:save|saved]] from your [[:en:key-terms:sin|sin]]** so that you can enter into God's kingdom. 
+यीशु ने कहा कि संसार की किसी भी चीज़ से अधिक परमेश्वर का राज्य मूल्यवान है। परमेश्वर के राज्य का हिस्सा होना ही व्यक्ति के लिए सबसे महत्वपूर्ण चीज़ है। परमेश्वर के राज्य में प्रवेश पाने के लिए आपने अपने पाप से उद्धार पाना होगा।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:kingdom-of-god|परमेश्वर के राज्य]]**
+  * **[[:hi:obs:notes:key-terms:save|उद्धार पाना]]**
+  * **[[:hi:obs:notes:key-terms:sin|पाप]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **to be saved from your sin** - That is, “to be saved from being punished for your sin” or, “that God would save you from your sin” or, “to receive salvation from your sin.” 
-
-
+  * **अपने पाप से उद्धार ****पाना** ---अर्थात, “अपने पापों के दंड से बचाया जाना” या कि, “कि आपके किये पापों से परमेश्वर आपको बचाए” अथवा, “अपने पाप से उद्धार पाना।
 **[[:hi:obs:notes:frames:49-04|<<]] | [[:hi:obs:notes:49|Up]] | [[:hi:obs:notes:frames:49-06|>>]]**
