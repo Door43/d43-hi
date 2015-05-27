@@ -1,13 +1,19 @@
-====== The Sinless Sacrifice [49-11] ======
+====== निष्पाप बलि [49-11] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-11.jpg?nolink&}}
 
-**[[:en:key-terms:jesus|Jesus]]** never **[[:en:key-terms:sin|sinned]]**, but he chose to be **[[:en:key-terms:punish|punished]]** and to **[[:en:key-terms:death|die]]** as the perfect **[[:en:key-terms:sacrifice|sacrifice]]** to **take away** your sins and the sins of every person in the world. Because Jesus sacrificed himself, **[[:en:key-terms:god|God]]** can **[[:en:key-terms:forgive|forgive]]** any sin, even terrible sins.
+यीशु न कभी कोई पाप नहीं किया था, लेकिन आपके पापों व संसार के हर व्यक्ति के पापों को हरने के लिए उसने क्रूस पर एक सिद्ध बलि के रूप में मरना और दंड भोगना स्वीकार किया। चूंकि यीशु ने स्वयं को बलि स्वरुप अर्पित किया था, परमेश्वर कोई भी पाप, यहाँ तक कि भयंकर से भयंकर पाप भी क्षमा कर सकता है।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:sin|पाप]]**
+  * **[[:hi:obs:notes:key-terms:punish|दंड]]**
+  * **[[:hi:obs:notes:key-terms:death|मृत्यु]]**
+  * **[[:hi:obs:notes:key-terms:sacrifice|बलि]]**
+  * **[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
+  * **[[:hi:obs:notes:key-terms:forgive|क्षमा]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **take away** - That is, "remove the penalty of" or, "remove the punishment for." The sacrifice of Jesus causes God to look at our sin as if it never existed. 
-  
-
+  * **हरने के ****लिए** ---अर्थात, “दंड को मिटाने के लिए।“ यीशु के बलिदान के कारण परमेश्वर हमारे पापों को ऐसे देखता है कि मानो वे थे ही नहीं।
 **[[:hi:obs:notes:frames:49-10|<<]] | [[:hi:obs:notes:49|Up]] | [[:hi:obs:notes:frames:49-12|>>]]**
