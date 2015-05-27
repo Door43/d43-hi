@@ -1,23 +1,19 @@
-====== Not All Will Be Saved [49-06] ======
+====== सभी को उद्धार नहीं मिलेगा [49-06] ======
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-06.jpg?nolink&}}
 
-**Jesus** taught that some people will **receive** him and be **saved**, but **others will not**. He said that some people are like good soil. They receive the **good news** of Jesus and are saved. Other people are like the hard soil of a path, where the **seed of God's word** does not enter and does not produce any harvest. Those people reject the message about Jesus and will not enter into **his kingdom**. 
+यीशु ने सिखाया कि कुछ लोग उसे ग्रहण कर उद्धार पायेंगे, लेकिन अन्य नहीं। उसने कहा कि कुछ लोग उपजाऊ मिटटी के समान होते हैं। वे यीशु के सुसमाचार को ग्रहण करके उद्धार पा जाते हैं। जबकि अन्य लोग मार्ग की कठोर मिटटी के समान होते हैं, जहां परमेश्वर के वचन के बीज प्रवेश नहीं कर पाते और कोई फसल नहीं हो पाती। वे लोग यीशु के सन्देश को नकार देते हैं और उसके राज्य में प्रवेश नहीं करेंगे।
 
-===== Important Terms: =====
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  * **[[:hi:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:hi:obs:notes:key-terms/receive|receive]]**
-  * **[[:hi:obs:notes:key-terms/save|saved]]**
-  * **[[:hi:obs:notes:key-terms/good-news|good news]]**
-  * **[[:hi:obs:notes:key-terms/word-of-god|God's word]]**
-  * **[[:hi:obs:notes:key-terms/kingdom-of-god|his kingdom]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:receive|ग्रहण]]**
+  * **[[:hi:obs:notes:key-terms:save|उद्धार पाना]]**
+  * **[[:hi:obs:notes:key-terms:good-news|सुसमाचार]]**
+  * **[[:hi:obs:notes:key-terms:word-of-god|परमेश्वर के वचन]]**
+  * **[[:hi:obs:notes:key-terms:kingdom-of-god|उसके राज्य]]**
+===== अनुवाद के लिए नोट्स: =====
 
-
-===== Translation Notes: =====
-
-  * **others will not** - That is, "other people will not receive him and therefore will not be saved."
-  * **seed of God's word** - This can be translated as, "seed, which can be compared to God's word." This phrase makes a comparison between seed and God's word.
-
-
+  * **जबकि अन्य नहीं** ---अर्थात, “अन्य लोग उसे ग्रहण नहीं करेंगे और इसलिए उद्धार नहीं पायेंगे।“
+  * **परमेश्वर के वचन के ****बीज** ---अनुवाद करते समय आप यूँ भी लिख सकते हैं कि , “जहां वे बीज, जो कि परमेश्वर के वचन के समान हैं... ।“ यह वाक्य बीज व परमेश्वर के वचन के बीच तुलना दिखता है।
 **[[:hi:obs:notes:frames:49-05|<<]] | [[:hi:obs:notes:49|Up]] | [[:hi:obs:notes:frames:49-07|>>]]**
