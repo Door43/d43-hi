@@ -1,13 +1,21 @@
-====== A Descendent of David [48-13] ======
+====== दाऊद का वंशज [48-13] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-13.jpg?nolink&}}
 
-**[[:en:key-terms:god|God]]** **[[:en:key-terms:promise|promised]]** **[[:en:key-terms:david|King David]]** that the **[[:en:key-terms:messiah|Messiah]]** would be one of his **[[:en:key-terms:descendant|descendants]]**. **[[:en:key-terms:jesus|Jesus]]**, the Messiah, was that special descendant of David.
+परमेश्वर ने राजा दाऊद से प्रतिज्ञा की थी कि उसका एक वंशज परमेश्वर के लोगों पर सदा के लिए राज्य करेगा। चूंकि यीशु परमेश्वर का बेटा और मसीह है, इसलिए वही दाऊद का वह विशेष वंशज है जो सदा के लिये राज्य कर सकता है।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
+  * **[[:hi:obs:notes:key-terms:promise|प्रतिज्ञा की है]]**
+  * **[[:hi:obs:notes:key-terms:david|राजा दाऊद]]**
+  * **[[:hi:obs:notes:key-terms:god-son|परमेश्वर का बेटा]]**
+  * **[[:hi:obs:notes:key-terms:messiah|मसीह]]**
+  * **[[:hi:obs:notes:key-terms:descendant|वंशज]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
 
-  * //(There are no notes for this frame.)//
-  
+===== अनुवाद के लिए नोट्स: =====
+
+  * (अनुवाद के लिए कोई नोट्स नहीं हैं।)
 
 **[[:hi:obs:notes:frames:48-12|<<]] | [[:hi:obs:notes:48|Up]] | [[:hi:obs:notes:frames:48-14|>>]]**
