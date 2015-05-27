@@ -1,13 +1,19 @@
-====== God Hates Sin [49-08] ======
+====== परमेश्वर पाप से घृणा करता है [49-08] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-08.jpg?nolink&}}
 
-**[[:en:key-terms:jesus|Jesus]]** also told us that **[[:en:key-terms:god|God]]** hates **[[:en:key-terms:sin|sin]]**. When **[[:en:key-terms:adam|Adam]]** and **[[:en:key-terms:eve|Eve]]** **[[:en:key-terms:sin|sinned]]**, it affected all of their **[[:en:key-terms:descendant|descendants]]**. As a result, every person in the world sins and **is separated from God**. Therefore, everyone has become an enemy of God.
+यीशु ने हमें यह भी बताया कि परमेश्वर को पाप से घृणा है। आदम और हव्वा के पाप के कारण उनके सभी वंशज प्रभावित हुए। जिस कारण, पाप के कारण संसार का हर व्यक्ति परमेश्वर से अलग है। इसलिए, हरेक जन परमेश्वर का शत्रु बन गया है।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
+  * **[[:hi:obs:notes:key-terms:sin|पाप]]**
+  * **[[:hi:obs:notes:key-terms:adam|आदम]]**
+  * **[[:hi:obs:notes:key-terms:eve|हव्वा]]**
+  * **[[:hi:obs:notes:key-terms:sin|पाप]]**
+  * **[[:hi:obs:notes:key-terms:descendant|वंशज]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **is separated from God** - This can also be translated as, “cannot live with God” or, “cannot be near God” or, “cannot have a relationship with God.” 
-  
-
+  * **परमेश्वर से अलग हो गया**  - इसका अनुवाद "परमेश्वर के साथ नहीं रह सकते" या, "परमेश्वर के पास नहीं जा सकते" या "परमेश्वर के साथ एक रिश्ता नही रख सकता है" किया जा सकता
 **[[:hi:obs:notes:frames:49-07|<<]] | [[:hi:obs:notes:49|Up]] | [[:hi:obs:notes:frames:49-09|>>]]**
