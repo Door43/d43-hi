@@ -1,13 +1,17 @@
-====== Sins Are Forgiven [49-16] ======
+====== पाप क्षमा हुए [49-16] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-16.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-16.jpg?nolink&}}
 
-If you are a **[[:en:key-terms:christian|Christian]]**, **[[:en:key-terms:god|God]]** has **[[:en:key-terms:forgive|forgiven]]** your **[[:en:key-terms:sin|sins]]** because of what **[[:en:key-terms:jesus|Jesus]]** did. Now, God **considers you to be** a close friend instead of an enemy.
+यदि आप एक मसीही हैं, तो यीशु के किये काम के कारण परमेश्वर आपके पाप क्षमा कर चुका है। अब, परमेश्वर आपको शत्रु नहीं बल्कि एक निकट का मित्र मानता है।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:christian|मसीही]]**
+  * **[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
+  * **[[:hi:obs:notes:key-terms:forgive|क्षमा कर चुका है]]**
+  * **[[:hi:obs:notes:key-terms:sin|पापों]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **considers you to be** - That is, "thinks of you as" or, "regards you as" or, "calls you."
-  
-
+  * **मानता है**—अर्थात, “समझता है” या कि, “लेता है” अथवा, “बुलाता है।“
 **[[:hi:obs:notes:frames:49-15|<<]] | [[:hi:obs:notes:49|Up]] | [[:hi:obs:notes:frames:49-17|>>]]**
