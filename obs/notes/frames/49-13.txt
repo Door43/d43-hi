@@ -1,14 +1,19 @@
-====== God Loves You [49-13] ======
+====== परमेश्वर आपसे प्रेम रखता है [49-13] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-13.jpg?nolink&}}
 
-**[[:en:key-terms:god|God]]** will **[[:en:key-terms:save|save]]** everyone who **[[:en:key-terms:believe|believes]]** in **[[:en:key-terms:jesus|Jesus]]** and **[[:en:key-terms:receive|receives]]** him as their **[[:en:key-terms:lord|Master]]**. But he will not save anyone who does not believe in him. It does not matter if you are rich or poor, man or woman, old or young, or where you live. God **[[:en:key-terms:love|loves]]** you and wants you to believe in Jesus so **he can have a close relationship with you**.
+जो भी यीशु में विश्वास रखता है और उसे अपना प्रभु ग्रहण करता है, परमेश्वर उसे बचाएगा। लेकिन वह किसी अविश्वासी को नहीं बचाएगा। इससे कोई अंतर नहीं पड़ता कि आप धनी हैं या निर्धन, पुरुष हैं या स्त्री, विरद्ध हैं या जवान, या कि आप कहाँ पर रहते हैं। परमेश्वर आपसे प्रेम रखता है और चाहता है कि आप यीशु पे विश्वास रखे ताकि वह आपके साथ निकट का संबंध बना सके।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
+  * **[[:hi:obs:notes:key-terms:save|उद्धार]]**
+  * **[[:hi:obs:notes:key-terms:believe|विश्वास रखनेवाले]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:receive|ग्रहण करता है]]**
+  * **[[:hi:obs:notes:key-terms:lord|मालिक]]**
+  * **[[:hi:obs:notes:key-terms:love|प्रेम रखता है]]**
+===== अनुवाद के लिए नोट्स: =====
 
-
-  * **he can have a close relationship with you** - This can also be translated as, “so that you can be his child” or, “so that you can be his friend” or, "so you can belong to him." 
-  
-
+  * **ताकि वह आपके साथ निकट का सम्बन्ध बना सके** ---अनुवाद करते समय आप ऐसे भी लिख सकते हैं, कि “ताकि आप उसकी संतान बन सकें” अथवा, “ताकि आप उसके मित्र हो सकें” या फिर, “ताकि आप उससे जुड़ सकें।“
 **[[:hi:obs:notes:frames:49-12|<<]] | [[:hi:obs:notes:49|Up]] | [[:hi:obs:notes:frames:49-14|>>]]**
