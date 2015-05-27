@@ -1,13 +1,20 @@
-====== The Good News [50-02] ======
+====== सुसमाचार [50-02] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-02.jpg?nolink&}}
 
-As we wait for **[[:en:key-terms:jesus|Jesus]]** to return, **[[:en:key-terms:god|God]]** wants us to live in a way that is **[[:en:key-terms:holy|holy]]** and that honors him. He also wants us to tell others about his **[[:en:key-terms:kingdom-of-god|kingdom]]**. When Jesus was living on earth he said, “My **[[:en:key-terms:disciple|disciples]]** will **[[:en:key-terms:preach|preach]]** the **[[:en:key-terms:good-news|good news]]** about the kingdom of God to people everywhere in the world, and then **the end will come**.”
+परमेश्वर चाहता है कि यीशु की बाट जोहते हुए हम एक पवित्र व ऐसा जीवन जीए जिससे उसे आदर मिलता हो। वह साथ में यह भी चाहता है कि हम दूसरों को भी उसके राज्य के बारे में बताएं। यीशु जब इस धरती पर था, तब उसने कहा था, कि “मेरे चेले संसार के हर कोने के हर व्यक्ति को परमेश्वर के राज्य का उपदेश सुनायेंगे, और तब अंत आ जाएगा।“
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
+  * **[[:hi:obs:notes:key-terms:holy|पवित्र]]**
+  * **[[:hi:obs:notes:key-terms:kingdom-of-god|राज्य]]**
+  * **[[:hi:obs:notes:key-terms:disciple|चेले]]**
+  * **[[:hi:obs:notes:key-terms:preach|उपदेश सुनायेंगे]]**
+  * [[:hi:obs:notes:key-terms:good-news|सुसमाचार]]
 
-  * **the end will come** - This could be translated as, “the end of this world will come” or, “the end of this world will happen” or, “this present world will end.” 
-  
+===== अनुवाद के लिए नोट्स: =====
 
+  * **अंत आ जाएगा** ---अनुवाद करते समय आप “इसके बाद संसार का अंत आ जाएगा” या फिर, “संसार का अंत हो जायेगा” अथवा, “वर्तमान जगत का अंत हो जाएगा” भी लिख सकते हैं।
 **[[:hi:obs:notes:frames:50-01|<<]] | [[:hi:obs:notes:50|Up]] | [[:hi:obs:notes:frames:50-03|>>]]**
