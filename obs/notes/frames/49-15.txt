@@ -1,14 +1,20 @@
-====== God's Kingdom of Light [49-15] ======
+====== परमेश्वर के राज्य की ज्योति [49-15] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-15.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-15.jpg?nolink&}}
 
-If you **[[:en:key-terms:believe|believe]]** in **[[:en:key-terms:jesus|Jesus]]** and what he has done for you, you are a **[[:en:key-terms:christian|Christian]]**! **[[:en:key-terms:god|God]]** has taken you out of **[[:en:key-terms:satan|Satan's]] [[:en:key-terms:kingdom|kingdom]] of darkness** and put you into **[[:en:key-terms:kingdom-of-god|God’s kingdom]] of light**. God has taken away your old, sinful ways of doing things and has given you new, righteous ways of doing things.
+यदि आप यीशु में, और उसने जो आपके लिए किया है, उस पर विश्वास रखते हैं, तो आप एक मसीही हैं! परमेश्वर आपको शैतान के अंधकार के राज्य से निकाल कर आपको अपने ज्योति के राज्य में ले आया है। परमेश्वर ने आपके पुराने, पापमय रीतियों को दूर कर दिया है और आपको एक नया, धर्मी जीवन रीती दी है।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:believe|विश्वास]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:christian|मसीही]]**
+  * **[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
+  * **[[:hi:obs:notes:key-terms:satan|शैतान के]]**
+  * **[[:hi:obs:notes:key-terms:kingdom|राज्य]]**
+  * **__[[:hi:obs:notes:key-terms:kingdom-of-god|परमेश्वर के राज्य]]__**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **Satan's kingdom of darkness** - “Darkness” is used here to refer to sin and everything that is evil. This could be translated as, “Satan's evil rule over people, which is like darkness.” 
-  * **God's kingdom of light** - "Light" here refers to God's holiness and goodness. This could be translated as, “God's righteous rule over people, which is like light.” The Bible often compares evil to darkness, and goodness to light.
-  
-
+  * **शैतान के अंधकार के राज्य**—“अन्धकार” का आशय यहाँ पाप व बुरी बातों से है। अनुवाद करते समय आप “शैतान के बुरे राज्य पर, जो कि अन्धकार के समान है” भी लिख सकते हैं।
+  * **अपने (परमेश्वर के) ज्योति के राज्य**—“ज्योति” का आशय यहाँ परमेश्वर की पवित्रता व भलाई से है। अनुवाद करते समय आप इसे “परमेश्वर के धर्मी राज्य, जो कि ज्योति के समान है” भी लिख सकते हैं। बाइबिल में बुराई की अन्धकार से, और भलाई की ज्योति से अकसर तुलना की गयी है।
 **[[:hi:obs:notes:frames:49-14|<<]] | [[:hi:obs:notes:49|Up]] | [[:hi:obs:notes:frames:49-16|>>]]**
