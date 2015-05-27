@@ -1,14 +1,20 @@
-====== The Great High Priest [48-06] ======
+====== प्रधान महा याजक [48-06] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-06.jpg?nolink&}}
 
-For hundreds of years, **[[:en:key-terms:priest|priests]]**  continually offered **[[:en:key-terms:sacrifice|sacrifices]]** to **[[:en:key-terms:god|God]]** for people to show the punishment that they deserved for their **[[:en:key-terms:sin|sins]]**. But those sacrifices could not take away their sin. **[[:en:key-terms:jesus|Jesus]]** is the **[[:en:key-terms:priest-high|Great High Priest]]**. Unlike other priests, **he offered himself** as the only sacrifice that could to take away the sin of all the people in the world. Jesus was the perfect high priest because he **took the [[:en:key-terms:punish|punishment]]** for every sin that anyone has ever committed.
+सैकड़ों सालों से याजक लोगों के लिए परमेश्वर के समक्ष बलि प्रस्तुत करते आ रहे थे, और उन्हें वह दंड दिखा रहे थे जो अपने पापों के कारण उन्हें मिलना चाहिए था। लेकिन वे बलि उनके पापों को हर नहीं सकती थीं।प्रधान महा याजक[४८-०६] अन्य याजकों के समान नहीं है, उसने स्वयं को एक मेल बलि के रूप में समर्पित किया जो संसार के सभी लोगों के पाप को दूर कर सकता है। यीशु ही सिद्ध महा याजक था क्योंकि उसने अब तक किये हर पाप के दंड को अपने ऊपर ले लिया।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:priest|याजकों]]**
+  * **[[:hi:obs:notes:key-terms:sacrifice|बलि]]**
+  * **[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
+  * **[[:hi:obs:notes:key-terms:sin|पापों]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:priest-high|प्रधान महा याजक]]**
+  * **[[:hi:obs:notes:key-terms:punish|दंड]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **he offered himself** - This could also be translated as, “Jesus allowed himself to be killed.”
-  * **took the punishment** - That is, "received the punishment in his own body."
-  
-
+  * **स्वयं को....समर्पित किया**—अर्थात, “स्वयं को....मारने दिया।
+  * **दंड को अपने ऊपर ले ****लिया** ---अर्थात, “दंड को अपने शरीर में ग्रहण कर लिया।“
 **[[:hi:obs:notes:frames:48-05|<<]] | [[:hi:obs:notes:48|Up]] | [[:hi:obs:notes:frames:48-07|>>]]**
