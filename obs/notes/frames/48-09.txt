@@ -1,17 +1,23 @@
-====== The Passover [48-09] ======
+====== फसह का पर्व [48-09] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-09.jpg?nolink&}}
 
-When **[[:en:key-terms:god|God]]** **sent the last plague on [[:en:key-terms:egypt|Egypt]]**, he told each **[[:en:key-terms:israel|Israelite]]** family to kill **a perfect [[:en:key-terms:lamb|lamb]]** and spread **its [[:en:key-terms:blood|blood]]** on the tops and sides of their **door frames**. When God saw the blood, he **passed over** their houses and did not kill their firstborn sons. This event is called the **[[:en:key-terms:passover|Passover]]**.
+मिस्र पर जब परमेश्वर न अंतिम विपत्ति भेजी थी, तब उसने हर इस्राएली परिवार को एक निर्दोष मेमना मार कर उसके लहू को अपनी चौखटों पर लगाने को कहा था।  लहू देख कर परमेश्वर ने उनके घर छोड़ दिए और उनके पहिलौठों को नहीं मारा। इस घटना को फसह कहते हैं।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * परमेश्वर
+  * मिस्र
+  * इस्राएली
+  * मेमना
+  * लहू
+  * फसह
 
-  * **sent the last plague on Egypt** – That is, “caused the final disaster to come on Egypt.” This was the tenth plague when God caused the firstborn sons of the Egyptians to die.
-  * **a perfect lamb** - That is, "a lamb without any defect."
-  * **its blood** - That is, "the lamb's blood."
-  * **door frames** – If door frames are not known, this could be translated as, “doors.”
-  * **passed over** - This could also be translated as, “passed by” or, “went by.” You may want to connect how this is translated with how “Passover” is translated.
-  
+===== अनुवाद के लिए नोट्स: =====
 
+  * **मिस्र पर जब परमेश्वर ने अंतिम विपत्ति भेजी**—अर्थात, “मिस्र पर अंतिम विपत्ति डाली।“ यह दसवीं विपत्ति थी जिसमे परमेश्वर ने मिस्रवासियों के पह्लौठों के प्राण हर लिए थे।
+  * **एक निर्दोष ****मेमना** ---अर्थात, “ऐसा मेमना जिसमे कोई शारीरिक दोष न हो।“
+  * **उसके लहू ****को** ---अर्थात, “निर्दोष मेमने के लहू को।“
+  * **चौखटों पर**—दरवाज़े पर लगा ढांचा; अनुवाद करते समय आप केवल “दरवाजों पर” भी लिख सकते हैं।
+  * **फसह** ---अनुवाद करते समय आप “गुज़र जाने का पर्व” भी कह सकते हैं। आप इसका फसह के सन्दर्भ में अनुवाद करें।
 **[[:hi:obs:notes:frames:48-08|<<]] | [[:hi:obs:notes:48|Up]] | [[:hi:obs:notes:frames:48-10|>>]]**
