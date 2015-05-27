@@ -1,15 +1,24 @@
-====== The Lamb of God [48-08] ======
+====== परमेश्वर का मेमना [48-08] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-08.jpg?nolink&}}
 
-When **[[:en:key-terms:god|God]]** told **[[:en:key-terms:abraham|Abraham]]** to offer his **[[:en:key-terms:son|son]]**, **[[:en:key-terms:isaac|Isaac]]**, as a **[[:en:key-terms:sacrifice|sacrifice]]**, God provided a **[[:en:key-terms:lamb|lamb]]** for the sacrifice **instead of his son, Isaac**. We all **deserve to [[:en:key-terms:death|die]]** for our **[[:en:key-terms:sin|sins]]**! But God provided **[[:en:key-terms:jesus|Jesus]]**, the **[[:en:key-terms:lamb|Lamb of God]]**, as a sacrifice **to die in our place**.
+परमेश्वर ने जब अब्राहम से अपने बेटे इसहाक को बलि स्वरुप देने को कहा था, तब उसने उसके बेटे, इसहाक की जगह एक मेमना दिया था। हम सब अपने पापों के कारण मृत्यु के योग्य हैं! लेकिन परमेश्वर ने अपने मेमने, यीशु को हमारे स्थान पर मरने के लिए बलि कर दिया।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
+  * **[[:hi:obs:notes:key-terms:abraham|अब्राहम]]**
+  * **[[:hi:obs:notes:key-terms:son|बेटे]]**
+  * **[[:hi:obs:notes:key-terms:isaac|इसहाक]]**
+  * **[[:hi:obs:notes:key-terms:sacrifice|बलि]]**
+  * **[[:hi:obs:notes:key-terms:lamb|मेमना]]**
+  * **[[:hi:obs:notes:key-terms:death|मृत्यु]]**
+  * **[[:hi:obs:notes:key-terms:sin|पापों]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:lamb|मेमना]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **instead of his son, Isaac** - This can also be translated as, “in the place of his son, Isaac” or, “in his son Isaac's place” or, “so that he would not have to offer his son Isaac as a sacrifice.”
-  * **deserve to die** - That is, “should die.”
-  * **to die in our place** - This can also be translated as, “to die in the place of each of us” or, “so that he would not have to kill us.”
-  
-
+  * **उसके बेटे, इसहाक की जगह**—अनुवाद करते समय आप ऐसे भी लिख सकते हैं, कि “उसके बेटे इसहाक की जगह” या फिर, “ताकि उसे अपने बेटे इसहाक की बलि न देनी पड़े।“
+  * **मृत्यु के योग्य ****हैं** ---अर्थात, “मर जाना चाहिए।“
+  * **हमारे स्थान पर मरने के ****लिए** ---अनुवाद करते समय आप यूँ भी लिख सकते हैं, कि “हम सबकी जगह मरने के लिए”, या कि, “ताकि उसे हमें मारना न पड़े।“
 **[[:hi:obs:notes:frames:48-07|<<]] | [[:hi:obs:notes:48|Up]] | [[:hi:obs:notes:frames:48-09|>>]]**
