@@ -1,13 +1,18 @@
-====== The Virgin Birth [49-01] ======
+====== कुमारी से जन्म [49-01] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-01.jpg?nolink&}}
 
-An angel told a **[[:en:key-terms:virgin|virgin]]** named **[[:en:key-terms:mary|Mary]]** that she would give birth to **[[:en:key-terms:god-son|God's Son]]**. So while she was still a virgin, she gave birth to a son and named him **[[:en:key-terms:jesus|Jesus]]**. Therefore, Jesus is both God and human.
+मरियम नाम की एक कुमारी को एक स्वर्गदूत ने बताया कि वह परमेश्वर के बेटे को जन्म देगी। इसलिए जबकि वह कुमारी ही थी, उसने एक बेटे को जन्म दिया और उसका नाम यीशु रखा। इसलिए, यीशु परमेश्वर और मनुष्य, दोनों है।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:virgin|कुमारी]]**
+  * **[[:hi:obs:notes:key-terms:mary|मरियम]]**
+  * **[[:hi:obs:notes:key-terms:god-son|परमेश्वर के बेटे]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
 
-  * //(There are no notes for this frame.)//
-  
+===== अनुवाद के लिए नोट्स: =====
+
+  * (अनुवाद के लिए कोई नोट्स नहीं हैं।)
 
 **[[:hi:obs:notes:frames:48-14|<<]] | [[:hi:obs:notes:49|Up]] | [[:hi:obs:notes:frames:49-02|>>]]**
