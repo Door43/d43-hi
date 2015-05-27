@@ -1,15 +1,25 @@
-====== Believe in Jesus [49-14] ======
+====== यीशु में विश्वास रखें [49-14] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-14.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-14.jpg?nolink&}}
 
-**[[:en:key-terms:jesus|Jesus]]** invites you to **[[:en:key-terms:believe|believe]] in him** and to **be [[:en:key-terms:baptize|baptized]]**. Do you **believe that** Jesus is the **[[:en:key-terms:messiah|Messiah]]**, the only **[[:en:key-terms:god-son|Son of God]]**? Do you believe that you are a **[[:en:key-terms:sin|sinner]]** and that you deserve for **[[:en:key-terms:god|God]]** to **[[:en:key-terms:punish|punish]]** you? Do you believe that Jesus **[[:en:key-terms:death|died]]** on the **[[:en:key-terms:cross|cross]]** to **take away** your sins? 
+यीशु आपको उसमे विश्वास रखने और बपतिस्मा लेना को आमंत्रित करता है। क्या आप यह विश्वास करते हैं कि यीशु ही मसीह, और परमेश्वर का बेटा है? क्या आप मानते है कि आप एक पापी हैं और परमेश्वर के दंड के भागी हैं? क्या आपको विश्वास है कि आपके पापों को दूर करने के लिए ही यीशु क्रूस पर मरा था?
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:believe|विश्वास]]**
+  * **[[:hi:obs:notes:key-terms:baptize|बपतिस्मा]]**
+  * **[[:hi:obs:notes:key-terms:messiah|मसीह]]**
+  * **[[:hi:obs:notes:key-terms:god-son|परमेश्वर का बेटा]]**
+  * **[[:hi:obs:notes:key-terms:sin|पापी]]**
+  * **[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
+  * **[[:hi:obs:notes:key-terms:punish|दंड]]**
+  * **[[:hi:obs:notes:key-terms:death|मर गया]]**
+  * **[[:hi:obs:notes:key-terms:cross|क्रूस]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **believe in him** - This can also be translated as, “trust in him” or, “trust in him to save you” or, “entrust your whole life to him.” 
-  * **be baptized** - This could also be translated as, “have someone baptize you” or, “let them baptize you.” 
-  * **believe that** - This can also be translated as, “acknowledge that” or, “agree that.” 
-  * **take away** - See note on **[[:hi:obs:notes:frames:49-11|[49-11]]]**.
-
+  * **विश्वास ****रखने** ---यहाँ पर आप “भरोसा करने”, “अपने उद्धार के लिए उस पर भरोसा करने” भी लिख सकते हैं।
+  * **बपतिस्मा ****लेने** ---यहाँ पर आप “किसी से बपतिस्मा लेने” भी लिख सकते हैं।
+  * **विश्वास करते हैं ****कि** ----यहाँ पर “विश्वास करते हैं” की जगह “मानते हैं” भी लिख सकते हैं।
+  * **दूर करने**—कृपया **[[:hi:obs:notes:frames:49-11|[४९-११]]]** का नोट देखें।
 **[[:hi:obs:notes:frames:49-13|<<]] | [[:hi:obs:notes:49|Up]] | [[:hi:obs:notes:frames:49-15|>>]]**
