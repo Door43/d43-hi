@@ -1,16 +1,25 @@
-====== Jesus Died and Rose Again [49-12] ======
+====== यीशु मरा और जी उठा [49-12] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-12.jpg?nolink&}}
 
-**Good works cannot [[:en:key-terms:save|save]] you**. There is nothing you can do to have a relationship with **[[:en:key-terms:god|God]]**. Only **[[:en:key-terms:jesus|Jesus]]** can **wash away your [[:en:key-terms:sin|sins]]**. You must **[[:en:key-terms:believe|believe]]** that Jesus is the **[[:en:key-terms:god-son|Son of God]]**, that he **[[:en:key-terms:death|died]]** on the **[[:en:key-terms:cross|cross]]** **instead of you**, and that God **[[:en:key-terms:raise|raised]] him to [[:en:key-terms:life|life]] again**.
+भले काम आपको बचा नहीं सकते। परमेश्वर के साथ सम्बन्ध बनाने के लिए आप अपने बूते पर कुछ नहीं कर सकते हैं। आपके पाप केवल यीशु धो सकता है। आपको यह विश्वास करना होगा कि यीशु परमेश्वर का बेटा है, कि वह क्रूस पर आपकी जगह मरा, और कि परमेश्वर ने उसे फिर से जिलाया है।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:save|उद्धार]]**
+  * **[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:sin|पापों]]**
+  * **[[:hi:obs:notes:key-terms:believe|विश्वास]]**
+  * **[[:hi:obs:notes:key-terms:god-son|परमेश्वर का बेटा]]**
+  * **[[:hi:obs:notes:key-terms:death|मर गया]]**
+  * **[[:hi:obs:notes:key-terms:cross|क्रूस]]**
+  * **[[:hi:obs:notes:key-terms:raise|जिलाया]]**
+  * **[[:hi:obs:notes:key-terms:life|जिलाया]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **Good works cannot save you** - That is, “Doing good things cannot save you from your sins” or, “You cannot do anything good enough to save yourself from the penalty for your sins.”
-  * **wash away your sins** - That is, "completely remove your sins" or, “take away your sins and make you clean.” This is talking about God purifying people in their spirit by completely removing their sins. It does not mean physical washing. 
-  * **instead of you** – That is, “ in your place.”
-  * **raised him to life again** - This could also be translated as, "made him alive again."
-  
-
+  * **भले काम आपको नहीं बचा सकते** ---अर्थात, “भले काम करने से आप अपने पापों से नहीं बच सकते” या कि, “आप ऐसी कोई भलाई नहीं कर सकते जो आपको आपके पापों से बचा सके।“
+  * **पाप केवल यीशु धो सकता ****है** ---अर्थात, “पापों को पूरी तरह हटा सकता है” या कि, “आपके पाप लेकर आपको निर्मल बना सकता है।“ यहाँ परमेश्वर द्वारा लोगों के पाप दूर कर उनकी आत्मा को निर्मल बनाए जाने की बात हो रही है। इसका आशय किसी भी रीती से शारीरिक स्वच्छता से नहीं है।
+  * **आपकी ****जगह** ---अर्थात, “आपके स्थान पर।“
+  * **फिर से ****जिलाया** ---आप “फिर से जीवित किया है” भी लिख सकते हैं।
 **[[:hi:obs:notes:frames:49-11|<<]] | [[:hi:obs:notes:49|Up]] | [[:hi:obs:notes:frames:49-13|>>]]**
