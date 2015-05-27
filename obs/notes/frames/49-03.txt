@@ -1,14 +1,16 @@
-====== Jesus the Teacher [49-03] ======
+====== शिक्षक यीशु [49-03] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-03.jpg?nolink&}}
 
-**[[:en:key-terms:jesus|Jesus]]** was also **a great teacher**, and he spoke with authority because he is the **[[:en:key-terms:god-son|Son of God]]**. He taught that you need to **[[:en:key-terms:love|love]]** other people **the same way** you love yourself.
+यीशु एक महान शिक्षक भी थे, और पूरे अधिकार के साथ बोलते थे क्योंकि वे परमेश्वर के बेटे थे। यीशु ने सिखाया कि दूसरों से भी आपको उतना प्रेम करना चाहिए जितना कि आप स्वयं से करते हैं।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:god-son|परमेश्वर का बेटा]]**
+  * **[[:hi:obs:notes:key-terms:love|प्रेम]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **a great teacher** - That is, "a very important teacher" or, "an excellent teacher."
-  * **the same way ** - That is, "as much as" or, "the same amount that" or, "to the same degree that."
-  
-
+  * **एक महान शिक्षक**—अर्थात, “एक बहुत ही महत्वपूर्ण शिक्षक” अथवा, “एक उत्कृष्ट शिक्षक” थे।
+  * **उतना ****प्रेम** ---अर्थात, “उसी रीती से” या कि, “उतनी ही मात्रा में।“
 **[[:hi:obs:notes:frames:49-02|<<]] | [[:hi:obs:notes:49|Up]] | [[:hi:obs:notes:frames:49-04|>>]]**
