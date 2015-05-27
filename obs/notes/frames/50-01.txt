@@ -1,14 +1,18 @@
-====== The Church Is Growing [50-01] ======
+====== विस्तार पाती कलीसिया [50-01] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-01.jpg?nolink&}}
 
-For almost 2,000 years, more and more people around the world have been hearing the **[[:en:key-terms:good-news|good news]]** about **[[:en:key-terms:jesus|Jesus]]** the **[[:en:key-terms:messiah|Messiah]]**. **The [[:en:key-terms:church|Church]] has been growing**. Jesus **[[:en:key-terms:promise|promised]]** he would return **at the end of the world**. Though he has not yet come back, he will keep his promise.
+लगभग २००० सालों से विश्व भर के अधिकाधिक लोग यीशु मसीह के सुसमाचार को सुन रहे हैं। कलीसिया बढती रही है। यीशु ने प्रतिज्ञा की है कि वह जगत के अंत में लौट कर आएगा। वह अब तक आया तो नहीं है, लेकिन वह अपनी प्रतिज्ञा अवश्य ही पूरी करेगा।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:good-news|सुसमाचार]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:messiah|मसीह]]**
+  * **[[:hi:obs:notes:key-terms:church|कलीसिया]]**
+  * **[[:hi:obs:notes:key-terms:promise|प्रतिज्ञा की है]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **The Church has been growing** - This could also be translated as, “The number of people in the Church around the world has been increasing” or, “The number of believers in Jesus has been increasing.” 
-  * **at the end of the world** - This phrase means, “right before the present world comes to an end” or, “in the final days of this world.” 
-  
-
+  * **कलीसिया बढती रही है** ---अनुवाद करते समय आप “विश्व भर में कलीसिया से जुड़नेवालों की संख्या बढ़ रही है” या कि, “यीशु के विश्वासियों की संख्या बढती जा रही है” भी लिख सकते हैं।
+  * **जगत के अंत में**—इसका आशय “इस संसार के अंत” या कि “अंतिम दिनों” से है।
 **[[:hi:obs:notes:frames:49-18|<<]] | [[:hi:obs:notes:50|Up]] | [[:hi:obs:notes:frames:50-02|>>]]**
