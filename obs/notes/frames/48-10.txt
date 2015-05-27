@@ -1,15 +1,22 @@
-====== The Passover Lamb [48-10] ======
+====== फसह का मेमना [48-10] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-10.jpg?nolink&}}
 
-**[[:en:key-terms:jesus|Jesus]]** is **our [[:en:key-terms:passover|Passover]] [[:en:key-terms:lamb|Lamb]]**. He was perfect and **sinless** and was killed at the time of the Passover celebration. When anyone **[[:en:key-terms:believe|believes]]** in Jesus, the **[[:en:key-terms:blood|blood]]** of Jesus pays for that person’s **[[:en:key-terms:sin|sin]]**, and **[[:en:key-terms:god|God's]] [[:en:key-terms:punish|punishment]] passes over that person**.
+हमारे फसह का मेमना यीशु है। वह सिद्ध और निष्पाप था और फसह के पर्व के दौरान मारा गया था। जब कोई यीशु  में विश्वास करता है, तब यीशु का लहू उसके पाप का दाम चुका देता है और परमेश्वर का दंड उस व्यक्ति पर नहीं पड़ता।
 
+===== **महत्वपूर्ण शब्द तथा वाक्यांश:**  =====
+   * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:passover|फसह]]**
+  * **[[:hi:obs:notes:key-terms:lamb|मेमना]]**
+  * **[[:hi:obs:notes:key-terms:believe|विश्वास रखनेवाले]]**
+  * **[[:hi:obs:notes:key-terms:blood|लहू]]**
+  * **[[:hi:obs:notes:key-terms:sin|पाप]]**
+  * **[[:hi:obs:notes:key-terms:god|परमेश्वर के]]**
+  * **[[:hi:obs:notes:key-terms:punish|दंड]]**
+===== अनुवाद के लिए नोट्स: =====
 
-===== Translation Notes: =====
-
-  * **our Passover Lamb** - That is, “the Passover Lamb that was killed for us” or, “the lamb that was killed so that God would pass over us” or, “the lamb that was killed so that God would spare us.”
-  * **sinless** - This can also be translated as, “had never sinned.”
-  * **God's punishment passes over that person** - This statement means, “God does not punish that person.” Translate it using a phrase that shows its relationship to the words for "Passover" and the "Passover Lamb." If the word "spare" is used in the name of the Passover, this could also be translated as, “God spares that person from punishment.”
-  
-
+  * **फसह का मेमना**—अर्थात, “हमारे लिए मारा गया फसह का मेमना” या कि, “वह मेमना जो इसलिए मारा गया कि परमेश्वर हमें बक्श दे।“
+  * **निष्पाप-** --इसका अनुवाद करते समय आप “जिसने कभी पाप नहीं किया था” भी लिख सकते हैं।
+  * **यीशु का लहू**—यहाँ आप “पापियों के लिए मर कर यीशु ने अपनी बलि दी थी” भी लिख सकते हैं।  यहाँ पर “लहू” का आशय “मृत्यु” से भी है।
+  * **परमेश्वर का दंड उस व्यक्ति पर नहीं ****पड़ता** ---इस कथन का आशय है कि “परमेश्वर उस व्यक्ति को दंड नहीं देता।“ अनुवाद करते समय ऐसे कथन का प्रयोग करे जो “फसह” व “फसह के मेमने” के लिए प्रयुक्त होनेवाले शब्दों से इसका सम्बन्ध दिखाता हो। यदि फसह के लिए “क्षमा करना” प्रयुक्त हुआ है, तो आप लिखें कि “परमेश्वर उस व्यक्ति को क्षमा कर देता है।“
 **[[:hi:obs:notes:frames:48-09|<<]] | [[:hi:obs:notes:48|Up]] | [[:hi:obs:notes:frames:48-11|>>]]**
