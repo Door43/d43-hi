@@ -1,15 +1,22 @@
-====== God Gave His Son [49-09] ======
+====== परमेश्वर ने अपना बेटा दे दिया [49-09] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-09.jpg?nolink&}}
 
-But **[[:en:key-terms:god|God]]** **[[:en:key-terms:love|loved]]** everyone in the world so much that he **gave his only [[:en:key-terms:god-son|Son]]** so that **whoever [[:en:key-terms:believe|believes]] in [[:en:key-terms:jesus|Jesus]] will not be [[:en:key-terms:punish|punished]] for his [[:en:key-terms:sin|sins]], but will [[:en:key-terms:life|live]] with God forever**.
+लेकिन परमेश्वर संसार के हर व्यक्ति से इतना प्रेम रखा कि उसने अपना एकलौता बेटा दे दिया, ताकि जो कोई भी उस पर विश्वास करे उसे अपने पापों का दंड न मिले, बल्कि परमेश्वर के साथ सदा का जीवन पाए।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
+  * **[[:hi:obs:notes:key-terms:love|प्रेम रखा]]**
+  * **[[:hi:obs:notes:key-terms:god-son|बेटा]]**
+  * **[[:hi:obs:notes:key-terms:believe|विश्वास रखनेवाले]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:punish|दंड]]**
+  * **[[:hi:obs:notes:key-terms:sin|पापों]]**
+  * **[[:hi:obs:notes:key-terms:life|रहेंगे]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **gave his only Son** - This could also be translated as, “offered his only Son to the world as a sacrifice for sins” or, “gave us his only Son to be a sacrifice for our sins.”
-  * **whoever believes** - This could also be translated as, "anyone who believes."
-  * **whoever believes in Jesus will not be punished for his sins, but will live with God forever** - This could also be translated as, “When anyone believes in Jesus, God will not punish that person for his sins, but will allow him to live with God forever.”
-  
-
+  * **अपना बेटा दे ****दिया** ---अनुवाद करते समय आप यूँ भी लिख सकते हैं, कि “संसार के पापों के लिए अपने बेटे को बलि स्वरुप प्रस्तुत किया” या फिर, “हमारे पापों के लिए बलि स्वरुप हमें अपना बेटा दे दिया।“
+  * **जो कोई भी उस पर विशवास करे**—अर्थात, “जो भी उस पर विश्वास करे।“
+  * **जो कोई भी उस पर विश्वास करे उसे अपने पापों का दंड न मिले, बल्कि वह परमेश्वर के साथ सदा का जीवन ****पाए** ---अर्थात, “जब कोई यीशु पर विश्वास करता है, परमेश्वर उसे उसके पापों का दंड नहीं देता, बल्कि उसे अपने साथ सदा के लिए रहने देता है।“
 **[[:hi:obs:notes:frames:49-08|<<]] | [[:hi:obs:notes:49|Up]] | [[:hi:obs:notes:frames:49-10|>>]]**
