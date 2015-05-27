@@ -1,13 +1,18 @@
-====== God's New Covenant [48-11] ======
+====== परमेश्वर की नयी वाचा [48-11] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-11.jpg?nolink&}}
 
-**[[:en:key-terms:god|God]]** made a **[[:en:key-terms:covenant|covenant]]** with **the [[:en:key-terms:israel|Israelites]], who were his chosen people**. But God has now made a **[[:en:key-terms:covenant-new|New Covenant]]** that is available to everyone. Because of this New Covenant, anyone from any **[[:en:key-terms:people-group|people group]]** can become part of God’s people by **[[:en:key-terms:believe|believing]]** in Jesus.
+परमेश्वर ने इस्राएलियों के साथ, जो कि उसके चुने हुए लोग थे, एक वाचा बाँधी। लेकिन परमेश्वर ने अब एक नयी वाचा बाँधी है जो सभी के लिए है। इस नयी वाचा के कारण किसी भी समुदाय का कोई भी व्यक्ति, यीशु में विश्वास के द्वारा परमेश्वर के लोगों का हिस्सा बन सकता है।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
+  * **[[:hi:obs:notes:key-terms:covenant|वाचा]]**
+  * **[[:hi:obs:notes:key-terms:israel|इस्राएलियों]]**
+  * **[[:hi:obs:notes:key-terms:new-covenant|नयी वाचा]]**
+  * **__[[:hi:obs:notes:key-terms:people-group|समुदायों]]__**
+  * **[[:hi:obs:notes:key-terms:believe|विश्वास]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **the Israelites, who were his chosen people** - That is, “the Israelites, the people he had chosen” or, “his chosen people, the Israelites.”
-  
-
+  * **इस्राएलियों के साथ, जो कि उसके चुने हुए लोग ****थे** ----अर्थात, “इस्राएली लोग, जिन्हें उसने चुना था।“
 **[[:hi:obs:notes:frames:48-10|<<]] | [[:hi:obs:notes:48|Up]] | [[:hi:obs:notes:frames:48-12|>>]]**
