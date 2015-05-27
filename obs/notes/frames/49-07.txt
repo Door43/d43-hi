@@ -1,13 +1,19 @@
-====== God Loves Sinners [49-07] ======
+====== परमेश्वर पापियों से प्रेम रखता है [49-07] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-07.jpg?nolink&}}
 
-**[[:en:key-terms:jesus|Jesus]]** taught that **[[:en:key-terms:god|God]]** **[[:en:key-terms:love|loves]]** **[[:en:key-terms:sin|sinners]]** very much. He wants to **[[:en:key-terms:forgive|forgive]]** you and to make you his child.
+यीशु ने सिखाया कि परमेश्वर पापियों से बहुत प्रेम रखता है। वह उन्हें क्षमा कर, उन्हें अपनी संतान बनाना चाहता है।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
+  * **[[:hi:obs:notes:key-terms:love|प्रेम रखता है]]**
+  * **[[:hi:obs:notes:key-terms:sin|पापियों]]**
+  * **[[:hi:obs:notes:key-terms:forgive|क्षमा]]**
 
-  * //(There are no notes for this frame.)//
-  
+===== अनुवाद के लिए नोट्स: =====
+
+  * (अनुवाद के लिए कोई नोट्स नहीं हैं।)
 
 **[[:hi:obs:notes:frames:49-06|<<]] | [[:hi:obs:notes:49|Up]] | [[:hi:obs:notes:frames:49-08|>>]]**
