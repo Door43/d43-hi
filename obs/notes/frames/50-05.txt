@@ -1,15 +1,17 @@
-====== The Enemy [50-05] ======
+====== शत्रु [50-05] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-05.jpg?nolink&}}
 
-**[[:en:key-terms:jesus|Jesus]]** told his **[[:en:key-terms:disciple|disciples]]** a story to explain what will happen to people when the world ends. He said, “A man planted **[[:en:key-terms:good|good]] seed** in his field. While he was sleeping, his enemy came and planted **weed seeds** along with the **wheat**, and then he went away.”
+संसार के अंत में लोगों के साथ होनेवाली घटनाओं को समझाने के लिए यीशु ने अपने चेलो को एक कहानी सुनाई। उसने कहा, “एक व्यक्ति ने अच्छे भूमि में कुछ अच्छे बीज बोये। जब वह सो रहा था, तब एक शत्रु आकर गेहूं के साथ में जंगली बीज बो कर चला गया।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:disciple|चेले]]**
+  * **[[:hi:obs:notes:key-terms:good|अच्छे]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **good seed** – This seed was wheat grain. If this type of seed is not known in your language area, it is best to use a general term for “seed.” If there is no general term, it may be necessary to choose a type of grain seed that is known and say, for example, “good seed like rice.”
-  * **weed seeds** - The weed seeds that were planted would grow up as tall grass but could not be eaten. They were useless.
-  * **wheat** – That is, “wheat seeds.” Wheat is a kind of grain that grows like a tall grass. It has seeds that people use for food. 
-  
-
+  * **अच्छे बीज** ---गेहूं के बीज। यदि आपके यहाँ गेहूं नहीं उगाया जाता है तो केवल “बीज” के लिए आम तौर पर इस्तेमाल किये जाने वाले शब्द का प्रयोग करें। यदि आपकी भाषा में बीज के लिए अलग से कोई शब्द न हो तो किसी भी प्रमुख भोजन के बीज के नाम का प्रयोग कर लें, जैसे की चावल के बीज।
+  * **जंगली बीज**—--ऊंचे कद की घास के बीज थे जिन्हें भोजन में इस्तेमाल नहीं किया जा सकता है। वे बेकार के बीज थे।
+  * **गेहूं** ----अर्थात, “गेहूं के बीज।“ गेहूं भी ऊंचे घास की तरह उगती है। लोग इसके बीजों का सेवन करते हैं।
 **[[:hi:obs:notes:frames:50-04|<<]] | [[:hi:obs:notes:50|Up]] | [[:hi:obs:notes:frames:50-06|>>]]**
