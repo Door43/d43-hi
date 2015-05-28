@@ -1,13 +1,17 @@
-====== The Field Is the World [50-08] ======
+====== खेत यह संसार है [50-08] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-08.jpg?nolink&}}
 
-The **[[:en:key-terms:disciple|disciples]]** did not understand the meaning of the story, so they asked **[[:en:key-terms:jesus|Jesus]]** to explain it to them. Jesus said, “The man who planted the **[[:en:key-terms:good|good]]** seed represents the **[[:en:key-terms:messiah|Messiah]]**. The field represents the world. The good seed represents **the people of [[:en:key-terms:kingdom-of-god|God’s kingdom]]**.”
+चेलों को कहानी का अर्थ समझ नहीं आया, इसलिए उन्होंने यीशु से उसे समझाने को कहा। यीशु ने कहा, “खेत में अच्छे बीज बोनेवाला व्यक्ति मसीह है। खेत यह संसार है। अच्छे बीज परमेश्वर के राज्य के लोग हैं।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:disciple|चेले]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:good|अच्छे]]**
+  * **[[:hi:obs:notes:key-terms:messiah|मसीह]]**
+  * **[[:hi:obs:notes:key-terms:kingdom-of-god|परमेश्वर का राज्य]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **the people of God's kingdom** - This can also be translated as, “the people who live under God's authority” or, “the people who have submitted to God's rule” or, “the people who will live with God in his Kingdom.”
-  
-
+  * **परमेश्वर के राज्य के लोग** ---अनुवाद करते समय आप इसे “परमेश्वर के अधिकार में रहनेवाले लोग” या फिर, “परमेश्वर के राज्य को समर्पित लोग” अथवा, “परमेश्वर के राज्य में रहनेवाले लोग” भी कह सकते हैं।
 **[[:hi:obs:notes:frames:50-07|<<]] | [[:hi:obs:notes:50|Up]] | [[:hi:obs:notes:frames:50-09|>>]]**
