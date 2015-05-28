@@ -1,16 +1,21 @@
-====== Evil People Will Be Judged [50-10] ======
+====== दुष्ट लोगों का न्याय होगा [50-10] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-10.jpg?nolink&}}
 
-“When the world ends, the **[[:en:key-terms:angel|angels]]** will gather together all the people **who belong to the [[:en:key-terms:satan|devil]]** and throw them into **a raging fire**, where they will cry and grind their teeth in terrible **[[:en:key-terms:suffer|suffering]]**. Then **the [[:en:key-terms:righteous|righteous]] ones** will **shine like the sun** in the **[[:en:key-terms:kingdom-of-god|kingdom]]** of **[[:en:key-terms:god-father|God their Father]]**.”
+“संसार का अंत होने पर, स्वर्गदूत शैतान के लोगों को इकठ्ठा करके उन्हें भभकती हुई आग की लपटों में फ़ेंक देंगे, जहां वे रोयेगे और भयंकर कष्ट झेलते हुए अपने दांत पीसेंगे। तब धर्मी लोग अपने स्वर्गीक पिता के राज्य में सूर्य की तरह चमकेंगे।“
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:angel|स्वर्गदूत]]**
+  * **[[:hi:obs:notes:key-terms:satan|शैतान]]**
+  * **[[:hi:obs:notes:key-terms:suffer|कष्ट झेलते हुए]]**
+  * **[[:hi:obs:notes:key-terms:righteous|धर्मी]]**
+  * **[[:hi:obs:notes:key-terms:kingdom-of-god|राज्य]]**
+  * **[[:hi:obs:notes:key-terms:god-father|पिता परमेश्वर]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **who belong to the devil** - This could also be translated as, “who obey the devil” or, “who are ruled by the devil.” This refers to those who do not believe in Jesus but follow the evil ways of the devil.
-  * **a raging fire** - That is, "a very hot, burning fire" or, “a large, very hot fire.”
-  * **the righteous ones** - This refers to the people who belong to the Messiah. See **[[:hi:obs:notes:frames:50-08|[50-08]]]**.
-  * **shine like the sun** - This could also be translated as, “be glorious like the sun” or, “show pure goodness as the sun shows bright light.”
-  
-
+  * **शैतान के लोगों को** ---अनुवाद करते समय आप यहाँ “शैतान के कहे पर चलनेवालों को” भी लिख सकते हैं। इसका आशय उन लोगों से है जो यीशु में विश्वास नहीं रखते और शैतान के बुरे रास्तों पर चलते हैं।
+  * **भभकती हुई आग की ****लपटों** ---अर्थात, “भयंकर तापमान वाले आग में” अथवा, “बहुत बड़ी और गरम आग।“
+  * **धर्मी** ---इसका आशय मसीह के लोगों से है। **__[[:hi:obs:notes:frames:50-08|[50-08]]]__**को देखे।
+  * **सूर्य के समान ****चमकेंगे** ---अनुवाद करते समय आप “सूर्य के समान तेजस्वी” अथवा, “जिस प्रकार सूर्य अपनी आभा चमकता है, उसी प्रकार अपनी निर्मलता को दिखाएंगे।“
 **[[:hi:obs:notes:frames:50-09|<<]] | [[:hi:obs:notes:50|Up]] | [[:hi:obs:notes:frames:50-11|>>]]**
