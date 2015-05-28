@@ -1,14 +1,21 @@
-====== The New Heaven and Earth [50-16] ======
+====== नया स्वर्ग और नयी धरती [50-16] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-16.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-16.jpg?nolink&}}
 
-Because **[[:en:key-terms:adam|Adam]]** and **[[:en:key-terms:eve|Eve]]** **[[:en:key-terms:disobey|disobeyed]]** **[[:en:key-terms:god|God]]** and **brought [[:en:key-terms:sin|sin]] into** this world, God **[[:en:key-terms:curse|cursed]]** it and decided to destroy it. But some day God will create **a new [[:en:key-terms:heaven|heaven]]** and **a new earth** that will be perfect. 
+आदम और हव्वा द्वारा परमेश्वर की अवज्ञा के कारण संसार में पाप का प्रवेश हुआ, जिस कारण परमेश्वर ने इसे श्रापित किया और इसका ध्वंस करने का निर्णय किया। लेकिन एक दिन परमेश्वर एक नया स्वर्ग और एक नयी धरती की रचना करेगा, जो पूरी तरह सिद्ध होंगे।
 
-===== Translation Notes: =====
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  * **brought sin into** - This could be translated as, “caused sin to enter.”
-  * **a new heaven** - This could also be translated as, “a new sky” or, “a new universe”. It refers to a new set of stars and everything else in the sky.
-  * **a new earth** - This current earth on which we live will be replaced by a new and improved one.
+  * **[[:hi:obs:notes:key-terms:adam|आदम]]**
+  * **[[:hi:obs:notes:key-terms:eve|हव्वा]]**
+  * **[[:hi:obs:notes:key-terms:disobey|अवज्ञा]]**
+  * **[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
+  * **[[:hi:obs:notes:key-terms:sin|पाप]]**
+  * **[[:hi:obs:notes:key-terms:curse|श्रापित]]**
+  * **[[:hi:obs:notes:key-terms:heaven|स्वर्ग]]**
+===== अनुवाद के लिए नोट्स: =====
 
-
+  * **पाप का प्रवेश हुआ** ---या फिर “पाप के प्रवेश का कारण बना।“
+  * **एक नया स्वर्ग**—अनुवाद करते समय आप “एक नए आकाश” या फिर, “एक नए ब्रह्माण्ड” भी लिख सकते हैं। इसका आशय सितारों से लेकर आकाश के हर एक चीज़ के नए होने से है।
+  * **एक नयी ****धरती** ---वर्तमान धरती की जगह नयी और बेहतर धरती होगी।
 **[[:hi:obs:notes:frames:50-15|<<]] | [[:hi:obs:notes:50|Up]] | [[:hi:obs:notes:frames:50-17|>>]]**
