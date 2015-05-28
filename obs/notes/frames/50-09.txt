@@ -1,17 +1,20 @@
-====== The Enemy Is the Devil [50-09] ======
+====== शैतान वह शत्रु है [50-09] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-09.jpg?nolink&}}
 
-“The weeds represent the people **who belong to the [[:en:key-terms:evil|evil]] one**. The enemy who planted the weeds represents **the [[:en:key-terms:satan|devil]]**. The harvest **represents the end of the world**, and **the harvesters** represent **[[:en:key-terms:god|God's]]** **[[:en:key-terms:angel|angels]]**.”
+“दुष्ट के पीछे चलनेवाले लोग वे जंगली बीज हैं। जंगली बीज बोनेवाला शत्रु शैतान है। कटनी इस संसार के अंत का प्रतीक है, और कटनी करनेवाले मजदूर हैं परमेश्वर के स्वर्गदूत।”
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:evil|शैतान]]**
+  * **[[:hi:obs:notes:key-terms:satan|शैतान]]**
+  * **[[:hi:obs:notes:key-terms:god|परमेश्वर के]]**
+  * **[[:hi:obs:notes:key-terms:angel|स्वर्गदूत]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **who belong to the evil one** - That is, “who obey the evil one” or, “who are ruled by the evil one.”
-  * **the evil one** - This is another title for Satan. It could be translated as, "Satan," but the title, "evil one" describes his character.
-  * **the devil** - This could also be translated as, "Satan."
-  * **represents the end of the world** - That is, "represents what will happen to people at the end of the world."
-  * **the harvesters** – This could also be translated as, “the men who harvest the ripe grain” or, “the workers who gather in the ripe grain.”
-  
-
+  * **दुष्ट के पीछे चलनेवाले लोग**—अर्थात, “वे जो दुष्ट की आज्ञाओं का पालन करते हैं” या फिर,”जो दुष्ट के राज्य में हैं।“
+  * **दुष्ट** ---शैतान का दूसरा नाम। अनुवाद करते समय आप यहाँ “शैतान” भी लिख सकते हैं, लेकिन “दुष्ट” होने उसके चरित्र के विषय में बताता है।
+  * **शैतान** ---अर्थात “दुष्ट” या “शैतान।“
+  * **संसार के अंत का प्रतीक ****है** ---अर्थात, “संसार के अंत में लोगों के साथ होनेवाली घटनाओं का प्रतीक है।“
+  * **कटनी करनेवाले मजदूर**—अनुवाद करते समय आप “पकी फसल को इकठ्ठा करनेवाले लोग” भी लिख सकते हैं।
 **[[:hi:obs:notes:frames:50-08|<<]] | [[:hi:obs:notes:50|Up]] | [[:hi:obs:notes:frames:50-10|>>]]**
