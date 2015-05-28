@@ -1,16 +1,19 @@
-====== Dead Believers Will Rise Again [50-11] ======
+====== मर चुके विश्वासी फिर से जिलाए जायेंगे [50-11] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-11.jpg?nolink&}}
 
-**[[:en:key-terms:jesus|Jesus]]** also said that he would return to earth just before the world ends. He will come back the same way that **he left**, that is, he will have a physical body and **will come on the clouds in the sky**. **When Jesus returns**, every **[[:en:key-terms:christian|Christian]]** who has **[[:en:key-terms:death|died]]** will **[[:en:key-terms:raise|rise]]** from the dead and **meet him in the sky**.
+यीशु ने यह भी कहा कि संसार के ठीक पहले वह धरती पर लौट कर आएगा। जिस रीती से वह गया था, उसी रीती से लौटेगा, अर्थात, उसके पास एक भौतिक देह होगी और वह आकाश के बादलों पर आएगा। यीशु की वापसी पर, मर चुका हर मसीही फिर से जीवित होगा और आकाश में उससे भेंट करेगा।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:christian|मसीही]]**
+  * **[[:hi:obs:notes:key-terms:death|मर गया]]**
+  * **[[:hi:obs:notes:key-terms:raise|जीवित होगा]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **he left** - This could also be translated as, “he left the earth” or, “he left to go back to heaven.”
-  * **will come on the clouds in the sky** - That is, “the clouds in the sky will surround him as he comes” or, "the clouds of the sky will carry him along."
-  * **when Jesus returns** - That is, “when Jesus returns to the earth.”
-  * **meet him in the sky** - That is, “join him in the sky.” Those who believe in Jesus will go up to be near Jesus while he is in the sky.
-  
-
+  * **वह गया था**—अनुवाद करते समय आप “वह धरती से गया था” या कि, “वह स्वर्ग के लिए गया था” भी लिख सकते हैं।
+  * **आकाश के बादलों पर ****आएगा** ---अर्थात, “आते समय वह आकाश के बादलों से घिरा होगा” या कि, “आकाश के बादल उसे उठा कर लायेंगे।“
+  * **यीशु की वापसी ****पर** ---अर्थात, “धरती पर यीशु की वापसी पर।“
+  * **आकाश में उससे भेंट ****करेगा** ----अर्थात, “उससे आकाश में मिलेंगे।“ यीशु पर विश्वास रखनेवाले लोग आकाश में उसके निकट जायेंगे।
 **[[:hi:obs:notes:frames:50-10|<<]] | [[:hi:obs:notes:50|Up]] | [[:hi:obs:notes:frames:50-12|>>]]**
