@@ -1,17 +1,22 @@
-====== The Fields Are Ripe [50-03] ======
+====== फसल तो बहुत है [50-03] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-03.jpg?nolink&}}
 
-Many **[[:en:key-terms:people-group|people groups]]** still have not heard about **[[:en:key-terms:jesus|Jesus]]**. Before he returned to **[[:en:key-terms:heaven|heaven]]**, Jesus told **[[:en:key-terms:christian|Christians]]** to proclaim the **[[:en:key-terms:good-news|good news]]** to people who have never heard it. He said, “Go and **make [[:en:key-terms:disciple|disciples]]** of all people groups!" and, "**The fields are ripe for harvest**!”
+लोगों के बहुत से समुदायों ने अब तक यीशु के विषय में नहीं सुना है। स्वर्ग लौटने से पहले यीशु ने मसीहियों से कहा था कि जिन्होंने कभी सुसमाचार नहीं सुना है, वे उन्हें सुसमाचार सुनाएँ। उसने कहा था, कि “जाओ और सभी समुदाय के लोगों को मेरा चेला बनाओ!” और , यह भी कि “खेत कटनी के लिए तैयार है!”
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **__[[:hi:obs:notes:key-terms:people-group|समुदायों]]__**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:heaven|स्वर्ग]]**
+  * **[[:hi:obs:notes:key-terms:christian|मसीही]]**
+  * **[[:hi:obs:notes:key-terms:good-news|सुसमाचार]]**
+  * **[[:hi:obs:notes:key-terms:disciple|चेले]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **make disciples** - This has the meaning, "help people to become my disciples."
-  * **The fields are ripe for harvest** - This could also be translated as, “They are ready to be brought to God like fields that are ripe for harvest” or, “They are ready to be gathered and brought to God like fields whose crops are ripe and ready to be gathered.” 
-  * **The fields** - In this expression, “The fields” represents the people in the world. 
-  * **ripe** - “Ripe” here represents being ready to believe in Jesus. 
-  * **harvest** - “Harvest” here represents the work of bringing people to God by teaching them about Jesus. 
-  
-
+  * **चेला ****बनाओं** ---अर्थात, “मेरा चेला बनने में उनकी मदद करो।“
+  * **खेत कटनी के लिए तैयार ****है** ---अनुवाद करते समय यूँ लिख सकते हैं, कि “कटनी के लिए तैयार फसल की तरह वे भी पमेश्वर के खत्ते में आने को तैयार हैं” अथवा, “कट कर जमा कए जाने के लिए तैयार खेत की फसल के समान , वे लोग भी जमा किये जाने के लिए तैयार हैं।“
+  * **खेत** ----अर्थात, “संसार के लोग।“
+  * **तैयार**—“पकी हुई फसल”, अर्थात, यीशु में विश्वास करने को तैयार लोग।
+  * **कटनी**—“कटनी” का आशय लोगों में यीशु का प्रचार कर उन्हें परमेश्वर के पास लाने की क्रिया से है।
 **[[:hi:obs:notes:frames:50-02|<<]] | [[:hi:obs:notes:50|Up]] | [[:hi:obs:notes:frames:50-04|>>]]**
