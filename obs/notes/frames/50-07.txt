@@ -1,17 +1,18 @@
-====== Wait for the Harvest [50-07] ======
+====== कटनी के दिन की प्रतीक्षा करो [50-07] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-07.jpg?nolink&}}
 
-“The **[[:en:key-terms:servant|servants]]** responded to their **[[:en:key-terms:lord|master]]**, ‘Should we pull out the weeds?’ The master said, ‘No. If you do that, **you will pull out some of the wheat as well**. Wait **until the harvest** and then gather the weeds into piles to be burned, but bring **the wheat** into my **barn**.’”
+“सेवकों ने अपने मालिक से कहा, “क्या हम इन जंगली पौधों को उखाड़ दें?” मालिक बोला, “नहीं। यदि तुम ऐसा करोगे, तो कुछ गेहूं भी उखाड़ दोगे। कटनी तक प्रतीक्षा करो और तब जंगली घास का गट्ठर बना कर आग में झोक देना, लेकिन गेहूं को मेरे खलिहान में ले आना।"
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:servant|सेवकों]]**
+  * **[[:hi:obs:notes:key-terms:lord|मालिक]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * (Jesus continues to tell the story.)
-  * **you will pull out some of the wheat as well** - That is, "you will accidentally pull out some of the wheat also." It would be too difficult to distinguish young wheat from the weeds, and to pull the weeds without uprooting the wheat.
-  * **until the harvest** - That is, “until the time when the wheat is ready to harvest” or, “until the wheat has grown enough to be harvested.”
-  * **the wheat** – That is, "the harvested wheat grains."
-  * **barn** - This refers to the building where the harvested wheat grain was saved and stored. It could also be called a “storehouse.”
-  
-
+  * (यीशु कहानी को आगे बढ़ाते हैं।)
+  * **तुम ऐसा करोगे, तो कुछ गेहूं भी उखाड़ दोगे** ---अर्थात, “तुमसे गेहूं भी उखड सकता है।“ जगली घास और गेहूं की पौध में अंतर करना, व गेहूं को नुक्सान पहुंचाए बिना जंगली घास को उखाड़ना कठिन होगा।
+  * **कटनी तक प्रतीक्षा ****करो** ---अर्थात, “गेहूं की कटनी तक प्रतीक्षा करो” अथवा, “गेहूं को कटनी के लिए तैयार होने तक प्रतीक्षा करो।“
+  * **गेहूं**—अर्थात, “कटे हुए गेहूं के दाने।“
+  * **खलिहान** ---कटे हुए गेहूं का भण्डारगृह। इसे “भण्डारगृह” भी कह सकते हैं।
 **[[:hi:obs:notes:frames:50-06|<<]] | [[:hi:obs:notes:50|Up]] | [[:hi:obs:notes:frames:50-08|>>]]**
