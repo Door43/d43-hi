@@ -1,18 +1,24 @@
-====== Remain Faithful [50-04] ======
+====== विश्वासयोग्य बने रहो [50-04] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-04.jpg?nolink&}}
 
-**[[:en:key-terms:jesus|Jesus]]** also said, “A **[[:en:key-terms:servant|servant]]** is **not greater than** his **[[:en:key-terms:lord|master]]**. Just as the authorities of this world have hated me, they will torture and kill you **because of me**. Although **in this world** you will **[[:en:key-terms:suffer|suffer]]**, be encouraged because I have defeated **[[:en:key-terms:satan|Satan]]**, the one who rules this world. If you **remain [[:en:key-terms:faithful|faithful]] to me** **to the end**, then **God will [[:en:key-terms:save|save]] you**!”
+यीशु ने यह भी कहा कि “कोई भी सेवक अपने स्वामी से बड़ा नहीं होता। इस संसार ने जैसे मुझ से बैर किया है, वैसे ही वे मेरे कारण तुम्हे भी कष्ट देंगे और मार डालेंगे। तुम इस संसार में कष्ट तो पाओगे, लेकिन इस बात से प्रोत्साहन पाओ कि मैं शैतान को हरा चुका हूँ, जो कि इस दुनिया का शासक है। यदि तुम अंत तक मेरे प्रति विश्वासयोग्य रहोगे, तो परमेश्वर तुम्हे उद्धार देगा!”
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:servant|दास]]**
+  * **[[:hi:obs:notes:key-terms:lord|मालिक]]**
+  * **[[:hi:obs:notes:key-terms:suffer|कष्ट तो पाओगे]]**
+  * **[[:hi:obs:notes:key-terms:satan|शैतान]]**
+  * **[[:hi:obs:notes:key-terms:faithful|विश्वासयोग्य]]**
+  * **[[:hi:obs:notes:key-terms:save|उद्धार]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **not greater than** - That is, "not more important than" or, in this case, "not treated better than."
-  * **because of me** - That is, “because you obey me” or, “because you teach people about me” or, "because you belong to me."
-  * **in this world** - This could also be translated as, "in this lifetime."
-  * **remain faithful to me** - That is, “Keep obeying me.”
-  * **to the end** - That is, "to the end of your life."
-  * **will save you** - This refers to spiritual salvation rather than physical deliverance from harm. It has already been stated that many believers will be killed or tortured.
-  
-
+  * **से बड़ा नहीं ****होता** ---अर्थात, “से अधिक महत्वपूर्ण नहीं होता” या कि, “को अपने स्वामी से बेहतर बर्ताव नहीं मिलता।“
+  * **मेरे ****कारण** ---अर्थात, “मेरी आज्ञाओं का पालन करने के कारण” अथवा, “क्योंकि तुम मेरे विषय में सिखाते हो, इसलिए....” या फिर, “क्योंकि तुम मेरे हो, इसलिए... ।“
+  * **इस संसार ****में** ----आप यहाँ “इस जीवन में” भी लिख सकते हैं।
+  * **मेरे प्रति विश्वासयोग्य बने ****रहोगे** ---अर्थात, “तुम मेरी आज्ञाओं का पालन करते रहोगे।“
+  * **अंत ****तक** ----अर्थात, “जीवन के अंत तक।“
+  * **तुम्हे उद्धार ****देगा** ---यहाँ पर आत्मिक उद्धार की बात हो रही है न कि शारीरिक। यह पहले ही कहा गया है कि कई मसीहियों को मारा या सताया जाएगा।
 **[[:hi:obs:notes:frames:50-03|<<]] | [[:hi:obs:notes:50|Up]] | [[:hi:obs:notes:frames:50-05|>>]]**
