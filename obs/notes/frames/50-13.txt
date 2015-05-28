@@ -1,14 +1,20 @@
-====== Our Crown [50-13] ======
+====== हमारा मुकुट [50-13] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-13.jpg?nolink&}}
 
-**[[:en:key-terms:Jesus|Jesus]]** **[[:en:key-terms:promise|promised]]** to give a **crown** to everyone who **[[:en:key-terms:believe|believes]]** in him. We will **[[:en:key-terms:life|live]]** and reign with **[[:en:key-terms:god|God]]** in perfect **[[:en:key-terms:peace|peace]]** forever.
+यीशु ने उस पर विश्वास रखनेवाले हर व्यक्ति को मुकुट देने कि प्रतिज्ञा की है। वे सम्पूर्ण शान्ति में सदा के लिए परमेश्वर के साथ रहेंगे और राज्य करेंगे।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+  * **[[:hi:obs:notes:key-terms:promise|प्रतिज्ञा की है]]**
+  * **[[:hi:obs:notes:key-terms:believe|विश्वास रखनेवाले]]**
+  * **[[:hi:obs:notes:key-terms:life|रहेंगे]]**
+  * **[[:hi:obs:notes:key-terms:god|परमेश्वर]]**
+  * **[[:hi:obs:notes:key-terms:peace|शान्ति]]**
 
-  * **crown** - This crown represents our reward for believing in Jesus and serving him in this life.
-  * **perfect** – That is, “complete” or, "total."
-  
+===== अनुवाद के लिए नोट्स: =====
 
+  * **मुकुट** ---यह मुकुट यीशु में विश्वास रखने और अपने जीवन में उसकी सेवा करने का पुरस्कार है।
+  * **सम्पूर्ण** ---अर्थात, “पूरी।“
 **[[:hi:obs:notes:frames:50-12|<<]] | [[:hi:obs:notes:50|Up]] | [[:hi:obs:notes:frames:50-14|>>]]**
