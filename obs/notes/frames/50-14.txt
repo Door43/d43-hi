@@ -1,13 +1,18 @@
-====== The Fire of Hell [50-14] ======
+====== नरक की आग [50-14] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-14.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-14.jpg?nolink&}}
 
-But **[[:en:key-terms:god|God]]** will **[[:en:key-terms:judge|judge]]** everyone who does not **[[:en:key-terms:believe|believe]]** in **[[:en:key-terms:jesus|Jesus]]**. He will throw them into **[[:en:key-terms:hell|hell]]**, where they will **weep and grind their teeth in anguish** forever. A fire that never goes out will continually burn them, and worms will never stop eating them.
+लेकिन जिन्होंने भी यीशु पर विश्वास नहीं किया है, परमेश्वर उनका न्याय करेगा। वह उन्हें नरक में डाल देगा, जहां वे सदा के लिए रोयेंगे और भयंकर कष्ट में अपने दांत पीसेंगे। कभी न बुझनेवाली एक आगे उन्हें सदा जलाती रहेगी, और उन्हें कीड़ें लगातार खाते रहेंगे।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * परमेश्वर
+  * न्याय
+  * विश्वास
+  * यीशु
+  * नरक
 
-  * **weep and grind their teeth in anguish** - See note on **[[:hi:obs:notes:frames:50-10|[50-10]]]**.
-  
+===== अनुवाद के लिए नोट्स: =====
 
+  * **रोयेंगे और भयंकर कष्ट में अपने दांत पीसेंगे** ----अनुवाद के लिए **[[:hi:obs:notes:frames:50-10|[५०-१०]]]** का नोट देखें।
 **[[:hi:obs:notes:frames:50-13|<<]] | [[:hi:obs:notes:50|Up]] | [[:hi:obs:notes:frames:50-15|>>]]**
