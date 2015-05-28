@@ -1,14 +1,17 @@
-====== We Will Meet Jesus in the Sky [50-12] ======
+====== हम आकाश में यीशु से मिलेंगे [50-12] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-12.jpg?nolink&}}
 
-Then the **[[:en:key-terms:christian|Christians]]** who are **still [[:en:key-terms:life|alive]]** will rise up into the sky and join with the other Christians who **[[:en:key-terms:raise|rose]]** from the **[[:en:key-terms:death|dead]]**. They will all be with **[[:en:key-terms:jesus|Jesus]]** there. After that, Jesus will live with his people in **perfect** peace and unity forever.
+फिर, जो मसीही उस समय जीवित होंगे, वे आकाश में उठाये जायेंगे और मुर्दों में से जी उठे मसीहियों से जुड़ जायेंगे।  वे वहाँ यीशु के साथ होंगे।
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:christian|मसीही]]**
+  * **[[:hi:obs:notes:key-terms:life|जीवित होंगे]]**
+  * **[[:hi:obs:notes:key-terms:raise|मुर्दों में से जी उठे]]**
+  * **[[:hi:obs:notes:key-terms:death|मुर्दों]]**
+  * **[[:hi:obs:notes:key-terms:jesus|यीशु]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * **still alive** - That is, "still alive when Jesus returns."
-  * **perfect** – That is, “complete” or, "total."
-  
-
+  * **जो मसीही उस समय जीवित होंगे** ---अर्थात, “यीशु की वापसी के समय जीवित होंगे।“
 **[[:hi:obs:notes:frames:50-11|<<]] | [[:hi:obs:notes:50|Up]] | [[:hi:obs:notes:frames:50-13|>>]]**
