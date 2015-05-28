@@ -1,14 +1,16 @@
-====== The Weeds [50-06] ======
+====== जंगली पौधा [50-06] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-06.jpg?nolink&}}
 
-“When the plants sprouted, the **[[:en:key-terms:servant|servants]]** of the man said, ‘**[[:en:key-terms:lord|Master]]**, you planted **[[:en:key-terms:good|good]]** seed in that field. So why are there weeds in it?’ The master answered, ‘**An enemy must have planted them**.’”
+“जब पौधे निकले, तो सेवकों ने व्यक्ति से कहा, “हे मालिक, तूने तो खेत में अच्छे बीज बोये थे। फिर यहाँ जंगली पौंध कहाँ से आई?” मालिक बोला, “यह काम अवश्य ही एक शत्रु का है।”
 
+===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-===== Translation Notes: =====
+  * **[[:hi:obs:notes:key-terms:servant|सेवकों]]**
+  * **[[:hi:obs:notes:key-terms:lord|मालिक]]**
+  * **[[:hi:obs:notes:key-terms:good|अच्छे]]**
+===== अनुवाद के लिए नोट्स: =====
 
-  * (Jesus continues to tell the story.)
-  * **An enemy must have planted them** - If possible, translate this in a way that indicates that the speaker did not see this happen.
-  
-
+  * (यीशु कहानी को आगे बढ़ाते हैं।)
+  * **एक शत्रु ने बीज बोया होगा - ** यदि संभव हो तो इसका अनुवाद इस प्रकार करे जैसे वक्ता ने यह होते न देखा हो।
 **[[:hi:obs:notes:frames:50-05|<<]] | [[:hi:obs:notes:50|Up]] | [[:hi:obs:notes:frames:50-07|>>]]**
