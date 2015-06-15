@@ -4,8 +4,8 @@ List of important words:
 
 A
 
-  * [[:hi:obs:notes:key-terms:aaron|Aaron]]
-  * [[:hi:obs:notes:key-terms:abraham|Abraham]]
+  * [[:hi:obs:notes:key-terms:aaron]]
+  * [[:hi:obs:notes:key-terms:abraham]]
   * [[:hi:obs:notes:key-terms:adam|Adam]]
   * [[:hi:obs:notes:key-terms:adultery|adultery]]
   * [[:hi:obs:notes:key-terms:ahab|Ahab]]
