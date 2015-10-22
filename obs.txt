@@ -2,4 +2,6 @@
 
 Welcome to Open Bible Stories! Please feel free to translate this page and the stories (including the titles) below. If you need help, [[:contact|just ask]]!
 
-{{page>en:obs:active}}{{page>hi:obs:stories}}
+{{page>hi:obs:stories}}
+
+{{page>en:obs:active}}
