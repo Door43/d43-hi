@@ -9,7 +9,7 @@ Welcome to Door43! Please feel free to [[:hi:home?do=edit|edit]] this page in yo
   * [[:en:lexicon|Open Bible Lexicon]]- A Biblical lexicon, intended for integration with Open Bible Stories and Bible translations.
   * [[:en:library|Open Christian Library]]- A growing catalog of open-licensed Biblical resources.
   * [[:en:ta|Translation Academy]]- A modular, media-based, self-paced training course for translators and translation facilitators.
-  * [[https://door43.org:hi:obs:notes:key-terms:home|Hindi OBS Key Terms]]
+  * [[:door43.org:hi:obs:notes:key-terms:home|Hindi OBS Key Terms]]
 
 ==== About Door43 ====
 
