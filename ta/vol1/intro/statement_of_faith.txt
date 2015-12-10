@@ -1,17 +1,20 @@
-===== विश्वास का वर्णन =====
+===== Statement of Faith =====
 
-यह मॉड्यूल इस प्रशन का उत्तर देता है कि: हम क्या विश्वास करते हैं?\\
-इस मॉड्यूल को प्रारंभ करने से पहले क्या आपने [[:en:ta:vol1:intro:uw_intro|The unfoldingWord Project]] के बारे में सीखा है
+This module answers the question: What do we believe?\\
+Before you start this module have you learned about:
+  * [[hi:ta:vol1:intro:uw_intro|The unfoldingWord Project]]
 
-इस दस्तावेज़ का आधिकारिक संस्करण आपको,// [[https://unfoldingword.org/faith|https://unfoldingword.org/faith]] // में मिलेगा//.//
-==== विश्वास का वर्णन ====
+//The official version of this document is found at [[https://unfoldingword.org/faith|unfoldingword.org/faith]].//
 
-//The following statement of faith is subscribed to by all member organizations of and contributors to the [[http://unfoldingword.org|unfoldingWord]] project. // यह// [[http://www.lausanne.org/en/documents/lausanne-covenant.html|Lausanne Covenant]] के // साथ समझौते में है//.//
+==== Statement of Faith ====
 
-हम मानते हैं कि मसीही विश्वास को **आवश्यक विश्वास** और **परिधीय विश्वास** में विभाजित किया जा सकता है और किया जाना भी चाहिए।
-=== आवश्यक विश्वासों ===
+//The following statement of faith is subscribed to by all member organizations of and contributors to the [[http://unfoldingword.org|unfoldingWord]] project. It is in agreement with the [[http://www.lausanne.org/en/documents/lausanne-covenant.html|Lausanne Covenant]].//
 
-आवश्यक विश्वास वो हे जो यीशु मसीह के एक अनुयायी को परिभाषित करते हैं और जिनका कभी भी समझौता या उपेक्षा नही किया जा सकता।
+We believe that Christian belief can and should be divided into **essential beliefs** and **peripheral beliefs**.
+
+=== Essential beliefs ===
+
+Essential beliefs are what define a follower of Jesus Christ and can never be compromised or ignored.
 
   * We believe the Bible to be the only inspired, inerrant, sufficient, authoritative Word of God.
 
@@ -37,6 +40,11 @@
 
 === Peripheral beliefs ===
 
-Peripheral beliefs are everything else that is in Scripture but about which sincere followers of Christ may disagree (e.g. Baptism, Lord's Supper, the Rapture, etc.). We choose to agree to disagree agreeably on these topics and press on together toward a common goal of making disciples of every people group (Matthew 28:18-20) .
+Peripheral beliefs are everything else that is in Scripture but about which sincere followers of Christ may disagree (e.g. Baptism, Lord's Supper, the Rapture, etc.). We choose to agree to disagree agreeably on these topics and press on together toward a common goal of making disciples of every people group (Matthew 28:18-20).
 
-Next we recommend you learn about: [[:en:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
+
+
+Next we recommend you learn about:
+  * [[hi:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
+  * [[hi:ta:vol1:intro:open_license|Open License]]
+
