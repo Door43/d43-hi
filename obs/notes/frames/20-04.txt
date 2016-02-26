@@ -14,4 +14,5 @@
 ===== अनुवाद के लिए नोट्स: =====
 
   * **विदेशियों**  - अर्थात, गैर-इस्राएली लोग।
-**[[:hi:obs:notes:frames:lt:lt:home|<<]] | [[:hi:obs:notes:frames:up|Up]] | [[:hi:obs:notes:frames:chevronescc|>>]]**
+
+**[[:hi:obs:notes:frames:20-03|<<]] | [[:hi:obs:notes:20|Up]] | [[:hi:obs:notes:frames:20-05|>>]]**
