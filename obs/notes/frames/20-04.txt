@@ -6,11 +6,11 @@
 
 ===== महत्वपूर्ण शब्द तथा वाक्यांश: =====
 
-  * **[[https://door43.org/en/obe/other/assyria|अश्शूरियों]]**
-  * **[[https://door43.org/en/obe/other/kingdom-of-israel|इस्राएल का राज्य]]**
-  * **[[https://door43.org/en/obe/other/israel|इस्राएलियों]]**
-  * **[[https://door43.org/en/obe/other/descendant|वंशजो]]**
-  * **[[https://door43.org/en/obe/other/samaria|सामरी]]**
+  * **[[:hi:obe:other:assyria|अश्शूरियों]]**
+  * **[[:hi:obe:other:kingdomofisrael|इस्राएल का राज्य]]**
+  * **[[:hi:obe:other:israel|इस्राएलियों]]**
+  * **[[:hi:obe:other:descendant|वंशजो]]**
+  * **[[:hi:obe:other:samaria|सामरी]]**
 ===== अनुवाद के लिए नोट्स: =====
 
   * **विदेशियों**  - अर्थात, गैर-इस्राएली लोग।
