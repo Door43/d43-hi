@@ -1,10 +1,10 @@
-====== Complete List of Important Terms - Hindi ======
+====== Complete List of translationWords - Hindi ======
 
 ==== "Key Terms" and "Other Terms" in the OBE Directory: ====
 
-  * [[:hi:obe:kt:home]]
-  * [[:hi:obe:other:home]]
+  * [[:hi:obe:kt:home|List of the Key Terms in the OBE Directory]]
+  * [[:hi:obe:other:home|List of the Other Terms in the OBE Directory]]
 
-==== All Important Terms: ====
+==== All Terms in the OBE: ====
 
 <nspages hi:obe -r -title -exclude:home -textPages="">
